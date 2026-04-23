@@ -111,7 +111,7 @@
 5	italiano	italiano	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	KID=11-3
 6	per	per	ADP	E	_	8	case	_	KID=11-4
 7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=11-5
-8	studio	studio	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	End=20.946|Intonation=falling|KID=11-6|OverlappingGroup=4
+8	studio	studio	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	End=20.946|Intonation=falling|KID=11-6|OverlappingGroup=4
 
 # sent_id = 12
 # text = e questa parte
@@ -532,10 +532,10 @@
 16	sarebbe	essere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	KID=45-14
 17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	KID=45-15
 18	testo	testo	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	KID=45-16
-19	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	16	obj	_	KID=45-17
+19	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	18	nmod	_	KID=45-17
 20	per	per	ADP	E	_	22	case	_	KID=45-18
 21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	KID=45-19|OverlappingGroup=26|Truncated=Yes
-22	approfondimento	approfondimento	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	KID=45-20|OverlappingGroup=26,23|Prolonged=Yes
+22	approfondimento	approfondimento	NOUN	S	Gender=Masc|Number=Sing	19	nmod	_	KID=45-20|OverlappingGroup=26,23|Prolonged=Yes
 23	metodologico	metodologico	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	End=90.085|Intonation=falling|KID=45-21
 
 # sent_id = 46_47_48_49
