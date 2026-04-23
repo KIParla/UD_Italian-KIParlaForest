@@ -2004,7 +2004,7 @@
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	ma	ma	CCONJ	_	_	2	discourse	_	Begin=409.338|KID=262-0|OverlappingGroup=
-2	x	x	X	_	_	4	reparandum	_	KID=262-1|OverlappingGroup=|Syllables=1|Unintelligible=Yes
+2	x	x	X	_	_	4	reparandum	_	KID=262-1|Syllables=1|Unintelligible=Yes
 3	ma	ma	CCONJ	_	_	4	discourse	_	KID=262-2|OverlappingGroup=
 4	ovvio	ovvio	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOA3017_260-8|KID=262-3
 5	che	che	SCONJ	_	_	7	mark	_	KID=262-4|OverlappingGroup=
@@ -2045,7 +2045,7 @@
 # conversation_id = BOA3017
 1	e	e	CCONJ	_	_	4	discourse	_	KID=262-28
 2	chi	chi	PRON	_	PronType=Rel	4	nsubj	_	KID=262-29|OverlappingGroup=
-3	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	dep	_	Clitic=Yes|KID=262-30|OverlappingGroup=|SpaceAfter=No
+3	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	dep	_	Clitic=Yes|KID=262-30|SpaceAfter=No
 4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=262-31|OverlappingGroup=
 5	eh	eh	INTJ	_	_	4	discourse	_	End=414.658|KID=262-32|OverlappingGroup=
 6	cioè	cioè	CCONJ	_	_	9	cc	_	Begin=414.828|KID=267-0|OverlappingGroup=42|PaceFast=Yes
@@ -4523,7 +4523,7 @@
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=622-0b
 5	sens~	sens~	X	_	_	9	obl	_	Interrupted=Yes|KID=622-1
 6	no	no	ADV	_	_	9	discourse	_	KID=622-2
-7	xxxx	xxxx	X	_	_	9	dep	_	=|KID=622-3|Syllables=4|Unintelligible=Yes
+7	xxxx	xxxx	X	_	_	9	dep	_	KID=622-3|Syllables=4|Unintelligible=Yes
 8	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	9	iobj	_	Clitic=Yes|KID=622-4
 9	ringrazio	ringraziare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=622-5|OverlappingGroup=106
 10-11	del	_	_	_	_	_	_	_	KID=622-6|OverlappingGroup=106
@@ -6160,7 +6160,7 @@
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	e	e	CCONJ	_	_	2	discourse	_	Begin=1308.046|End=1308.605|KID=843-0|Prolonged=Yes
-2	pvu	pvu	X	_	_	0	root	_	Begin=1308.696|KID=844-0|OverlappingGroup=|Volume=high
+2	pvu	pvu	X	_	_	0	root	_	Begin=1308.696|KID=844-0|Volume=high
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=844-1
 4	relazione	relazione	NOUN	_	Gender=Fem|Number=Sing	2	parataxis	_	KID=844-2
 5	in	in	ADP	_	_	6	case	_	KID=844-3
