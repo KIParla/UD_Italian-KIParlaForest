@@ -80,11 +80,11 @@
 # text = con la professoressa arancioni sì
 # jefferson_text = con la professoressa ar[ancioni sì].
 # speaker_id = BO036
-1	con	con	ADP	_	_	3	case	_	Begin=19.891|KID=8-0
-2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=8-1
-3	professoressa	professoresso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	KID=8-2
-4	arancioni	arancioni	PROPN	_	Gender=Fem|Number=Sing	3	:name	_	KID=8-3|OverlappingGroup=1
-5	sì	sì	ADV	_	Polarity=Pos	3	advmod	_	End=21.842|Intonation=falling|KID=8-4|OverlappingGroup=1
+1	con	con	ADP	E	_	3	case	_	Begin=19.891|KID=8-0
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=8-1
+3	professoressa	professoressa	NOUN	A	Gender=Fem|Number=Sing	0	root	_	KID=8-2
+4	arancioni	Arancioni	PROPN	S	_	3	appos	_	KID=8-3|OverlappingGroup=1
+5	sì	sì	ADV	I	Polarity=Pos	3	advmod	_	End=21.842|Intonation=falling|KID=8-4|OverlappingGroup=1
 
 # sent_id = 9
 # text = arancioni
@@ -156,13 +156,13 @@
 # text = ma lei ha conclus~ si laurea adesso
 # jefferson_text = ma lei ha conclus~ si laurea ades[so]?
 # speaker_id = BO026
-1	ma	ma	CCONJ	_	_	3	cc	_	Begin=32.298|KID=16-0
-2	lei	lei	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	KID=16-1
-3	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=16-2
-4	conclus~	conclus~	X	_	_	6	dep	_	Interrupted=Yes|KID=16-3
-5	si	si	PRON	_	Person=3|PronType=Prs	6	expl:impers	_	Clitic=Yes|KID=16-4
-6	laurea	laureare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=16-5
-7	adesso	adesso	ADV	_	_	6	advmod	_	End=34.519|Intonation=rising|KID=16-6|OverlappingGroup=5
+1	ma	ma	CCONJ	CC	_	3	cc	_	Begin=32.298|KID=16-0
+2	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	KID=16-1
+3	ha	avere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=16-2
+4	conclus~	conclus~	X	SP	_	6	dep	_	Interrupted=Yes|KID=16-3
+5	si	si	PRON	PC	Person=3|PronType=Prs	6	expl:impers	_	Clitic=Yes|KID=16-4
+6	laurea	laureare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=16-5
+7	adesso	adesso	ADV	B	_	6	advmod	_	End=34.519|Intonation=rising|KID=16-6|OverlappingGroup=5
 
 # sent_id = 17
 # text = sì
@@ -481,28 +481,28 @@
 # text = e quindi è per questa sessione di laurea va bene me lo scrivo sì sì no stia tranquillo l' avevo già detto alla collega per cui
 # jefferson_text = [e qui]ndi è per questa sessione di [lau]rea. va bene me lo scrivo. sì sì no stia tranquillo l' avevo già detto alla: collega per cui,
 # speaker_id = BO026
-1	e	e	CCONJ	_	_	3	discourse	_	Begin=90.153|KID=50-0|OverlappingGroup=19
-2	quindi	quindi	ADV	_	_	3	discourse	_	KID=50-1|OverlappingGroup=19
-3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=50-2
-4	per	per	ADP	_	_	6	case	_	KID=50-3
-5	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	KID=50-4
-6	sessione	sessione	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	KID=50-5
-7	di	di	ADP	_	_	8	case	_	KID=50-6
-8	laurea	laurea	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	Intonation=falling|KID=50-7|OverlappingGroup=20
-9	va	andare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	KID=50-8
-10	bene	bene	ADV	_	_	9	advmod	_	KID=50-9
-11	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	9	obj	_	KID=50-10
-12	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	Clitic=Yes|KID=50-11
-13	scrivo	scrivere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis	_	Intonation=falling|KID=50-12
-14	sì	sì	ADV	_	_	13	advmod	_	KID=50-13
-15	sì	sì	ADV	_	_	14	flat	_	KID=50-14
-16	no	no	ADV	_	PronType=Neg	14	flat	_	KID=50-15
-17	stia	stare	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	KID=50-16
-18	tranquillo	tranquillare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	xcomp	_	KID=50-17
-19	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	22	obj	_	KID=50-18|Truncated=Yes
-20	avevo	avevo	NOUN	_	Gender=Masc|Number=Sing	22	aux	_	KID=50-19
-21	già	già	ADV	_	_	22	advmod	_	KID=50-20
-22	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	parataxis	_	KID=50-21
+1	e	e	CCONJ	CC	_	3	discourse	_	Begin=90.153|KID=50-0|OverlappingGroup=19
+2	quindi	quindi	ADV	B	_	3	discourse	_	KID=50-1|OverlappingGroup=19
+3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=50-2
+4	per	per	ADP	E	_	6	case	_	KID=50-3
+5	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	KID=50-4
+6	sessione	sessione	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	KID=50-5
+7	di	di	ADP	E	_	8	case	_	KID=50-6
+8	laurea	laurea	NOUN	S	Gender=Fem|Number=Sing	6	nmod	_	Intonation=falling|KID=50-7|OverlappingGroup=20
+9	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	KID=50-8
+10	bene	bene	ADV	B	_	9	advmod	_	KID=50-9
+11	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	9	obj	_	KID=50-10
+12	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	iobj	_	Clitic=Yes|KID=50-11
+13	scrivo	scrivere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis	_	Intonation=falling|KID=50-12
+14	sì	sì	ADV	B	_	13	advmod	_	KID=50-13
+15	sì	sì	ADV	B	_	14	flat	_	KID=50-14
+16	no	no	ADV	BN	PronType=Neg	14	flat	_	KID=50-15
+17	stia	stare	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	KID=50-16
+18	tranquillo	tranquillare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	xcomp	_	KID=50-17
+19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	obj	_	KID=50-18|Truncated=Yes
+20	avevo	avevo	AUX	S	Gender=Masc|Number=Sing	22	aux	_	KID=50-19
+21	già	già	ADV	B	_	22	advmod	_	KID=50-20
+22	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	parataxis	_	KID=50-21
 23-24	alla	_	_	_	_	_	_	_	KID=50-22|Prolonged=Yes
 23	a	a	ADP	_	_	25	case	_	KID=50-22a
 24	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	KID=50-22b
