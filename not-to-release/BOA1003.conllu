@@ -42,7 +42,7 @@
 14	oggi	oggi	ADV	B	_	13	advmod	_	KID=2-13
 15	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	KID=2-14|OverlappingGroup=0
 16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	KID=2-15|OverlappingGroup=0
-17	mail	mail	NOUN	S	Gender=Masc	13	obj	_	End=10.0|Intonation=weakly_rising|KID=2-16|OverlappingGroup=0
+17	mail	mail	NOUN	S	Gender=Masc	13	dislocated	_	End=10.0|Intonation=weakly_rising|KID=2-16|OverlappingGroup=0
 
 # sent_id = 3_4
 # text = sì sì
@@ -166,7 +166,7 @@
 2	le	le	PRON	PC	Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=17-1|OverlappingGroup=8
 3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=17-2|OverlappingGroup=8
 4	fatte	fare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	KID=17-3|OverlappingGroup=8
-5	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	obj	_	End=28.62|Intonation=weakly_rising|KID=17-4
+5	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	End=28.62|Intonation=weakly_rising|KID=17-4
 
 # sent_id = 18
 # text = alla
