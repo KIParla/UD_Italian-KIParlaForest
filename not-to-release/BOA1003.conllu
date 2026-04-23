@@ -455,7 +455,7 @@
 14	discipline	disciplina	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	End=78.889|Intonation=falling|KID=38-12|OverlappingGroup=21
 
 # sent_id = 39_40
-# text = certo
+# text = certo certo
 # jefferson_text = [certo]. certo.
 # speaker_id = BO032
 1	certo	certo	ADV	B	_	2	reparandum	_	Begin=78.398|End=78.781|Intonation=falling|KID=39-0|OverlappingGroup=21
