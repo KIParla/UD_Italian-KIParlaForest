@@ -35,7 +35,7 @@
 7	email	email	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	obl	_	KID=2-6
 8	lei	lei	PRON	_	Number=Sing|Person=3|PronType=Prs	13	nsubj	_	KID=2-7
 9	però	però	ADV	_	_	13	advmod	_	KID=2-8
-10	m~	m~	PROPN	_	_	11	reparandum	_	Interrupted=Yes|KID=2-9
+10	m~	me	PRON	_	_	11	reparandum	_	Interrupted=Yes|KID=2-9
 11	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	13	iobj	_	KID=2-10
 12	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	obj	_	KID=2-11
 13	manda	manda	NOUN	_	Gender=Fem|Number=Sing	5	compound	_	KID=2-12
@@ -191,8 +191,8 @@
 9	anche	anche	ADV	_	_	12	advmod	_	KID=19-5
 10	appunto	appunto	ADV	_	_	12	discourse	_	KID=19-6
 11	pao~	pao~	X	_	_	12	reparandum	_	Interrupted=Yes|KID=19-7
-12	pallotti	pallotti	PROPN	_	_	8	nsubj	_	Intonation=weakly_rising|KID=19-8
-13	vagoni	vagoni	PROPN	_	Gender=Masc|Number=Plur	12	conj	_	Intonation=weakly_rising|KID=19-9|OverlappingGroup=10
+12	pallotti	Pallotti	PROPN	_	_	8	nsubj	_	Intonation=weakly_rising|KID=19-8
+13	vagoni	Vagoni	PROPN	_	Gender=Masc|Number=Plur	12	conj	_	Intonation=weakly_rising|KID=19-9|OverlappingGroup=10
 14	e	e	CCONJ	_	_	16	cc	_	KID=19-10|PaceFast=Yes|Prolonged=Yes
 15	infatti	infatti	ADV	_	_	16	advmod	_	KID=19-11|PaceFast=Yes
 16	alcuni	alcuno	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	8	parataxis	_	KID=19-12|PaceFast=Yes
@@ -239,7 +239,7 @@
 28	borsa	borsa	NOUN	_	Gender=Fem|Number=Sing	26	obj	_	KID=21-27
 29	di	di	ADP	_	_	30	case	_	KID=21-28
 30	studio	studio	NOUN	_	Gender=Masc|Number=Sing	28	nmod	_	KID=21-29
-31	ergo	ergo	PROPN	_	Gender=Masc|Number=Sing	30	nmod	_	End=43.9|Intonation=weakly_rising|KID=21-30
+31	ergo	ER.GO.	PROPN	_	Gender=Masc|Number=Sing	30	nmod	_	End=43.9|Intonation=weakly_rising|KID=21-30
 
 # sent_id = 22
 # text = se non riusciamo entro la sessione di luglio

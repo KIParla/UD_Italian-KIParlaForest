@@ -90,7 +90,7 @@
 # text = arancioni
 # jefferson_text = [arancioni].
 # speaker_id = BO026
-1	arancioni	arancioni	PROPN	_	Gender=Fem|Number=Plur	0	root	_	Begin=21.065|Coconstruct=conj:reform::BOA1008_8::4|End=21.838|Intonation=falling|KID=9-0|OverlappingGroup=1
+1	arancioni	Arancioni	PROPN	_	Gender=Fem|Number=Plur	0	root	_	Begin=21.065|Coconstruct=conj:reform::BOA1008_8::4|End=21.838|Intonation=falling|KID=9-0|OverlappingGroup=1
 
 # sent_id = 10
 # text = poi abbiamo posticipato e volevo solo conferma se è ancora disponibile
@@ -130,8 +130,8 @@
 # jefferson_text = [per] (.) luca rossi.
 # speaker_id = BO036
 1	per	per	ADP	_	_	2	case	_	Begin=28.354|KID=13-0|OverlappingGroup=3|PauseAfter=Yes
-2	luca	luca	PROPN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conf:reform_BOA1008_12::1|KID=13-2
-3	rossi	rosso	PROPN	_	Gender=Masc|Number=Plur	2	flat:name	_	End=29.508|Intonation=falling|KID=13-3
+2	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conf:reform_BOA1008_12::1|KID=13-2
+3	rossi	Rossi	PROPN	_	Gender=Masc|Number=Plur	2	flat:name	_	End=29.508|Intonation=falling|KID=13-3
 
 # sent_id = 14
 # text = ah le avevo detto di sì comunque sì
@@ -683,7 +683,7 @@
 16	accordo	accordo	NOUN	_	Gender=Masc|Number=Sing	13	xcomp	_	KID=67-15
 17	con	con	ADP	_	_	19	case	_	KID=67-16
 18	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	KID=67-17
-19	arancioni	arancioni	PROPN	_	Gender=Fem|Number=Sing	16	obl	_	End=137.371|Intonation=falling|KID=67-18
+19	arancioni	Arancioni	PROPN	_	Gender=Fem|Number=Sing	16	obl	_	End=137.371|Intonation=falling|KID=67-18
 
 # sent_id = 68
 # text = mh mh
