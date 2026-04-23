@@ -1,0 +1,721 @@
+# sent_id = 0
+# text = io non so se può concordare adesso
+# jefferson_text = io non so se può concordare adesso:,
+# speaker_id = BO032
+1	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Begin=0.02|KID=0-0
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	KID=0-1
+3	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=0-2
+4	se	se	SCONJ	CS	_	6	mark	_	KID=0-3
+5	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	KID=0-4
+6	concordare	concordare	VERB	V	VerbForm=Inf	3	advcl	_	KID=0-5
+7	adesso	adesso	ADV	B	_	6	advmod	_	End=2.025|Intonation=weakly_rising|KID=0-6|Prolonged=Yes
+
+# sent_id = 1
+# text = eh sì allora io le posso mandare
+# jefferson_text = e:h sì. allora, io le posso mandare:
+# speaker_id = BO026
+1	eh	eh	INTJ	I	_	7	discourse:filledpause	_	Begin=2.025|KID=1-0|Prolonged=Yes
+2	sì	sì	ADV	B	_	7	advmod	_	Intonation=falling|KID=1-1
+3	allora	allora	ADV	B	_	7	discourse	_	Intonation=weakly_rising|KID=1-2
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	KID=1-3
+5	le	le	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	iobj	_	Clitic=Yes|KID=1-4
+6	posso	potere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	KID=1-5
+7	mandare	mandare	VERB	V	VerbForm=Inf	0	root	_	End=4.78|KID=1-6|Prolonged=Yes
+
+# sent_id = 2
+# text = facciamo prima se le mando per email lei però m~ me la manda oggi stesso la mail
+# jefferson_text = facciamo prima se le mando per email lei però m~ me la manda oggi ste[sso la m]ail,
+# speaker_id = BO026
+1	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=4.95|KID=2-0
+2	prima	prima	ADV	B	_	1	advmod	_	KID=2-1
+3	se	se	SCONJ	CS	_	5	mark	_	KID=2-2
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	KID=2-3
+5	mando	mando	NOUN	S	Gender=Masc|Number=Sing	1	advcl	_	KID=2-4
+6	per	per	ADP	E	_	7	case	_	KID=2-5
+7	email	email	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	obl	_	KID=2-6
+8	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	13	nsubj	_	KID=2-7
+9	però	però	ADV	B	_	13	advmod	_	KID=2-8
+10	m~	m~	PROPN	SP	_	11	reparandum	_	Interrupted=Yes|KID=2-9
+11	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	13	iobj	_	KID=2-10
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	obj	_	KID=2-11
+13	manda	manda	NOUN	S	Gender=Fem|Number=Sing	5	compound	_	KID=2-12
+14	oggi	oggi	ADV	B	_	13	advmod	_	KID=2-13
+15	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	14	amod	_	KID=2-14|OverlappingGroup=0
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	KID=2-15|OverlappingGroup=0
+17	mail	mail	NOUN	S	Gender=Masc	13	obj	_	End=10.0|Intonation=weakly_rising|KID=2-16|OverlappingGroup=0
+
+# sent_id = 3_4
+# text = sì sì
+# jefferson_text = [°sì.°] sì.
+# speaker_id = BO032
+1	sì	sì	ADV	B	_	0	root	_	Backchannel=BOA1003_2::17|Begin=9.385|End=9.653|Intonation=falling|KID=3-0|OverlappingGroup=0|Volume=low
+2	sì	sì	ADV	B	_	1	flat	_	Begin=10.0|End=10.153|Intonation=falling|KID=4-0
+
+# sent_id = 5
+# text = e i titoli del dei due testi
+# jefferson_text = e i: titoli del dei due testi,
+# speaker_id = BO026
+1	e	e	CCONJ	CC	_	3	discourse	_	Begin=10.171|KID=5-0
+2	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	KID=5-1|Prolonged=Yes
+3	titoli	titolo	NOUN	S	Gender=Masc|Number=Plur	0	root	_	KID=5-2
+4-5	del	_	_	_	_	_	_	_	KID=5-3
+4	di	di	ADP	E	_	6	reparandum	_	KID=5-3a
+5	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	reparandum	_	KID=5-3b
+6-7	dei	_	_	_	_	_	_	_	KID=5-4
+6	di	di	ADP	E	_	9	case	_	KID=5-4a
+7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	KID=5-4b
+8	due	due	NUM	N	NumType=Card	9	nummod	_	KID=5-5
+9	testi	testo	NOUN	S	Gender=Masc|Number=Plur	3	nmod	_	End=13.06|Intonation=weakly_rising|KID=5-6
+
+# sent_id = 6
+# text = sì
+# jefferson_text = sì.
+# speaker_id = BO032
+1	sì	sì	ADV	B	_	0	root	_	Backchannel=BOA1003_5::3|Begin=13.06|End=13.32|Intonation=falling|KID=6-0
+
+# sent_id = 7_8
+# text = e lei ne sceglie uno in sostituzione che riguarda l' italiano per lo studio
+# jefferson_text = e lei ne sceglie uno, in s[ostitu]zione che riguarda l' italiano per lo studio.
+# speaker_id = BO026
+1	e	e	CCONJ	CC	_	4	discourse	_	Begin=13.88|KID=7-0
+2	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	KID=7-1
+3	ne	ne	PRON	PC	PronType=Prs	4	iobj	_	Clitic=Yes|KID=7-2
+4	sceglie	scegliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=7-3
+5	uno	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	obj	_	End=15.17|Intonation=weakly_rising|KID=7-4
+6	in	in	ADP	E	_	7	case	_	Begin=15.31|KID=8-0
+7	sostituzione	sostituzione	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	KID=8-1|OverlappingGroup=1
+8	che	che	PRON	PR	PronType=Rel	9	nsubj	_	KID=8-2
+9	riguarda	riguardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	KID=8-3
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	KID=8-4|Truncated=Yes
+11	italiano	italiano	NOUN	S	Gender=Masc|Number=Sing	9	obj	_	KID=8-5
+12	per	per	ADP	E	_	14	case	_	KID=8-6
+13	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	KID=8-7
+14	studio	studio	NOUN	S	Gender=Masc|Number=Sing	11	nmod	_	End=18.57|Intonation=falling|KID=8-8
+
+# sent_id = 9_10
+# text = okay certo
+# jefferson_text = [°okay.°] °c[erto.°]
+# speaker_id = BO032
+1	okay	okay	INTJ	S	_	2	discourse	_	Backchannel=BOA1003_7_8::14|Begin=15.425|End=15.811|Intonation=falling|KID=9-0|OverlappingGroup=1|Volume=low
+2	certo	certo	ADV	B	_	0	root	_	Begin=18.515|End=18.937|Intonation=falling|KID=10-0|OverlappingGroup=2|Volume=low
+
+# sent_id = 11
+# text = un approfondimento dell' italiano per lo studio
+# jefferson_text = [un appro]fondimento dell' italiano per lo stu[dio].
+# speaker_id = BO026
+1	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Begin=18.625|KID=11-0|OverlappingGroup=3
+2	approfondimento	approfondimento	NOUN	S	Gender=Masc|Number=Sing	0	root	_	KID=11-1|OverlappingGroup=3
+3-4	dell'	_	_	_	_	_	_	_	KID=11-2|Truncated=Yes
+3	di	di	ADP	E	_	5	case	_	KID=11-2a
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	KID=11-2b
+5	italiano	italiano	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	KID=11-3
+6	per	per	ADP	E	_	8	case	_	KID=11-4
+7	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=11-5
+8	studio	studio	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	End=20.946|Intonation=falling|KID=11-6|OverlappingGroup=4
+
+# sent_id = 12
+# text = e questa parte
+# jefferson_text = [e:] questa [parte],
+# speaker_id = BO032
+1	e	e	CCONJ	CC	_	3	discourse	_	Begin=20.715|KID=12-0|OverlappingGroup=4|Prolonged=Yes
+2	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	KID=12-1
+3	parte	parte	NOUN	S	Gender=Fem|Number=Sing	0	root	_	End=21.743|Intonation=weakly_rising|KID=12-2|OverlappingGroup=5
+
+# sent_id = 13_14
+# text = è quello che ho mandato anche a ad altri studenti che avevano già svolto questa prima parte
+# jefferson_text = [è que]llo che ho mandato anche a: a:d altri studenti che avevano [già °sv]olto questa prima [parte.°]
+# speaker_id = BO026
+1	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=21.32|KID=13-0|OverlappingGroup=5
+2	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	KID=13-1|OverlappingGroup=5
+3	che	che	PRON	PR	PronType=Rel	5	obj	_	KID=13-2
+4	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	KID=13-3
+5	mandato	mandato	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl:relcl	_	KID=13-4
+6	anche	anche	ADV	B	_	5	advmod	_	KID=13-5
+7	a	a	ADP	E	_	8	reparandum	_	End=23.24|KID=13-6|Prolonged=Yes
+8	ad	a	ADP	E	_	10	case	_	Begin=23.858|KID=14-0|Prolonged=Yes
+9	altri	altro	ADJ	A	Gender=Masc|Number=Plur	10	amod	_	KID=14-1
+10	studenti	studente	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	KID=14-2
+11	che	che	PRON	PR	PronType=Rel	14	nsubj	_	KID=14-3
+12	avevano	avere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	KID=14-4
+13	già	già	ADV	B	_	14	advmod	_	KID=14-5|OverlappingGroup=7
+14	svolto	svogliere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	KID=14-6|OverlappingGroup=7|Volume=low
+15	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	17	det	_	KID=14-7|Volume=low
+16	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	17	amod	_	KID=14-8|Volume=low
+17	parte	parte	NOUN	S	Gender=Fem|Number=Sing	14	obj	_	End=27.48|Intonation=falling|KID=14-9|OverlappingGroup=6|Volume=low
+
+# sent_id = 15
+# text = certo
+# jefferson_text = [°certo.°]
+# speaker_id = BO032
+1	certo	certo	ADV	B	_	0	root	_	Begin=25.803|End=26.37|Intonation=falling|KID=15-0|OverlappingGroup=7|Volume=low
+
+# sent_id = 16
+# text = e questa parte qui
+# jefferson_text = [°e questa] pa[rte qui°],
+# speaker_id = BO032
+1	e	e	CCONJ	CC	_	3	discourse	_	Begin=27.1|KID=16-0|OverlappingGroup=6|Volume=low
+2	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	KID=16-1|OverlappingGroup=6|Volume=low
+3	parte	parte	NOUN	S	Gender=Fem|Number=Sing	0	root	_	KID=16-2|OverlappingGroup=8|Volume=low
+4	qui	qui	ADV	B	_	3	advmod	_	End=28.048|Intonation=weakly_rising|KID=16-3|OverlappingGroup=8|Volume=low
+
+# sent_id = 17
+# text = dove le ha fatte lei
+# jefferson_text = [dove le ha fa]tte lei,
+# speaker_id = BO026
+1	dove	dove	ADV	B	_	4	advmod	_	Begin=27.588|KID=17-0|OverlappingGroup=8
+2	le	le	PRON	PC	Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=17-1|OverlappingGroup=8
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=17-2|OverlappingGroup=8
+4	fatte	fare	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	KID=17-3|OverlappingGroup=8
+5	lei	lei	PRON	PE	Number=Sing|Person=3|PronType=Prs	4	obj	_	End=28.62|Intonation=weakly_rising|KID=17-4
+
+# sent_id = 18
+# text = alla
+# jefferson_text = [°alla:]
+# speaker_id = BO026
+1-2	alla	_	_	_	_	_	_	_	Begin=28.756|End=29.198|KID=18-0|OverlappingGroup=9|Prolonged=Yes
+1	a	a	ADP	E	_	2	case	_	KID=18-0a
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	0	root	_	Interrupted=Yes|KID=18-0b
+
+# sent_id = 19
+# text = e a la ca ' foscari c' era anche appunto pao~ pallotti vagoni e infatti alcuni e x
+# jefferson_text = [e: alla]ca' foscari, c' era anche appunto (pao~) pallotti, ([va]goni), >e: infatti alcuni< e xxxx
+# speaker_id = BO032
+1	e	e	CCONJ	CC	_	8	discourse	_	Begin=28.758|KID=19-0|OverlappingGroup=9|Prolonged=Yes
+2	a	a	ADP	A	Gender=Fem|Number=Sing	3	case	_	KID=19-1a
+3	la	il	DET	A	Gender=Fem|Number=Sing	6	det	_	KID=19-1a
+4	ca	ca	PROPN	A	Gender=Fem|Number=Sing	6	flat:name	_	KID=19-1a
+5	'	'	PUNCT	FB	_	6	punct	_	KID=19-1b
+6	foscari	foscaro	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	Coconstruct=BOA1003_Conj:reform_17::1|Intonation=weakly_rising|KID=19-2
+7	c'	ci	PRON	PC	PronType=Prs	8	expl	_	Clitic=Yes|KID=19-3|Truncated=Yes
+8	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=19-4
+9	anche	anche	ADV	B	_	12	advmod	_	KID=19-5
+10	appunto	appunto	ADV	B	_	12	discourse	_	KID=19-6
+11	pao~	pao~	X	SP	_	12	reparandum	_	Interrupted=Yes|KID=19-7
+12	pallotti	pallotti	PROPN	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	nsubj	_	Intonation=weakly_rising|KID=19-8
+13	vagoni	vagoni	PROPN	S	Gender=Masc|Number=Plur	12	conj	_	Intonation=weakly_rising|KID=19-9|OverlappingGroup=10
+14	e	e	CCONJ	CC	_	16	cc	_	KID=19-10|PaceFast=Yes|Prolonged=Yes
+15	infatti	infatti	ADV	B	_	16	advmod	_	KID=19-11|PaceFast=Yes
+16	alcuni	alcuno	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	8	parataxis	_	KID=19-12|PaceFast=Yes
+17	e	e	CCONJ	CC	_	18	cc	_	Interrupted=Yes|KID=19-13
+18	x	x	X	SYM	_	16	dep	_	End=34.31|KID=19-14
+
+# sent_id = 20
+# text = sì
+# jefferson_text = [sì].
+# speaker_id = BO026
+1	sì	sì	ADV	B	_	0	root	_	Backchannel=BOA1003_19::12|Begin=31.826|End=32.003|Intonation=falling|KID=20-0|OverlappingGroup=10
+
+# sent_id = 21
+# text = e appunto perché il mio problema poi principale è che io ho da verb~ dovrei riuscire anche a verbalizzare entro questa sessione diciamo perché io avrei la borsa di studio ergo
+# jefferson_text = e: appunto perché il mio problema poi principale è che io ho da verb~ dovrei riuscire anche a verbalizzare entro: questa sessione diciamo perché io avrei la borsa di studio ergo,
+# speaker_id = BO032
+1	e	e	CCONJ	CC	_	9	discourse	_	Begin=35.134|KID=21-0|Prolonged=Yes
+2	appunto	appunto	ADV	B	_	9	discourse	_	KID=21-1
+3	perché	perché	SCONJ	CS	_	9	mark	_	KID=21-2
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=21-3
+5	mio	mio	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	6	det:poss	_	KID=21-4
+6	problema	problema	NOUN	S	Gender=Masc|Number=Sing	9	nsubj	_	KID=21-5
+7	poi	poi	ADV	B	_	8	advmod	_	KID=21-6
+8	principale	principale	ADJ	A	Number=Sing	6	amod	_	KID=21-7
+9	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=21-8
+10	che	che	SCONJ	CS	_	12	mark	_	KID=21-9
+11	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	12	nsubj	_	KID=21-10
+12	ho	avere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	parataxis	_	KID=21-11
+13	da	da	ADP	E	_	14	mark	_	KID=21-12
+14	verb~	verb~	X	SP	_	19	reparandum	_	Interrupted=Yes|KID=21-13
+15	dovrei	dovere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	KID=21-14
+16	riuscire	riuscire	VERB	V	VerbForm=Inf	9	ccomp	_	KID=21-15
+17	anche	anche	ADV	B	_	19	advmod	_	KID=21-16
+18	a	a	ADP	E	_	19	mark	_	KID=21-17
+19	verbalizzare	verbalizzare	VERB	V	VerbForm=Inf	16	xcomp	_	KID=21-18
+20	entro	entro	ADP	E	_	22	case	_	KID=21-19|Prolonged=Yes
+21	questa	questo	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	22	det	_	KID=21-20
+22	sessione	sessione	NOUN	S	Gender=Fem|Number=Sing	19	obl	_	KID=21-21
+23	diciamo	dire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	19	discourse	_	KID=21-22
+24	perché	perché	SCONJ	CS	_	26	mark	_	KID=21-23
+25	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	26	nsubj	_	KID=21-24
+26	avrei	avre	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	19	advcl	_	KID=21-25
+27	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	KID=21-26
+28	borsa	borsa	NOUN	S	Gender=Fem|Number=Sing	26	obj	_	KID=21-27
+29	di	di	ADP	E	_	30	case	_	KID=21-28
+30	studio	studio	NOUN	S	Gender=Masc|Number=Sing	28	nmod	_	KID=21-29
+31	ergo	ergo	PROPN	A	Gender=Masc|Number=Sing	30	nmod	_	End=43.9|Intonation=weakly_rising|KID=21-30
+
+# sent_id = 22
+# text = se non riusciamo entro la sessione di luglio
+# jefferson_text = se non riusciamo entro la sessione di [luglio],
+# speaker_id = BO032
+1	se	se	SCONJ	CS	_	3	mark	_	Begin=44.256|KID=22-0
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	KID=22-1
+3	riusciamo	riuscire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=22-2
+4	entro	entro	ADP	E	_	6	case	_	KID=22-3
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=22-4
+6	sessione	sessione	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	KID=22-5
+7	di	di	ADP	E	_	8	case	_	KID=22-6
+8	luglio	luglio	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	End=46.55|Intonation=weakly_rising|KID=22-7|OverlappingGroup=11
+
+# sent_id = 23
+# text = entro quale sessione
+# jefferson_text = [entro qua]le sessione,
+# speaker_id = BO026
+1	entro	entro	ADP	E	_	3	case	_	Begin=46.018|KID=23-0|OverlappingGroup=11
+2	quale	quale	DET	DQ	Number=Sing|PronType=Int	3	det	_	KID=23-1|OverlappingGroup=11
+3	sessione	sessione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	End=47.22|Intonation=weakly_rising|KID=23-2
+
+# sent_id = 24
+# text = la sessione questa che finisce a luglio
+# jefferson_text = la se[ssione questa che f]inisce a luglio,
+# speaker_id = BO032
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Begin=47.22|KID=24-0
+2	sessione	sessione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	KID=24-1|OverlappingGroup=12
+3	questa	questo	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	2	nmod	_	Coconstruct=conj:reform_BOA1003_23::2|KID=24-2|OverlappingGroup=12
+4	che	che	PRON	PR	PronType=Rel	5	nsubj	_	KID=24-3|OverlappingGroup=12
+5	finisce	finire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	KID=24-4|OverlappingGroup=12
+6	a	a	ADP	E	_	7	case	_	KID=24-5
+7	luglio	luglio	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	End=48.88|Intonation=weakly_rising|KID=24-6
+
+# sent_id = 25
+# text = quella di luglio
+# jefferson_text = [quella di luglio]?
+# speaker_id = BO026
+1	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Begin=47.425|KID=25-0|OverlappingGroup=12
+2	di	di	ADP	E	_	3	case	_	KID=25-1|OverlappingGroup=12
+3	luglio	luglio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	End=48.182|Intonation=rising|KID=25-2|OverlappingGroup=12
+
+# sent_id = 26
+# text = allora
+# jefferson_text = [allora],
+# speaker_id = BO026
+1	allora	allora	ADV	B	_	0	root	_	Begin=49.05|End=49.53|Intonation=weakly_rising|KID=26-0|OverlappingGroup=13
+
+# sent_id = 27
+# text = se non riesco a verbalizzare io perderei la seconda rata che sono tipo millecinquecento euro quindi voglio di~
+# jefferson_text = [>se (non)] riesco a verbalizzare io (.) perderei la seconda rata che sono tipo mille[cinquecento euro q]uindi (voglio di~)<,
+# speaker_id = BO032
+1	se	se	SCONJ	CS	_	3	mark	_	Begin=49.051|KID=27-0|OverlappingGroup=13|PaceFast=Yes
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	KID=27-1|OverlappingGroup=13|PaceFast=Yes
+3	riesco	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	KID=27-2|PaceFast=Yes
+4	a	a	ADP	E	_	5	mark	_	KID=27-3|PaceFast=Yes
+5	verbalizzare	verbalizzare	VERB	V	VerbForm=Inf	3	xcomp	_	KID=27-4|PaceFast=Yes
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	KID=27-5|PaceFast=Yes
+7	{P}	_	_	_	_	_	_	_	Type=shortpause
+8	perderei	perdere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=27-7|PaceFast=Yes
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=27-8|PaceFast=Yes
+10	seconda	secondo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	11	amod	_	KID=27-9|PaceFast=Yes
+11	rata	rata	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	KID=27-10|PaceFast=Yes
+12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	KID=27-11|PaceFast=Yes
+13	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	KID=27-12|PaceFast=Yes
+14	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	13	discourse	_	KID=27-13|PaceFast=Yes
+15	millecinquecento	millecinquecento	NUM	N	NumType=Card	16	nummod	_	KID=27-14|OverlappingGroup=14|PaceFast=Yes
+16	euro	euro	NOUN	S	Gender=Masc	13	obl	_	KID=27-15|OverlappingGroup=14|PaceFast=Yes
+17	quindi	quindi	ADV	B	_	18	discourse	_	KID=27-16|OverlappingGroup=14|PaceFast=Yes
+18	voglio	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	parataxis	_	KID=27-17|PaceFast=Yes
+19	di~	di~	X	SP	_	18	dep	_	End=53.7|Intonation=weakly_rising|KID=27-18|PaceFast=Yes
+
+# sent_id = 28
+# text = quindi
+# jefferson_text = [°quindi,°]
+# speaker_id = BO026
+1	quindi	quindi	ADV	B	_	0	root	_	Begin=52.545|End=53.116|Intonation=weakly_rising|KID=28-0|OverlappingGroup=14|Volume=low
+
+# sent_id = 29_30
+# text = mi dispiace più che altro perché riuscirei proprio con il suo esame a farcela
+# jefferson_text = >mi dispiace più che altro perché:< >riuscirei proprio con il suo esame a [far(cela)]<,
+# speaker_id = BO032
+1	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=53.76|Clitic=Yes|KID=29-0|PaceFast=Yes
+2	dispiace	dispiacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=29-1|PaceFast=Yes
+3	più	più	ADV	B	_	5	advmod	_	KID=29-2|PaceFast=Yes
+4	che	che	SCONJ	CS	_	5	case	_	KID=29-3|PaceFast=Yes
+5	altro	altro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	2	obl	_	KID=29-4|PaceFast=Yes
+6	perché	perché	SCONJ	CS	_	5	mark	_	End=55.313|KID=29-5|PaceFast=Yes|Prolonged=Yes
+7	riuscirei	riuscire	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	Begin=55.388|KID=30-0|PaceFast=Yes
+8	proprio	proprio	ADV	B	_	7	advmod	_	KID=30-1|PaceFast=Yes
+9	con	con	ADP	E	_	12	case	_	KID=30-2|PaceFast=Yes
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=30-3|PaceFast=Yes
+11	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	12	det:poss	_	KID=30-4|PaceFast=Yes
+12	esame	esame	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	KID=30-5|PaceFast=Yes
+13	a	a	ADP	E	_	14	case	_	KID=30-6|PaceFast=Yes
+14	farcela	farcela	NOUN	S	Gender=Fem|Number=Sing	7	xcomp	_	End=57.159|Intonation=weakly_rising|KID=30-7|OverlappingGroup=15|PaceFast=Yes
+
+# sent_id = 31
+# text = ora me lo scrivo
+# jefferson_text = [ora me lo] scrivo.
+# speaker_id = BO026
+1	ora	ora	ADV	B	_	2	advmod	_	Begin=56.518|KID=31-0|OverlappingGroup=15
+2	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	KID=31-1|OverlappingGroup=15
+3	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=31-2|OverlappingGroup=15
+4	scrivo	scrivare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=57.552|Intonation=falling|KID=31-3
+
+# sent_id = 32
+# text = il giorno in cui fa il colloquio me lo dice e facciamo la verbalizzazione della sua
+# jefferson_text = il giorno in cui fa il colloquio me lo dice e facciamo la °verbalizzazione della [sua,°]
+# speaker_id = BO026
+1	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Begin=61.75|KID=32-0
+2	giorno	giorno	NOUN	S	Gender=Masc|Number=Sing	10	obl	_	KID=32-1
+3	in	in	ADP	E	_	4	case	_	KID=32-2
+4	cui	cui	PRON	PR	PronType=Rel	5	obl	_	KID=32-3
+5	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	KID=32-4
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=32-5
+7	colloquio	colloquio	NOUN	S	Gender=Masc|Number=Sing	5	obj	_	KID=32-6
+8	me	me	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	iobj	_	KID=32-7
+9	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	Clitic=Yes|KID=32-8
+10	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=32-9
+11	e	e	CCONJ	CC	_	12	cc	_	KID=32-10
+12	facciamo	fare	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	conj	_	KID=32-11
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	KID=32-12
+14	verbalizzazione	verbalizzazione	NOUN	S	Gender=Fem|Number=Sing	12	obj	_	KID=32-13|Volume=low
+15-16	della	_	_	_	_	_	_	_	KID=32-14|Volume=low
+15	di	di	ADP	E	_	16	case	_	KID=32-14a
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	KID=32-14b
+17	sua	suo	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	16	det:poss	_	End=65.569|Intonation=weakly_rising|KID=32-15|OverlappingGroup=16|Volume=low
+
+# sent_id = 33
+# text = certo la ringrazio
+# jefferson_text = [certo. (.) l]a rin[grazio].
+# speaker_id = BO032
+1	certo	certo	ADV	B	_	3	advmod	_	Backchannel=BOA1003_32::10|Begin=64.872|Intonation=falling|KID=33-0|OverlappingGroup=16|PauseAfter=Yes
+2	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	Clitic=Yes|KID=33-2|OverlappingGroup=16
+3	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=66.215|Intonation=falling|KID=33-3|OverlappingGroup=17
+
+# sent_id = 34
+# text = va bene
+# jefferson_text = [°va ben]e,°
+# speaker_id = BO026
+1	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=65.78|KID=34-0|OverlappingGroup=17|Volume=low
+2	bene	bene	ADV	B	_	1	advmod	_	End=66.337|Intonation=weakly_rising|KID=34-1|OverlappingGroup=17|Volume=low
+
+# sent_id = 35
+# text = le mando una mail oggi quindi oggi stesso e
+# jefferson_text = le mando una mail oggi quindi oggi stesso e:
+# speaker_id = BO032
+1	le	le	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	iobj	_	Begin=66.331|Clitic=Yes|KID=35-0
+2	mando	mare	VERB	V	VerbForm=Ger	0	root	_	KID=35-1
+3	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=35-2
+4	mail	mail	NOUN	S	Number=Sing	2	obj	_	KID=35-3
+5	oggi	oggi	ADV	B	_	7	reparandum	_	KID=35-4
+6	quindi	quindi	ADV	B	_	7	advmod	_	KID=35-5
+7	oggi	oggi	ADV	B	_	4	advmod	_	KID=35-6
+8	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	7	amod	_	KID=35-7
+9	e	e	CCONJ	CC	_	2	cc	_	End=68.325|KID=35-8|Prolonged=Yes
+
+# sent_id = 36
+# text = sì e le e le le do le do la le indicazioni dei testi ne sceglie uno
+# jefferson_text = <sì e le e le le do le do la: (.) le indicazioni dei testi (.) [ne sceglie uno]>,
+# speaker_id = BO026
+1	sì	sì	ADV	B	_	9	advmod	_	Begin=68.325|KID=36-0|PaceSlow=Yes
+2	e	e	CCONJ	CC	_	3	cc	_	KID=36-1|PaceSlow=Yes
+3	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	reparandum	_	KID=36-2|PaceSlow=Yes
+4	e	e	CCONJ	CC	_	9	cc	_	KID=36-3|PaceSlow=Yes
+5	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	reparandum	_	KID=36-4|PaceSlow=Yes
+6	le	le	PRON	PC	Gender=Fem|Number=Plur|Person=3|PronType=Prs	8	reparandum	_	Clitic=Yes|KID=36-5|PaceSlow=Yes
+7	do	do	ADP	E	_	9	case	_	KID=36-6|PaceSlow=Yes
+8	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=36-7|PaceSlow=Yes
+9	do	do	NOUN	S	Gender=Masc|Number=Sing	0	root	_	KID=36-8|PaceSlow=Yes
+10	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	reparandum	_	KID=36-9|PaceSlow=Yes|PauseAfter=Yes|Prolonged=Yes
+11	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	KID=36-11|PaceSlow=Yes
+12	indicazioni	indicazione	NOUN	S	Gender=Fem|Number=Plur	9	obj	_	KID=36-12|PaceSlow=Yes
+13-14	dei	_	_	_	_	_	_	_	KID=36-13|PaceSlow=Yes
+13	di	di	ADP	E	_	15	case	_	KID=36-13a
+14	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	KID=36-13b
+15	testi	testo	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	KID=36-14|PaceSlow=Yes|PauseAfter=Yes
+16	ne	ne	PRON	PC	PronType=Prs	17	iobj	_	Clitic=Yes|KID=36-16|OverlappingGroup=19|PaceSlow=Yes
+17	sceglie	scegliere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	KID=36-17|OverlappingGroup=19|PaceSlow=Yes
+18	uno	uno	PRON	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	obj	_	End=73.429|Intonation=weakly_rising|KID=36-18|OverlappingGroup=19|PaceSlow=Yes
+
+# sent_id = 37
+# text = ne scelgo uno di questi e lo sostituisco
+# jefferson_text = [ne scelgo]uno di questi e lo sosti[tuisco],
+# speaker_id = BO032
+1	ne	ne	PRON	PC	PronType=Prs	2	iobj	_	Begin=72.991|Clitic=Yes|KID=37-0|OverlappingGroup=19
+2	scelgo	scegliere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=37-1|OverlappingGroup=19
+3	uno	uno	PRON	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	obj	_	KID=37-1|OverlappingGroup=19
+4	di	di	ADP	E	_	5	case	_	KID=37-2
+5	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	nmod	_	KID=37-3
+6	e	e	CCONJ	CC	_	8	cc	_	KID=37-4
+7	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=37-5
+8	sostituisco	sostituire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	End=74.812|Intonation=weakly_rising|KID=37-6|OverlappingGroup=20
+
+# sent_id = 38
+# text = entrambi riguardano l' italiano per lo studio elledue per lo studio delle discipline
+# jefferson_text = [entram]bi riguardano l' italiano per lo studio L2 per lo studio delle [(discipli]ne).
+# speaker_id = BO026
+1	entrambi	entrambi	PRON	PI	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	Begin=74.496|KID=38-0|OverlappingGroup=20
+2	riguardano	riguardare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=38-1
+3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	4	det	_	KID=38-2|Truncated=Yes
+4	italiano	italiano	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	KID=38-3
+5	per	per	ADP	E	_	7	case	_	KID=38-4
+6	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=38-5
+7	studio	studio	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	KID=38-6
+8	elledue	L2	NOUN	_	_	7	nmod	_	KID=38-7
+9	per	per	ADP	E	_	11	case	_	KID=38-8
+10	lo	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=38-9
+11	studio	studio	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	KID=38-10
+12-13	delle	_	_	_	_	_	_	_	KID=38-11
+12	di	di	ADP	E	_	14	case	_	KID=38-11a
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	KID=38-11b
+14	discipline	disciplina	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	End=78.889|Intonation=falling|KID=38-12|OverlappingGroup=21
+
+# sent_id = 39_40
+# text = certo
+# jefferson_text = [certo]. certo.
+# speaker_id = BO032
+1	certo	certo	ADV	B	_	2	reparandum	_	Begin=78.398|End=78.781|Intonation=falling|KID=39-0|OverlappingGroup=21
+2	certo	certo	ADV	B	_	0	root	_	Begin=78.92|End=79.398|Intonation=falling|KID=40-0
+
+# sent_id = 41
+# text = quindi io ne scelgo uno di questi
+# jefferson_text = quindi io ne scelgo uno di questi,
+# speaker_id = BO032
+1	quindi	quindi	ADV	B	_	4	advmod	_	Begin=79.486|KID=41-0
+2	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	KID=41-1
+3	ne	ne	PRON	PC	PronType=Prs	4	iobj	_	Clitic=Yes|KID=41-2
+4	scelgo	scegliere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=41-3
+5	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	4	obj	_	KID=41-4
+6	di	di	ADP	E	_	7	case	_	KID=41-5
+7	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	5	nmod	_	End=80.745|Intonation=weakly_rising|KID=41-6
+
+# sent_id = 42
+# text = in sostituzione di tutta la la
+# jefferson_text = in sostituzione di tutta la la,
+# speaker_id = BO026
+1	in	in	ADP	E	_	2	case	_	Begin=80.748|KID=42-0
+2	sostituzione	sostituzione	NOUN	S	Gender=Fem|Number=Sing	0	root	_	KID=42-1
+3	di	di	ADP	E	_	4	case	_	KID=42-2
+4	tutta	tutto	DET	T	Gender=Fem|Number=Sing|PronType=Tot	2	nmod	_	KID=42-3|Promotion=det|Scrap=yes
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=42-4
+6	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	reparandum	_	Clitic=Yes|End=82.687|Intonation=weakly_rising|KID=42-5
+
+# sent_id = 43
+# text = la prima parte
+# jefferson_text = la prima par[te].
+# speaker_id = BO032
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Begin=82.687|KID=43-0
+2	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	KID=43-1
+3	parte	parte	NOUN	S	Gender=Fem|Number=Sing	0	root	_	Coconstruct=nmod::BOA1003_42::4|End=83.331|Intonation=falling|KID=43-2|OverlappingGroup=22
+
+# sent_id = 44
+# text = i materiali della prima parte del corso
+# jefferson_text = [i ma]teriali della prima [parte del (corso)].
+# speaker_id = BO026
+1	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	Begin=83.246|KID=44-0|OverlappingGroup=22
+2	materiali	materiale	NOUN	S	Gender=Masc|Number=Plur	0	root	_	KID=44-1|OverlappingGroup=22
+3-4	della	_	_	_	_	_	_	_	KID=44-2
+3	di	di	ADP	E	_	6	case	_	KID=44-2a
+4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=44-2b
+5	prima	primo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	KID=44-3
+6	parte	parte	NOUN	S	Gender=Fem|Number=Sing	2	nmod	_	KID=44-4|OverlappingGroup=24
+7-8	del	_	_	_	_	_	_	_	KID=44-5|OverlappingGroup=24
+7	di	di	ADP	E	_	9	case	_	KID=44-5a
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=44-5b
+9	corso	corso	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	End=85.166|Intonation=falling|KID=44-6|OverlappingGroup=24
+
+# sent_id = 45
+# text = la seconda invece comprende invece i saggi della seconda parte e in più ci sarebbe il testo quello per l' approfondimento metodologico
+# jefferson_text = [la seconda invece compre]nde invece i saggi dell[a se]conda parte e in più ci sarebbe il testo quello per [l' appr]ofondim[ento]: metodologico.
+# speaker_id = BO032
+1	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Begin=84.185|KID=45-0|OverlappingGroup=24
+2	seconda	secondo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	KID=45-1|OverlappingGroup=24
+3	invece	invece	ADV	S	Gender=Fem|Number=Sing	4	advmod	_	KID=45-2|OverlappingGroup=24
+4	comprende	comprendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=45-3|OverlappingGroup=24
+5	invece	invece	ADV	B	_	4	advmod	_	KID=45-4
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=45-5
+7	saggi	saggio	NOUN	S	Gender=Masc|Number=Plur	4	obj	_	KID=45-6
+8-9	della	_	_	_	_	_	_	_	KID=45-7|OverlappingGroup=25
+8	di	di	ADP	E	_	11	case	_	KID=45-7a
+9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=45-7b
+10	seconda	secondo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	11	amod	_	KID=45-8|OverlappingGroup=25
+11	parte	parte	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	KID=45-9
+12	e	e	CCONJ	CC	_	16	cc	_	KID=45-10
+13	in	in	ADP	E	_	14	case	_	KID=45-11
+14	più	più	ADV	B	_	16	advmod	_	KID=45-12
+15	ci	ci	PRON	PC	PronType=Prs	16	expl	_	Clitic=Yes|KID=45-13
+16	sarebbe	essere	VERB	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	KID=45-14
+17	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	KID=45-15
+18	testo	testo	NOUN	S	Gender=Masc|Number=Sing	16	nsubj	_	KID=45-16
+19	quello	quello	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	16	obj	_	KID=45-17
+20	per	per	ADP	E	_	22	case	_	KID=45-18
+21	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	det	_	KID=45-19|OverlappingGroup=26|Truncated=Yes
+22	approfondimento	approfondimento	NOUN	S	Gender=Masc|Number=Sing	19	obl	_	KID=45-20|OverlappingGroup=26,23|Prolonged=Yes
+23	metodologico	metodologico	ADJ	A	Gender=Masc|Number=Sing	22	amod	_	End=90.085|Intonation=falling|KID=45-21
+
+# sent_id = 46_47_48_49
+# text = sì sì sì sì
+# jefferson_text = [°sì.°] sì.
+# speaker_id = BO026
+1	sì	sì	ADV	B	_	0	root	_	Backchannel=BOA1003_45::4|Begin=86.051|End=86.235|Intonation=falling|KID=46-0|OverlappingGroup=25|Volume=low
+2	sì	sì	ADV	B	_	1	flat	_	Begin=88.353|End=88.629|Intonation=falling|KID=47-0|OverlappingGroup=26|Volume=low
+3	sì	sì	ADV	B	_	1	flat	_	Begin=89.006|End=89.254|Intonation=falling|KID=48-0|OverlappingGroup=23|Volume=low
+4	sì	sì	ADV	B	_	1	flat	_	Begin=90.22|End=90.521|Intonation=falling|KID=49-0
+
+# sent_id = 50
+# text = okay
+# jefferson_text = okay.
+# speaker_id = BO032
+1	okay	okay	NOUN	S	_	0	root	_	Begin=90.711|End=91.191|Intonation=falling|KID=50-0
+
+# sent_id = 51
+# text = e la il colloquio consiste così come descritto sul programma nella analisi di una sequenza di interazione in classe
+# jefferson_text = e la il colloqui consiste, (.) così come descritto sul program[ma]: nella analisi di una sequenza di interazione in classe.
+# speaker_id = BO026
+1	e	e	CCONJ	CC	_	5	discourse	_	Begin=91.19|KID=51-0
+2	la	la	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=51-1
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=51-2
+4	colloquio	colloquio	NOUN	S	Gender=Masc|Number=Plur	5	nsubj	_	KID=51-3
+5	consiste	consistere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Intonation=weakly_rising|KID=51-4|PauseAfter=Yes
+6	così	così	ADV	B	_	5	advmod	_	KID=51-6
+7	come	come	SCONJ	CS	_	8	mark	_	KID=51-7
+8	descritto	descrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	KID=51-8
+9-10	sul	_	_	_	_	_	_	_	KID=51-9
+9	su	su	ADP	E	_	11	case	_	KID=51-9a
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=51-9b
+11	programma	programma	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	KID=51-10|OverlappingGroup=27|Prolonged=Yes
+12-13	nella	_	_	_	_	_	_	_	KID=51-11
+12	in	in	ADP	E	_	14	case	_	KID=51-11a
+13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	KID=51-11b
+14	analisi	analisi	NOUN	S	Gender=Fem	5	obl	_	KID=51-12
+15	di	di	ADP	E	_	17	case	_	KID=51-13
+16	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	KID=51-14
+17	sequenza	sequenza	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	KID=51-15
+18	di	di	ADP	E	_	19	case	_	KID=51-16
+19	interazione	interazione	NOUN	S	Gender=Fem|Number=Sing	17	nmod	_	KID=51-17
+20	in	in	ADP	E	_	21	case	_	KID=51-18
+21	classe	classe	NOUN	S	Gender=Fem|Number=Sing	19	nmod	_	End=98.245|Intonation=falling|KID=51-19
+
+# sent_id = 52
+# text = sì
+# jefferson_text = [°sì,°]
+# speaker_id = BO032
+1	sì	sì	ADV	B	_	0	root	_	Backchannel=BOA1003_52::5|Begin=95.051|End=95.251|Intonation=weakly_rising|KID=52-0|OverlappingGroup=28|Volume=low
+
+# sent_id = 53
+# text = okay perfetto quindi a questo punto io verrei per l' orale portando questo
+# jefferson_text = okay. p[erfetto. >q]uindi a questo punto io verrei per l' orale port[ando] questo<.
+# speaker_id = BO032
+1	okay	okay	NOUN	S	_	8	discourse	_	Begin=98.245|Intonation=falling|KID=53-0
+2	perfetto	perfetto	ADJ	A	Gender=Masc|Number=Sing	8	discourse	_	Intonation=falling|KID=53-1|OverlappingGroup=29
+3	quindi	quindi	ADV	B	_	6	advmod	_	KID=53-2|OverlappingGroup=29|PaceFast=Yes
+4	a	a	ADP	E	_	6	case	_	KID=53-3|PaceFast=Yes
+5	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	KID=53-4|PaceFast=Yes
+6	punto	punto	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	KID=53-5|PaceFast=Yes
+7	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	KID=53-6|PaceFast=Yes
+8	verrei	venire	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=53-7|PaceFast=Yes
+9	per	per	ADP	E	_	11	case	_	KID=53-8|PaceFast=Yes
+10	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	11	det	_	KID=53-9|PaceFast=Yes|Truncated=Yes
+11	orale	orale	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	KID=53-10|PaceFast=Yes
+12	portando	portare	VERB	V	VerbForm=Ger	8	advcl	_	KID=53-11|OverlappingGroup=30|PaceFast=Yes
+13	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	12	obj	_	End=101.501|Intonation=falling|KID=53-12|PaceFast=Yes
+
+# sent_id = 54
+# text = va bene
+# jefferson_text = [va bene]?
+# speaker_id = BO026
+1	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=98.696|KID=54-0|OverlappingGroup=29
+2	bene	bene	ADV	B	_	1	advmod	_	End=99.127|Intonation=rising|KID=54-1|OverlappingGroup=29
+
+# sent_id = 55_56
+# text = sì sì
+# jefferson_text = [sì]. sì.
+# speaker_id = BO026
+1	sì	sì	ADV	B	_	0	root	_	Backchannel=BOA1003_54::1|Begin=100.971|End=101.165|Intonation=falling|KID=55-0|OverlappingGroup=30
+2	sì	sì	ADV	B	_	1	flat	_	Begin=101.501|End=101.719|Intonation=falling|KID=56-0
+
+# sent_id = 57
+# text = però si iscrive regolarmente
+# jefferson_text = °<[però] [si iscrive] regolarmente>.°
+# speaker_id = BO026
+1	però	però	ADV	B	_	3	advmod	_	Begin=101.744|KID=57-0|OverlappingGroup=31|PaceSlow=Yes|Volume=low
+2	si	si	PRON	PC	Person=3|PronType=Prs	3	expl:impers	_	Clitic=Yes|KID=57-1|OverlappingGroup=32|PaceSlow=Yes|Volume=low
+3	iscrive	iscrivere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=57-2|OverlappingGroup=32|PaceSlow=Yes|Volume=low
+4	regolarmente	regolarmente	ADV	B	_	3	advmod	_	End=103.787|Intonation=falling|KID=57-3|PaceSlow=Yes|Volume=low
+
+# sent_id = 58
+# text = okay
+# jefferson_text = [okay].
+# speaker_id = BO032
+1	okay	okay	INTJ	S	_	0	root	_	Backchannel=BOA1003_57::3|Begin=101.749|End=102.14|Intonation=falling|KID=58-0|OverlappingGroup=31
+
+# sent_id = 59
+# text = la ringrazio
+# jefferson_text = [la ringrazio].
+# speaker_id = BO032
+1	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	obj	_	Begin=102.225|Clitic=Yes|KID=59-0|OverlappingGroup=32
+2	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=102.9|Intonation=falling|KID=59-1|OverlappingGroup=32
+
+# sent_id = 60
+# text = sì sì no io x mi iscrivo regolarmente e oggi le mando le mail oggi stesso va bene
+# jefferson_text = >sì. sì. no io xx mi iscrivo regolarmente e oggi le mando le mail ogg[i stesso] va bene,
+# speaker_id = BO032
+1	sì	sì	ADV	B	_	7	advmod	_	Begin=103.779|Intonation=falling|KID=60-0
+2	sì	sì	ADV	B	_	1	flat	_	Intonation=falling|KID=60-1
+3	no	no	ADV	BN	PronType=Neg	1	flat	_	KID=60-2
+4	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	KID=60-3
+5	x	x	X	SYM	_	7	dep	_	KID=60-4
+6	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	7	iobj	_	Clitic=Yes|KID=60-5
+7	iscrivo	iscrire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	KID=60-6
+8	regolarmente	regolarmente	ADV	B	_	7	advmod	_	KID=60-7
+9	e	e	CCONJ	CC	_	12	cc	_	KID=60-8
+10	oggi	oggi	ADV	B	_	12	advmod	_	KID=60-9
+11	le	le	PRON	PC	Gender=Fem|Number=Plur|Person=3|PronType=Prs	12	iobj	_	Clitic=Yes|KID=60-10
+12	mando	mare	VERB	V	VerbForm=Ger	7	conj	_	KID=60-11
+13	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	KID=60-12
+14	mail	mail	NOUN	S	Number=Sing	12	obj	_	KID=60-13
+15	oggi	oggi	ADV	B	_	12	advmod	_	KID=60-14|OverlappingGroup=33
+16	stesso	stesso	ADJ	A	Gender=Masc|Number=Sing	15	amod	_	KID=60-15|OverlappingGroup=33
+17	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	KID=60-16
+18	bene	bene	ADV	B	_	17	advmod	_	End=107.559|Intonation=weakly_rising|KID=60-17
+
+# sent_id = 61
+# text = va bene
+# jefferson_text = [va bene].
+# speaker_id = BO026
+1	va	andare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=106.81|KID=61-0|OverlappingGroup=34
+2	bene	bene	ADV	B	_	1	advmod	_	End=107.15|Intonation=falling|KID=61-1|OverlappingGroup=34
+
+# sent_id = 62
+# text = questo non so se l' ho preso
+# jefferson_text = questo, non so se [(l' ho preso)].
+# speaker_id = BO032
+1	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	Begin=107.63|Intonation=weakly_rising|KID=62-0
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	KID=62-1
+3	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=62-2
+4	se	se	SCONJ	CS	_	7	mark	_	KID=62-3
+5	l'	lo	PRON	PC	Number=Sing|Person=3|PronType=Prs	7	obj	_	Clitic=Yes|KID=62-4|OverlappingGroup=35|Truncated=Yes
+6	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	KID=62-5|OverlappingGroup=35
+7	preso	predere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	End=109.094|Intonation=falling|KID=62-6|OverlappingGroup=35
+
+# sent_id = 63
+# text = e no questo è suo
+# jefferson_text = [e no. questo] è suo.
+# speaker_id = BO026
+1	e	e	CCONJ	CC	_	3	cc	_	Begin=108.574|KID=63-0|OverlappingGroup=35
+2	no	no	ADV	BN	PronType=Neg	3	advmod	_	Intonation=falling|KID=63-1|OverlappingGroup=35
+3	questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	KID=63-2|OverlappingGroup=35
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=63-3
+5	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	End=109.431|Intonation=falling|KID=63-4
+
+# sent_id = 64
+# text = okay
+# jefferson_text = okay.
+# speaker_id = BO032
+1	okay	okay	INTJ	S	_	0	root	_	Backchannel=BOA1003_63::3|Begin=109.62|End=109.85|Intonation=falling|KID=64-0
+
+# sent_id = 65
+# text = grazie la ringrazio buongiorno arrivederci
+# jefferson_text = grazie. la rin[grazio. bu]ongiorno arrivederci.
+# speaker_id = BO032
+1	grazie	grazie	INTJ	S	_	3	discourse	_	Begin=109.945|Intonation=falling|KID=65-0
+2	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	Clitic=Yes|KID=65-1
+3	ringrazio	ringraziare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Intonation=falling|KID=65-2|OverlappingGroup=36
+4	buongiorno	buongiorno	ADJ	A	Gender=Masc|Number=Sing	3	xcomp	_	KID=65-3|OverlappingGroup=36
+5-6	arrivederci	_	_	_	_	_	_	_	End=111.881|Intonation=falling|KID=65-4
+5	arriveder	arrivedere	VERB	V	VerbForm=Inf	3	xcomp	_	KID=65-4a
+6	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|KID=65-4b
+
+# sent_id = 66
+# text = arrivederci
+# jefferson_text = [arrivederci].
+# speaker_id = BO026
+1-2	arrivederci	_	_	_	_	_	_	_	Begin=110.558|End=111.136|Intonation=falling|KID=66-0|OverlappingGroup=36
+1	arriveder	arrivedere	VERB	V	VerbForm=Inf	0	root	_	KID=66-0a
+2	ci	ci	PRON	PC	Number=Plur|Person=1|PronType=Prs	1	obj	_	Clitic=Yes|KID=66-0b
+
