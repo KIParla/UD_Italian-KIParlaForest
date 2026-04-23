@@ -191,7 +191,7 @@
 9	anche	anche	ADV	B	_	12	advmod	_	KID=19-5
 10	appunto	appunto	ADV	B	_	12	discourse	_	KID=19-6
 11	pao~	pao~	X	SP	_	12	reparandum	_	Interrupted=Yes|KID=19-7
-12	pallotti	pallotti	PROPN	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	nsubj	_	Intonation=weakly_rising|KID=19-8
+12	pallotti	pallotti	PROPN	_	_	8	nsubj	_	Intonation=weakly_rising|KID=19-8
 13	vagoni	vagoni	PROPN	S	Gender=Masc|Number=Plur	12	conj	_	Intonation=weakly_rising|KID=19-9|OverlappingGroup=10
 14	e	e	CCONJ	CC	_	16	cc	_	KID=19-10|PaceFast=Yes|Prolonged=Yes
 15	infatti	infatti	ADV	B	_	16	advmod	_	KID=19-11|PaceFast=Yes
@@ -428,7 +428,7 @@
 # speaker_id = BO032
 1	ne	ne	PRON	PC	PronType=Prs	2	iobj	_	Begin=72.991|Clitic=Yes|KID=37-0|OverlappingGroup=19
 2	scelgo	scegliere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=37-1|OverlappingGroup=19
-3	uno	uno	PRON	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	obj	_	KID=37-1|OverlappingGroup=19
+3	uno	uno	PRON	V	Gender=Masc|Number=Sing	2	obj	_	KID=37-1|OverlappingGroup=19
 4	di	di	ADP	E	_	5	case	_	KID=37-2
 5	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	nmod	_	KID=37-3
 6	e	e	CCONJ	CC	_	8	cc	_	KID=37-4
