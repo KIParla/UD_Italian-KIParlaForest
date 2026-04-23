@@ -46,7 +46,7 @@
 
 # sent_id = 3_4
 # text = sì sì
-# jefferson_text = [°sì.°] sì.
+# jefferson_text = [°sì.°] | sì.
 # speaker_id = BO032
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1003_2::17|Begin=9.385|End=9.653|Intonation=falling|KID=3-0|OverlappingGroup=0|Volume=low
 2	sì	sì	ADV	_	_	1	flat	_	Begin=10.0|End=10.153|Intonation=falling|KID=4-0
@@ -75,7 +75,7 @@
 
 # sent_id = 7_8
 # text = e lei ne sceglie uno in sostituzione che riguarda l' italiano per lo studio
-# jefferson_text = e lei ne sceglie uno, in s[ostitu]zione che riguarda l' italiano per lo studio.
+# jefferson_text = e lei ne sceglie uno, | in s[ostitu]zione che riguarda l' italiano per lo studio.
 # speaker_id = BO026
 1	e	e	CCONJ	_	_	4	discourse	_	Begin=13.88|KID=7-0
 2	lei	lei	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	KID=7-1
@@ -94,7 +94,7 @@
 
 # sent_id = 9_10
 # text = okay certo
-# jefferson_text = [°okay.°] °c[erto.°]
+# jefferson_text = [°okay.°] | °c[erto.°]
 # speaker_id = BO032
 1	okay	okay	INTJ	_	_	2	discourse	_	Backchannel=BOA1003_7_8::14|Begin=15.425|End=15.811|Intonation=falling|KID=9-0|OverlappingGroup=1|Volume=low
 2	certo	certo	ADV	_	_	0	root	_	Begin=18.515|End=18.937|Intonation=falling|KID=10-0|OverlappingGroup=2|Volume=low
@@ -123,7 +123,7 @@
 
 # sent_id = 13_14
 # text = è quello che ho mandato anche a ad altri studenti che avevano già svolto questa prima parte
-# jefferson_text = [è que]llo che ho mandato anche a: a:d altri studenti che avevano [già °sv]olto questa prima [parte.°]
+# jefferson_text = [è que]llo che ho mandato anche a: | a:d altri studenti che avevano [già °sv]olto questa prima [parte.°]
 # speaker_id = BO026
 1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=21.32|KID=13-0|OverlappingGroup=5
 2	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	1	nsubj	_	KID=13-1|OverlappingGroup=5
@@ -318,7 +318,7 @@
 
 # sent_id = 29_30
 # text = mi dispiace più che altro perché riuscirei proprio con il suo esame a farcela
-# jefferson_text = >mi dispiace più che altro perché:< >riuscirei proprio con il suo esame a [far(cela)]<,
+# jefferson_text = >mi dispiace più che altro perché:< | >riuscirei proprio con il suo esame a [far(cela)]<,
 # speaker_id = BO032
 1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=53.76|Clitic=Yes|KID=29-0|PaceFast=Yes
 2	dispiace	dispiacere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=29-1|PaceFast=Yes
@@ -455,7 +455,7 @@
 
 # sent_id = 39_40
 # text = certo certo
-# jefferson_text = [certo]. certo.
+# jefferson_text = [certo]. | certo.
 # speaker_id = BO032
 1	certo	certo	ADV	_	_	2	reparandum	_	Begin=78.398|End=78.781|Intonation=falling|KID=39-0|OverlappingGroup=21
 2	certo	certo	ADV	_	_	0	root	_	Begin=78.92|End=79.398|Intonation=falling|KID=40-0
@@ -538,7 +538,7 @@
 
 # sent_id = 46_47_48_49
 # text = sì sì sì sì
-# jefferson_text = [°sì.°] sì.
+# jefferson_text = [°sì.°] | [°sì.°] | [°sì.°] | sì.
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1003_45::4|Begin=86.051|End=86.235|Intonation=falling|KID=46-0|OverlappingGroup=25|Volume=low
 2	sì	sì	ADV	_	_	1	flat	_	Begin=88.353|End=88.629|Intonation=falling|KID=47-0|OverlappingGroup=26|Volume=low
@@ -612,7 +612,7 @@
 
 # sent_id = 55_56
 # text = sì sì
-# jefferson_text = [sì]. sì.
+# jefferson_text = [sì]. | sì.
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1003_54::1|Begin=100.971|End=101.165|Intonation=falling|KID=55-0|OverlappingGroup=30
 2	sì	sì	ADV	_	_	1	flat	_	Begin=101.501|End=101.719|Intonation=falling|KID=56-0
