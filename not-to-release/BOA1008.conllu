@@ -39,7 +39,7 @@
 # text = mh mh
 # jefferson_text = mh mh.
 # speaker_id = BO026
-1	mh	mh	INTJ	_	Gender=Masc	0	root	_	Backchannel=BOA1008_3:4|Begin=11.091|KID=4-0
+1	mh	mh	INTJ	_	Gender=Masc	0	root	_	Backchannel=BOA1008_3::4|Begin=11.091|KID=4-0
 2	mh	mh	INTJ	_	Gender=Masc	1	discourse:filledpause	_	End=11.455|Intonation=falling|KID=4-1
 
 # sent_id = 5_6
@@ -130,7 +130,7 @@
 # jefferson_text = [per] (.) luca rossi.
 # speaker_id = BO036
 1	per	per	ADP	_	_	2	case	_	Begin=28.354|KID=13-0|OverlappingGroup=3|PauseAfter=Yes
-2	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conf:reform_BOA1008_12::1|KID=13-2
+2	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj:reform::BOA1008_12::1|KID=13-2
 3	rossi	Rossi	PROPN	_	Gender=Masc|Number=Plur	2	flat:name	_	End=29.508|Intonation=falling|KID=13-3
 
 # sent_id = 14
@@ -194,7 +194,7 @@
 
 # sent_id = 21_22
 # text = sì sì le avevo le avevo risposto dicendo di sì
-# jefferson_text = sì sì. le avevo:: le avevo risposto dicendo di [sì].
+# jefferson_text = sì | sì. le avevo:: le avevo risposto dicendo di [sì].
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	7	advmod	_	Begin=37.495|KID=21-0
 2	sì	sì	ADV	_	_	1	flat	_	Intonation=falling|KID=21-1
@@ -296,7 +296,7 @@
 
 # sent_id = 31_32
 # text = mi manda il lavoro comunque prima della quand'è la sessione la prima settimana di luglio
-# jefferson_text = mi manda il lavoro comunque prima della:: quand'è la: sessione la prima settimana [di lu]glio?
+# jefferson_text = mi manda il lavoro comunque prima della:: | quand'è la: sessione la prima settimana [di lu]glio?
 # speaker_id = BO026
 1	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Begin=52.5|Clitic=Yes|KID=31-0
 2	manda	mandare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=31-1
@@ -319,7 +319,7 @@
 
 # sent_id = 33_34
 # text = sì sì sì
-# jefferson_text = [sì]. sì sì.
+# jefferson_text = [sì]. | sì sì.
 # speaker_id = BO036
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1008_31_32::2|Begin=58.925|End=59.231|Intonation=falling|KID=33-0|OverlappingGroup=12
 2	sì	sì	ADV	_	_	1	flat	_	Begin=59.526|KID=34-0
@@ -434,7 +434,7 @@
 
 # sent_id = 46_47_48
 # text = consideri che poi il sette l' otto e il nove mh anche la arancioni insieme saremo molto impegnate quindi o prima del sette o subito dopo il nove stesso
-# jefferson_text = consideri che poi: il sette l' otto e il nove: m::h anche la arancioni insieme saremo molto impegnate quindi, o prima del sette o subito:: dopo il nove stesso.
+# jefferson_text = consideri che poi: il sette l' otto e il nove: | m::h anche la arancioni insieme saremo molto impegnate quindi, | o prima del sette o subito:: dopo il nove stesso.
 # speaker_id = BO026
 1	consideri	considerare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=76.2|Coconstruct=repair::BOA1008_43::2|KID=46-0
 2	che	che	SCONJ	_	_	16	mark	_	KID=46-1
@@ -592,7 +592,7 @@
 
 # sent_id = 60_61
 # text = io ho già comunicato che ci sono solo il sei e il sette
-# jefferson_text = io ho già comunicato che, ci sono solo il sei e il sette.
+# jefferson_text = io ho già comunicato che, | ci sono solo il sei e il sette.
 # speaker_id = BO026
 1	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Begin=116.464|KID=60-0
 2	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	KID=60-1
