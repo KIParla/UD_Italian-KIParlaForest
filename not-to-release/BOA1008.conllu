@@ -500,7 +500,7 @@
 17	stia	stare	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	KID=50-16
 18	tranquillo	tranquillare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	xcomp	_	KID=50-17
 19	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	22	obj	_	KID=50-18|Truncated=Yes
-20	avevo	avevo	AUX	_	Gender=Masc|Number=Sing	22	aux	_	KID=50-19
+20	avevo	avere	AUX	_	Gender=Masc|Number=Sing	22	aux	_	KID=50-19
 21	già	già	ADV	_	_	22	advmod	_	KID=50-20
 22	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	parataxis	_	KID=50-21
 23-24	alla	_	_	_	_	_	_	_	KID=50-22|Prolonged=Yes
