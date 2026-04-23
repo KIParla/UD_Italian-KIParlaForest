@@ -182,7 +182,7 @@
 # speaker_id = BO032
 1	e	e	CCONJ	CC	_	8	discourse	_	Begin=28.758|KID=19-0|OverlappingGroup=9|Prolonged=Yes
 2	a	a	ADP	A	Gender=Fem|Number=Sing	3	case	_	KID=19-1a
-3	la	il	DET	A	Gender=Fem|Number=Sing	6	det	_	KID=19-1a
+3	la	il	DET	A	Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=19-1a
 4	ca	Ca	PROPN	A	_	8	obl	_	KID=19-1a
 5	'	'	PUNCT	FB	_	6	punct	_	KID=19-1b
 6	foscari	Foscari	PROPN	S	_	4	flat:name	_	Coconstruct=BOA1003_Conj:reform_17::1|Intonation=weakly_rising|KID=19-2
@@ -427,7 +427,7 @@
 # speaker_id = BO032
 1	ne	ne	PRON	PC	PronType=Prs	2	iobj	_	Begin=72.991|Clitic=Yes|KID=37-0|OverlappingGroup=19
 2	scelgo	scegliere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=37-1|OverlappingGroup=19
-3	uno	uno	PRON	V	Gender=Masc|Number=Sing	2	obj	_	KID=37-1|OverlappingGroup=19
+3	uno	uno	PRON	V	Gender=Masc|Number=Sing|PronType=Prs	2	obj	_	KID=37-1|OverlappingGroup=19
 4	di	di	ADP	E	_	5	case	_	KID=37-2
 5	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	3	nmod	_	KID=37-3
 6	e	e	CCONJ	CC	_	8	cc	_	KID=37-4
