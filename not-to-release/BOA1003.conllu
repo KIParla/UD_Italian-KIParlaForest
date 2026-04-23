@@ -183,9 +183,9 @@
 1	e	e	CCONJ	CC	_	8	discourse	_	Begin=28.758|KID=19-0|OverlappingGroup=9|Prolonged=Yes
 2	a	a	ADP	A	Gender=Fem|Number=Sing	3	case	_	KID=19-1a
 3	la	il	DET	A	Gender=Fem|Number=Sing	6	det	_	KID=19-1a
-4	ca	ca	PROPN	A	Gender=Fem|Number=Sing	6	flat:name	_	KID=19-1a
+4	ca	Ca	PROPN	A	_	6	flat:name	_	KID=19-1a
 5	'	'	PUNCT	FB	_	6	punct	_	KID=19-1b
-6	foscari	foscaro	NOUN	S	Gender=Masc|Number=Plur	8	nsubj	_	Coconstruct=BOA1003_Conj:reform_17::1|Intonation=weakly_rising|KID=19-2
+6	foscari	Foscari	PROPN	S	_	8	obl	_	Coconstruct=BOA1003_Conj:reform_17::1|Intonation=weakly_rising|KID=19-2
 7	c'	ci	PRON	PC	PronType=Prs	8	expl	_	Clitic=Yes|KID=19-3|Truncated=Yes
 8	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=19-4
 9	anche	anche	ADV	B	_	12	advmod	_	KID=19-5
