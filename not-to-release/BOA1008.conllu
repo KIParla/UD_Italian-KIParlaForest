@@ -39,7 +39,7 @@
 # text = mh mh
 # jefferson_text = mh mh.
 # speaker_id = BO026
-1	mh	mh	INTJ	_	Gender=Masc	0	root	_	Backchannel=BOA1008_3:4|Begin=11.091|KID=4-0
+1	mh	mh	INTJ	_	Gender=Masc	0	root	_	Backchannel=BOA1008_3::4|Begin=11.091|KID=4-0
 2	mh	mh	INTJ	_	Gender=Masc	1	discourse:filledpause	_	End=11.455|Intonation=falling|KID=4-1
 
 # sent_id = 5_6
@@ -130,7 +130,7 @@
 # jefferson_text = [per] (.) luca rossi.
 # speaker_id = BO036
 1	per	per	ADP	_	_	2	case	_	Begin=28.354|KID=13-0|OverlappingGroup=3|PauseAfter=Yes
-2	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conf:reform_BOA1008_12::1|KID=13-2
+2	luca	Luca	PROPN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj:reform::BOA1008_12::1|KID=13-2
 3	rossi	Rossi	PROPN	_	Gender=Masc|Number=Plur	2	flat:name	_	End=29.508|Intonation=falling|KID=13-3
 
 # sent_id = 14
