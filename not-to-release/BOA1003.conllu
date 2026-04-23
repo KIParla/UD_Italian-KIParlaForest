@@ -184,7 +184,7 @@
 2	a	a	ADP	_	Gender=Fem|Number=Sing	3	case	_	KID=19-1a
 3	la	il	DET	_	Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=19-1a
 4	ca	Ca	PROPN	_	_	7	obl	_	KID=19-1
-5	foscari	Foscari	PROPN	_	_	4	flat:name	_	Coconstruct=BOA1003_Conj:reform_17::1|Intonation=weakly_rising|KID=19-2
+5	foscari	Foscari	PROPN	_	_	4	flat:name	_	Coconstruct=conj:reform::BOA1003_17::1|Intonation=weakly_rising|KID=19-2
 6	c'	ci	PRON	_	PronType=Prs	7	expl	_	Clitic=Yes|KID=19-3|Truncated=Yes
 7	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=19-4
 8	anche	anche	ADV	_	_	11	advmod	_	KID=19-5
@@ -267,7 +267,7 @@
 # speaker_id = BO032
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Begin=47.22|KID=24-0
 2	sessione	sessione	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=24-1|OverlappingGroup=12
-3	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	2	nmod	_	Coconstruct=conj:reform_BOA1003_23::2|KID=24-2|OverlappingGroup=12
+3	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	2	nmod	_	Coconstruct=conj:reform::BOA1003_23::2|KID=24-2|OverlappingGroup=12
 4	che	che	PRON	_	PronType=Rel	5	nsubj	_	KID=24-3|OverlappingGroup=12
 5	finisce	finire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	KID=24-4|OverlappingGroup=12
 6	a	a	ADP	_	_	7	case	_	KID=24-5
