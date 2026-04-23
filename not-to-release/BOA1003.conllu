@@ -294,23 +294,22 @@
 # speaker_id = BO032
 1	se	se	SCONJ	CS	_	3	mark	_	Begin=49.051|KID=27-0|OverlappingGroup=13|PaceFast=Yes
 2	non	non	ADV	BN	PronType=Neg	3	advmod	_	KID=27-1|OverlappingGroup=13|PaceFast=Yes
-3	riesco	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	advcl	_	KID=27-2|PaceFast=Yes
+3	riesco	riuscire	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	advcl	_	KID=27-2|PaceFast=Yes
 4	a	a	ADP	E	_	5	mark	_	KID=27-3|PaceFast=Yes
 5	verbalizzare	verbalizzare	VERB	V	VerbForm=Inf	3	xcomp	_	KID=27-4|PaceFast=Yes
-6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	KID=27-5|PaceFast=Yes
-7	{P}	_	_	_	_	_	_	_	Type=shortpause
-8	perderei	perdere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=27-7|PaceFast=Yes
-9	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=27-8|PaceFast=Yes
-10	seconda	secondo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	11	amod	_	KID=27-9|PaceFast=Yes
-11	rata	rata	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	KID=27-10|PaceFast=Yes
-12	che	che	PRON	PR	PronType=Rel	13	nsubj	_	KID=27-11|PaceFast=Yes
-13	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	KID=27-12|PaceFast=Yes
-14	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	13	discourse	_	KID=27-13|PaceFast=Yes
-15	millecinquecento	millecinquecento	NUM	N	NumType=Card	16	nummod	_	KID=27-14|OverlappingGroup=14|PaceFast=Yes
-16	euro	euro	NOUN	S	Gender=Masc	13	obl	_	KID=27-15|OverlappingGroup=14|PaceFast=Yes
-17	quindi	quindi	ADV	B	_	18	discourse	_	KID=27-16|OverlappingGroup=14|PaceFast=Yes
-18	voglio	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	parataxis	_	KID=27-17|PaceFast=Yes
-19	di~	di~	X	SP	_	18	dep	_	End=53.7|Intonation=weakly_rising|KID=27-18|PaceFast=Yes
+6	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	KID=27-5|PaceFast=Yes|PauseAfter=Yes
+7	perderei	perdere	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=27-7|PaceFast=Yes
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=27-8|PaceFast=Yes
+9	seconda	secondo	ADJ	NO	Gender=Fem|Number=Sing|NumType=Ord	10	amod	_	KID=27-9|PaceFast=Yes
+10	rata	rata	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	KID=27-10|PaceFast=Yes
+11	che	che	PRON	PR	PronType=Rel	12	nsubj	_	KID=27-11|PaceFast=Yes
+12	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	KID=27-12|PaceFast=Yes
+13	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	12	discourse	_	KID=27-13|PaceFast=Yes
+14	millecinquecento	millecinquecento	NUM	N	NumType=Card	15	nummod	_	KID=27-14|OverlappingGroup=14|PaceFast=Yes
+15	euro	euro	NOUN	S	Gender=Masc	12	obl	_	KID=27-15|OverlappingGroup=14|PaceFast=Yes
+16	quindi	quindi	ADV	B	_	17	discourse	_	KID=27-16|OverlappingGroup=14|PaceFast=Yes
+17	voglio	volere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	parataxis	_	KID=27-17|PaceFast=Yes
+18	di~	di~	X	SP	_	17	dep	_	End=53.7|Intonation=weakly_rising|KID=27-18|PaceFast=Yes
 
 # sent_id = 28
 # text = quindi
