@@ -35,7 +35,7 @@
 7	email	email	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	obl	_	KID=2-6
 8	lei	lei	PRON	_	Number=Sing|Person=3|PronType=Prs	13	nsubj	_	KID=2-7
 9	però	però	ADV	_	_	13	advmod	_	KID=2-8
-10	m~	me	PRON	_	_	11	reparandum	_	Interrupted=Yes|KID=2-9
+10	m~	me	PRON	_	Number=Sing|Person=1|PronType=Prs	11	reparandum	_	Interrupted=Yes|KID=2-9
 11	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	13	iobj	_	KID=2-10
 12	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	obj	_	KID=2-11
 13	manda	manda	NOUN	_	Gender=Fem|Number=Sing	5	compound	_	KID=2-12
