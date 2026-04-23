@@ -158,7 +158,7 @@
 # speaker_id = BO026
 1	ma	ma	CCONJ	CC	_	3	cc	_	Begin=32.298|KID=16-0
 2	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	KID=16-1
-3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=16-2
+3	ha	avere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=16-2
 4	conclus~	conclus~	X	SP	_	6	dep	_	Interrupted=Yes|KID=16-3
 5	si	si	PRON	PC	Person=3|PronType=Prs	6	expl:impers	_	Clitic=Yes|KID=16-4
 6	laurea	laureare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=16-5
@@ -500,7 +500,7 @@
 17	stia	stare	AUX	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	KID=50-16
 18	tranquillo	tranquillare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	xcomp	_	KID=50-17
 19	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	22	obj	_	KID=50-18|Truncated=Yes
-20	avevo	avevo	NOUN	S	Gender=Masc|Number=Sing	22	aux	_	KID=50-19
+20	avevo	avevo	AUX	S	Gender=Masc|Number=Sing	22	aux	_	KID=50-19
 21	già	già	ADV	B	_	22	advmod	_	KID=50-20
 22	detto	dire	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	parataxis	_	KID=50-21
 23-24	alla	_	_	_	_	_	_	_	KID=50-22|Prolonged=Yes
