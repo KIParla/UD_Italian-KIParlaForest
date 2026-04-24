@@ -51,7 +51,7 @@
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	già	già	ADV	_	_	5	advmod	_	Begin=7.79|KID=6-0
-2	x	X	X	_	_	_	_	_	KID=6-1|Syllables=4|Unintelligible=Yes
+2	x	X	X	_	_	5	dep	_	KID=6-1|Syllables=4|Unintelligible=Yes
 3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|KID=6-2
 4	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	KID=6-3
 5	emozionato	emozionare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=9.33|KID=6-4|OverlappingGroup=0
@@ -8171,7 +8171,7 @@
 # jefferson_text = [mara]: cosa lì
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	mara	Mara	PROPN	_	_	_	_	_	Anonymized=Yes|Begin=1738.873|Coconstruct=conj:reform::BOA3017_1115::2|KID=1116-0|OverlappingGroup=196|Prolonged=Yes
+1	mara	Mara	PROPN	_	_	0	root	_	Anonymized=Yes|Begin=1738.873|Coconstruct=conj:reform::BOA3017_1115::2|KID=1116-0|OverlappingGroup=196|Prolonged=Yes
 2	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	1	conj:reform	_	KID=1116-1
 3	lì	lì	ADV	_	_	1	advmod	_	End=1740.031|KID=1116-2
 
