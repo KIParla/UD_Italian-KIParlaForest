@@ -3475,7 +3475,7 @@
 1	cioè	cioè	CCONJ	_	_	4	discourse	_	Begin=881.845|KID=228-0|OverlappingGroup=41
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=228-1
 3	molto	molto	ADV	_	_	4	advmod	_	KID=228-2
-4	residenziale	residenziale	ADJ	_	Number=Sing	0	root	_	Coconstruct=parataxis::BOD2018_225_227-7|KID=228-3|Prolonged=Yes
+4	residenziale	residenziale	ADJ	_	Number=Sing	0	root	_	Coconstruct=parataxis::BOD2018_225_227::7|KID=228-3|Prolonged=Yes
 5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	Clitic=Yes|KID=228-4
 6	senti	sentire	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	parataxis	_	KID=228-5|OverlappingGroup=42
 7	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	Clitic=Yes|KID=228-6
@@ -3702,7 +3702,7 @@
 # jefferson_text = [città] metropolitana
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	città	città	NOUN	_	Gender=Fem	0	root	_	Begin=937.78|Coconstruct=obl::BOD2018_241-13|KID=243-0|OverlappingGroup=46
+1	città	città	NOUN	_	Gender=Fem	0	root	_	Begin=937.78|Coconstruct=obl::BOD2018_241::13|KID=243-0|OverlappingGroup=46
 2	metropolitana	metropolitano	ADJ	_	Gender=Fem|Number=Sing	1	amod	_	End=939.01|KID=243-1
 
 # sent_id = BOD2018_244
@@ -5485,7 +5485,7 @@
 # speaker_id = BO118
 # conversation_id = BOD2018
 1	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Begin=1384.8|KID=352-0|OverlappingGroup=67
-2	compromesso	compromesso	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Coconstruct=nsubj::BOD2018_351_353-5|End=1385.95|Intonation=Falling|KID=352-1|OverlappingGroup=67
+2	compromesso	compromesso	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Coconstruct=nsubj::BOD2018_351_353::5|End=1385.95|Intonation=Falling|KID=352-1|OverlappingGroup=67
 
 # sent_id = BOD2018_354_356
 # text = boh non so quanti abitanti ci siano però centomila perlom~
@@ -6156,7 +6156,7 @@
 # speaker_id = BO140
 # conversation_id = BOD2018
 1	ingegn~	ingegn~	X	_	_	2	reparandum	_	Begin=1532.135|Interrupted=Yes|KID=401-0|OverlappingGroup=77
-2	ingegneria	ingegneria	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=nsubj:BOD2018_400-5|KID=401-1|OverlappingGroup=77|Prolonged=Yes
+2	ingegneria	ingegneria	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=nsubj:BOD2018_400::5|KID=401-1|OverlappingGroup=77|Prolonged=Yes
 3	sì	sì	ADV	_	_	2	discourse	_	End=1533.6|KID=401-2
 
 # sent_id = BOD2018_402
@@ -6914,7 +6914,7 @@
 # jefferson_text = [bellissi]mo
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	bellissimo	bello	ADJ	_	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	Begin=1678.34|Coconstruct=conj:BOD2018_446-1|End=1679.19|KID=447-0|OverlappingGroup=90
+1	bellissimo	bello	ADJ	_	Degree=Abs|Gender=Masc|Number=Sing	0	root	_	Begin=1678.34|Coconstruct=conj:BOD2018_446::1|End=1679.19|KID=447-0|OverlappingGroup=90
 
 # sent_id = BOD2018_448
 # text = sì
