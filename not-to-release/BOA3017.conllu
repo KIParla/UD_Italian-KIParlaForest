@@ -43,7 +43,7 @@
 # jefferson_text = sì
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_4-5|Begin=7.1|End=7.3|KID=5-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_4::5|Begin=7.1|End=7.3|KID=5-0
 
 # sent_id = BOA3017_6
 # text = già x mi sono emozionato
@@ -88,7 +88,7 @@
 # jefferson_text = sì | sì
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	sì	sì	ADV	_	_	2	reparandum	_	Backchannel=BOA3017_8-7|Begin=13.01|End=13.17|KID=9-0
+1	sì	sì	ADV	_	_	2	reparandum	_	Backchannel=BOA3017_8::7|Begin=13.01|End=13.17|KID=9-0
 2	sì	sì	ADV	_	_	0	root	_	Begin=13.355|End=13.525|KID=11-0
 
 # sent_id = BOA3017_12
@@ -116,7 +116,7 @@
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=14.995|KID=13-0|OverlappingGroup=2
-2	bene	bene	ADV	_	_	0	root	_	Backchannel=BOA3017_12-6|End=15.935|KID=13-1|OverlappingGroup=2
+2	bene	bene	ADV	_	_	0	root	_	Backchannel=BOA3017_12::6|End=15.935|KID=13-1|OverlappingGroup=2
 
 # sent_id = BOA3017_15
 # text = se poi arriva pure francesco ciao
@@ -159,7 +159,7 @@
 # jefferson_text = sì. apostrofo mbare
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	2	discourse	_	Backchannel=BOA3017_24-1|Begin=29.322|Intonation=Falling|KID=25-0
+1	sì	sì	INTJ	_	_	2	discourse	_	Backchannel=BOA3017_24::1|Begin=29.322|Intonation=Falling|KID=25-0
 2	apostrofo	apostrofo	NOUN	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Coconstruct=conj:reform::BOA3017_24::1|KID=25-1
 3	'mbare	'mbare	NOUN	_	_	2	nmod	_	End=30.557|KID=25-2
 
@@ -168,7 +168,7 @@
 # jefferson_text = mh
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_25-3|Begin=30.557|End=30.977|KID=26-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_25::3|Begin=30.557|End=30.977|KID=26-0
 
 # sent_id = BOA3017_27
 # text = c'è sempre la prima volta
@@ -187,7 +187,7 @@
 # jefferson_text = mh ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_27-6|Begin=34.537|End=35.327|KID=28-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_27::6|Begin=34.537|End=35.327|KID=28-0
 
 # sent_id = BOA3017_31
 # text = quindi col x cosa dobbiamo fare
@@ -273,7 +273,7 @@
 # jefferson_text = [(ah)]
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_39-2|Begin=53.337|End=53.62|KID=40-0|OverlappingGroup=5
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_39::2|Begin=53.337|End=53.62|KID=40-0|OverlappingGroup=5
 
 # sent_id = BOA3017_41_43
 # text = non ce l'ha le brioche x x mh ce n'ha poche
@@ -288,7 +288,7 @@
 6	brioche	brioche	NOUN	_	Gender=Fem|Number=Sing	4	dislocated	_	KID=41-3
 7	x	x	X	_	_	4	dep	_	End=55.213|KID=41-4|OverlappingGroup=6|Syllables=4|Unintelligible=Yes
 8	x	x	X	_	_	12	dep	_	Begin=55.493|KID=43-0|PauseAfter=Yes|Syllables=1|Unintelligible=Yes
-9	mh	mh	INTJ	_	_	12	discourse	_	Backchannel=BOA3017_44-2|KID=43-2|OverlappingGroup=7|Prolonged=Yes
+9	mh	mh	INTJ	_	_	12	discourse	_	Backchannel=BOA3017_44::2|KID=43-2|OverlappingGroup=7|Prolonged=Yes
 10	ce	ce	PRON	_	Number=Plur|Person=1|PronType=Prs	12	expl	_	Clitic=Yes|KID=43-3
 11	n'	ne	PRON	_	PronType=Prs	12	iobj	_	Clitic=Yes|KID=43-4|SpaceAfter=No
 12	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	KID=43-5
@@ -384,7 +384,7 @@
 # jefferson_text = °sì non so come lo fa. cioè°
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_49_51_52-14|Begin=71.058|KID=53-0|Volume=Low
+1	sì	sì	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_49_51_52::14|Begin=71.058|KID=53-0|Volume=Low
 2	non	non	ADV	_	PronType=Neg	3	advmod	_	KID=53-1|Volume=Low
 3	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=53-2|Volume=Low
 4	come	come	ADV	_	_	6	advmod	_	KID=53-3|Volume=Low
@@ -407,7 +407,7 @@
 # jefferson_text = vabbè però è anche | è anche ristorante
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	vabbè	vabbè	INTJ	_	_	7	discourse	_	Backchannel=BOA3017_54-4|Begin=74.223|KID=55-0
+1	vabbè	vabbè	INTJ	_	_	7	discourse	_	Backchannel=BOA3017_54::4|Begin=74.223|KID=55-0
 2	però	però	ADV	_	_	7	advmod	_	KID=55-1
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	KID=55-2
 4	anche	anche	ADV	_	_	3	advmod	_	End=75.063|KID=55-3
@@ -444,7 +444,7 @@
 # jefferson_text = mh
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_57_59-13|Begin=81.004|End=81.304|KID=58-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_57_59::13|Begin=81.004|End=81.304|KID=58-0
 
 # sent_id = BOA3017_60
 # text = la rapa c'era
@@ -461,7 +461,7 @@
 # jefferson_text = sì ma roba (da banco)
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_60-4|Begin=84.404|KID=61-0
+1	sì	sì	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_60::4|Begin=84.404|KID=61-0
 2	ma	ma	CCONJ	_	_	3	discourse	_	KID=61-1
 3	roba	roba	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj::BOA3017_57_59::10|KID=61-2
 4	da	da	ADP	_	_	5	case	_	KID=61-3
@@ -547,7 +547,7 @@
 # jefferson_text = mh
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_67_68_69_70-30|Begin=107.119|End=107.419|KID=71-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_67_68_69_70::30|Begin=107.119|End=107.419|KID=71-0
 
 # sent_id = BOA3017_72_73_74_75
 # text = eh mh niente tipo ho schiacciato si vede tipo due volte velocemente alla fine dell'incontro avevo tipo registrato x tipo due secondi
@@ -713,14 +713,14 @@
 # jefferson_text = [mh]
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_91-4|Begin=139.537|End=139.847|KID=92-0|OverlappingGroup=13
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_91::4|Begin=139.537|End=139.847|KID=92-0|OverlappingGroup=13
 
 # sent_id = BOA3017_93
 # text = eh
 # jefferson_text = [eh]
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	eh	eh	INTJ	_	_	0	root	_	Backchannel=BOA3017_91-11|Begin=139.997|End=140.337|KID=93-0|OverlappingGroup=14
+1	eh	eh	INTJ	_	_	0	root	_	Backchannel=BOA3017_91::11|Begin=139.997|End=140.337|KID=93-0|OverlappingGroup=14
 
 # sent_id = BOA3017_94_95
 # text = ne fai una di dodici ore
@@ -739,7 +739,7 @@
 # jefferson_text = mh
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_94_95-6|Begin=144.407|End=145.007|KID=96-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_94_95::6|Begin=144.407|End=145.007|KID=96-0
 
 # sent_id = BOA3017_97_99
 # text = parlare costantemente per dodici ore però è tosta eh per me non è un problema però voglio dire
@@ -770,14 +770,14 @@
 # jefferson_text = mh
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_97_99-8|Begin=150.447|End=150.74|KID=98-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_97_99::8|Begin=150.447|End=150.74|KID=98-0
 
 # sent_id = BOA3017_100
 # text = infatti
 # jefferson_text = >in<fatti
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	infatti	infatti	ADV	_	_	0	root	_	Backchannel=BOA3017_97_99-18|Begin=152.654|End=153.067|KID=100-0|PaceFast=Yes
+1	infatti	infatti	ADV	_	_	0	root	_	Backchannel=BOA3017_97_99::18|Begin=152.654|End=153.067|KID=100-0|PaceFast=Yes
 
 # sent_id = BOA3017_104
 # text = un monologo di andrea verdi per dodici ore
@@ -798,7 +798,7 @@
 # jefferson_text = mhmh
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_104-8|Begin=160.657|End=161.047|KID=106-0
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_104::8|Begin=160.657|End=161.047|KID=106-0
 
 # sent_id = BOA3017_107_109
 # text = dopo c'è chi te lo controlla ovviamente cioè ascolta prima l'audio poi vede se
@@ -827,7 +827,7 @@
 # jefferson_text = sì
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_107_109-8|Begin=164.167|End=164.387|KID=108-0
+1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_107_109::8|Begin=164.167|End=164.387|KID=108-0
 
 # sent_id = BOA3017_110_111_112_115_116_119
 # text = sì cioè guarda in un software vede cioè sopra tipo vedi proprio l'onda audio non so se hai presente e sotto ci sono i vari segmenti che tu crei per sincronizzare il testo scritto all'audio e x se corrisponde
@@ -883,7 +883,7 @@
 # jefferson_text = [°mhmh°]
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_110_111_112_115_116_119-15|Begin=171.595|End=171.925|KID=113-0|OverlappingGroup=15|Volume=Low
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_110_111_112_115_116_119::15|Begin=171.595|End=171.925|KID=113-0|OverlappingGroup=15|Volume=Low
 
 # sent_id = BOA3017_114
 # text = eh mh
@@ -898,14 +898,14 @@
 # jefferson_text = [mh]
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_110_111_112_115_116_119-32|Begin=177.547|End=177.817|KID=117-0|OverlappingGroup=16
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_110_111_112_115_116_119::32|Begin=177.547|End=177.817|KID=117-0|OverlappingGroup=16
 
 # sent_id = BOA3017_118
 # text = mh
 # jefferson_text = mh
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_110_111_112_115_116_119-32|Begin=178.417|End=178.847|KID=118-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_110_111_112_115_116_119::32|Begin=178.417|End=178.847|KID=118-0
 
 # sent_id = BOA3017_120_121_123_125
 # text = mh eh tipo un errore che ho fatto spesso è tipo devo segnare le sovrapposizioni quando si parlano sopra devi mettere delle parentesi quadre intorno alle parole che si sovrappongono
@@ -950,7 +950,7 @@
 # jefferson_text = ah okay
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_120_121_123_125-19|Begin=184.627|KID=122-0
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_120_121_123_125::19|Begin=184.627|KID=122-0
 2	okay	ok	INTJ	_	_	1	discourse	_	End=184.97|KID=122-1
 
 # sent_id = BOA3017_124
@@ -958,7 +958,7 @@
 # jefferson_text = ah okay
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_120_121_123_125-28|Begin=187.183|KID=124-0
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_120_121_123_125::28|Begin=187.183|KID=124-0
 2	okay	ok	INTJ	_	_	1	discourse	_	End=187.593|KID=124-1
 
 # sent_id = BOA3017_126
@@ -977,7 +977,7 @@
 # jefferson_text = esatto
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOA3017_126-4|Begin=191.518|End=192.058|KID=127-0
+1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOA3017_126::4|Begin=191.518|End=192.058|KID=127-0
 
 # sent_id = BOA3017_128
 # text = infatti io sto
@@ -1048,7 +1048,7 @@
 # jefferson_text = [sì sì è un software]
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_130-1|Begin=199.398|KID=134-0|OverlappingGroup=18
+1	sì	sì	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_130::1|Begin=199.398|KID=134-0|OverlappingGroup=18
 2	sì	sì	INTJ	_	_	5	discourse	_	KID=134-1|OverlappingGroup=18
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=134-2|OverlappingGroup=18
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=134-3|OverlappingGroup=18
@@ -1077,7 +1077,7 @@
 # jefferson_text = mh eh?
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_135_137_138-5|Begin=204.238|KID=136-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_135_137_138::5|Begin=204.238|KID=136-0
 2	eh	eh	INTJ	_	_	1	parataxis	_	End=204.548|Intonation=Rising|KID=136-1
 
 # sent_id = BOA3017_139_140_141
@@ -1085,7 +1085,7 @@
 # jefferson_text = mh | no infatti il software è lo stesso | >cioè< nel senso che eh questo che uso io è usato anche per i sottotitoli
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	8	discourse	_	Backchannel=BOA3017_135_137_138-12|Begin=209.178|End=209.668|KID=139-0
+1	mh	mh	INTJ	_	_	8	discourse	_	Backchannel=BOA3017_135_137_138::12|Begin=209.178|End=209.668|KID=139-0
 2	no	no	INTJ	_	_	8	discourse	_	Begin=210.598|KID=140-0
 3	infatti	infatti	ADV	_	_	8	advmod	_	KID=140-1
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=140-2
@@ -1237,21 +1237,21 @@
 # jefferson_text = [mhmhmh]
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mhmhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_143_145-20|Begin=222.638|End=222.948|KID=146-0|OverlappingGroup=21
+1	mhmhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_143_145::20|Begin=222.638|End=222.948|KID=146-0|OverlappingGroup=21
 
 # sent_id = BOA3017_151
 # text = mh
 # jefferson_text = [mh]
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_142_144_147_148_149_150_153-36|Begin=232.973|End=233.383|KID=151-0|OverlappingGroup=22
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_142_144_147_148_149_150_153::36|Begin=232.973|End=233.383|KID=151-0|OverlappingGroup=22
 
 # sent_id = BOA3017_152
 # text = eh esatto
 # jefferson_text = eh esa[tto]
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	eh	eh	INTJ	_	_	0	root	_	Backchannel=BOA3017_142_144_147_148_149_150_153-39|Begin=234.103|KID=152-0
+1	eh	eh	INTJ	_	_	0	root	_	Backchannel=BOA3017_142_144_147_148_149_150_153::39|Begin=234.103|KID=152-0
 2	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	1	parataxis	_	End=234.71|KID=152-1|OverlappingGroup=23
 
 # sent_id = BOA3017_155_157
@@ -1317,7 +1317,7 @@
 # jefferson_text = mh ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_163_165-9|Begin=253.031|End=253.303|KID=164-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_163_165::9|Begin=253.031|End=253.303|KID=164-0
 
 # sent_id = BOA3017_166_167_169
 # text = cioè rendere lo stessa lo stessa cosa però con parole diverse perché cioè
@@ -1343,7 +1343,7 @@
 # jefferson_text = [mh in]fatti tra le lin[gue se]condo me c'è un problema | >cioè< non lo puoi (rendere) certi con[cetti xx col tedesco non li puoi (ren]dere) in italiano e viceversa >cioè<
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	9	discourse	_	Backchannel=BOA3017_166_167_169-11|Begin=260.636|KID=168-0|OverlappingGroup=27
+1	mh	mh	INTJ	_	_	9	discourse	_	Backchannel=BOA3017_166_167_169::11|Begin=260.636|KID=168-0|OverlappingGroup=27
 2	infatti	infatti	ADV	_	_	9	advmod	_	KID=168-1|OverlappingGroup=27
 3	tra	tra	ADP	_	_	5	case	_	KID=168-2
 4	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	KID=168-3
@@ -1381,7 +1381,7 @@
 # jefferson_text = [no ma >infatti< n:on sarà]
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_168_170-11|Begin=264.706|KID=171-0|OverlappingGroup=29
+1	no	no	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_168_170::11|Begin=264.706|KID=171-0|OverlappingGroup=29
 2	ma	ma	CCONJ	_	_	5	discourse	_	KID=171-1|OverlappingGroup=29
 3	infatti	infatti	ADV	_	_	5	advmod	_	KID=171-2|OverlappingGroup=29|PaceFast=Yes
 4	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=171-3|OverlappingGroup=29|Prolonged=Yes
@@ -1457,7 +1457,7 @@
 # jefferson_text = mh
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_177-3|Begin=287.421|End=287.851|KID=178-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_177::3|Begin=287.421|End=287.851|KID=178-0
 
 # sent_id = BOA3017_180_181_182_183_184
 # text = x è un po' difficile io temevo che ci volessero fare doppiare lì al film invece per fortuna anche per questione di budget e di tempo tutto in presa diretta
@@ -1590,7 +1590,7 @@
 # jefferson_text = [m]h?
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_193_194_196_197-4|Begin=326.027|End=326.317|Intonation=Rising|KID=195-0|OverlappingGroup=31
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_193_194_196_197::4|Begin=326.027|End=326.317|Intonation=Rising|KID=195-0|OverlappingGroup=31
 
 # sent_id = BOA3017_198
 # text = chi l'ha detto
@@ -1671,7 +1671,7 @@
 # jefferson_text = sì sì
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_210-5|Begin=347.492|KID=211-0
+1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_210::5|Begin=347.492|KID=211-0
 2	sì	sì	INTJ	_	_	1	parataxis	_	End=348.047|KID=211-1
 
 # sent_id = BOA3017_214
@@ -1765,7 +1765,7 @@
 # jefferson_text = [mhmh]
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_221_222-13|Begin=364.982|End=365.392|KID=223-0|OverlappingGroup=32
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_221_222::13|Begin=364.982|End=365.392|KID=223-0|OverlappingGroup=32
 
 # sent_id = BOA3017_224
 # text = allora
@@ -1929,7 +1929,7 @@
 # jefferson_text = ah ma non per [quello]
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_250_253_254-23|Begin=402.373|KID=255-0
+1	ah	ah	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_250_253_254::23|Begin=402.373|KID=255-0
 2	ma	ma	CCONJ	_	_	5	discourse	_	KID=255-1
 3	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=255-2
 4	per	per	ADP	_	_	5	case	_	KID=255-3
@@ -1963,7 +1963,7 @@
 # jefferson_text = [vabbè scusa]
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	vabbè	vabbè	INTJ	_	_	2	discourse	_	Backchannel=BOA3017_255-5|Begin=405.143|KID=259-0|OverlappingGroup=206
+1	vabbè	vabbè	INTJ	_	_	2	discourse	_	Backchannel=BOA3017_255::5|Begin=405.143|KID=259-0|OverlappingGroup=206
 2	scusa	scusare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	End=406.143|KID=259-1|OverlappingGroup=206
 
 # sent_id = BOA3017_260
@@ -1986,7 +1986,7 @@
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	ma	ma	CCONJ	_	_	2	discourse	_	Begin=407.098|KID=261-0
-2	no	no	ADV	_	_	6	discourse	_	Backchannel=BOA3017_260-8|KID=261-1
+2	no	no	ADV	_	_	6	discourse	_	Backchannel=BOA3017_260::8|KID=261-1
 3	ma	ma	CCONJ	_	_	6	discourse	_	KID=261-2
 4	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=261-3
 5	perché	perché	SCONJ	_	_	6	mark	_	KID=261-4
@@ -2006,7 +2006,7 @@
 1	ma	ma	CCONJ	_	_	2	discourse	_	Begin=409.338|KID=262-0|OverlappingGroup=
 2	x	x	X	_	_	4	reparandum	_	KID=262-1|Syllables=1|Unintelligible=Yes
 3	ma	ma	CCONJ	_	_	4	discourse	_	KID=262-2|OverlappingGroup=
-4	ovvio	ovvio	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOA3017_260-8|KID=262-3
+4	ovvio	ovvio	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOA3017_260::8|KID=262-3
 5	che	che	SCONJ	_	_	7	mark	_	KID=262-4|OverlappingGroup=
 6	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	7	iobj	_	Clitic=Yes|KID=262-5|OverlappingGroup=
 7	pare	parere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	KID=262-6|OverlappingGroup=
@@ -2064,14 +2064,14 @@
 # jefferson_text = [sì]
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_262a-15|Begin=412.243|End=412.973|KID=264-0|OverlappingGroup=39
+1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_262a::15|Begin=412.243|End=412.973|KID=264-0|OverlappingGroup=39
 
 # sent_id = BOA3017_266
 # text = no vabbè però prima x
 # jefferson_text = [no vabbè però] prima [xx]
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_262b-13|Begin=413.793|KID=266-0|OverlappingGroup=40
+1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_262b::13|Begin=413.793|KID=266-0|OverlappingGroup=40
 2	vabbè	vabbè	INTJ	_	_	1	discourse	_	KID=266-1|OverlappingGroup=40
 3	però	però	CCONJ	_	_	4	cc	_	KID=266-2|OverlappingGroup=40
 4	prima	prima	ADV	_	_	1	advmod	_	KID=266-3
@@ -2082,7 +2082,7 @@
 # jefferson_text = sì °no° no però capito xx magari | non così platealmente neanch' io [xxxxx]
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	10	discourse	_	Backchannel=BOA3017_262c_267-15|Begin=417.013|KID=268-0
+1	sì	sì	INTJ	_	_	10	discourse	_	Backchannel=BOA3017_262c_267::15|Begin=417.013|KID=268-0
 2	no	no	INTJ	_	_	10	discourse	_	KID=268-1|Volume=Low
 3	no	no	INTJ	_	_	10	discourse	_	KID=268-2
 4	però	però	CCONJ	_	_	5	advmod	_	KID=268-3
@@ -2177,7 +2177,7 @@
 # jefferson_text = n[o:]
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_275_277_278_280_281a-21|Begin=432.438|End=432.938|KID=279-0|OverlappingGroup=45|Prolonged=Yes
+1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_275_277_278_280_281a::21|Begin=432.438|End=432.938|KID=279-0|OverlappingGroup=45|Prolonged=Yes
 
 # sent_id = BOA3017_281b
 # text = secondo me dice questo
@@ -2195,7 +2195,7 @@
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	eh	eh	INTJ	_	_	2	discourse	_	Begin=435.878|End=436.178|KID=282-0|OverlappingGroup=46
-2	certo	certo	ADV	_	_	0	root	_	Backchannel=BOA3017_281b-4|Begin=436.598|End=436.878|KID=283-0
+2	certo	certo	ADV	_	_	0	root	_	Backchannel=BOA3017_281b::4|Begin=436.598|End=436.878|KID=283-0
 
 # sent_id = BOA3017_284
 # text = e vabbè x che cosa s'aspettava la gente che stavo zitto
@@ -2220,7 +2220,7 @@
 # jefferson_text = no capito però capito | magari martina sì visto che l'aveva detto solo al coinquilino e poi noi stavamo tutti a guardare (pia) fa vabbè ve (lo) dico | xxx[xx]
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	7	discourse	_	Backchannel=BOA3017_284-12|Begin=439.335|KID=285-0
+1	no	no	INTJ	_	_	7	discourse	_	Backchannel=BOA3017_284::12|Begin=439.335|KID=285-0
 2	capito	capire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	discourse	_	KID=285-1
 3	però	però	CCONJ	_	_	4	advmod	_	KID=285-2
 4	capito	capire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	discourse	_	End=440.688|KID=285-3
@@ -2278,13 +2278,13 @@
 # jefferson_text = no ma sì ma [(che dopo)] | sì ma che sx[x dopo]
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_288-4|Begin=448.739|KID=290-0
+1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_288::4|Begin=448.739|KID=290-0
 2	ma	ma	CCONJ	_	_	3	cc	_	KID=290-1
 3	sì	sì	INTJ	_	_	1	conj	_	KID=290-2
 4	ma	ma	CCONJ	_	_	6	cc	_	KID=290-3
 5	che	che	SCONJ	_	_	6	mark	_	KID=290-4|OverlappingGroup=48
 6	dopo	dopo	ADP	_	_	1	conj	_	End=450.009|KID=290-5|OverlappingGroup=48
-7	sì	sì	INTJ	_	_	1	discourse	_	Backchannel=BOA3017_289_291-5|Begin=450.904|KID=292-0
+7	sì	sì	INTJ	_	_	1	discourse	_	Backchannel=BOA3017_289_291::5|Begin=450.904|KID=292-0
 8	ma	ma	CCONJ	_	_	10	cc	_	KID=292-1
 9	che	che	SCONJ	_	_	10	mark	_	KID=292-2
 10	s~	s~	X	_	Gender=Fem	1	conj	_	KID=292-3|OverlappingGroup=49
@@ -2382,14 +2382,14 @@
 # jefferson_text = n[o]
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_309a-4|Begin=482.782|End=483.122|KID=310-0|OverlappingGroup=51
+1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_309a::4|Begin=482.782|End=483.122|KID=310-0|OverlappingGroup=51
 
 # sent_id = BOA3017_312
 # text = mhmh
 # jefferson_text = mhmh
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_309b_311-4|Begin=484.749|End=485.159|KID=312-0
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_309b_311::4|Begin=484.749|End=485.159|KID=312-0
 
 # sent_id = BOA3017_313
 # text = mh
@@ -2489,14 +2489,14 @@
 # jefferson_text = [mhmh]
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_325-8|Begin=505.884|End=506.3|KID=327-0|OverlappingGroup=54
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_325::8|Begin=505.884|End=506.3|KID=327-0|OverlappingGroup=54
 
 # sent_id = BOA3017_329_333
 # text = no no è un altro in via frassinago si chiama basilibò
 # jefferson_text = no no [è (un) altro in via frassinago] | [(si chiama) basili]bò
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_326-4|Begin=506.709|KID=329-0
+1	no	no	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_326::4|Begin=506.709|KID=329-0
 2	no	no	INTJ	_	_	5	discourse	_	KID=329-1
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=329-2|OverlappingGroup=208
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=329-3|OverlappingGroup=208
@@ -2600,7 +2600,7 @@
 # jefferson_text = NO:: veramen[te]?
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_338-10|Begin=523.677|KID=339-0|Prolonged=Yes|Volume=high
+1	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_338::10|Begin=523.677|KID=339-0|Prolonged=Yes|Volume=high
 2	veramente	veramente	ADV	_	_	1	parataxis	_	End=525.457|Intonation=Rising|KID=339-1|OverlappingGroup=56
 
 # sent_id = BOA3017_340_342_343_345_349
@@ -2608,7 +2608,7 @@
 # jefferson_text = [sì v]abbè lì non è che tipo son criminali eh del tipo u[no xx] | ho scoperto chi è perché era | un un | x un'in[tervista in cui=x ava~] | era tipo (un) ri[cevimento]
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_339-2|Begin=525.01|KID=340-0|OverlappingGroup=56
+1	sì	sì	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_339::2|Begin=525.01|KID=340-0|OverlappingGroup=56
 2	vabbè	vabbè	INTJ	_	_	5	discourse	_	KID=340-1|OverlappingGroup=56
 3	lì	lì	ADV	_	_	5	dep	_	KID=340-2
 4	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=340-3
@@ -2650,7 +2650,7 @@
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	vabbè	vabbè	INTJ	_	_	2	discourse	_	Begin=527.692|KID=341-0|OverlappingGroup=
-2	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_340_342_343_345_349-9|End=528.812|KID=341-1
+2	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_340_342_343_345_349::9|End=528.812|KID=341-1
 
 # sent_id = BOA3017_346
 # text = ti strozzi
@@ -2804,7 +2804,7 @@
 # jefferson_text = tipo tipo [(ti~)]
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOA3017_365-1|Begin=567.773|KID=367-0
+1	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOA3017_365::1|Begin=567.773|KID=367-0
 2	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	1	parataxis	_	KID=367-1
 3	ti~	ti~	X	_	_	1	parataxis	_	End=569.16|Interrupted=Yes|KID=367-2|OverlappingGroup=63
 
@@ -2822,7 +2822,7 @@
 # jefferson_text = sì sì e~ era tipo così
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	6	discourse	_	Backchannel=BOA3017_368_371-3|Begin=574.147|KID=370-0
+1	sì	sì	INTJ	_	_	6	discourse	_	Backchannel=BOA3017_368_371::3|Begin=574.147|KID=370-0
 2	sì	sì	INTJ	_	_	6	discourse	_	KID=370-1
 3	e~	e~	CCONJ	_	_	4	reparandum	_	Interrupted=Yes|KID=370-2
 4	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	KID=370-3
@@ -2844,7 +2844,7 @@
 # jefferson_text = [sì sì]
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_372-4|Begin=577.222|KID=373-0|OverlappingGroup=65
+1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_372::4|Begin=577.222|KID=373-0|OverlappingGroup=65
 2	sì	sì	INTJ	_	_	1	parataxis	_	End=577.662|KID=373-1|OverlappingGroup=65
 
 # sent_id = BOA3017_374
@@ -2863,7 +2863,7 @@
 # jefferson_text = no la >finisco<
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_374-5|Begin=578.102|KID=375-0
+1	no	no	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_374::5|Begin=578.102|KID=375-0
 2	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	Clitic=Yes|KID=375-1
 3	finisco	finire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=578.662|KID=375-2|PaceFast=Yes
 
@@ -2886,7 +2886,7 @@
 # jefferson_text = <no> | dai perché x
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_376-8|Begin=580.522|End=581.302|KID=377-0|PaceSlow=Yes
+1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_376::8|Begin=580.522|End=581.302|KID=377-0|PaceSlow=Yes
 2	dai	dare	VERB	_	_	1	parataxis	_	KID=378-0
 3	perché	perché	ADV	_	_	1	parataxis	_	KID=378-1
 4	x	x	X	_	_	1	dep	_	KID=378-2|Syllables=1|Unintelligible=Yes
@@ -3049,7 +3049,7 @@
 # jefferson_text = sì | [>cioè< nel senso se po]i nessuno dice niente al riguardo no
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_410-10|Begin=617.575|End=618.035|KID=412-0
+1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_410::10|Begin=617.575|End=618.035|KID=412-0
 2	cioè	cioè	ADV	_	_	5	advmod	_	Begin=618.9|KID=414-0|OverlappingGroup=68|PaceFast=Yes
 3-4	nel	_	_	_	_	_	_	_	KID=414-1|OverlappingGroup=68
 3	in	in	ADP	_	_	5	case	_	KID=414-1a
@@ -3072,7 +3072,7 @@
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=618.04|KID=413-0
-2	interessante	interessante	ADJ	_	Number=Sing	0	root	_	Backchannel=BOA3017_412_414-1|KID=413-1|OverlappingGroup=68
+2	interessante	interessante	ADJ	_	Number=Sing	0	root	_	Backchannel=BOA3017_412_414::1|KID=413-1|OverlappingGroup=68
 3	x	x	X	_	_	2	dep	_	End=619.61|KID=413-2|OverlappingGroup=68|Syllables=2|Unintelligible=Yes
 
 # sent_id = BOA3017_415_416
@@ -3177,7 +3177,7 @@
 # jefferson_text = [no]: perch[é(?)]
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_424_426-6|Begin=639.782|KID=427-0|OverlappingGroup=70|Prolonged=Yes
+1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_424_426::6|Begin=639.782|KID=427-0|OverlappingGroup=70|Prolonged=Yes
 2	perché	perché	SCONJ	_	_	1	parataxis	_	End=640.922|Intonation=Rising|KID=427-1|OverlappingGroup=71
 
 # sent_id = BOA3017_428
@@ -3185,7 +3185,7 @@
 # jefferson_text = [eh]?
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	eh	eh	INTJ	_	_	0	root	_	Backchannel=BOA3017_424_426-10|Begin=640.53|End=640.962|Intonation=Rising|KID=428-0|OverlappingGroup=71
+1	eh	eh	INTJ	_	_	0	root	_	Backchannel=BOA3017_424_426::10|Begin=640.53|End=640.962|Intonation=Rising|KID=428-0|OverlappingGroup=71
 
 # sent_id = BOA3017_430
 # text = ah beh i due minuti
@@ -3354,14 +3354,14 @@
 # jefferson_text = a::h ((ride))
 # speaker_id = BO139 BO146
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_455-15|Begin=669.453|End=670.933|KID=456-0|Prolonged=Yes
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_455::15|Begin=669.453|End=670.933|KID=456-0|Prolonged=Yes
 
 # sent_id = BOA3017_457
 # text = ah
 # jefferson_text = a:::::h ((ride))
 # speaker_id = BO139 BO146
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_455-15|Begin=670.11|End=673.28|KID=457-0|Prolonged=Yes
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_455::15|Begin=670.11|End=673.28|KID=457-0|Prolonged=Yes
 
 # sent_id = BOA3017_458
 # text = come trascrivere shining
@@ -3423,7 +3423,7 @@
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	mh	mh	INTJ	_	_	3	discourse	_	Begin=687.995|KID=466-0
-2	sì	sì	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_464-5|KID=466-1
+2	sì	sì	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_464::5|KID=466-1
 3	vedo	vedere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=689.12|KID=466-2
 
 # sent_id = BOA3017_467
@@ -3484,7 +3484,7 @@
 # jefferson_text = mh
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_471_473_475_478-15|Begin=697.542|End=697.872|KID=472-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_471_473_475_478::15|Begin=697.542|End=697.872|KID=472-0
 
 # sent_id = BOA3017_474
 # text = mangiato un bel po' eh
@@ -3503,14 +3503,14 @@
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	x	x	X	_	_	0	root	_	Begin=700.917|KID=477-0|Syllables=5|Unintelligible=Yes
-2	mh	mh	INTJ	_	_	1	discourse	_	Backchannel=BOA3017_471_473_475_478-11|End=702.157|Intonation=Rising|KID=477-1
+2	mh	mh	INTJ	_	_	1	discourse	_	Backchannel=BOA3017_471_473_475_478::11|End=702.157|Intonation=Rising|KID=477-1
 
 # sent_id = BOA3017_479
 # text = mh
 # jefferson_text = ([m:h)]
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_471_473_475_478-15|Begin=702.782|End=703.522|KID=479-0|OverlappingGroup=80|Prolonged=Yes
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_471_473_475_478::15|Begin=702.782|End=703.522|KID=479-0|OverlappingGroup=80|Prolonged=Yes
 
 # sent_id = BOA3017_480
 # text = da' okay
@@ -3569,7 +3569,7 @@
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	eh	eh	INTJ	_	_	2	discourse	_	Begin=712.952|KID=485-0
-2	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_484-6|End=713.562|KID=485-1
+2	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_484::6|End=713.562|KID=485-1
 
 # sent_id = BOA3017_486
 # text = vuoi l'uovo
@@ -3585,7 +3585,7 @@
 # jefferson_text = mh mh
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_486-3|Begin=714.817|End=715.347|KID=487-0
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_486::3|Begin=714.817|End=715.347|KID=487-0
 
 # sent_id = BOA3017_488
 # text = ma mi sa che dovete parlare forte raga se no dopo andrea non sente
@@ -3738,7 +3738,7 @@
 # jefferson_text = okay | allora si vede che nelle | [mar~] [si vede che] nelle marche non si usa
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	okay	ok	INTJ	_	_	10	discourse	_	Backchannel=BOA3017_507-3|Begin=746.102|End=746.772|KID=508-0
+1	okay	ok	INTJ	_	_	10	discourse	_	Backchannel=BOA3017_507::3|Begin=746.102|End=746.772|KID=508-0
 2	allora	allora	ADV	_	_	10	advmod	_	Begin=746.812|KID=509-0
 3	si	si	PRON	_	Person=3|PronType=Prs	4	expl:impers	_	Clitic=Yes|KID=509-1
 4	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	reparandum	_	KID=509-2
@@ -3770,14 +3770,14 @@
 # jefferson_text = no
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_510-1|Begin=748.062|End=748.492|KID=511-0
+1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_510::1|Begin=748.062|End=748.492|KID=511-0
 
 # sent_id = BOA3017_513
 # text = eh
 # jefferson_text = [eh]
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	eh	eh	INTJ	_	_	0	root	_	Backchannel=BOA3017_511-1|Begin=748.577|End=748.917|KID=513-0|OverlappingGroup=85
+1	eh	eh	INTJ	_	_	0	root	_	Backchannel=BOA3017_511::1|Begin=748.577|End=748.917|KID=513-0|OverlappingGroup=85
 
 # sent_id = BOA3017_514
 # text = può darsi però badile
@@ -3817,7 +3817,7 @@
 # jefferson_text = a::h
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_515_517-7|Begin=753.663|End=754.483|KID=518-0|Prolonged=Yes
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_515_517::7|Begin=753.663|End=754.483|KID=518-0|Prolonged=Yes
 
 # sent_id = BOA3017_519_521
 # text = è no è l~ è la pala però triangolare non è la vanga non è fatta come una vanga
@@ -4066,14 +4066,14 @@
 # jefferson_text = mh
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_547_551_558_559-9|Begin=803.349|End=803.661|KID=550-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_547_551_558_559::9|Begin=803.349|End=803.661|KID=550-0
 
 # sent_id = BOA3017_562
 # text = eh che sarebbe
 # jefferson_text = eh che sarebbe?
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	eh	eh	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_547_551_558_559-19|Begin=818.963|KID=562-0
+1	eh	eh	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_547_551_558_559::19|Begin=818.963|KID=562-0
 2	che	che	PRON	_	PronType=Rel	3	nsubj	_	KID=562-1
 3	sarebbe	essere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=819.673|Intonation=Rising|KID=562-2
 
@@ -4140,7 +4140,7 @@
 # jefferson_text = mh
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_575-3|Begin=837.28|End=837.628|KID=576-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_575::3|Begin=837.28|End=837.628|KID=576-0
 
 # sent_id = BOA3017_579
 # text = davvero [PERSON_NAME] si chiama
@@ -4157,7 +4157,7 @@
 # jefferson_text = sì perché è mezza tedesca mezza vieta~ <vietnamita> | >infatti< non sembra tedesca
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_579-4|Begin=843.798|KID=580-0
+1	sì	sì	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_579::4|Begin=843.798|KID=580-0
 2	perché	perché	SCONJ	_	_	5	mark	_	KID=580-1
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=580-2
 4	mezza	mezzo	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	KID=580-3
@@ -4175,7 +4175,7 @@
 # jefferson_text = ah
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_580_582-8|Begin=846.773|End=847.173|KID=581-0
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_580_582::8|Begin=846.773|End=847.173|KID=581-0
 
 # sent_id = BOA3017_583_584
 # text = ma è che ti~ pure il nome di un personaggio di mh di un film di sergio leone
@@ -4264,7 +4264,7 @@
 # jefferson_text = no
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_595-2|Begin=872.56|End=873.23|KID=596-0
+1	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_595::2|Begin=872.56|End=873.23|KID=596-0
 
 # sent_id = BOA3017_597
 # text = me lo compri l'uovo
@@ -4473,7 +4473,7 @@
 # jefferson_text = [no]
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_615-6|Begin=917.202|End=917.692|KID=616-0|OverlappingGroup=103
+1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_615::6|Begin=917.202|End=917.692|KID=616-0|OverlappingGroup=103
 
 # sent_id = BOA3017_618
 # text = ormai no è troppo tardi
@@ -4586,7 +4586,7 @@
 # jefferson_text = [no n~] ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_625-6|Begin=936.29|KID=626-0|OverlappingGroup=108
+1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_625::6|Begin=936.29|KID=626-0|OverlappingGroup=108
 2	n~	n~	X	_	_	1	parataxis	_	End=937.16|Interrupted=Yes|KID=626-1|OverlappingGroup=108
 
 # sent_id = BOA3017_627
@@ -4660,7 +4660,7 @@
 # jefferson_text = ([no]?)
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_634-7|Begin=943.52|End=943.81|Intonation=Rising|KID=635-0|OverlappingGroup=114
+1	no	no	INTJ	_	_	0	root	_	Backchannel=BOA3017_634::7|Begin=943.52|End=943.81|Intonation=Rising|KID=635-0|OverlappingGroup=114
 
 # sent_id = BOA3017_636
 # text = mi sa che è un braccialetto x
@@ -4797,7 +4797,7 @@
 # jefferson_text = [no] se ci devi avere questo entusiasmo non te lo regalo
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	11	discourse	_	Backchannel=BOA3017_643-28|Begin=959.99|KID=645-0|OverlappingGroup=119
+1	no	no	INTJ	_	_	11	discourse	_	Backchannel=BOA3017_643::28|Begin=959.99|KID=645-0|OverlappingGroup=119
 2	se	se	SCONJ	_	_	5	mark	_	KID=645-1
 3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	5	expl	_	Clitic=Yes|KID=645-2
 4	devi	dovere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	KID=645-3
@@ -4870,7 +4870,7 @@
 # jefferson_text = [no ma a te non te lo re]galo
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	INTJ	_	_	8	discourse	_	Backchannel=BOA3017_649-13|Begin=971.54|KID=651-0|OverlappingGroup=122
+1	no	no	INTJ	_	_	8	discourse	_	Backchannel=BOA3017_649::13|Begin=971.54|KID=651-0|OverlappingGroup=122
 2	ma	ma	CCONJ	_	_	8	discourse	_	KID=651-1|OverlappingGroup=122
 3	a	a	ADP	_	_	4	case	_	KID=651-2|OverlappingGroup=122
 4	te	te	PRON	_	Number=Sing|Person=2|PronType=Prs	8	dislocated	_	KID=651-3|OverlappingGroup=122
@@ -5030,7 +5030,7 @@
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	eh	eh	INTJ	_	_	2	discourse	_	Begin=1013.242|KID=668-0
-2	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_666_667-10|End=1013.962|KID=668-1
+2	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_666_667::10|End=1013.962|KID=668-1
 3	do'	dove	ADV	_	_	5	advmod	_	Begin=1014.307|KID=669-0|Truncated=Yes
 4	vuoi	volere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	KID=669-1
 5	pranza'	pranzare	VERB	_	VerbForm=Inf	2	conj	_	End=1015.007|Intonation=Rising|KID=669-2|Truncated=Yes
@@ -5155,7 +5155,7 @@
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	eh	eh	INTJ	_	_	5	discourse	_	Begin=1048.718|KID=683-0
-2	mh	mh	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_682-1|KID=683-1
+2	mh	mh	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_682::1|KID=683-1
 3	se	se	SCONJ	_	_	5	mark	_	KID=683-2
 4	dobbiamo	dovere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	KID=683-3
 5	fare	fare	VERB	_	VerbForm=Inf	0	root	_	KID=683-4
@@ -5219,7 +5219,7 @@
 # jefferson_text = mhmh
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_689-4|Begin=1067.666|End=1068.336|KID=690-0
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_689::4|Begin=1067.666|End=1068.336|KID=690-0
 
 # sent_id = BOA3017_691
 # text = solo che la proclamazione è alle due fino alle cinque sei poi basta
@@ -5249,7 +5249,7 @@
 # jefferson_text = no alle due esce fuori (mi) sa | no?
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	ADV	_	_	5	discourse	_	Backchannel=BOA3017_691-13|Begin=1081.649|KID=692-0
+1	no	no	ADV	_	_	5	discourse	_	Backchannel=BOA3017_691::13|Begin=1081.649|KID=692-0
 2-3	alle	_	_	_	_	_	_	_	KID=692-1
 2	a	a	ADP	_	_	4	case	_	KID=692-1a
 3	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	KID=692-1b
@@ -5340,7 +5340,7 @@
 # jefferson_text = sì | perché?
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_702-2|Begin=1113.19|End=1113.92|KID=703-0
+1	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_702::2|Begin=1113.19|End=1113.92|KID=703-0
 2	perché	perché	SCONJ	_	_	1	parataxis	_	Begin=1115.0|End=1115.58|Intonation=Rising|KID=704-0
 
 # sent_id = BOA3017_705
@@ -5348,7 +5348,7 @@
 # jefferson_text = eh?
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	eh	eh	INTJ	_	_	0	root	_	Backchannel=BOA3017_703_704-1|Begin=1117.885|End=1118.215|Intonation=Rising|KID=705-0
+1	eh	eh	INTJ	_	_	0	root	_	Backchannel=BOA3017_703_704::1|Begin=1117.885|End=1118.215|Intonation=Rising|KID=705-0
 
 # sent_id = BOA3017_706
 # text = c'è una patata ancora
@@ -5367,21 +5367,21 @@
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=1119.245|KID=707-0
-2	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_706-5|End=1119.745|Intonation=Rising|KID=707-1
+2	sì	sì	INTJ	_	_	0	root	_	Backchannel=BOA3017_706::5|End=1119.745|Intonation=Rising|KID=707-1
 
 # sent_id = BOA3017_708
 # text = sì
 # jefferson_text = sì
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_707-2|Begin=1119.85|End=1120.014|KID=708-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_707::2|Begin=1119.85|End=1120.014|KID=708-0
 
 # sent_id = BOA3017_709
 # text = ah non l'avevo visto
 # jefferson_text = ah non l'>avevo< visto ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_708-1|Begin=1120.014|KID=709-0
+1	ah	ah	INTJ	_	_	5	discourse	_	Backchannel=BOA3017_708::1|Begin=1120.014|KID=709-0
 2	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=709-1
 3	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Clitic=Yes|KID=709-2|SpaceAfter=No
 4	avevo	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	5	aux	_	KID=709-3|PaceFast=Yes
@@ -5407,7 +5407,7 @@
 # jefferson_text = no no
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_713-1|Begin=1136.246|KID=714-0
+1	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_713::1|Begin=1136.246|KID=714-0
 2	no	no	ADV	_	_	1	parataxis	_	End=1136.791|KID=714-1
 
 # sent_id = BOA3017_715
@@ -5439,7 +5439,7 @@
 # jefferson_text = [sì]
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_716-9|Begin=1139.914|End=1140.278|KID=717-0|OverlappingGroup=127
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_716::9|Begin=1139.914|End=1140.278|KID=717-0|OverlappingGroup=127
 
 # sent_id = BOA3017_719_720_723_724
 # text = se lo se me lo vuoi regalare me lo puoi regalare e se lo vuo~ e s~
@@ -5469,7 +5469,7 @@
 # jefferson_text = [na:]
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	na	no	ADV	_	_	0	root	_	Backchannel=BOA3017_719_720_723_724-11|Begin=1143.509|End=1143.977|KID=721-0|OverlappingGroup=212|Prolonged=Yes
+1	na	no	ADV	_	_	0	root	_	Backchannel=BOA3017_719_720_723_724::11|Begin=1143.509|End=1143.977|KID=721-0|OverlappingGroup=212|Prolonged=Yes
 
 # sent_id = BOA3017_722
 # text = e lo prendo io
@@ -5683,7 +5683,7 @@
 # jefferson_text = sì s[ì eh]
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_760_763-9|Begin=1185.698|KID=762-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_760_763::9|Begin=1185.698|KID=762-0
 2	sì	sì	ADV	_	_	1	parataxis	_	KID=762-1|OverlappingGroup=134
 3	eh	eh	INTJ	_	_	1	discourse	_	End=1187.098|KID=762-2|OverlappingGroup=134
 
@@ -5770,7 +5770,7 @@
 # jefferson_text = no | [>cioè< deve (e]ssere) un'intolleranza: | abbastanz~ >cioè< la percentuale deve (essere) alta
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	ADV	_	_	6	discourse	_	Backchannel=BOA3017_770-5|Begin=1200.522|End=1200.88|KID=771-0
+1	no	no	ADV	_	_	6	discourse	_	Backchannel=BOA3017_770::5|Begin=1200.522|End=1200.88|KID=771-0
 2	cioè	cioè	CCONJ	_	_	6	discourse	_	Begin=1201.372|KID=773-0|OverlappingGroup=138|PaceFast=Yes
 3	deve	dovere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	KID=773-1|OverlappingGroup=138
 4	esse	essere	AUX	_	VerbForm=Inf	6	cop	_	KID=773-2|OverlappingGroup=138|Truncated=Yes
@@ -5790,7 +5790,7 @@
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	porca	porco	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	Begin=1201.08|KID=772-0|Volume=Low
-2	troia	troia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Backchannel=BOA3017_771_773_774-1|End=1201.722|KID=772-1|OverlappingGroup=138|Volume=Low
+2	troia	troia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Backchannel=BOA3017_771_773_774::1|End=1201.722|KID=772-1|OverlappingGroup=138|Volume=Low
 
 # sent_id = BOA3017_775
 # text = mhmh
@@ -5819,7 +5819,7 @@
 # jefferson_text = ah
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_776_778-7|Begin=1211.175|End=1211.6|KID=777-0
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_776_778::7|Begin=1211.175|End=1211.6|KID=777-0
 
 # sent_id = BOA3017_780
 # text = sussidio di cazzi marcello dai
@@ -5839,7 +5839,7 @@
 # conversation_id = BOA3017
 1	x	x	X	_	_	3	dep	_	Begin=1214.228|KID=781-0|OverlappingGroup=140|Syllables=3|Unintelligible=Yes
 2	che	che	SCONJ	_	PronType=Rel	3	mark	_	KID=781-1|OverlappingGroup=140
-3	infatti	infatti	ADV	_	_	0	root	_	Backchannel=BOA3017_780-5|End=1215.87|KID=781-3|OverlappingGroup=140|PaceFast=Yes
+3	infatti	infatti	ADV	_	_	0	root	_	Backchannel=BOA3017_780::5|End=1215.87|KID=781-3|OverlappingGroup=140|PaceFast=Yes
 
 # sent_id = BOA3017_783
 # text = prima si mangiava i kebab poi ha scoperto che è intollerante al glutine e dopo sta roba è
@@ -5873,7 +5873,7 @@
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	mh	mh	INTJ	_	_	4	discourse	_	Begin=1219.924|KID=784-0|OverlappingGroup=141
-2	no	no	ADV	_	_	4	discourse	_	Backchannel=BOA3017_783-18|KID=784-1|OverlappingGroup=141|Prolonged=Yes
+2	no	no	ADV	_	_	4	discourse	_	Backchannel=BOA3017_783::18|KID=784-1|OverlappingGroup=141|Prolonged=Yes
 3	madonna	madonna	NOUN	_	Gender=Fem|Number=Sing	4	discourse	_	KID=784-2|OverlappingGroup=141
 4	intollerante	intollerante	ADJ	_	Number=Sing	0	root	_	KID=784-3
 5-6	al	_	_	_	_	_	_	_	KID=784-4
@@ -6027,7 +6027,7 @@
 # jefferson_text = [no: va bene vabbè lo] so già: perché me l'hai già detto: | più volte
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	ADV	_	_	2	discourse	_	Backchannel=BOA3017_810_811-10|Begin=1267.781|KID=813-0|OverlappingGroup=143|Prolonged=Yes
+1	no	no	ADV	_	_	2	discourse	_	Backchannel=BOA3017_810_811::10|Begin=1267.781|KID=813-0|OverlappingGroup=143|Prolonged=Yes
 2	va	andare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=813-1|OverlappingGroup=143
 3	bene	bene	ADV	_	_	2	advmod	_	KID=813-2|OverlappingGroup=143
 4	vabbè	vabbè	INTJ	_	_	2	discourse	_	KID=813-3|OverlappingGroup=143
@@ -6057,7 +6057,7 @@
 # jefferson_text = niente
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	niente	niente	PRON	_	PronType=Ind	0	root	_	Backchannel=BOA3017_816b-3|Begin=1276.776|End=1277.326|KID=818-0
+1	niente	niente	PRON	_	PronType=Ind	0	root	_	Backchannel=BOA3017_816b::3|Begin=1276.776|End=1277.326|KID=818-0
 
 # sent_id = BOA3017_821
 # text = me l'hai gia detto quindici volte che oggi non torni a casa a dormire
@@ -6102,7 +6102,7 @@
 # jefferson_text = mh | lo so
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_822-9|Begin=1287.034|End=1287.151|KID=823-0
+1	mh	mh	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_822::9|Begin=1287.034|End=1287.151|KID=823-0
 2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Begin=1287.855|Clitic=Yes|KID=824-0
 3	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	End=1288.305|KID=824-1
 
@@ -6111,7 +6111,7 @@
 # jefferson_text = mh
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_823_824-3|Begin=1289.243|End=1289.476|KID=825-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_823_824::3|Begin=1289.243|End=1289.476|KID=825-0
 
 # sent_id = BOA3017_827
 # text = che è
@@ -6313,7 +6313,7 @@
 8	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=886-9
 9	vanno	andare	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	KID=886-10
 10	censurate	censurare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=1375.916|KID=886-11|OverlappingGroup=144
-11	no	no	ADV	_	_	14	discourse	_	Backchannel=BOA3017_888-2|Begin=1376.248|KID=889-0
+11	no	no	ADV	_	_	14	discourse	_	Backchannel=BOA3017_888::2|Begin=1376.248|KID=889-0
 12	soltanto	soltanto	ADV	_	_	14	advmod	_	KID=889-1
 13	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	KID=889-2
 14	nomi	nome	NOUN	_	Gender=Masc|Number=Plur	10	parataxis	_	KID=889-3
@@ -6338,7 +6338,7 @@
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=1375.644|KID=888-0|OverlappingGroup=144
-2	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_886_889-10|End=1376.227|Intonation=Rising|KID=888-1|OverlappingGroup=144
+2	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_886_889::10|End=1376.227|Intonation=Rising|KID=888-1|OverlappingGroup=144
 
 # sent_id = BOA3017_890
 # text = ah okay fantastico cazzo
@@ -6346,7 +6346,7 @@
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=1377.781|KID=890-0
-2	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOA3017_886_889-17|KID=890-1
+2	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOA3017_886_889::17|KID=890-1
 3	fantastico	fantastico	ADJ	_	Gender=Masc|Number=Sing	2	parataxis	_	KID=890-2
 4	cazzo	cazzo	NOUN	_	_	3	discourse	_	End=1379.748|KID=890-3
 
@@ -6404,7 +6404,7 @@
 # jefferson_text = [da:i]
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	dai	dare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Backchannel=BOA3017_895-1|Begin=1385.989|End=1387.022|KID=897-0|OverlappingGroup=147|Prolonged=Yes
+1	dai	dare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Backchannel=BOA3017_895::1|Begin=1385.989|End=1387.022|KID=897-0|OverlappingGroup=147|Prolonged=Yes
 
 # sent_id = BOA3017_899_902_903
 # text = testa di cazzo si scrive a~ doppia parentesi testa di cazzo chiusa doppia
@@ -6430,7 +6430,7 @@
 # jefferson_text = [a:::h]
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_899_902_903-5|Begin=1389.559|End=1390.909|KID=901-0|OverlappingGroup=148|Prolonged=Yes
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_899_902_903::5|Begin=1389.559|End=1390.909|KID=901-0|OverlappingGroup=148|Prolonged=Yes
 
 # sent_id = BOA3017_905
 # text = testa di cazzo interloquisce
@@ -6474,7 +6474,7 @@
 # jefferson_text = sì | >cioè< perché è tirocinio però almeno
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_908-2|Begin=1402.758|End=1403.125|KID=909-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_908::2|Begin=1402.758|End=1403.125|KID=909-0
 2	cioè	cioè	CCONJ	_	_	5	discourse	_	Begin=1403.662|KID=910-0|PaceFast=Yes
 3	perché	perché	SCONJ	_	_	5	mark	_	KID=910-1
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=910-2
@@ -6503,7 +6503,7 @@
 # jefferson_text = no [no]
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_911-10|Begin=1409.454|KID=912-0
+1	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_911::10|Begin=1409.454|KID=912-0
 2	no	no	ADV	_	_	1	parataxis	_	End=1410.058|KID=912-1|OverlappingGroup=149
 
 # sent_id = BOA3017_913
@@ -6529,7 +6529,7 @@
 # jefferson_text = sì
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_913-10|Begin=1412.22|End=1412.912|KID=914-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_913::10|Begin=1412.22|End=1412.912|KID=914-0
 
 # sent_id = BOA3017_915_916_917
 # text = no però tipo l'ultima era abbastanza formale quindi era piena di eh mh no no certo no sì dunque
@@ -6562,7 +6562,7 @@
 # jefferson_text = n[o: che] palle ca[zzo]
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	no	no	ADV	_	_	3	discourse	_	Backchannel=BOA3017_915_916_917-20|Begin=1419.255|KID=918-0|OverlappingGroup=151|Prolonged=Yes
+1	no	no	ADV	_	_	3	discourse	_	Backchannel=BOA3017_915_916_917::20|Begin=1419.255|KID=918-0|OverlappingGroup=151|Prolonged=Yes
 2	che	che	DET	_	PronType=Exc	3	det	_	KID=918-1|OverlappingGroup=151
 3	palle	palla	NOUN	_	Gender=Fem|Number=Plur	0	root	_	KID=918-2
 4	cazzo	cazzo	NOUN	_	_	3	discourse	_	End=1421.541|KID=918-3|OverlappingGroup=150
@@ -6598,7 +6598,7 @@
 # jefferson_text = certo
 # speaker_id = BO145
 # conversation_id = BOA3017
-1	certo	certo	ADJ	_	_	0	root	_	Backchannel=BOA3017_922-5|Begin=1424.731|End=1425.393|KID=924-0
+1	certo	certo	ADJ	_	_	0	root	_	Backchannel=BOA3017_922::5|Begin=1424.731|End=1425.393|KID=924-0
 
 # sent_id = BOA3017_925_926_927_929_930_932_933
 # text = la prima c'e~ una ragazza che raccontava di ex coinquiline cristiane che tipo le avevano rubato un pr~ un eh non mh un dildo che lei aveva nel eh nel comodino perché col sospetto che lei lei stava studiando delle cose di magia nel senso cioè di antropologia uno studio sui riti magici nella sicilia tipo dell'ottoce~ metti una roba del genere
@@ -6856,7 +6856,7 @@
 # jefferson_text = [mh]
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_942-12|Begin=1471.219|End=1471.56|KID=944-0|OverlappingGroup=156
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_942::12|Begin=1471.219|End=1471.56|KID=944-0|OverlappingGroup=156
 
 # sent_id = BOA3017_946
 # text = sì sì
@@ -6912,7 +6912,7 @@
 # jefferson_text = [mh]
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_947_949-15|Begin=1480.148|End=1480.515|KID=948-0|OverlappingGroup=160
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_947_949::15|Begin=1480.148|End=1480.515|KID=948-0|OverlappingGroup=160
 
 # sent_id = BOA3017_950
 # text = non è che le han detto guarda abbiam visto questi libri x solo l'informazione
@@ -6978,7 +6978,7 @@
 # jefferson_text = bah
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	bah	bah	INTJ	_	_	0	root	_	Backchannel=BOA3017_955-7|Begin=1501.905|End=1502.305|KID=956-0
+1	bah	bah	INTJ	_	_	0	root	_	Backchannel=BOA3017_955::7|Begin=1501.905|End=1502.305|KID=956-0
 
 # sent_id = BOA3017_957
 # text = hai rotto le palle
@@ -7065,7 +7065,7 @@
 # jefferson_text = mh
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_968_970-10|Begin=1527.133|End=1527.583|KID=969-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_968_970::10|Begin=1527.133|End=1527.583|KID=969-0
 
 # sent_id = BOA3017_971_972
 # text = eh che giorno è oggi l'undici aprile
@@ -7272,7 +7272,7 @@
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	ah	ah	INTJ	_	_	0	root	_	Begin=1580.27|KID=996-0
-2	beh	beh	INTJ	_	_	1	discourse	_	Backchannel=BOA3017_993_995-23|End=1581.387|KID=996-1
+2	beh	beh	INTJ	_	_	1	discourse	_	Backchannel=BOA3017_993_995::23|End=1581.387|KID=996-1
 
 # sent_id = BOA3017_997_1000
 # text = potrebbe essere un incentivo a mettere le date giusto per sapere
@@ -7318,7 +7318,7 @@
 # jefferson_text = mh
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_997_1000-11|Begin=1586.449|End=1586.853|KID=1001-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_997_1000::11|Begin=1586.449|End=1586.853|KID=1001-0
 
 # sent_id = BOA3017_1003_1004
 # text = ma sì poi lo sentiranno tra un po' x la x cioè adesso sto lavorando ad altre trascrizioni prima quindi
@@ -7483,7 +7483,7 @@
 # jefferson_text = [ah] | [da registrare]?
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_1022-6|Begin=1615.163|End=1615.888|KID=1023-0|OverlappingGroup=178
+1	ah	ah	INTJ	_	_	3	discourse	_	Backchannel=BOA3017_1022::6|Begin=1615.163|End=1615.888|KID=1023-0|OverlappingGroup=178
 2	da	da	ADP	_	_	3	mark	_	Begin=1616.166|KID=1025-0|OverlappingGroup=179
 3	registrare	registrare	VERB	_	VerbForm=Inf	0	root	_	Coconstruct=acl::BOA3017_1022::6|End=1617.113|Intonation=Rising|KID=1025-1|OverlappingGroup=179
 
@@ -7527,7 +7527,7 @@
 # jefferson_text = no ((ride))
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_1027-2|Begin=1621.509|End=1622.809|KID=1028-0
+1	no	no	ADV	_	_	0	root	_	Backchannel=BOA3017_1027::2|Begin=1621.509|End=1622.809|KID=1028-0
 
 # sent_id = BOA3017_1031
 # text = aveva il corpo di cristo
@@ -7643,7 +7643,7 @@
 # jefferson_text = [ah sì]?
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_1043-10|Begin=1638.391|KID=1044-0|OverlappingGroup=184
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_1043::10|Begin=1638.391|KID=1044-0|OverlappingGroup=184
 2	sì	sì	ADV	_	_	1	discourse	_	End=1639.083|Intonation=Rising|KID=1044-1|OverlappingGroup=184
 
 # sent_id = BOA3017_1046
@@ -7983,7 +7983,7 @@
 # jefferson_text = [mhmh]
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_1087_1091-15|Begin=1696.111|End=1696.694|KID=1089-0|OverlappingGroup=191
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_1087_1091::15|Begin=1696.111|End=1696.694|KID=1089-0|OverlappingGroup=191
 
 # sent_id = BOA3017_1092_1094
 # text = ma quanto m'ha fa~ m'ha fatto ridere quando m'ha raccontato quando t'ha visto per la prima volta che t'ha detto fatte coraggio tipo
@@ -8132,7 +8132,7 @@
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	x	x	X	_	_	0	root	_	Begin=1730.252|KID=1109-0|Syllables=2|Unintelligible=Yes
-2	sì	sì	ADV	_	_	1	discourse	_	Backchannel=BOA3017_1106_1108_1110-16|End=1730.91|KID=1109-1
+2	sì	sì	ADV	_	_	1	discourse	_	Backchannel=BOA3017_1106_1108_1110::16|End=1730.91|KID=1109-1
 
 # sent_id = BOA3017_1111_1112_1113
 # text = mh ho un'amica di santa maria nuova non mi ricordo come si chiama
@@ -8190,7 +8190,7 @@
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	sì	sì	ADV	_	_	2	discourse	_	Begin=1741.065|KID=1117-0
-2	qualcosa	qualcosa	PRON	_	PronType=Ind	0	root	_	Backchannel=BOA3017_1114_1116-9|End=1741.798|KID=1117-1
+2	qualcosa	qualcosa	PRON	_	PronType=Ind	0	root	_	Backchannel=BOA3017_1114_1116::9|End=1741.798|KID=1117-1
 
 # sent_id = BOA3017_1118
 # text = mara chi
@@ -8234,21 +8234,21 @@
 # jefferson_text = sì
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_1122-1|Begin=1747.79|End=1748.148|KID=1123-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_1122::1|Begin=1747.79|End=1748.148|KID=1123-0
 
 # sent_id = BOA3017_1124
 # text = sì
 # jefferson_text = sì
 # speaker_id = BO146
 # conversation_id = BOA3017
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_1122-1|Begin=1748.265|End=1748.565|KID=1124-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA3017_1122::1|Begin=1748.265|End=1748.565|KID=1124-0
 
 # sent_id = BOA3017_1125
 # text = mh
 # jefferson_text = mh
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_1122-1|Begin=1748.81|End=1749.252|KID=1125-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_1122::1|Begin=1748.81|End=1749.252|KID=1125-0
 
 # sent_id = BOA3017_1126
 # text = perché
@@ -8290,7 +8290,7 @@
 # jefferson_text = ah
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_1128_1130-7|Begin=1753.031|End=1753.364|KID=1129-0
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA3017_1128_1130::7|Begin=1753.031|End=1753.364|KID=1129-0
 
 # sent_id = BOA3017_1131
 # text = scienze erobistiche
@@ -8555,7 +8555,7 @@
 # jefferson_text = mh
 # speaker_id = BO139
 # conversation_id = BOA3017
-1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_1158-5|Begin=1805.664|End=1805.914|KID=1159-0
+1	mh	mh	INTJ	_	_	0	root	_	Backchannel=BOA3017_1158::5|Begin=1805.664|End=1805.914|KID=1159-0
 
 # sent_id = BOA3017_1160
 # text = no non li mangio
