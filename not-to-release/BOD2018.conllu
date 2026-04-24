@@ -787,7 +787,7 @@
 
 # sent_id = BOD2018_54b
 # text = esatto
-# jefferson_text = in genera:le in questo momento è la sala: perché:: c' è il cami:no: e:: mh mh: vabbè [ci stiamo] insie:me: esatto: c' è il divano comodo,
+# jefferson_text = esatto:
 # speaker_id = BO140
 # conversation_id = BOD2018
 1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_55::1|KID=54-5|Prolonged=Yes
@@ -1909,7 +1909,7 @@
 1	e	e	CCONJ	_	_	0	root	_	Begin=498.44|KID=127-0|Prolonged=Yes
 2	sì	sì	ADV	_	_	1	parataxis	_	End=499.7|Intonation=Falling|KID=127-1
 
-# sent_id = BOD2018_128_129_130_BOD2018_132
+# sent_id = BOD2018_128_129_130_132
 # text = che poi in quella via son tutti uguali cioè io pure tipo x avevo visto una casa quando cercavo casa l'anno scorso e e fuori più o meno son tutti uguali gli edifici in quella via x in quella via
 # jefferson_text = che poi in quella via son tutti uguali. cioè io pure tipo, | xxx avevo visto una casa: quando cercavo casa:: l'anno scorso, | e:: e fuori più o meno son tutti uguali gli edifici. [in quella via xx] in quella [via]
 # speaker_id = BO118
@@ -4711,7 +4711,7 @@
 
 # sent_id = BOD2018_301_302
 # text = eh ma è che l'amministrazione mh non è interessata probabilmente cioè nel senso negli ultimi due anni mi sto accorgendo che stan cercando di far dei passi avanti
-# jefferson_text = [eh ma è che l'ammini]strazione:: mh: non è interessata probabilmente cioè nel senso negli ultimi due anni mi sto accorgendo che stan cercando di far dei passi avanti
+# jefferson_text = [eh ma è che l'ammini]strazione:: mh: | non è interessata probabilmente cioè nel senso negli ultimi due anni mi sto accorgendo che stan cercando di far dei passi avanti
 # speaker_id = BO140
 # conversation_id = BOD2018
 1	eh	eh	INTJ	_	_	3	discourse	_	Begin=1197.727|KID=301-0|OverlappingGroup=59
