@@ -281,8 +281,8 @@
 # speaker_id = BO146
 # conversation_id = BOA3017
 1	non	non	ADV	_	PronType=Neg	4	advmod	_	Begin=53.503|KID=41-0|OverlappingGroup=5
-2	ce	ce	PRON	_	_	4	expl	_	KID=41-1
-3	l'	lo	PRON	_	_	4	obj	_	KID=41-1bis|SpaceAfter=No
+2	ce	ce	PRON	_	PronType=Prs	4	expl	_	KID=41-1
+3	l'	lo	PRON	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Prs	4	obj	_	KID=41-1bis|SpaceAfter=No
 4	ha	avere	VERB	_	_	0	root	_	KID=41-1ter
 5	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	KID=41-2
 6	brioche	brioche	NOUN	_	Gender=Fem|Number=Sing	4	dislocated	_	KID=41-3
@@ -3016,7 +3016,7 @@
 # jefferson_text = u picc' d mammt
 # speaker_id = BO147
 # conversation_id = BOA3017
-1	u	u	DET	_	_	2	det	_	Begin=609.86|KID=405-0|Variation=Yes
+1	u	u	DET	_	PronType=Art	2	det	_	Begin=609.86|KID=405-0|Variation=Yes
 2	picc'	picc'	NOUN	_	_	0	root	_	KID=405-1|Variation=Yes
 3	d	d	ADP	_	_	4	case	_	KID=405-2|Variation=Yes
 4	mammt	mammt	NOUN	_	_	2	nmod	_	End=612.09|KID=405-3|Variation=Yes
@@ -3660,7 +3660,7 @@
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	quasi	quasi	ADV	_	_	2	advmod	_	Begin=732.652|KID=496-0
-2	quanto	quanto	PRON	_	_	0	root	_	End=734.092|KID=496-1
+2	quanto	quanto	PRON	_	PronType=Int	0	root	_	End=734.092|KID=496-1
 3	x	x	X	_	_	2	dep	_	Begin=735.932|End=736.732|KID=498-0|Syllables=3|Unintelligible=Yes
 
 # sent_id = BOA3017_499
@@ -6518,7 +6518,7 @@
 5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=913-4
 6	attimo	attimo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	KID=913-5
 7	quell'	quello	DET	_	PronType=Dem	8	det	_	KID=913-6|SpaceAfter=No
-8	altra	altro	PRON	_	Gender=Fem|Number=Sing	4	appos	_	KID=913-7
+8	altra	altro	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	4	appos	_	KID=913-7
 9-10	della	_	_	_	_	_	_	_	KID=913-8
 9	di	di	ADP	_	_	11	case	_	KID=913-8a
 10	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=913-8b
