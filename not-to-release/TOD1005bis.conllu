@@ -205,7 +205,7 @@
 1	intanto	intanto	ADV	_	VerbForm=Ger	3	advmod	_	Begin=44.608|KID=18-0
 2	che	che	ADJ	_	PronType=Int	3	det	_	KID=18-1
 3	ore	ora	NOUN	_	Gender=Fem|Number=Plur	0	root	_	KID=18-2
-4	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	End=45.492|KID=18-3
+4	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	End=45.492|KID=18-3
 
 # sent_id = TOD1005bis_19
 # text = questa prima domanda fondamentale
@@ -229,7 +229,7 @@
 # jefferson_text = quanto sono diversi? i dialetti? uno dall' altro?
 # speaker_id = TO017
 1	quanto	quanto	ADV	_	_	3	advmod	_	Begin=49.046|KID=21-0
-2	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=21-1
+2	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=21-1
 3	diversi	diverso	ADJ	_	PronType=Ind	0	root	_	End=50.086|Intonation=rising|KID=21-2
 4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Begin=50.454|KID=22-0
 5	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	End=51.278|Intonation=rising|KID=22-1
@@ -332,7 +332,7 @@
 # speaker_id = TO017
 1	okay	okay	INTJ	_	_	5	discourse	_	Begin=75.039|KID=35-0
 2	questi	questo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	KID=35-1
-3	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=35-2
+3	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=35-2
 4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=35-3
 5	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	0	root	_	KID=35-4
 6	di	di	ADP	_	_	7	case	_	KID=35-5
@@ -460,14 +460,14 @@
 # speaker_id = TO017
 1	perché	perché	SCONJ	_	_	5	mark	_	Begin=107.468|KID=45-0
 2	qual	quale	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	mark	_	KID=45-1
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=45-2
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=45-2
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=45-3
 5	problema	problema	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Intonation=falling|KID=45-4
 6	che	che	SCONJ	_	_	8	case	_	KID=45-5
 7	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	KID=45-6|Truncated=Yes
 8	alfabeto	alfabeto	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	KID=45-7|PauseAfter=Yes
 9	arabo	arabo	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	End=110.399|Intonation=weakly_rising|KID=45-9
-10	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	Begin=110.921|KID=46-0
+10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	Begin=110.921|KID=46-0
 11	perfetto	perfetto	ADJ	_	Gender=Masc|Number=Sing	5	advcl:relcl	_	KID=46-1
 12	per	per	ADP	_	_	13	mark	_	KID=46-2
 13	scrivere	scrivere	VERB	_	VerbForm=Inf	11	advcl	_	KID=46-3
@@ -888,7 +888,7 @@
 # jefferson_text = comunque sono gli a:rabi in arabia saudi:ta,
 # speaker_id = TO017
 1	comunque	comunque	CCONJ	_	_	4	cc	_	Begin=197.741|KID=85-0
-2	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=85-1
+2	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=85-1
 3	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=85-2
 4	arabi	arabo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	KID=85-3|Prolonged=Yes
 5	in	in	ADP	_	_	6	case	_	KID=85-4
@@ -952,7 +952,7 @@
 # jefferson_text = ed è sempre la stessa frase.
 # speaker_id = TO017
 1	ed	e	CCONJ	_	_	6	cc	_	Begin=208.767|KID=94-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=94-1
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=94-1
 3	sempre	sempre	ADV	_	_	6	advmod	_	KID=94-2
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=94-3
 5	stessa	stesso	ADJ	_	PronType=Dem	6	amod	_	KID=94-4
@@ -995,7 +995,7 @@
 5	dire	dire	VERB	_	VerbForm=Inf	3	advcl	_	KID=98-5
 6	che	che	SCONJ	_	_	10	mark	_	KID=98-6
 7	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	KID=98-7
-8	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	KID=98-8
+8	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	KID=98-8
 9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=98-9
 10	lessico	lessico	NOUN	_	Gender=Masc|Number=Sing	5	ccomp	_	KID=98-10
 11	di	di	ADP	_	_	12	case	_	KID=98-11
@@ -1036,7 +1036,7 @@
 1	d'	di	ADP	_	_	2	case	_	Begin=224.899|KID=101-0|Truncated=Yes|Volume=low
 2	accordo	accordo	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	Intonation=weakly_rising|KID=101-1|Volume=low
 3	pidginizzazione	pidginizzazione	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	KID=101-2
-4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=101-3
+4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=101-3
 5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=101-4
 6	parola	parola	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=101-5
 7	che	che	SCONJ	_	PronType=Rel	8	nsubj	_	KID=101-6
@@ -1049,7 +1049,7 @@
 # text = è dappertutto
 # jefferson_text = è dappertutto.
 # speaker_id = TO017
-1	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Begin=227.489|KID=102-0
+1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Begin=227.489|KID=102-0
 2	dappertutto	dappertutto	ADV	_	_	0	root	_	End=228.247|Intonation=falling|KID=102-1
 
 # sent_id = TOD1005bis_103
@@ -1111,7 +1111,7 @@
 12	da	da	ADP	_	_	14	case	_	KID=106-10a
 13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	KID=106-10b
 14	classico	classico	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	KID=106-11
-15	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	KID=106-12
+15	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	KID=106-12
 16	notevolissima	notevole	ADJ	_	Degree=Abs|Gender=Fem|Number=Sing	0	root	_	End=239.9|Intonation=falling|KID=106-13
 
 # sent_id = TOD1005bis_107
@@ -1187,9 +1187,9 @@
 2	sì	sì	ADV	_	_	8	advmod	_	KID=122-1
 3	sì	sì	ADV	_	_	8	advmod	_	KID=122-2
 4	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	10	reparandum	_	KID=122-3
-5	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=122-4|ProsodicLink=Yes
-6	sono	essere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	KID=122-5
-7	sono	essere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	KID=122-6
+5	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=122-4|ProsodicLink=Yes
+6	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	KID=122-5
+7	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	cop	_	KID=122-6
 8	sicuro	sicuro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	KID=122-7
 9	che	che	SCONJ	_	_	11	mark	_	KID=122-8
 10	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	11	nsubj	_	KID=122-9
@@ -1830,7 +1830,7 @@
 # text = è abbastanza strano anche x in mauritania che ha x e x
 # jefferson_text = è abbastanza strano anche xxx in mauritania che ha, xxx, e xxx.
 # speaker_id = TO017
-1	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Begin=401.056|KID=181-0
+1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Begin=401.056|KID=181-0
 2	abbastanza	abbastanza	ADV	_	_	3	advmod	_	KID=181-1
 3	strano	strano	ADJ	_	Gender=Masc|Number=Sing	0	root	_	KID=181-2
 4	anche	anche	ADV	_	_	5	advmod	_	KID=181-3
@@ -1894,7 +1894,7 @@
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	4	cc	_	Begin=414.911|KID=189-0
 2	queste	questo	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	4	nsubj	_	KID=189-1
-3	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=189-2
+3	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=189-2
 4	alcune	alcuno	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	0	root	_	KID=189-3|Prolonged=Yes
 5	solo	solo	ADV	_	_	8	advmod	_	KID=189-4|PauseAfter=Yes
 6-7	delle	_	_	_	_	_	_	_	KID=189-6
@@ -1956,7 +1956,7 @@
 4	di	di	ADP	_	_	5	case	_	Begin=436.214|KID=196-0
 5	classificazione	classificazione	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	End=437.352|Intonation=falling|KID=196-1
 6	che	che	SCONJ	_	PronType=Rel	8	nsubj	_	Begin=438.705|KID=197-0
-7	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=197-1
+7	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=197-1
 8	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	5	advcl:relcl	_	End=439.544|Intonation=falling|KID=197-2
 
 # sent_id = TOD1005bis_198
@@ -1999,7 +1999,7 @@
 2	tutti	tutto	DET	_	PronType=Ind	4	det:predet	_	KID=200-1
 3	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	KID=200-2|PaceFast=Yes
 4	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	KID=200-3
-5	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=200-4
+5	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=200-4
 6	diversissimi	diverso	ADJ	_	Gender=Masc|Number=Plur	0	root	_	KID=200-5|PaceSlow=Yes|Prolonged=Yes
 
 # sent_id = TOD1005bis_200b
@@ -2032,7 +2032,7 @@
 # text = è impossibile
 # jefferson_text = è impossibile.
 # speaker_id = TO017
-1	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Begin=452.343|KID=201-0
+1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Begin=452.343|KID=201-0
 2	impossibile	impossibile	ADJ	_	Number=Sing	0	root	_	End=453.118|Intonation=falling|KID=201-1
 
 # sent_id = TOD1005bis_202
@@ -2269,7 +2269,7 @@
 10	ormai	ormai	ADV	_	_	11	advmod	_	KID=222-4
 11	estinta	estinto	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	amod	_	KID=222-5
 12	che	che	SCONJ	_	_	15	nsubj	_	KID=222-6
-13	sarebbe	essere	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	KID=222-7
+13	sarebbe	essere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	KID=222-7
 14	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	KID=222-8
 15	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	9	acl:relcl	_	KID=222-9
 16	nonno	nonno	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	KID=222-10
@@ -2541,7 +2541,7 @@
 # speaker_id = TO017
 1	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	KID=246-6|Truncated=Yes
 2	arabo	arabo	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	KID=246-7
-3	son	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=246-8
+3	son	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=246-8
 4	tutte	tutto	DET	_	PronType=Ind	6	det:predet	_	KID=246-9
 5	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	KID=246-10
 6	lingue	lingua	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=246-11
@@ -2679,7 +2679,7 @@
 # text = sono due domande che son più o meno la stessa domanda
 # jefferson_text = sono due domande che son più o meno la stessa domanda,
 # speaker_id = TO017
-1	sono	essere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	Begin=631.558|KID=264-0
+1	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	Begin=631.558|KID=264-0
 2	due	due	DET	_	NumType=Card	3	nummod	_	KID=264-1
 3	domande	domanda	NOUN	_	Gender=Fem|Number=Plur	0	root	_	KID=264-2
 4	che	che	SCONJ	_	PronType=Rel	5	nsubj	_	KID=264-3
@@ -2715,7 +2715,7 @@
 # speaker_id = TO017
 1	o	o	CCONJ	_	_	2	cc	_	Begin=639.927|KID=267-0
 2	qual	quale	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	KID=267-1
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	KID=267-2
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	KID=267-2
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=267-3
 5	prima	primo	DET	_	Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	KID=267-4
 6	attestazione	attestazione	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	KID=267-5|Prolonged=Yes
@@ -2809,7 +2809,7 @@
 # text = siete preparatissimi su questi
 # jefferson_text = l' iscrizione del re imru al qays s:iete <preparatissimi>. su questi:,
 # speaker_id = TO017
-1	siete	essere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	cop	_	KID=277-7|Prolonged=Yes
+1	siete	essere	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	cop	_	KID=277-7|Prolonged=Yes
 2	preparatissimi	preparato	ADJ	_	Gender=Masc|Number=Plur	0	root	_	Intonation=falling|KID=277-8|PaceSlow=Yes
 3	su	su	ADP	_	_	4	case	_	KID=277-9
 4	questi	questo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	2	obl	_	End=660.764|Intonation=weakly_rising|KID=277-10|Prolonged=Yes
@@ -2825,7 +2825,7 @@
 # jefferson_text = questo è rossi (.) che vi [fa il primo anno],
 # speaker_id = TO017
 1	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	Begin=661.761|KID=279-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=279-1
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=279-1
 3	rossi	Rossi	PROPN	_	Gender=Masc|Number=Plur	0	root	_	KID=279-2|PauseAfter=Yes
 4	che	che	SCONJ	_	_	6	mark	_	KID=279-4
 5	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	6	expl	_	KID=279-5
@@ -2920,7 +2920,7 @@
 7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=287-7|Volume=low
 8	regno	regno	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=287-8|Volume=low
 9	nabateo	nabateo	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	KID=287-9|Volume=low
-10	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	End=682.506|KID=287-10|Volume=low
+10	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	End=682.506|KID=287-10|Volume=low
 
 # sent_id = TOD1005bis_288
 # text = che poi lo vediamo comunque era attestato in quella che è oggi o
@@ -3655,8 +3655,8 @@
 # jefferson_text = questa è è una cosa che dico io qua ade:sso,
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	5	nsubj	_	Begin=871.712|KID=358-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=358-1
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=358-2
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=358-1
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=358-2
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=358-3
 5	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=358-4
 6	che	che	SCONJ	_	PronType=Rel	7	obj	_	KID=358-5
@@ -3694,7 +3694,7 @@
 # jefferson_text = eh, è soltanto una definizione che ci fa comodo a noi,
 # speaker_id = TO017
 1	eh	eh	INTJ	_	_	5	discourse	_	Begin=878.811|Intonation=weakly_rising|KID=360-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=360-1
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=360-1
 3	soltanto	soltanto	ADV	_	VerbForm=Ger	5	advmod	_	KID=360-2
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=360-3
 5	definizione	definizione	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=360-4
@@ -3967,7 +3967,7 @@
 # speaker_id = TO017
 1	eh	eh	INTJ	_	_	4	discourse	_	Begin=955.987|Intonation=falling|KID=389-0
 2	ovviamente	ovviamente	ADV	_	_	4	advmod	_	KID=389-1
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=389-2
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=389-2
 4	difficile	difficile	ADJ	_	Number=Sing	0	root	_	KID=389-3
 5	fare	fare	VERB	_	VerbForm=Inf	4	csubj	_	KID=389-4
 6	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	KID=389-5
@@ -4235,7 +4235,7 @@
 # jefferson_text = quindi è molto facile descrivere una lingua mi basta una registrazione di uno, che la parli
 # speaker_id = TO017
 1	quindi	quindi	CCONJ	_	_	4	cc	_	Begin=1018.409|KID=404-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=404-1
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=404-1
 3	molto	molto	ADV	_	_	4	advmod	_	KID=404-2
 4	facile	facile	ADJ	_	Number=Sing	0	root	_	KID=404-3
 5	descrivere	descrivere	VERB	_	VerbForm=Inf	4	csubj	_	KID=404-4
@@ -4352,7 +4352,7 @@
 2	qualsiasi	qualsiasi	DET	_	PronType=Ind	3	det	_	KID=414-1
 3	ragione	ragione	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	KID=414-2|PauseAfter=Yes
 4	poteva	potere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	KID=414-4
-5	essere	essere	VERB	_	VerbForm=Inf	7	cop	_	KID=414-5
+5	essere	essere	AUX	_	VerbForm=Inf	7	cop	_	KID=414-5
 6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=414-6
 7	tomba	tomba	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Intonation=weakly_rising|KID=414-7
 8	come	come	ADP	_	_	11	case	_	KID=414-8
@@ -4372,7 +4372,7 @@
 # jefferson_text = poteva essere uno che si annoiava e ha scritto: su un sasso: boh mi annoio ciao.
 # speaker_id = TO017
 1	poteva	potere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	Begin=1058.662|KID=415-0
-2	essere	essere	VERB	_	VerbForm=Inf	3	cop	_	KID=415-1
+2	essere	essere	AUX	_	VerbForm=Inf	3	cop	_	KID=415-1
 3	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	KID=415-2
 4	che	che	SCONJ	_	PronType=Rel	6	nsubj	_	KID=415-3
 5	si	si	PRON	_	Person=3|PronType=Prs	6	expl	_	KID=415-4
@@ -5179,7 +5179,7 @@
 3	di	di	ADP	_	_	5	case	_	KID=476-2
 4	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	KID=476-3
 5	documenti	documento	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	KID=476-4
-6	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	KID=476-5
+6	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	KID=476-5
 7	proprio	proprio	ADV	_	_	10	advmod	_	KID=476-6|PauseAfter=Yes
 8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=476-8
 9	prima	primo	DET	_	Gender=Fem|Number=Sing|NumType=Ord	10	amod	_	KID=476-9
@@ -5217,7 +5217,7 @@
 # jefferson_text = che è questo.
 # speaker_id = TO017
 1	che	che	SCONJ	_	PronType=Rel	3	nsubj	_	Begin=1271.398|KID=481-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=481-1
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=481-1
 3	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	End=1272.186|Intonation=falling|KID=481-2
 
 # sent_id = TOD1005bis_482
@@ -5341,7 +5341,7 @@
 # jefferson_text = quindi è anche difficile la ricostruzione della pronuncia esatta
 # speaker_id = TO017
 1	quindi	quindi	CCONJ	_	_	4	cc	_	Begin=1302.394|End=1302.756|KID=491-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Begin=1302.974|KID=492-0
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Begin=1302.974|KID=492-0
 3	anche	anche	ADV	_	_	4	advmod	_	KID=492-1
 4	difficile	difficile	ADJ	_	Number=Sing	0	root	_	KID=492-2
 5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=492-3
@@ -5426,7 +5426,7 @@
 6	la	la	X	_	_	8	reparandum	_	Interrupted=Yes|KID=500-5
 7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=500-6
 8	traduzione	traduzione	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	KID=500-7|PauseAfter=Yes
-9	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=500-9|PauseAfter=Yes
+9	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=500-9|PauseAfter=Yes
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=500-11
 11	po'	po'	ADJ	_	_	12	advmod	_	KID=500-12
 12	problematica	problematico	ADJ	_	Gender=Fem|Number=Sing	4	conj:reform	_	End=1326.055|Intonation=falling|KID=500-13
@@ -5611,7 +5611,7 @@
 7	muro	muro	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	KID=516-6
 8	ah	ah	INTJ	_	_	12	discourse	_	KID=516-7
 9	matteo	Matteo	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	KID=516-8
-10	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=516-9|Prolonged=Yes
+10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=516-9|Prolonged=Yes
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=516-10
 12	napoletano	napoletano	ADJ	_	Gender=Masc|Number=Sing	0	root	_	End=1363.531|KID=516-11
 
@@ -5673,7 +5673,7 @@
 1	quindi	quindi	CCONJ	_	_	6	cc	_	Begin=1374.03|KID=520-0
 2	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	KID=520-1
 3	non	non	ADV	_	PronType=Neg	6	advmod	_	KID=520-2
-4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=520-3
+4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=520-3
 5	particolamente	particolamente	ADV	_	_	6	advmod	_	KID=520-4
 6	utile	utile	ADJ	_	Number=Sing	0	root	_	Intonation=falling|KID=520-5
 
@@ -5683,7 +5683,7 @@
 # speaker_id = TO017
 1	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	KID=520-6
 2	che	che	SCONJ	_	PronType=Rel	7	nsubj	_	KID=520-7
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=520-8
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=520-8
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=520-9
 5	po'	poco	ADV	_	_	6	advmod	_	KID=520-10
 6	più	più	ADV	_	_	7	advmod	_	KID=520-11
@@ -5786,7 +5786,7 @@
 30	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	31	iobj	_	KID=529-7
 31	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	KID=529-8
 32	quanto	quanto	ADV	_	_	34	advmod	_	KID=529-9
-33	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	cop	_	KID=529-10
+33	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	cop	_	KID=529-10
 34	vecchio	vecchio	ADJ	_	Gender=Masc|Number=Sing	31	acl	_	End=1403.465|Intonation=falling|KID=529-11
 
 # sent_id = TOD1005bis_530
@@ -5864,7 +5864,7 @@
 1	o	o	CCONJ	_	_	6	cc	_	Begin=1415.756|KID=534-0
 2	qualcuno	qualcuno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	KID=534-1
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	KID=534-2
-4	stato	essere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	KID=534-3
+4	stato	essere	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	cop	_	KID=534-3
 5	abbastanza	abbastanza	ADV	_	_	6	advmod	_	KID=534-4
 6	gentile	gentile	ADJ	_	Number=Sing	0	root	_	KID=534-5
 7	da	da	ADP	_	_	8	mark	_	KID=534-6
@@ -6053,7 +6053,7 @@
 7	in	in	ADP	_	_	9	case	_	KID=558-6a
 8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=558-6b
 9	storia	storia	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	KID=558-7
-10	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=558-8
+10	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=558-8
 11	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	KID=558-9
 12	annali	annale	NOUN	_	Gender=Masc|Number=Plur	0	root	_	KID=558-10
 13	di	di	ADP	_	_	16	case	_	KID=558-11
@@ -6109,7 +6109,7 @@
 14	offerte	offerta	NOUN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis	_	KID=560-12|PaceSlow=Yes
 15	perché	perché	SCONJ	_	_	18	mark	_	KID=560-13
 16	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	18	nsubj	_	KID=560-14
-17	sono	essere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	cop	_	KID=560-15
+17	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	18	cop	_	KID=560-15
 18	bellissimo	bello	ADJ	_	Degree=Abs|Gender=Masc|Number=Sing	14	advcl	_	End=1484.026|KID=560-16
 
 # sent_id = TOD1005bis_561
@@ -6144,7 +6144,7 @@
 2	qua	qua	ADV	_	_	6	advmod	_	KID=564-1
 3	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	KID=564-2|Truncated=Yes
 4	interpretazione	interpretazione	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	KID=564-3
-5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=564-4
+5	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=564-4
 6	controversa	controverso	ADJ	_	Gender=Fem|Number=Sing	0	root	_	End=1491.554|KID=564-5
 
 # sent_id = TOD1005bis_565a
@@ -6220,7 +6220,7 @@
 # jefferson_text = comunque è l' ottavo secolo.
 # speaker_id = TO017
 1	comunque	comunque	CCONJ	_	_	5	cc	_	Begin=1505.946|KID=570-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=570-1
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=570-1
 3	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	KID=570-2|Truncated=Yes
 4	ottavo	ottavo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	KID=570-3
 5	secolo	secolo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	End=1507.34|Intonation=falling|KID=570-4
@@ -6301,7 +6301,7 @@
 # text = sono due parole che avete ancora oggi in arabo
 # jefferson_text = sono due parole che avete ancora oggi in arabo
 # speaker_id = TO017
-1	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Begin=1525.993|KID=580-0
+1	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Begin=1525.993|KID=580-0
 2	due	due	DET	_	NumType=Card	3	nummod	_	KID=580-1
 3	parole	parola	NOUN	_	Gender=Fem|Number=Plur	0	root	_	KID=580-2
 4	che	che	SCONJ	_	_	5	nsubj	_	KID=580-3
@@ -6422,7 +6422,7 @@
 # text = è cammello maschio giovane
 # jefferson_text = è cammello maschio giovane.
 # speaker_id = TO017
-1	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Begin=1550.693|KID=592-0
+1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Begin=1550.693|KID=592-0
 2	cammello	cammello	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=592-1
 3	maschio	maschio	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	KID=592-2
 4	giovane	giovane	ADJ	_	Number=Sing	3	amod	_	End=1551.981|Intonation=falling|KID=592-3
@@ -6434,7 +6434,7 @@
 1	se	se	SCONJ	_	_	5	mark	_	Begin=1554.693|KID=593-0|PauseAfter=Yes
 2	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	KID=593-2
 3	interpretazione	interpretazione	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	KID=593-3
-4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=593-4
+4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=593-4
 5	corretta	corretto	ADJ	_	Gender=Fem|Number=Sing	7	advcl	_	KID=593-5
 6	vuol	volere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	KID=593-6
 7	dire	dire	VERB	_	VerbForm=Inf	0	root	_	KID=593-7
@@ -6499,7 +6499,7 @@
 # speaker_id = TO017
 1	ovviamente	ovviamente	ADV	_	_	5	advmod	_	Begin=1572.506|KID=600-0
 2	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	KID=600-1
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=600-2
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=600-2
 4	molto	molto	ADV	_	_	5	advmod	_	KID=600-3
 5	poco	poco	ADJ	_	_	0	root	_	End=1573.931|Intonation=falling|KID=600-4
 
@@ -6507,7 +6507,7 @@
 # text = è talmente poco che è praticamente nulla
 # jefferson_text = è talmente poco che è praticamente nulla.
 # speaker_id = TO017
-1	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Begin=1574.043|KID=601-0
+1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	Begin=1574.043|KID=601-0
 2	talmente	talmente	ADV	_	_	3	advmod	_	KID=601-1
 3	poco	poco	ADJ	_	_	0	root	_	KID=601-2
 4	che	che	SCONJ	_	_	5	nsubj	_	KID=601-3
@@ -6760,7 +6760,7 @@
 # jefferson_text = dove oggi ci sono questa è una
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	KID=628-4
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=628-5
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=628-5
 3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	0	root	_	End=1640.037|KID=628-6
 
 # sent_id = TOD1005bis_629
@@ -6768,7 +6768,7 @@
 # jefferson_text = questa è una cartina moderna eh ragazzi.
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	Begin=1640.812|KID=629-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=629-1
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=629-1
 3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=629-2
 4	cartina	cartina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=629-3
 5	moderna	moderno	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	KID=629-4
@@ -6905,7 +6905,7 @@
 # text = erano regno sabeo
 # jefferson_text = erano regno sabe:o
 # speaker_id = TO017
-1	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	Begin=1667.251|KID=641-0
+1	erano	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	Begin=1667.251|KID=641-0
 2	regno	regno	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=641-1
 3	sabeo	sabeo	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	End=1668.498|KID=641-2|Prolonged=Yes
 
@@ -7344,7 +7344,7 @@
 # jefferson_text = non è vero,
 # speaker_id = TO017
 1	non	non	ADV	_	PronType=Neg	3	advmod	_	Begin=1777.894|KID=698-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=698-1
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=698-1
 3	vero	vero	ADJ	_	Gender=Masc|Number=Sing	0	root	_	End=1778.947|Intonation=weakly_rising|KID=698-2
 
 # sent_id = TOD1005bis_699
@@ -7364,7 +7364,7 @@
 # jefferson_text = questa è la re:sina dell' albero dell' incenso. l' albero l' olibano.
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	Begin=1784.693|KID=701-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=701-1
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=701-1
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=701-2
 4	resina	resina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=701-3|Prolonged=Yes
 5-6	dell'	_	_	_	_	_	_	_	KID=701-4|Truncated=Yes
@@ -7477,7 +7477,7 @@
 # text = erano gli unici che lo producevano
 # jefferson_text = erano gli unici che lo producevano avevano il monopolio mondiale dell' incenso
 # speaker_id = TO017
-1	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	Begin=1817.65|KID=714-0
+1	erano	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	Begin=1817.65|KID=714-0
 2	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	KID=714-1
 3	unici	unico	NOUN	_	Gender=Masc|Number=Plur	0	nsubj	_	KID=714-2
 4	che	che	SCONJ	_	PronType=Rel	6	nsubj	_	KID=714-3
@@ -7666,7 +7666,7 @@
 10	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	KID=729-7b
 11	antilibano	Anti-Libano	PROPN	_	Gender=Masc|Number=Sing	7	nmod	_	KID=729-8
 12	che	che	SCONJ	_	PronType=Rel	15	nsubj	_	KID=729-9
-13	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	KID=729-10
+13	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	KID=729-10
 14	sempre	sempre	ADV	_	_	15	advmod	_	KID=729-11
 15	bianca	bianco	ADJ	_	Gender=Fem|Number=Sing	7	acl:relcl	_	KID=729-12
 16	di	di	ADP	_	_	17	case	_	KID=729-13
@@ -7961,7 +7961,7 @@
 # jefferson_text = e infatti luban (tutto) fuori dal mondo arabo luban è la parola per dire:. e:::h >chewing gum. vero<?
 # speaker_id = TO017
 1	luban	luban	NOUN	_	Gender=Masc	4	nsubj	_	KID=753-8
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=753-9
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=753-9
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=753-10
 4	parola	parola	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=753-11
 5	per	per	ADP	_	_	6	mark	_	KID=753-12
@@ -8263,7 +8263,7 @@
 1	sapete	sapere	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=1997.0|KID=782-0
 2	che	che	ADJ	_	_	5	mark	_	KID=782-1
 3	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	nsubj	_	KID=782-2
-4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=782-3
+4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=782-3
 5	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	1	ccomp	_	Intonation=weakly_rising|KID=782-4
 6	o	o	CCONJ	_	_	9	cc	_	KID=782-5
 7	che	che	ADJ	_	PronType=Int	9	mark	_	KID=782-6
@@ -8494,7 +8494,7 @@
 # speaker_id = TO017
 1	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	Begin=2046.393|KID=800-0
 2	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=800-1
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=800-2
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=800-2
 4	particolarmente	particolarmente	ADV	_	_	5	advmod	_	KID=800-3
 5	rilevante	rilevante	ADJ	_	Number=Sing	0	root	_	KID=800-4
 6	per	per	ADP	_	_	7	case	_	KID=800-5
@@ -8691,7 +8691,7 @@
 # text = è soltanto un' etichetta che noi abbiamo per una serie di lingue che venivano scritte in in nell' area enorme de~ di quella che più o meno oggi è l' arabia saudita
 # jefferson_text = è soltanto un' etichetta che noi abbiamo per una serie di lingue che venivano <scritte> in~ in~ nell' area enorme: de~ di quella che più o meno oggi è l' arabia saudita
 # speaker_id = TO017
-1	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Begin=2095.82|KID=821-0
+1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Begin=2095.82|KID=821-0
 2	soltanto	soltanto	ADV	_	VerbForm=Ger	4	advmod	_	KID=821-1
 3	un'	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=821-2|Truncated=Yes
 4	etichetta	etichetta	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=821-3
@@ -8769,7 +8769,7 @@
 # jefferson_text = iscrizioni sono indecifrabili nessuno ha ancora capito cosa c' è scritto
 # speaker_id = TO017
 1	iscrizioni	iscrizione	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	Begin=2115.221|KID=830-0
-2	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=830-1
+2	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=830-1
 3	indecifrabili	indecifrabile	ADJ	_	Number=Plur	0	root	_	KID=830-2
 4	nessuno	nessuno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	KID=830-3
 5	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	KID=830-4
@@ -8807,7 +8807,7 @@
 21	che	che	SCONJ	_	PronType=Rel	26	nsubj	_	KID=832-3
 22	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	KID=832-4
 23	oggi	oggi	ADV	_	_	26	advmod	_	KID=832-5
-24	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	KID=832-6
+24	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	KID=832-6
 25	lo	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	KID=832-7
 26	yemen	Yemen	PROPN	_	Number=Sing	20	acl:relcl	_	KID=832-8
 27	e	e	CCONJ	_	_	29	cc	_	KID=832-9
@@ -9269,7 +9269,7 @@
 4	come	come	ADP	_	_	6	case	_	KID=876-3
 5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=876-4
 6	specie	specie	NOUN	_	_	3	obl	_	Interrupted=Yes|KID=876-5
-7	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	KID=876-6
+7	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	KID=876-6
 8	forse	forse	ADV	_	_	10	advmod	_	KID=876-7
 9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=876-8
 10	specie	specie	NOUN	_	Gender=Fem	3	conj:reform	_	KID=876-9
@@ -9578,7 +9578,7 @@
 # speaker_id = TO017
 1	eh	eh	INTJ	_	_	4	discourse	_	Begin=2305.499|KID=905-0
 2	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	KID=905-1
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=905-2
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=905-2
 4	una	uno	PRON	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	0	obl	_	KID=905-3
 5-6	delle	_	_	_	_	_	_	_	KID=905-4
 5	di	di	ADP	_	_	7	case	_	KID=905-4a
@@ -9681,7 +9681,7 @@
 10	che	che	SCONJ	_	PronType=Rel	15	nsubj	_	KID=910-9
 11	secondo	secondo	ADP	_	_	12	case	_	KID=910-10|PaceFast=Yes
 12	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	15	obl	_	KID=910-11|PaceFast=Yes
-13	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	KID=910-12
+13	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	KID=910-12
 14	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	KID=910-13
 15	versione	versione	NOUN	_	Gender=Fem|Number=Sing	9	acl:relcl	_	KID=910-14
 16	più	più	ADV	_	_	17	advmod	_	KID=910-15
@@ -9765,7 +9765,7 @@
 8	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	KID=913-6
 9	nostre	nostro	DET	_	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	10	det:poss	_	KID=913-7
 10	conoscenze	conoscenza	NOUN	_	Gender=Fem|Number=Plur	12	nsubj	_	KID=913-8
-11	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=913-9
+11	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=913-9
 12	queste	questo	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	0	root	_	End=2343.437|Intonation=falling|KID=913-10
 
 # sent_id = TOD1005bis_914
@@ -10409,7 +10409,7 @@
 5	in	in	ADP	_	_	6	case	_	KID=981-4
 6	particolare	particolare	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	KID=981-5
 7	che	che	SCONJ	_	_	10	nsubj	_	KID=981-6
-8	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	KID=981-7
+8	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	KID=981-7
 9	più	più	ADV	_	_	10	advmod	_	KID=981-8
 10	vecchia	vecchio	ADJ	_	Gender=Fem|Number=Sing	4	acl:relcl	_	End=2512.194|Intonation=falling|KID=981-9
 
@@ -10428,7 +10428,7 @@
 1	il~	X	X	_	_	_	_	_	Begin=2514.384|Interrupted=Yes|KID=983-0
 2	e	e	CCONJ	_	_	3	cc	_	KID=983-1
 3	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	6	nsubj	_	KID=983-2
-4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=983-3
+4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=983-3
 5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=983-4
 6	datazione	datazione	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=983-5
 7	media	medio	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	End=2516.02|Intonation=falling|KID=983-6
@@ -10507,7 +10507,7 @@
 # jefferson_text = questa è la scrittura safaitica.
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	Begin=2530.182|KID=991-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=991-1
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=991-1
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=991-2
 4	scrittura	scrittura	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=991-3
 5	safaitica	safaitico	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	End=2531.582|Intonation=falling|KID=991-4
@@ -10522,7 +10522,7 @@
 4	a	a	ADP	_	_	6	case	_	KID=992-3
 5	quell'	quello	DET	_	PronType=Dem	6	det	_	KID=992-4|Truncated=Yes
 6	alfabeto	alfabeto	NOUN	_	_	3	iobj	_	Interrupted=Yes|KID=992-5
-7	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=992-6
+7	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=992-6
 8	diversa	diverso	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	conj:reform	_	Intonation=falling|KID=992-7
 9	ma	ma	CCONJ	_	_	10	cc	_	KID=992-8
 10	assomiglia	assomigliare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	KID=992-9
@@ -10789,7 +10789,7 @@
 # jefferson_text = quindi è possibile (.) che <in questa zona> all' epoca ci fossero delle persone che parlavano arabo o comunque qualcosa di riconoscibile come arabo?
 # speaker_id = TO017
 1	quindi	quindi	CCONJ	_	_	3	cc	_	Begin=2622.541|KID=1018-0
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=1018-1
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=1018-1
 3	possibile	possibile	ADJ	_	Number=Sing	0	root	_	KID=1018-2|PauseAfter=Yes
 4	che	che	SCONJ	_	_	12	mark	_	KID=1018-4
 5	in	in	ADP	_	_	7	case	_	KID=1018-5|PaceSlow=Yes
@@ -10962,7 +10962,7 @@
 # speaker_id = TO017
 1	che	che	SCONJ	_	_	2	mark	_	Begin=2667.082|KID=1033-0
 2	cos'	cosa	PRON	_	_	0	root	_	KID=1033-1|Truncated=Yes
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	KID=1033-2
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	KID=1033-2
 4	questo	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	KID=1033-3
 5	alilat	Alilat	PROPN	_	_	2	nsubj	_	KID=1033-4
 6	secondo	secondo	ADP	_	_	7	case	_	KID=1033-5
@@ -11004,7 +11004,7 @@
 # speaker_id = TO017
 1	che	che	ADJ	_	_	2	mark	_	Begin=2685.567|KID=1040-0
 2	cos'	cosa	PRON	_	PronType=Int	0	root	_	KID=1040-1|Truncated=Yes
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	End=2686.132|Intonation=weakly_rising|KID=1040-2
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	End=2686.132|Intonation=weakly_rising|KID=1040-2
 
 # sent_id = TOD1005bis_1041
 # text = sarebbe i l' articolo
@@ -11107,7 +11107,7 @@
 # jefferson_text = non avevano l' articolo xxx questa sarebbe la prima attestazione dell' articolo arabo,
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	5	nsubj	_	KID=1049-5
-2	sarebbe	essere	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=1049-6
+2	sarebbe	essere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=1049-6
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=1049-7
 4	prima	primo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	KID=1049-8
 5	attestazione	attestazione	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=1049-9
@@ -11124,7 +11124,7 @@
 1	se	se	SCONJ	_	_	5	mark	_	Begin=2711.99|KID=1050-0|PaceFast=Yes
 2	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	KID=1050-1|PaceFast=Yes
 3	interpretazione	interpretazione	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	KID=1050-2|PaceFast=Yes
-4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=1050-3|PaceFast=Yes
+4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=1050-3|PaceFast=Yes
 5	corretta	corretto	ADJ	_	Gender=Fem|Number=Sing	0	root	_	KID=1050-4|PaceFast=Yes
 
 # sent_id = TOD1005bis_1050b
@@ -11135,7 +11135,7 @@
 2	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	KID=1050-6
 3	che	che	SCONJ	_	PronType=Rel	4	mark	_	KID=1050-7
 4	cos'	cosa	PRON	_	PronType=Int	0	root	_	KID=1050-8|Truncated=Yes
-5	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	End=2714.053|Intonation=rising|KID=1050-9
+5	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	End=2714.053|Intonation=rising|KID=1050-9
 
 # sent_id = TOD1005bis_1051
 # text = x
@@ -11451,9 +11451,9 @@
 # speaker_id = TO017
 1	dove	dove	ADV	_	_	4	advmod	_	Begin=2798.693|KID=1084-0
 2	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=1084-1
-3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=1084-2
+3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=1084-2
 4	verde	verde	ADJ	_	Number=Sing	0	root	_	End=2799.863|Intonation=weakly_rising|KID=1084-3
-5	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	Begin=2800.004|KID=1085-0
+5	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	Begin=2800.004|KID=1085-0
 6	arido	arido	ADJ	_	Gender=Masc|Number=Sing	4	conj:reform	_	End=2800.957|Intonation=falling|KID=1085-1
 
 # sent_id = TOD1005bis_1086_1087
@@ -11691,7 +11691,7 @@
 4	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	obj	_	KID=1105-7
 5	chiamano	chiamare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	KID=1105-8
 6	arabi	arabo	ADJ	_	Gender=Masc|Number=Plur|PronType=Ind	5	xcomp	_	End=2847.873|Intonation=weakly_rising|KID=1105-9
-7	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Begin=2848.382|KID=1106-0
+7	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	Begin=2848.382|KID=1106-0
 8	probabile	probabile	ADJ	_	Number=Sing	0	root	_	KID=1106-1
 9	che	che	SCONJ	_	_	12	mark	_	KID=1106-2
 10	questi	questo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	12	nsubj	_	KID=1106-3
@@ -11983,7 +11983,7 @@
 7	veramente	veramente	ADV	_	_	5	advmod	_	KID=1137-7
 8	se	se	SCONJ	_	_	12	mark	_	KID=1137-8
 9	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	KID=1137-9
-10	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=1137-10
+10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=1137-10
 11	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=1137-11
 12	luogo	luogo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	End=2934.523|Intonation=weakly_rising|KID=1137-12
 13	di	di	ADP	_	_	14	case	_	Begin=2934.767|KID=1138-0
@@ -12096,7 +12096,7 @@
 # speaker_id = TO017
 1	di	di	ADP	_	_	2	case	_	Begin=2992.947|KID=1150-0
 2	chi	chi	PRON	_	PronType=Rel	4	obl	_	KID=1150-1
-3	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	KID=1150-2
+3	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	KID=1150-2
 4	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	0	root	_	Intonation=weakly_rising|KID=1150-3
 5	di	di	ADP	_	_	6	case	_	KID=1150-4
 6	alessandro	Alessandro	PROPN	_	_	4	nmod	_	End=2994.611|Intonation=falling|KID=1150-5
