@@ -20,7 +20,7 @@
 # speaker_id = BO140
 # conversation_id = BOD2018
 1	mh	mh	INTJ	_	_	0	root	_	Begin=4.9|KID=2-0
-2	sì	sì	ADV	_	_	1	parataxis	_	Backchannel=BOD2018_0_1-6|End=5.94|KID=2-1
+2	sì	sì	ADV	_	_	1	parataxis	_	Backchannel=BOD2018_0_1::6|End=5.94|KID=2-1
 
 # sent_id = BOD2018_3a
 # text = com'è fatta la tua casa
@@ -159,14 +159,14 @@
 # jefferson_text = mh[mh]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_12_14-5|Begin=34.977|End=35.64|KID=13-0|OverlappingGroup=1
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_12_14::5|Begin=34.977|End=35.64|KID=13-0|OverlappingGroup=1
 
 # sent_id = BOD2018_15
 # text = okay
 # jefferson_text = <oka:y>
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_12_14-23|Begin=41.673|End=42.354|KID=15-0|PaceSlow=Yes|Prolonged=Yes
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_12_14::23|Begin=41.673|End=42.354|KID=15-0|PaceSlow=Yes|Prolonged=Yes
 
 # sent_id = BOD2018_16a
 # text = è fatta in mattoni
@@ -201,7 +201,7 @@
 # jefferson_text = okay | e si trova in centro: alla città: o fuori?
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	4	discourse	_	Backchannel=BOD2018_16b-11|Begin=49.76|End=50.42|KID=17-0
+1	okay	ok	INTJ	_	_	4	discourse	_	Backchannel=BOD2018_16b::11|Begin=49.76|End=50.42|KID=17-0
 2	e	e	CCONJ	_	_	4	discourse	_	Begin=50.735|KID=18-0
 3	si	si	PRON	_	Person=3|PronType=Prs	4	expl	_	Clitic=Yes|KID=18-1
 4	trova	trovare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=18-2
@@ -257,7 +257,7 @@
 # jefferson_text = [°okay°]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_20-13|Begin=63.56|End=64.11|KID=21-0|OverlappingGroup=2|Volume=Low
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_20::13|Begin=63.56|End=64.11|KID=21-0|OverlappingGroup=2|Volume=Low
 
 # sent_id = BOD2018_22
 # text = e è bella secondo me perché è immersa nel verde
@@ -354,7 +354,7 @@
 # jefferson_text = okay. | e:: tipo fuori da casa tua che c'è tipo avete il giardino::,
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	10	discourse	_	Backchannel=BOD2018_24b_25-28|Begin=89.358|End=90.17|Intonation=Falling|KID=26-0
+1	okay	ok	INTJ	_	_	10	discourse	_	Backchannel=BOD2018_24b_25::28|Begin=89.358|End=90.17|Intonation=Falling|KID=26-0
 2	e	e	CCONJ	_	_	10	discourse	_	Begin=90.413|KID=27-0|Prolonged=Yes
 3	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	10	discourse	_	KID=27-1
 4	fuori	fuori	ADV	_	ExtPos=ADP	6	case	_	KID=27-2
@@ -476,7 +476,7 @@
 # jefferson_text = oka[y]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_28_29_30_31_32_34a-65|Begin=119.183|End=119.803|KID=33-0|OverlappingGroup=3
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_28_29_30_31_32_34a::65|Begin=119.183|End=119.803|KID=33-0|OverlappingGroup=3
 
 # sent_id = BOD2018_36a
 # text = ehm coi vicini avete un buon rapporto
@@ -601,7 +601,7 @@
 # jefferson_text = okay però comunque: è::, | cioè un'atmosfera familiare [xxxx]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	7	discourse	_	Backchannel=BOD2018_39_40-17|Begin=164.9|KID=41-0
+1	okay	ok	INTJ	_	_	7	discourse	_	Backchannel=BOD2018_39_40::17|Begin=164.9|KID=41-0
 2	però	però	CCONJ	_	_	7	advmod	_	KID=41-1
 3	comunque	comunque	CCONJ	_	_	7	advmod	_	KID=41-2|Prolonged=Yes
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	End=166.7|Intonation=WeaklyRising|KID=41-3|Prolonged=Yes
@@ -677,7 +677,7 @@
 # jefferson_text = <ok[ay]>
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_45-8|Begin=184.61|End=185.08|KID=46-0|OverlappingGroup=5|PaceSlow=Yes
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_45::8|Begin=184.61|End=185.08|KID=46-0|OverlappingGroup=5|PaceSlow=Yes
 
 # sent_id = BOD2018_47
 # text = sicuramente non non portiamo rancore o
@@ -696,7 +696,7 @@
 # jefferson_text = oka::y e qual è la tua stanza preferita nella tua casa?
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	7	discourse	_	Backchannel=BOD2018_47-6|Begin=190.84|KID=48-0|Prolonged=Yes
+1	okay	ok	INTJ	_	_	7	discourse	_	Backchannel=BOD2018_47::6|Begin=190.84|KID=48-0|Prolonged=Yes
 2	e	e	CCONJ	_	_	7	discourse	_	KID=48-1
 3	qual	lo	PRON	_	Number=Sing|PronType=Int	7	nsubj	_	KID=48-2
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=48-3
@@ -790,7 +790,7 @@
 # jefferson_text = in genera:le in questo momento è la sala: perché:: c' è il cami:no: e:: mh mh: vabbè [ci stiamo] insie:me: esatto: c' è il divano comodo,
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_55-1|KID=54-5|Prolonged=Yes
+1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_55::1|KID=54-5|Prolonged=Yes
 
 # sent_id = BOD2018_54c
 # text = c'è il divano comodo
@@ -937,7 +937,7 @@
 # jefferson_text = sì
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_61_62_64-23|Begin=252.69|End=253.0|KID=63-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_61_62_64::23|Begin=252.69|End=253.0|KID=63-0
 
 # sent_id = BOD2018_65_66
 # text = okay ehm quindi stai vicina al centro e vai spesso in centro o o resti più nella zona dove dove abiti
@@ -1386,7 +1386,7 @@
 # jefferson_text = sì sì
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_85_86_87_89a-40|Begin=362.28|KID=88-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_85_86_87_89a::40|Begin=362.28|KID=88-0
 2	sì	sì	ADV	_	_	1	parataxis	_	End=362.773|KID=88-1
 
 # sent_id = BOD2018_90
@@ -1434,7 +1434,7 @@
 # jefferson_text = mhmh
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_90-32|Begin=376.45|End=376.96|KID=91-0
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_90::32|Begin=376.45|End=376.96|KID=91-0
 
 # sent_id = BOD2018_92_93
 # text = quindi mh cioè preferisco spostarmi per i cavoli miei senza stare sempre agli altri
@@ -1508,7 +1508,7 @@
 # jefferson_text = ma:do' ((ride))
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	mado'	mado'	INTJ	_	_	0	root	_	Backchannel=BOD2018_96-7|Begin=390.365|End=391.03|KID=97-0|Truncated=Yes
+1	mado'	mado'	INTJ	_	_	0	root	_	Backchannel=BOD2018_96::7|Begin=390.365|End=391.03|KID=97-0|Truncated=Yes
 
 # sent_id = BOD2018_98
 # text = che poi [TOWN_NAME] è fatta tut~ cioè tutta in salita son scomode le strade
@@ -1535,7 +1535,7 @@
 # jefferson_text = [sì eh]
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_98-10|Begin=394.18|KID=99-0|OverlappingGroup=17
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_98::10|Begin=394.18|KID=99-0|OverlappingGroup=17
 2	eh	eh	INTJ	_	_	1	discourse	_	End=394.84|KID=99-1|OverlappingGroup=17
 
 # sent_id = BOD2018_100_101
@@ -1573,7 +1573,7 @@
 # jefferson_text = okay
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_100_101-24|Begin=408.625|End=408.865|KID=102-0
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_100_101::24|Begin=408.625|End=408.865|KID=102-0
 
 # sent_id = BOD2018_103_104_105
 # text = cioè da fare in bici è diver~ cioè è più difficile però in motorino in macchina o a piedi si fan tranquillamente ecco cioè in bici devi essere uno sportivo
@@ -1658,7 +1658,7 @@
 # jefferson_text = du:e:, oka:y
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	due	due	NUM	_	NumType=Card	0	root	_	Backchannel=BOD2018_109-1|Begin=426.56|Intonation=WeaklyRising|KID=110-0|Prolonged=Yes
+1	due	due	NUM	_	NumType=Card	0	root	_	Backchannel=BOD2018_109::1|Begin=426.56|Intonation=WeaklyRising|KID=110-0|Prolonged=Yes
 2	okay	ok	INTJ	_	_	1	discourse	_	End=427.79|KID=110-1|Prolonged=Yes
 
 # sent_id = BOD2018_111
@@ -1714,7 +1714,7 @@
 # jefferson_text = okay
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_112_114_115_116-8|Begin=432.06|End=432.745|KID=113-0
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_112_114_115_116::8|Begin=432.06|End=432.745|KID=113-0
 
 # sent_id = BOD2018_117
 # text = quattro anni ci hai vissuto
@@ -2037,7 +2037,7 @@
 # jefferson_text = [sì]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_135_136-7|Begin=525.55|End=526.1|KID=137-0|OverlappingGroup=22
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_135_136::7|Begin=525.55|End=526.1|KID=137-0|OverlappingGroup=22
 
 # sent_id = BOD2018_138_139
 # text = tutto quello che sta fuori diciamo da cioè fuori proprio no via irnerio zona irnerio così sono più sì anni cinquanta credo non lo so
@@ -2075,7 +2075,7 @@
 # jefferson_text = [sì] (.) penso di sì.
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	2	discourse	_	Backchannel=BOD2018_138_139-25|Begin=539.63|KID=140-0|OverlappingGroup=23|PauseAfter=Yes
+1	sì	sì	ADV	_	_	2	discourse	_	Backchannel=BOD2018_138_139::25|Begin=539.63|KID=140-0|OverlappingGroup=23|PauseAfter=Yes
 2	penso	pensare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=140-2
 3	di	di	ADP	_	_	4	case	_	KID=140-3
 4	sì	sì	ADV	_	_	2	advmod	_	End=540.78|Intonation=Falling|KID=140-4
@@ -2196,14 +2196,14 @@
 # jefferson_text = sì.
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_145_147_148-12|Begin=564.931|End=565.153|Intonation=Falling|KID=146-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_145_147_148::12|Begin=564.931|End=565.153|Intonation=Falling|KID=146-0
 
 # sent_id = BOD2018_149
 # text = sì
 # jefferson_text = si.
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_145_147_148-55|Begin=579.39|Clitic=Yes|End=579.94|Intonation=Falling|KID=149-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_145_147_148::55|Begin=579.39|Clitic=Yes|End=579.94|Intonation=Falling|KID=149-0
 
 # sent_id = BOD2018_150a
 # text = e e rispetto all'altra casa
@@ -2511,7 +2511,7 @@
 # jefferson_text = mhmh
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_162_163_164-31|Begin=675.62|End=676.15|KID=165-0
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_162_163_164::31|Begin=675.62|End=676.15|KID=165-0
 
 # sent_id = BOD2018_166
 # text = sì anche a me
@@ -2702,7 +2702,7 @@
 # jefferson_text = [okay]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_174-28|Begin=715.41|End=716.12|KID=175-0|OverlappingGroup=24
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_174::28|Begin=715.41|End=716.12|KID=175-0|OverlappingGroup=24
 
 # sent_id = BOD2018_176
 # text = e se volevo ritagliarmi anche dei momenti miei non facevo difficoltà
@@ -2773,7 +2773,7 @@
 # jefferson_text = [si].
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	sì	si	INTJ	_	_	0	root	_	Backchannel=BOD2018_178-11|Begin=736.83|Clitic=Yes|End=737.34|Intonation=Falling|KID=179-0|OverlappingGroup=25
+1	sì	si	INTJ	_	_	0	root	_	Backchannel=BOD2018_178::11|Begin=736.83|Clitic=Yes|End=737.34|Intonation=Falling|KID=179-0|OverlappingGroup=25
 
 # sent_id = BOD2018_180
 # text = siamo tutti amici
@@ -2789,7 +2789,7 @@
 # jefferson_text = [sì che be:]lla l'univer[sità] tutti insie[me]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	3	discourse	_	Backchannel=BOD2018_180-3|Begin=740.18|KID=181-0|OverlappingGroup=26
+1	sì	sì	ADV	_	_	3	discourse	_	Backchannel=BOD2018_180::3|Begin=740.18|KID=181-0|OverlappingGroup=26
 2	che	che	DET	_	PronType=Exc	3	det	_	KID=181-1|OverlappingGroup=26
 3	bella	bello	ADJ	_	Gender=Fem|Number=Sing	0	root	_	KID=181-2|OverlappingGroup=26|Prolonged=Yes
 4	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	KID=181-3|SpaceAfter=No
@@ -2802,7 +2802,7 @@
 # jefferson_text = [esatto].
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_181-5|Begin=741.99|End=742.91|Intonation=Falling|KID=182-0|OverlappingGroup=27
+1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_181::5|Begin=741.99|End=742.91|Intonation=Falling|KID=182-0|OverlappingGroup=27
 
 # sent_id = BOD2018_183
 # text = poi crescendo secondo me hai bisogno anche di avere uno spazio tuo in cui rinchiuderti
@@ -2833,7 +2833,7 @@
 # speaker_id = BO118
 # conversation_id = BOD2018
 1	sì	sì	ADV	_	_	2	discourse	_	Begin=748.0|KID=184-0|OverlappingGroup=29
-2	assolutamente	assolutamente	ADV	_	_	0	root	_	Backchannel=BOD2018_183-11|End=749.342|Intonation=Falling|KID=184-1|OverlappingGroup=29
+2	assolutamente	assolutamente	ADV	_	_	0	root	_	Backchannel=BOD2018_183::11|End=749.342|Intonation=Falling|KID=184-1|OverlappingGroup=29
 
 # sent_id = BOD2018_185
 # text = non so se te l'avevo detto tipo io l'anno scorso ero arrivata alla fine che non ce la facevo più stavo impazzendo
@@ -3060,7 +3060,7 @@
 # jefferson_text = [esatto].
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_195-14|Begin=797.76|End=798.57|Intonation=Falling|KID=196-0|OverlappingGroup=32
+1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_195::14|Begin=797.76|End=798.57|Intonation=Falling|KID=196-0|OverlappingGroup=32
 
 # sent_id = BOD2018_197
 # text = fatti suoi
@@ -3190,7 +3190,7 @@
 # jefferson_text = [ce:rto] | sì=sì=sì sì assolutamente
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	certo	certo	ADJ	_	_	0	root	_	Backchannel=BOD2018_205-4|Begin=818.89|End=819.654|KID=206-0|OverlappingGroup=34|Prolonged=Yes
+1	certo	certo	ADJ	_	_	0	root	_	Backchannel=BOD2018_205::4|Begin=818.89|End=819.654|KID=206-0|OverlappingGroup=34|Prolonged=Yes
 2	sì	sì	ADV	_	_	1	parataxis	_	Backchannel=BOD2018_205-16|Begin=821.49|KID=207-0|ProsodicLink=Yes
 3	sì	sì	ADV	_	_	1	parataxis	_	KID=207-1|ProsodicLink=Yes
 4	sì	sì	ADV	_	_	1	parataxis	_	KID=207-2|ProsodicLink=Yes
@@ -3221,7 +3221,7 @@
 # jefferson_text = sì. [esatto]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_207b-13|Begin=827.037|Intonation=Falling|KID=208-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_207b::13|Begin=827.037|Intonation=Falling|KID=208-0
 2	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	1	parataxis	_	End=828.17|KID=208-1|OverlappingGroup=35
 
 # sent_id = BOD2018_209_210
@@ -3308,7 +3308,7 @@
 # jefferson_text = [°ah°]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOD2018_212_213-4|Begin=844.08|End=844.43|KID=214-0|OverlappingGroup=37|Volume=Low
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOD2018_212_213::4|Begin=844.08|End=844.43|KID=214-0|OverlappingGroup=37|Volume=Low
 
 # sent_id = BOD2018_215_216a
 # text = però ti~ è piccolino è racchiuso in mezzo alle case e è molto carino cioè ci portano i cani e anche i bimbi ci sono i giochi per bambini così
@@ -3432,7 +3432,7 @@
 # jefferson_text = sì
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_220_221_223-15|Begin=875.48|End=875.606|KID=222-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_220_221_223::15|Begin=875.48|End=875.606|KID=222-0
 
 # sent_id = BOD2018_224
 # text = e infatti per quello
@@ -3464,7 +3464,7 @@
 # jefferson_text = [sì esatto].
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_225_227-3|Begin=879.05|KID=226-0|OverlappingGroup=40
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_225_227::3|Begin=879.05|KID=226-0|OverlappingGroup=40
 2	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	1	parataxis	_	End=880.01|Intonation=Falling|KID=226-1|OverlappingGroup=40
 
 # sent_id = BOD2018_228
@@ -3495,7 +3495,7 @@
 # jefferson_text = [si].
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_228-4|Begin=883.51|Clitic=Yes|End=884.14|Intonation=Falling|KID=229-0|OverlappingGroup=42
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_228::4|Begin=883.51|Clitic=Yes|End=884.14|Intonation=Falling|KID=229-0|OverlappingGroup=42
 
 # sent_id = BOD2018_230a
 # text = cioè se vuoi anche più tranquillità ti sposti verso fuori
@@ -3535,7 +3535,7 @@
 # jefferson_text = [esatto].
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_230a-10|Begin=892.01|End=892.76|Intonation=Falling|KID=231-0|OverlappingGroup=43
+1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_230a::10|Begin=892.01|End=892.76|Intonation=Falling|KID=231-0|OverlappingGroup=43
 
 # sent_id = BOD2018_232
 # text = comunque se abitan son rimaste nelle zone più storiche tipo
@@ -3567,7 +3567,7 @@
 # jefferson_text = [sì esatto].
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	2	discourse	_	Backchannel=BOD2018_233-1|Begin=903.06|KID=234-0|OverlappingGroup=44
+1	sì	sì	ADV	_	_	2	discourse	_	Backchannel=BOD2018_233::1|Begin=903.06|KID=234-0|OverlappingGroup=44
 2	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	End=903.9|Intonation=Falling|KID=234-1|OverlappingGroup=44
 
 # sent_id = BOD2018_235
@@ -3880,7 +3880,7 @@
 # jefferson_text = esa:tto: cioè ma una via di mezzo:
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_254-20|Begin=982.48|KID=255-0|Prolonged=Yes
+1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_254::20|Begin=982.48|KID=255-0|Prolonged=Yes
 2	cioè	cioè	CCONJ	_	_	1	discourse	_	KID=255-1
 3	ma	ma	CCONJ	_	_	5	cc	_	KID=255-2
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=255-3
@@ -3974,7 +3974,7 @@
 # jefferson_text = sì.
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_258_259-28|Begin=1009.641|End=1010.0|Intonation=Falling|KID=260-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_258_259::28|Begin=1009.641|End=1010.0|Intonation=Falling|KID=260-0
 
 # sent_id = BOD2018_261
 # text = come magari dove abito io che okay alla fine [TOWN_NAME] non è pistoia cioè a [TOWN_NAME] non c'è assolutamente niente
@@ -4041,10 +4041,10 @@
 # jefferson_text = [sì sì sì] | [esatt]o.
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_262_263-20|Begin=1022.44|KID=264-0|OverlappingGroup=49
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_262_263::20|Begin=1022.44|KID=264-0|OverlappingGroup=49
 2	sì	sì	ADV	_	_	1	parataxis	_	KID=264-1|OverlappingGroup=49
 3	sì	sì	ADV	_	_	1	parataxis	_	End=1023.18|KID=264-2|OverlappingGroup=49
-4	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	1	parataxis	_	Backchannel=BOD2018_262_263-25|Begin=1024.146|End=1024.7|Intonation=Falling|KID=265-0|OverlappingGroup=50
+4	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	1	parataxis	_	Backchannel=BOD2018_262_263::25|Begin=1024.146|End=1024.7|Intonation=Falling|KID=265-0|OverlappingGroup=50
 
 # sent_id = BOD2018_266
 # text = cioè non so se io quando avrò una famiglia vorrò sta a bologna
@@ -4205,7 +4205,7 @@
 # jefferson_text = [sì xx]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_271-31|Begin=1069.708|KID=272-0|OverlappingGroup=51
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_271::31|Begin=1069.708|KID=272-0|OverlappingGroup=51
 2	x	x	X	_	_	1	dep	_	End=1070.278|KID=272-1|OverlappingGroup=51|Syllables=2|Unintelligible=Yes
 
 # sent_id = BOD2018_273
@@ -4230,7 +4230,7 @@
 # jefferson_text = [si]
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_273-11|Begin=1073.36|Clitic=Yes|End=1073.59|KID=274-0|OverlappingGroup=52
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_273::11|Begin=1073.36|Clitic=Yes|End=1073.59|KID=274-0|OverlappingGroup=52
 
 # sent_id = BOD2018_275_278_279a
 # text = cioè io non me lo immagino da grande coi miei figli fare una passeggiata per bologna con tutti studenti cioè preferisco farmi una passeggiata a firenze preferisco farmi una passeggiata a pistoia che è piccola però è molto più mh familiare
@@ -4290,8 +4290,8 @@
 # jefferson_text = [esatto] | [esatto]
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_275_278_279a-12|Begin=1076.82|End=1077.42|KID=276-0|OverlappingGroup=53
-2	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	1	parataxis	_	Backchannel=BOD2018_275_278_279a-20|Begin=1079.195|End=1079.87|KID=277-0|OverlappingGroup=54
+1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_275_278_279a::12|Begin=1076.82|End=1077.42|KID=276-0|OverlappingGroup=53
+2	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	1	parataxis	_	Backchannel=BOD2018_275_278_279a::20|Begin=1079.195|End=1079.87|KID=277-0|OverlappingGroup=54
 
 # sent_id = BOD2018_279b
 # text = cioè comunque ci stanno un sacco de famiglie cioè a bologna non ci stanno cioè in via zamboni non ce l'ho mai vista una famiglia
@@ -4330,7 +4330,7 @@
 # jefferson_text = [sì sì sì]
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_279b-24|Begin=1092.845|KID=280-0|OverlappingGroup=55
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_279b::24|Begin=1092.845|KID=280-0|OverlappingGroup=55
 2	sì	sì	ADV	_	_	1	parataxis	_	KID=280-1|OverlappingGroup=55
 3	sì	sì	ADV	_	_	1	parataxis	_	End=1093.495|KID=280-2|OverlappingGroup=55
 
@@ -4374,7 +4374,7 @@
 # jefferson_text = °okay°
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_281_283-26|Begin=1101.67|End=1102.179|KID=282-0|Volume=Low
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_281_283::26|Begin=1101.67|End=1102.179|KID=282-0|Volume=Low
 
 # sent_id = BOD2018_284a
 # text = vabbè al di là non offre niente [TOWN_NAME] non mh
@@ -4523,7 +4523,7 @@
 # jefferson_text = n[o:]?
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	no	no	ADV	_	_	0	root	_	Backchannel=BOD2018_289_291-18|Begin=1153.116|End=1153.49|Intonation=Rising|KID=290-0|OverlappingGroup=56|Prolonged=Yes
+1	no	no	ADV	_	_	0	root	_	Backchannel=BOD2018_289_291::18|Begin=1153.116|End=1153.49|Intonation=Rising|KID=290-0|OverlappingGroup=56|Prolonged=Yes
 
 # sent_id = BOD2018_289_291
 # text = cioè io non ho ricordi di quando son piccola che uscivo con i miei in centro a [TOWN_NAME] perché non ma pochissimi perché non
@@ -4599,7 +4599,7 @@
 # jefferson_text = [sì sì sì]
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_292_293_294-28|Begin=1165.3|KID=295-0|OverlappingGroup=58
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_292_293_294::28|Begin=1165.3|KID=295-0|OverlappingGroup=58
 2	sì	sì	ADV	_	_	1	parataxis	_	KID=295-1|OverlappingGroup=58
 3	sì	sì	ADV	_	_	1	parataxis	_	End=1166.24|KID=295-2|OverlappingGroup=58
 
@@ -4680,7 +4680,7 @@
 # conversation_id = BOD2018
 1	eh	eh	INTJ	_	_	5	discourse	_	Begin=1191.7|KID=298-0
 2	ma	ma	CCONJ	_	_	5	discourse	_	KID=298-1
-3	infatti	infatti	CCONJ	_	_	5	advmod	_	Backchannel=BOD2018_297-14|KID=298-2
+3	infatti	infatti	CCONJ	_	_	5	advmod	_	Backchannel=BOD2018_297::14|KID=298-2
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=298-3
 5	strano	strano	ADJ	_	Gender=Masc|Number=Sing	0	root	_	KID=298-4|Prolonged=Yes
 6	cioè	cioè	CCONJ	_	_	10	cc	_	KID=298-5
@@ -4707,7 +4707,7 @@
 # jefferson_text = sì.
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_298_300-12|Begin=1195.34|End=1195.75|Intonation=Falling|KID=299-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_298_300::12|Begin=1195.34|End=1195.75|Intonation=Falling|KID=299-0
 
 # sent_id = BOD2018_301_302
 # text = eh ma è che l'amministrazione mh non è interessata probabilmente cioè nel senso negli ultimi due anni mi sto accorgendo che stan cercando di far dei passi avanti
@@ -4827,7 +4827,7 @@
 # jefferson_text = [sì]?
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_306b-15|Begin=1232.73|End=1233.328|Intonation=Rising|KID=307-0|OverlappingGroup=60
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_306b::15|Begin=1232.73|End=1233.328|Intonation=Rising|KID=307-0|OverlappingGroup=60
 
 # sent_id = BOD2018_308_310_311
 # text = sì l'università organizzava dei concerti e lasciavano molto più liberi gli universitari di esprimersi e anche a livello proprio organizzativo mentre adesso gli stanno tagliando le gambe ovunque a chiunque e non c'è più niente quindi x
@@ -4881,7 +4881,7 @@
 # jefferson_text = [ah::]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOD2018_308_310_311-3|Begin=1233.854|End=1234.504|KID=309-0|OverlappingGroup=61|Prolonged=Yes
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOD2018_308_310_311::3|Begin=1233.854|End=1234.504|KID=309-0|OverlappingGroup=61|Prolonged=Yes
 
 # sent_id = BOD2018_312
 # text = ma in realtà anche a bologna stanno a fa' un po' 'sto lavoro
@@ -5008,7 +5008,7 @@
 # jefferson_text = mhmh
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_313_314_315-33|Begin=1279.547|End=1280.008|KID=317-0
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_313_314_315::33|Begin=1279.547|End=1280.008|KID=317-0
 
 # sent_id = BOD2018_318
 # text = ma comunque sia prendi la macchina per andare a pesaro ci metti tre quarti d'ora
@@ -5211,7 +5211,7 @@
 # jefferson_text = mhmh
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_329_330_331-30|Begin=1328.36|End=1328.92|KID=332-0
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_329_330_331::30|Begin=1328.36|End=1328.92|KID=332-0
 
 # sent_id = BOD2018_333_334_335
 # text = quindi mh cioè investono tanto nel mh in eventi cittadini anche per dire l'accensione delle luci natalizie c'erano boh migliaia di persone in piazza e non si passava neanche quindi
@@ -5325,14 +5325,14 @@
 # jefferson_text = mhmh
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_337_339_341-25|Begin=1354.213|End=1354.697|KID=338-0
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_337_339_341::25|Begin=1354.213|End=1354.697|KID=338-0
 
 # sent_id = BOD2018_340
 # text = okay
 # jefferson_text = o:ka[y]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_337_339_341-34|Begin=1357.77|End=1358.43|KID=340-0|OverlappingGroup=66|Prolonged=Yes
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_337_339_341::34|Begin=1357.77|End=1358.43|KID=340-0|OverlappingGroup=66|Prolonged=Yes
 
 # sent_id = BOD2018_342
 # text = tipo succursali
@@ -5425,7 +5425,7 @@
 # jefferson_text = <okay>
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_345_346_347_348_349-43|Begin=1381.47|End=1382.13|KID=350-0|PaceSlow=Yes
+1	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_345_346_347_348_349::43|Begin=1381.47|End=1382.13|KID=350-0|PaceSlow=Yes
 
 # sent_id = BOD2018_351_353
 # text = e pesaro diciamo che è un po' la la cioè la sì il compromesso giusto perché ti offre tanto di più e allo stesso tempo è comunque una piccola città e in cui vivi bene e mh le persone si conoscono generalmente anche se
@@ -5548,7 +5548,7 @@
 # jefferson_text = [si:]
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_355b-8|Begin=1404.2|Clitic=Yes|End=1404.79|KID=358-0|OverlappingGroup=69|Prolonged=Yes
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_355b::8|Begin=1404.2|Clitic=Yes|End=1404.79|KID=358-0|OverlappingGroup=69|Prolonged=Yes
 
 # sent_id = BOD2018_359
 # text = no a livel~
@@ -5606,7 +5606,7 @@
 # speaker_id = BO118
 # conversation_id = BOD2018
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=1413.24|KID=362-0|Volume=Low
-2	pochi	poco	ADJ	_	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	Backchannel=BOD2018_361_363_365a-10|End=1413.82|KID=362-1|OverlappingGroup=71|Volume=Low
+2	pochi	poco	ADJ	_	Gender=Masc|Number=Plur|PronType=Ind	0	root	_	Backchannel=BOD2018_361_363_365a::10|End=1413.82|KID=362-1|OverlappingGroup=71|Volume=Low
 
 # sent_id = BOD2018_364
 # text = eh ecco
@@ -5614,7 +5614,7 @@
 # speaker_id = BO118
 # conversation_id = BOD2018
 1	eh	eh	INTJ	_	_	2	discourse	_	Begin=1416.46|KID=364-0|OverlappingGroup=72
-2	ecco	ecco	ADV	_	_	0	root	_	Backchannel=BOD2018_361_363_365a-19|End=1417.27|KID=364-1
+2	ecco	ecco	ADV	_	_	0	root	_	Backchannel=BOD2018_361_363_365a::19|End=1417.27|KID=364-1
 
 # sent_id = BOD2018_365b
 # text = ah in realtà di [INHABITANTS_NAME] ce ne sono quindicimila e non ce ne son più perché scappan tutti da [TOWN_NAME] perché non ti offre più niente
@@ -5817,7 +5817,7 @@
 # jefferson_text = sì
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_375b-19|Begin=1466.317|End=1466.65|KID=376-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_375b::19|Begin=1466.317|End=1466.65|KID=376-0
 
 # sent_id = BOD2018_377a
 # text = quasi tutte le ingegnerie stanno lì
@@ -5968,7 +5968,7 @@
 # jefferson_text = [ah]
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOD2018_385b-8|Begin=1495.795|End=1496.205|KID=386-0|OverlappingGroup=75
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOD2018_385b::8|Begin=1495.795|End=1496.205|KID=386-0|OverlappingGroup=75
 
 # sent_id = BOD2018_387
 # text = adesso sto in provincia di fermo
@@ -6074,7 +6074,7 @@
 # speaker_id = BO140
 # conversation_id = BOD2018
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=1517.91|KID=394-0
-2	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_393-10|End=1518.68|KID=394-1
+2	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_393::10|End=1518.68|KID=394-1
 
 # sent_id = BOD2018_395
 # text = però c'è poca gente
@@ -6118,7 +6118,7 @@
 # speaker_id = BO140
 # conversation_id = BOD2018
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=1523.67|KID=398-0
-2	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_397-3|End=1524.45|KID=398-1
+2	okay	ok	INTJ	_	_	0	root	_	Backchannel=BOD2018_397::3|End=1524.45|KID=398-1
 
 # sent_id = BOD2018_399
 # text = e a ancona ci stanno quasi tutte le università tranne quelle umanistiche
@@ -6197,7 +6197,7 @@
 # jefferson_text = sì
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_402-6|Begin=1535.342|End=1535.692|KID=404-0
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_402::6|Begin=1535.342|End=1535.692|KID=404-0
 
 # sent_id = BOD2018_405b_406_407
 # text = poi alla fine ho scelto bologna per la città in realtà perché mi parlavano tutti bene di bologna e nessuno di bene di ancona quindi alla fine
@@ -6493,7 +6493,7 @@
 # jefferson_text = esatto
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_418_420-6|Begin=1597.95|End=1598.57|KID=419-0
+1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOD2018_418_420::6|Begin=1597.95|End=1598.57|KID=419-0
 
 # sent_id = BOD2018_421
 # text = cioè non c'è niente mh
@@ -6651,7 +6651,7 @@
 # jefferson_text = mhmh
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_427b_428-14|Begin=1628.53|End=1628.911|KID=429-0
+1	mhmh	mh	INTJ	_	_	0	root	_	Backchannel=BOD2018_427b_428::14|Begin=1628.53|End=1628.911|KID=429-0
 
 # sent_id = BOD2018_430
 # text = non so di che epoca
@@ -6764,7 +6764,7 @@
 # jefferson_text = [sì]
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_434-5|Begin=1653.035|End=1653.595|KID=435-0|OverlappingGroup=87
+1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOD2018_434::5|Begin=1653.035|End=1653.595|KID=435-0|OverlappingGroup=87
 
 # sent_id = BOD2018_436
 # text = a caso senza sapere
@@ -6871,7 +6871,7 @@
 # jefferson_text = [ah]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOD2018_441_442a-19|Begin=1670.49|End=1671.21|KID=443-0|OverlappingGroup=89
+1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOD2018_441_442a::19|Begin=1670.49|End=1671.21|KID=443-0|OverlappingGroup=89
 
 # sent_id = BOD2018_444
 # text = vai al passetto che è bellissimo
