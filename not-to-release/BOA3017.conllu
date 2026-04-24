@@ -4962,7 +4962,7 @@
 
 # sent_id = BOA3017_662a
 # text = pasqua sì vuoi che non lo mangio
-# jefferson_text = pasqua sì vuoi che non lo (mangio)? no grazi[e]
+# jefferson_text = pasqua sì vuoi che non lo (mangio)?
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	pasqua	Pasqua	PROPN	_	_	0	root	_	Begin=995.521|Coconstruct=rconj:eform:BOA3017_660::6|KID=662-0
@@ -4975,7 +4975,7 @@
 
 # sent_id = BOA3017_662b
 # text = no grazie
-# jefferson_text = pasqua sì vuoi che non lo (mangio)? no grazi[e]
+# jefferson_text = no grazi[e]
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	no	no	ADV	_	_	0	root	_	KID=662-7
@@ -8051,7 +8051,7 @@
 
 # sent_id = BOA3017_1101a
 # text = chi è
-# jefferson_text = chi è? oh dio santo=è m:h
+# jefferson_text = chi è?
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	chi	chi	PRON	_	PronType=Rel	2	nsubj	_	Begin=1715.969|KID=1101-0
@@ -8059,7 +8059,7 @@
 
 # sent_id = BOA3017_1101b
 # text = oh dio santo è mh
-# jefferson_text = chi è? oh dio santo=è m:h
+# jefferson_text = oh dio santo=è m:h
 # speaker_id = BO147
 # conversation_id = BOA3017
 1	oh	oh	INTJ	_	_	2	discourse	_	KID=1101-2
@@ -8156,7 +8156,7 @@
 
 # sent_id = BOA3017_1114_1116_split1
 # text = sì è quella che conosce lia
-# jefferson_text = [sì: è] quella che conosce (lia) | [mara]: cosa lì
+# jefferson_text = [sì: è] quella che conosce (lia)
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	sì	sì	ADV	_	_	3	discourse	_	Begin=1737.118|KID=1114-0|OverlappingGroup=195|Prolonged=Yes
@@ -8168,7 +8168,7 @@
 
 # sent_id = BOA3017_1114_1116_split2
 # text = mara cosa lì
-# jefferson_text = [sì: è] quella che conosce (lia) | [mara]: cosa lì
+# jefferson_text = [mara]: cosa lì
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	mara	Mara	PROPN	_	_	_	_	_	Anonymized=Yes|Begin=1738.873|Coconstruct=conj:reform::BOA3017_1115::2|KID=1116-0|OverlappingGroup=196|Prolonged=Yes
