@@ -3549,7 +3549,7 @@
 5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	2	conj:reform	_	KID=346-4|PauseAfter=Yes
 6-7	dell'	_	_	_	_	_	_	_	KID=346-6|Truncated=Yes
 6	di	di	ADP	_	_	8	case	_	KID=346-6a
-7	_	_	_	_	_	8	det	_	KID=346-6b
+7	l'	il	DET	_	_	8	det	_	KID=346-6b
 8	islam	Islam	PROPN	_	_	5	nmod	_	KID=346-7
 9	okay	okay	INTJ	_	_	8	discourse	_	Intonation=weakly_rising|KID=346-8
 10	che	che	SCONJ	_	_	11	nsubj	_	End=846.137|KID=346-9
