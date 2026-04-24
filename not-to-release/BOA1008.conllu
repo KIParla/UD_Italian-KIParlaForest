@@ -33,7 +33,7 @@
 1	loro	loro	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Begin=9.585|KID=3-0|OverlappingGroup=0
 2	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=3-1|OverlappingGroup=0
 3	altre	altro	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	KID=3-2
-4	persone	persona	NOUN	_	Gender=Fem|Number=Plur	0	root	_	Coconstruct=obj:BOA1008_2::9|End=10.901|Intonation=falling|KID=3-3
+4	persone	persona	NOUN	_	Gender=Fem|Number=Plur	0	root	_	Coconstruct=obj::BOA1008_2::9|End=10.901|Intonation=falling|KID=3-3
 
 # sent_id = 4
 # text = mh mh
