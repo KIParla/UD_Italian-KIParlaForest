@@ -836,7 +836,7 @@
 18	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	KID=57-1
 19	in	in	ADP	_	_	20	case	_	KID=57-2
 20	realtà	realtà	NOUN	_	Gender=Fem	18	obl	_	KID=57-3
-21	un~	uno	DET	_	_	22	reparandum	_	Interrupted=Yes|KID=57-4
+21	un~	uno	DET	_	Definite=Ind|Number=Sing|PronType=Art	22	reparandum	_	Interrupted=Yes|KID=57-4
 22	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	KID=57-5
 23	stanza	stanza	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	KID=57-6
 24	preferita	preferito	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	23	acl	_	End=232.62|Intonation=WeaklyRising|KID=57-7|OverlappingGroup=8|Prolonged=Yes
@@ -2891,7 +2891,7 @@
 11	no~	no~	X	_	_	12	reparandum	_	Interrupted=Yes|KID=187-2
 12	non	non	ADV	_	PronType=Neg	13	advmod	_	KID=187-3
 13	avevano	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	KID=187-4
-14	un~	un~	DET	_	_	15	reparandum	_	Interrupted=Yes|KID=187-5
+14	un~	un~	DET	_	Definite=Ind|Number=Sing|	15	reparandum	_	Interrupted=Yes|KID=187-5
 15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	KID=187-6
 16	porta	porta	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	KID=187-7|Prolonged=Yes
 17	divisoria	divisorio	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	KID=187-8
