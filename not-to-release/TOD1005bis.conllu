@@ -5769,8 +5769,8 @@
 15	di	di	ADP	_	_	16	case	_	KID=528-13
 16	qualcuno	qualcuno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	14	nmod	_	KID=528-14
 17	potete	potere	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	18	aux	_	KID=528-15
-18-19	grattuggiarne	grattuggiarrre	VERB	_	Number=Sing	_	_	_	KID=528-16
-18	grattuggiar	grattuggiare	VERB	_	_	0	root	_	KID=528-16a
+18-19	grattugiarne	_	_	_	_	_	_	_	KID=528-16
+18	grattugiar	grattugiare	VERB	_	_	0	root	_	KID=528-16a
 19	ne	ne	PRON	_	_	18	expl	_	KID=528-16b
 20	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	KID=528-17
 21	pezzettino	pezzo	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	End=1400.233|Intonation=weakly_rising|KID=528-18
