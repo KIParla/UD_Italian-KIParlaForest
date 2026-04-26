@@ -6465,7 +6465,7 @@
 6	prima	prima	ADV	_	_	5	advmod	_	End=1565.668|Intonation=weakly_rising|KID=595-7
 
 # sent_id = TOD1005bis_596
-# text = dieh mh
+# text = di eh mh
 # jefferson_text = di=e:::h mh
 # speaker_id = TO017
 1	di	di	ADP	_	_	2	case	_	Begin=1566.062|KID=596-0
@@ -6637,15 +6637,15 @@
 7	mente	mente	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	End=1609.137|KID=615-4
 
 # sent_id = TOD1005bis_616
-# text = di andare a vedere se c' era qualcun altro che scriveva
-# jefferson_text = di andare a vedere se c' era qualcun altro che scriveva
+# text = di andare a vedere se c'era qualcun altro che scriveva
+# jefferson_text = di andare a vedere se c'era qualcun altro che scriveva
 # speaker_id = TO017
 1	di	di	ADP	_	_	2	mark	_	Begin=1610.393|KID=616-0
 2	andare	andare	VERB	_	VerbForm=Inf	0	root	_	KID=616-1
 3	a	a	ADP	_	_	4	mark	_	KID=616-2
 4	vedere	vedere	VERB	_	VerbForm=Inf	2	xcomp	_	KID=616-3
 5	se	se	SCONJ	_	_	7	mark	_	KID=616-4
-6	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	7	expl	_	KID=616-5|Truncated=Yes
+6	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	7	expl	_	KID=616-5|SpaceAfter=No
 7	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	KID=616-6
 8	qualcun	qualcuno	PRON	_	PronType=Ind	9	det	_	KID=616-7
 9	altro	altro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	KID=616-8
@@ -6653,10 +6653,10 @@
 11	scriveva	scrivere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	End=1612.833|KID=616-10
 
 # sent_id = TOD1005bis_617
-# text = all' epoca okay cosa possiamo trovare di scritto
-# jefferson_text = all' epoca. okay, cosa possiamo trovare di <scritto>,
+# text = all'epoca okay cosa possiamo trovare di scritto
+# jefferson_text = all'epoca. okay, cosa possiamo trovare di <scritto>,
 # speaker_id = TO017
-1-2	all'	_	_	_	_	_	_	_	Begin=1612.924|KID=617-0|Truncated=Yes
+1-2	all'	_	_	_	_	_	_	_	Begin=1612.924|KID=617-0|SpaceAfter=No
 1	a	a	ADP	_	_	3	case	_	KID=617-0a
 2	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	KID=617-0b
 3	epoca	epoca	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	Intonation=falling|KID=617-1
@@ -6668,12 +6668,12 @@
 9	scritto	scritto	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	obl	_	End=1616.112|Intonation=weakly_rising|KID=617-7|PaceSlow=Yes
 
 # sent_id = TOD1005bis_618
-# text = che provenga dall' area diciamo
-# jefferson_text = che <provenga dall' area diciamo>
+# text = che provenga dall'area diciamo
+# jefferson_text = che <provenga dall'area diciamo>
 # speaker_id = TO017
 1	che	che	SCONJ	_	_	2	mark	_	Begin=1616.112|KID=618-0
 2	provenga	provenire	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	KID=618-1|PaceSlow=Yes
-3-4	dall'	_	_	_	_	_	_	_	KID=618-2|PaceSlow=Yes|Truncated=Yes
+3-4	dall'	_	_	_	_	_	_	_	KID=618-2|PaceSlow=Yes|SpaceAfter=No
 3	da	da	ADP	_	_	5	case	_	KID=618-2a
 4	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	5	det	_	KID=618-2b
 5	area	area	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	KID=618-3|PaceSlow=Yes
@@ -6713,10 +6713,10 @@
 10	cristo	Cristo	PROPN	_	_	8	nmod	_	End=1629.262|Intonation=weakly_rising|KID=622-7
 
 # sent_id = TOD1005bis_623_624_625
-# text = c' è un sacco di gente che scriveva contrariamente a quello che eh potreste pensare
-# jefferson_text = c' è un sacco di gente che scriveva contrariamente a quello che e::h potreste pensare.
+# text = c'è un sacco di gente che scriveva contrariamente a quello che eh potreste pensare
+# jefferson_text = c'è un sacco di gente che scriveva contrariamente a quello che e::h potreste pensare.
 # speaker_id = TO017
-1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	Begin=1629.391|KID=623-0|Truncated=Yes
+1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	Begin=1629.391|KID=623-0|SpaceAfter=No
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=623-1
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=623-2
 4	sacco	sacco	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	KID=623-3
@@ -6733,15 +6733,15 @@
 15	pensare	pensare	VERB	_	VerbForm=Inf	11	acl:relcl	_	End=1635.131|Intonation=falling|KID=625-2
 
 # sent_id = TOD1005bis_626_627
-# text = soprattutto nel sud dell' arabia
-# jefferson_text = soprattutto nel sud dell' arabia
+# text = soprattutto nel sud dell'arabia
+# jefferson_text = soprattutto nel sud dell'arabia
 # speaker_id = TO017
 1	soprattutto	soprattutto	ADV	_	_	4	advmod	_	Begin=1636.05|End=1637.012|KID=626-0
 2-3	nel	_	_	_	_	_	_	_	Begin=1637.449|KID=627-0
 2	in	in	ADP	_	_	4	case	_	KID=627-0a
 3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=627-0b
 4	sud	sud	NOUN	_	Gender=Masc	0	root	_	KID=627-1
-5-6	dell'	_	_	_	_	_	_	_	KID=627-2|Truncated=Yes
+5-6	dell'	_	_	_	_	_	_	_	KID=627-2|SpaceAfter=No
 5	di	di	ADP	_	_	7	case	_	KID=627-2a
 6	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	KID=627-2b
 7	arabia	Arabia	PROPN	_	Gender=Fem|Number=Sing	4	nmod	_	End=1638.68|KID=627-3
@@ -6806,8 +6806,8 @@
 6	precisazioni	precisazione	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	End=1648.65|Intonation=weakly_rising|KID=633-5
 
 # sent_id = TOD1005bis_634_635
-# text = eh nel sud della penisola araba c' erano dei regni che erano gli antichi regni sudarabici
-# jefferson_text = eh nel sud de:lla (.) penisola araba c' erano dei regni che (.) erano gli antichi regni:: sudarabici.
+# text = eh nel sud della penisola araba c'erano dei regni che erano gli antichi regni sudarabici
+# jefferson_text = eh nel sud de:lla (.) penisola araba c'erano dei regni che (.) erano gli antichi regni:: sudarabici.
 # speaker_id = TO017
 1	eh	eh	INTJ	_	_	10	discourse	_	Begin=1649.049|KID=634-0
 2-3	nel	_	_	_	_	_	_	_	KID=634-1
@@ -6819,7 +6819,7 @@
 6	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=634-3b
 7	penisola	penisola	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	KID=634-5
 8	araba	araba	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	KID=634-6
-9	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	10	expl	_	KID=634-7|Truncated=Yes
+9	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	10	expl	_	KID=634-7|SpaceAfter=No
 10	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=634-8
 11-12	dei	_	_	_	_	_	_	_	KID=634-9
 11	di	di	ADP	_	_	13	case	_	KID=634-9a
@@ -6884,10 +6884,10 @@
 9	salomone	Salomone	PROPN	_	Gender=Masc|Number=Sing	8	obj	_	End=1663.843|KID=638-9
 
 # sent_id = TOD1005bis_639
-# text = nell' antico testamento etcetera etcetera
-# jefferson_text = nell' antico testamento etcetera etcetera,
+# text = nell'antico testamento etcetera etcetera
+# jefferson_text = nell'antico testamento etcetera etcetera,
 # speaker_id = TO017
-1-2	nell'	_	_	_	_	_	_	_	Begin=1664.223|KID=639-0|Truncated=Yes
+1-2	nell'	_	_	_	_	_	_	_	Begin=1664.223|KID=639-0|SpaceAfter=No
 1	in	in	ADP	_	_	4	case	_	KID=639-0a
 2	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	KID=639-0b
 3	antico	Antico	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	KID=639-1
@@ -6939,17 +6939,17 @@
 7	catabanico	catabanico	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	End=1672.264|KID=644-6
 
 # sent_id = TOD1005bis_645_646_647_648_649
-# text = c' erano questi quattro regni molto potenti all' epoca molto ricchi che scrivevano
-# jefferson_text = c' erano questi quattro <regni molto potenti>, all' epoca molto ricchi che, scrivevano
+# text = c'erano questi quattro regni molto potenti all'epoca molto ricchi che scrivevano
+# jefferson_text = c'erano questi quattro <regni molto potenti>, all'epoca molto ricchi che, scrivevano
 # speaker_id = TO017
-1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	Begin=1672.558|KID=645-0|Truncated=Yes
+1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	Begin=1672.558|KID=645-0|SpaceAfter=No
 2	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=645-1
 3	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	KID=645-2
 4	quattro	quattro	DET	_	NumType=Card	5	nummod	_	KID=645-3
 5	regni	regno	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	KID=645-4|PaceSlow=Yes
 6	molto	molto	ADV	_	_	7	advmod	_	KID=645-5|PaceSlow=Yes
 7	potenti	potente	ADJ	_	Number=Plur	5	amod	_	End=1675.199|Intonation=weakly_rising|KID=645-6|PaceSlow=Yes
-8-9	all'	_	_	_	_	_	_	_	Begin=1675.743|KID=646-0|Truncated=Yes
+8-9	all'	_	_	_	_	_	_	_	Begin=1675.743|KID=646-0|SpaceAfter=No
 8	a	a	ADP	_	_	10	case	_	KID=646-0a
 9	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	KID=646-0b
 10	epoca	epoca	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	End=1676.472|KID=646-1
@@ -6996,14 +6996,14 @@
 2	antico	antico	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	End=1689.601|KID=654-1
 
 # sent_id = TOD1005bis_655_656_657_658
-# text = di solito si usa l' acronimo asa
-# jefferson_text = di solito si usa l' acronimo asa
+# text = di solito si usa l'acronimo asa
+# jefferson_text = di solito si usa l'acronimo asa
 # speaker_id = TO017
 1	di	di	ADP	_	_	2	case	_	Begin=1689.868|KID=655-0
 2	solito	solito	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	End=1690.204|KID=655-1
 3	si	si	PRON	_	Person=3|PronType=Prs	4	expl:impers	_	Begin=1690.415|KID=656-0
 4	usa	usare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1690.809|KID=656-1
-5	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	Begin=1691.209|KID=657-0|Truncated=Yes
+5	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	Begin=1691.209|KID=657-0|SpaceAfter=No
 6	acronimo	acronimo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	End=1691.962|KID=657-1
 7	asa	ASA	PROPN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	nmod	_	Begin=1692.123|End=1692.523|KID=658-0
 
@@ -7090,8 +7090,8 @@
 3	script	script	NOUN	_	_	0	root	_	End=1710.814|KID=672-2
 
 # sent_id = TOD1005bis_673
-# text = eh e loro scrivevano la loro lingua che non c' entrava niente era una lingua semitica sì
-# jefferson_text = e:h~ e loro scrivevano la loro lingua che non c' entrava nie~ era una lingua semitica (.) sì:
+# text = eh e loro scrivevano la loro lingua che non c'entrava nie~ era una lingua semitica sì
+# jefferson_text = e:h~ e loro scrivevano la loro lingua che non c'entrava nie~ era una lingua semitica (.) sì:
 # speaker_id = TO017
 1	eh	eh	INTJ	_	_	4	discourse	_	Begin=1711.452|Interrupted=Yes|KID=673-0|Prolonged=Yes
 2	e	e	CCONJ	_	_	4	cc	_	KID=673-1
@@ -7102,9 +7102,9 @@
 7	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	obj	_	KID=673-6
 8	che	che	SCONJ	_	PronType=Rel	11	nsubj	_	KID=673-7
 9	non	non	ADV	_	PronType=Neg	11	advmod	_	KID=673-8
-10	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	11	expl	_	KID=673-9|Truncated=Yes
+10	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	11	expl	_	KID=673-9|SpaceAfter=No
 11	entrava	entrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	KID=673-10
-12	niente	niente	NOUN	_	_	11	obj	_	Interrupted=Yes|KID=673-11
+12	nie~	niente	NOUN	_	_	11	obj	_	Interrupted=Yes|KID=673-11
 13	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj:reform	_	KID=673-12
 14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	KID=673-13
 15	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	nsubj	_	KID=673-14
@@ -7112,16 +7112,16 @@
 17	sì	sì	ADV	_	_	13	advmod	_	End=1715.499|KID=673-17|Prolonged=Yes
 
 # sent_id = TOD1005bis_674
-# text = ma non c' entrava niente con l' arabo
-# jefferson_text = ma non c' entrava niente con l' arabo
+# text = ma non c'entrava niente con l'arabo
+# jefferson_text = ma non c'entrava niente con l'arabo
 # speaker_id = TO017
 1	ma	ma	CCONJ	_	_	4	cc	_	Begin=1715.648|KID=674-0
 2	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=674-1
-3	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	expl	_	KID=674-2|Truncated=Yes
+3	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	expl	_	KID=674-2|SpaceAfter=No
 4	entrava	entrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=674-3
 5	niente	niente	PRON	_	PronType=Ind	4	obj	_	KID=674-4
 6	con	con	ADP	_	_	8	case	_	KID=674-5
-7	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	KID=674-6|Truncated=Yes
+7	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	KID=674-6|SpaceAfter=No
 8	arabo	arabo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	End=1717.219|KID=674-7
 
 # sent_id = TOD1005bis_675_676
@@ -7224,10 +7224,10 @@
 2	latino	latino	NOUN	_	Gender=Masc|Number=Sing	0	root	_	End=1744.378|KID=686-1
 
 # sent_id = TOD1005bis_687
-# text = l' arabia felice opulenta
-# jefferson_text = l' arabia feli:ce (.) opulenta
+# text = l'arabia felice opulenta
+# jefferson_text = l'arabia feli:ce (.) opulenta
 # speaker_id = TO017
-1	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	Begin=1744.56|KID=687-0|Truncated=Yes
+1	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	Begin=1744.56|KID=687-0|SpaceAfter=No
 2	arabia	Arabia	INTJ	_	Gender=Fem|Number=Sing	0	root	_	KID=687-1
 3	felice	felice	ADJ	_	Number=Sing	2	amod	_	KID=687-2|PauseAfter=Yes|Prolonged=Yes
 4	opulenta	opulento	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	End=1746.79|KID=687-4
@@ -7278,10 +7278,10 @@
 13	mondo	mondo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	KID=692-6|PaceSlow=Yes
 
 # sent_id = TOD1005bis_692b
-# text = c' era una roba che tutto il mondo voleva che tutto il mondo comprava
-# jefferson_text = a::: a tutti quanti a tutto il <mondo> c' era una roba che tutto il mondo voleva che tutto il mondo comprava
+# text = c'era una roba che tutto il mondo voleva che tutto il mondo comprava
+# jefferson_text = c'era una roba che tutto il mondo voleva che tutto il mondo comprava
 # speaker_id = TO017
-1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	KID=692-7|Truncated=Yes
+1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	KID=692-7|SpaceAfter=No
 2	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=692-8
 3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=692-9
 4	roba	roba	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	KID=692-10
@@ -7360,24 +7360,24 @@
 1	incenso	incenso	NOUN	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=1783.51|End=1784.46|Intonation=falling|KID=700-0
 
 # sent_id = TOD1005bis_701
-# text = questa è la resina dell' albero dell' incenso l' albero l' olibano
-# jefferson_text = questa è la re:sina dell' albero dell' incenso. l' albero l' olibano.
+# text = questa è la resina dell'albero dell'incenso l'albero l'olibano
+# jefferson_text = questa è la re:sina dell'albero dell'incenso. l'albero l'olibano.
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	Begin=1784.693|KID=701-0
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=701-1
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=701-2
 4	resina	resina	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=701-3|Prolonged=Yes
-5-6	dell'	_	_	_	_	_	_	_	KID=701-4|Truncated=Yes
+5-6	dell'	_	_	_	_	_	_	_	KID=701-4|SpaceAfter=No
 5	di	di	ADP	_	_	7	case	_	KID=701-4a
 6	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	KID=701-4b
 7	albero	albero	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	KID=701-5
-8-9	dell'	_	_	_	_	_	_	_	KID=701-6|Truncated=Yes
+8-9	dell'	_	_	_	_	_	_	_	KID=701-6|SpaceAfter=No
 8	di	di	ADP	_	_	10	case	_	KID=701-6a
 9	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	KID=701-6b
 10	incenso	incenso	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	Intonation=falling|KID=701-7
-11	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	KID=701-8|Truncated=Yes
+11	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	KID=701-8|SpaceAfter=No
 12	albero	albero	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	KID=701-9
-13	l'	il	DET	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	det	_	KID=701-10|Truncated=Yes
+13	l'	il	DET	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	det	_	KID=701-10|SpaceAfter=No
 14	olibano	olibano	NOUN	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	nmod	_	End=1787.682|Intonation=falling|KID=701-11
 
 # sent_id = TOD1005bis_702
