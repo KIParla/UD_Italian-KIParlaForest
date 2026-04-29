@@ -1400,7 +1400,7 @@
 # jefferson_text = indipendenti occhio.
 # speaker_id = TO017
 1	indipendenti	indipendente	ADJ	_	Number=Plur	2	amod	_	Begin=309.362|KID=141-0
-2	occhio	occhio	INTJ	_	Gender=Masc|Number=Sing	0	root	_	End=310.767|Intonation=falling|KID=141-1
+2	occhio	occhio	INTJ	_	_	0	root	_	End=310.767|Intonation=falling|KID=141-1
 
 # sent_id = TOD1005bis_142
 # text = di terza persona plurale
@@ -2079,7 +2079,7 @@
 6	che	che	SCONJ	_	_	9	nsubj:pass	_	KID=206-5
 7	ora	ora	ADV	_	_	9	advmod	_	KID=206-6
 8	sono	essere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux:pass	_	KID=206-7
-9	sparse	sparso	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	KID=206-8|Prolonged=Yes
+9	sparse	sparso	ADJ	_	Gender=Fem|Number=Sing	5	acl:relcl	_	KID=206-8|Prolonged=Yes
 10	su	su	ADP	_	_	12	case	_	KID=206-9
 11	questo	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	12	det	_	KID=206-10
 12	territorio	territorio	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	KID=206-11
