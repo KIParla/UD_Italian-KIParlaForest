@@ -422,7 +422,7 @@
 13	scrittura	scrittura	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	KID=42-12
 14	ufficiale	ufficiale	ADJ	_	Number=Sing	13	amod	_	End=97.808|Intonation=weakly_rising|KID=42-13
 15	in	in	ADP	_	_	16	case	_	Begin=98.146|KID=43-0
-16	alfabeto	alfabeto	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	KID=43-1
+16	alfabeto	alfabeto	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	KID=43-1
 17	arabo	arabo	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	End=99.086|Intonation=weakly_rising|KID=43-2
 
 # sent_id = TOD1005bis_44
@@ -564,7 +564,7 @@
 3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=55-0b
 4	momento	momento	NOUN	_	Gender=Masc|Number=Sing	22	reparandum	_	KID=55-1
 5	in	in	ADP	_	_	6	case	_	KID=55-2
-6	cui	cui	PRON	_	PronType=Rel	4	obl	_	KID=55-3|Prolonged=Yes
+6	cui	cui	PRON	_	PronType=Rel	4	nmod	_	KID=55-3|Prolonged=Yes
 7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=55-4
 8	qualche	qualche	DET	_	PronType=Ind	9	det	_	KID=55-5
 9	stato	stato	NOUN	_	Gender=Masc|Number=Sing	27	reparandum	_	KID=55-6
