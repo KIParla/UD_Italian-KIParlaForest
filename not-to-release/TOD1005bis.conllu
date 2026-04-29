@@ -57,7 +57,7 @@
 1	a	a	ADP	_	_	4	case	_	Begin=10.685|KID=4-0
 2	nessuna	nessuno	DET	_	PronType=Ind	4	det	_	KID=4-1
 3	altra	altro	DET	_	PronType=Ind	4	amod	_	KID=4-2
-4	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	0	root	_	KID=4-3
+4	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=4-3
 5	semitica	semitico	ADJ	_	Gender=Fem	4	amod	_	End=12.41|KID=4-4
 
 # sent_id = TOD1005bis_5
@@ -202,8 +202,8 @@
 # text = intanto che ore sono
 # jefferson_text = intanto che ore sono
 # speaker_id = TO017
-1	intanto	intanto	ADV	_	VerbForm=Ger	3	advmod	_	Begin=44.608|KID=18-0
-2	che	che	ADJ	_	PronType=Int	3	det	_	KID=18-1
+1	intanto	intanto	ADV	_	_	3	advmod	_	Begin=44.608|KID=18-0
+2	che	che	PRON	_	PronType=Int	3	det	_	KID=18-1
 3	ore	ora	NOUN	_	Gender=Fem|Number=Plur	0	root	_	KID=18-2
 4	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	End=45.492|KID=18-3
 
@@ -552,7 +552,7 @@
 7	in	in	ADP	_	_	8	case	_	KID=53-6
 8	termini	termine	NOUN	_	Gender=Masc|Number=Plur	0	root	_	KID=53-7
 9	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=53-8
-10	ambigui	ambiguo	ADJ	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	amod	_	End=129.93|Intonation=falling|KID=53-9
+10	ambigui	ambiguo	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	End=129.93|Intonation=falling|KID=53-9
 
 # sent_id = TOD1005bis_54_55_56_57
 # text = quindi nel momento in cui un qualche stato arabo e non sembra che succederà nel prossimo futuro nel momento in cui uno qualche stato arabo volesse ufficiliazzare il dialetto dovrebbe pensare a un sistema ortografico per scriverlo
@@ -2009,7 +2009,7 @@
 1	o	o	INTJ	_	_	3	discourse	_	KID=200-6
 2	mio	mio	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	3	det:poss	_	KID=200-7
 3	dio	Dio	PROPN	_	Gender=Masc|Number=Sing	8	discourse	_	KID=200-8
-4	quanti	quanto	ADJ	_	PronType=Exc	5	det	_	KID=200-9
+4	quanti	quanto	PRON	_	Gender=Masc|Number=Sing|PronType=Exc	5	det	_	KID=200-9
 5	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	KID=200-10
 6	diversi	diverso	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	KID=200-11
 7	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	8	expl	_	KID=200-12
