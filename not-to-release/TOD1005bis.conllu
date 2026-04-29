@@ -212,7 +212,7 @@
 # jefferson_text = questa prima domanda fondamentale
 # speaker_id = TO017
 1	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Begin=45.568|KID=19-0
-2	prima	primo	DET	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	KID=19-1
+2	prima	primo	NUM	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	KID=19-1
 3	domanda	domanda	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=19-2
 4	fondamentale	fondamentale	ADJ	_	Number=Sing	3	amod	_	End=47.273|KID=19-3
 
@@ -251,7 +251,7 @@
 6	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	8	iobj	_	KID=24-6
 7	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	aux	_	KID=24-7
 8	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=24-8
-9	cinque	cinque	DET	_	NumType=Card	10	nummod	_	KID=24-9
+9	cinque	cinque	NUM	_	NumType=Card	10	nummod	_	KID=24-9
 10	esempi	esempio	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	End=56.462|Intonation=weakly_rising|KID=24-10
 
 # sent_id = TOD1005bis_25
@@ -336,7 +336,7 @@
 4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=35-3
 5	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	0	root	_	KID=35-4
 6	di	di	ADP	_	_	7	case	_	KID=35-5
-7	cinque	cinque	DET	_	NumType=Card	10	nummod	_	End=77.417|KID=35-6
+7	cinque	cinque	NUM	_	NumType=Card	10	nummod	_	End=77.417|KID=35-6
 8	grosse	grosso	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	Begin=77.901|End=78.701|KID=36-0|PaceSlow=Yes
 9	eh	eh	INTJ	_	_	10	discourse	_	Begin=79.121|End=79.485|KID=37-0|Prolonged=Yes
 10	capitali	capitale	NOUN	_	Number=Plur	5	nmod	_	Begin=80.583|KID=38-0|Prolonged=Yes
@@ -643,7 +643,7 @@
 10	nostro	nostro	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	13	reparandum	_	KID=60-8|PauseAfter=Yes
 11-12	nella	_	_	_	_	_	_	_	KID=60-10
 11	in	in	ADP	_	_	14	case	_	KID=60-10a
-12	la	il	DET	_	_	14	det	_	KID=60-10b
+12	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	KID=60-10b
 13	nostra	nostro	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	KID=60-11
 14	trascrizione	trascrizione	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	KID=60-12
 15	scientifica	scientifico	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	End=150.523|Intonation=weakly_rising|KID=60-13
@@ -800,7 +800,7 @@
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	nmod	_	KID=76-2|PauseAfter=Yes
 4-5	dal	_	_	_	_	_	_	_	KID=76-4
 4	da	da	ADP	_	_	6	case	_	KID=76-4a
-5	l	il	DET	_	_	6	det	_	KID=76-4b
+5	l	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=76-4b
 6	marocco	Marocco	PROPN	_	Gender=Masc|Number=Sing	2	obl	_	KID=76-5
 7	rabat	Rabat	PROPN	_	Gender=Masc|Number=Sing	6	nmod	_	KID=76-6
 8	che	che	SCONJ	_	PronType=Rel	10	nsubj	_	KID=76-7
@@ -975,7 +975,7 @@
 # text = parecchia
 # jefferson_text = parecchia.
 # speaker_id = TO017
-1	parecchia	parecchio	PRON	_	Gender=Fem|Number=Sing	0	root	_	Begin=211.964|End=212.517|Intonation=falling|KID=96-0
+1	parecchia	parecchio	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	Begin=211.964|End=212.517|Intonation=falling|KID=96-0
 
 # sent_id = TOD1005bis_97
 # text = mh tanta
@@ -1098,7 +1098,7 @@
 2	differenza	differenza	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	KID=106-1|PauseAfter=Yes
 3-4	dei	_	_	_	_	_	_	_	KID=106-3
 3	di	di	ADP	_	_	5	case	_	KID=106-3a
-4	i	il	DET	_	_	5	det	_	KID=106-3b
+4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=106-3b
 5	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	KID=106-4
 6	tra	tra	ADP	_	_	7	case	_	KID=106-5
 7	loro	loro	PRON	_	Number=Plur|Person=3|PronType=Prs	5	nmod	_	KID=106-6
@@ -1160,7 +1160,7 @@
 2	volere	volere	VERB	_	Gender=Masc|Number=Sing	0	root	_	KID=115-1|PauseAfter=Yes
 3-4	del	_	_	_	_	_	_	_	KID=115-3
 3	di	di	ADP	_	_	5	case	_	KID=115-3a
-4	i	i	DET	_	_	5	det	_	KID=115-3b
+4	i	i	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=115-3b
 5	classico	classico	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	End=250.523|Intonation=weakly_rising|KID=115-4
 
 # sent_id = TOD1005bis_116
@@ -1272,7 +1272,7 @@
 3	di	di	ADP	_	_	4	case	_	KID=130-6
 4	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	KID=130-7
 5	di	di	ADP	_	_	7	case	_	KID=130-8
-6	cinque	cinque	DET	_	NumType=Card	7	nummod	_	KID=130-9
+6	cinque	cinque	NUM	_	NumType=Card	7	nummod	_	KID=130-9
 7	capitali	capitale	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	KID=130-10
 8	e	e	CCONJ	_	_	12	cc	_	KID=130-11
 9	di	di	ADP	_	_	12	case	_	KID=130-12
@@ -1407,7 +1407,7 @@
 # jefferson_text = di terza persona plurale.
 # speaker_id = TO017
 1	di	di	ADP	_	_	3	case	_	Begin=311.221|KID=142-0
-2	terza	terzo	DET	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	KID=142-1
+2	terza	terzo	NUM	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	KID=142-1
 3	persona	persona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=142-2
 4	plurale	plurale	ADJ	_	Number=Sing	3	amod	_	End=312.535|Intonation=falling|KID=142-3
 
@@ -1791,7 +1791,7 @@
 4	altrettanto	altrettanto	ADV	_	_	5	advmod	_	KID=175-3
 5	strani	strano	ADJ	_	Gender=Masc|Number=Plur	19	conj	_	KID=175-4
 6	in	in	ADP	_	_	7	case	_	KID=175-5
-7	questo	questo	DET	_	_	8	reparandum	_	Interrupted=Yes|KID=175-6
+7	questo	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	reparandum	_	Interrupted=Yes|KID=175-6
 8	questo	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	9	det	_	KID=175-7
 9	dialetto	dialetto	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	KID=175-8
 10	dialetto	dialetto	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	KID=175-9
@@ -1899,7 +1899,7 @@
 5	solo	solo	ADV	_	_	8	advmod	_	KID=189-4|PauseAfter=Yes
 6-7	delle	_	_	_	_	_	_	_	KID=189-6
 6	di	di	ADP	_	_	8	case	_	KID=189-6a
-7	le	il	DET	_	_	8	det	_	KID=189-6b
+7	le	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=189-6b
 8	forme	forma	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	End=417.184|Intonation=falling|KID=189-7
 
 # sent_id = TOD1005bis_190_191_192
@@ -2225,7 +2225,7 @@
 # jefferson_text = forse queste lingue hanno un' origine comune (.) hanno passato <duecento> anni a fare alberi genealogici finché, non <solo> hanno dimostra:to che queste lingue (.) effettivamente hanno (.) un' origine comune,
 # speaker_id = TO017
 1	forse	forse	ADV	_	_	3	advmod	_	Begin=498.075|KID=219-0
-2	queste	questo	DET	_	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	3	det	_	KID=219-1
+2	queste	questo	DET	_	Gender=Fem|Number=Plur|PronType=Dem	3	det	_	KID=219-1
 3	lingue	lingua	NOUN	_	_	4	nsubj	_	KID=219-2
 4	hanno	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=219-3
 5	un'	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=219-4|Truncated=Yes
@@ -2530,7 +2530,7 @@
 # speaker_id = TO017
 1	invece	invece	ADV	_	_	4	advmod	_	Begin=581.75|KID=246-0
 2	che	che	ADJ	_	_	4	mark	_	KID=246-1
-3	cos'	cosa	PRON	_	_	4	fixed	_	KID=246-2|Truncated=Yes
+3	cos'	cosa	PRON	_	PronType=Int	4	fixed	_	KID=246-2|Truncated=Yes
 4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=246-3
 5	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	KID=246-4|Truncated=Yes
 6	arabo	arabo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Intonation=weakly_rising|KID=246-5
@@ -2680,7 +2680,7 @@
 # jefferson_text = sono due domande che son più o meno la stessa domanda,
 # speaker_id = TO017
 1	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	Begin=631.558|KID=264-0
-2	due	due	DET	_	NumType=Card	3	nummod	_	KID=264-1
+2	due	due	NUM	_	NumType=Card	3	nummod	_	KID=264-1
 3	domande	domanda	NOUN	_	Gender=Fem|Number=Plur	0	root	_	KID=264-2
 4	che	che	SCONJ	_	PronType=Rel	5	nsubj	_	KID=264-3
 5	son	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl:relcl	_	KID=264-4
@@ -2717,7 +2717,7 @@
 2	qual	quale	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	KID=267-1
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	KID=267-2
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=267-3
-5	prima	primo	DET	_	Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	KID=267-4
+5	prima	primo	NUM	_	Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	KID=267-4
 6	attestazione	attestazione	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	KID=267-5|Prolonged=Yes
 7	che	che	SCONJ	_	PronType=Rel	9	obj	_	KID=267-6
 8	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	9	nsubj	_	KID=267-7
@@ -2831,7 +2831,7 @@
 5	vi	vi	PRON	_	Number=Plur|Person=2|PronType=Prs	6	expl	_	KID=279-5
 6	fa	fare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	KID=279-6|OverlappingGroup=0
 7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=279-7|OverlappingGroup=0
-8	primo	primo	DET	_	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	KID=279-8|OverlappingGroup=0
+8	primo	primo	NUM	_	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	KID=279-8|OverlappingGroup=0
 9	anno	anno	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	End=663.729|Intonation=weakly_rising|KID=279-9|OverlappingGroup=0
 
 # sent_id = TOD1005bis_280
@@ -3178,7 +3178,7 @@
 # text = questo se noi affrontiamo anche questa
 # jefferson_text = questo~ se noi affrontiamo anche que:sta:
 # speaker_id = TO017
-1	questo	questo	PRON	_	_	0	root	_	Begin=744.846|Interrupted=Yes|KID=313-0
+1	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Begin=744.846|Interrupted=Yes|KID=313-0
 2	se	se	SCONJ	_	_	4	mark	_	KID=313-1
 3	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	4	nsubj	_	KID=313-2
 4	affrontiamo	affrontare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	advcl	_	KID=313-3
