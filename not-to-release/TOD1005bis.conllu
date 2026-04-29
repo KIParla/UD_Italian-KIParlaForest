@@ -331,7 +331,7 @@
 # jefferson_text = okay questi sono i dialetti (di) cinque <grosse> e:h ca:pita:li o città importanti del mondo arabo,
 # speaker_id = TO017
 1	okay	okay	INTJ	_	_	5	discourse	_	Begin=75.039|KID=35-0
-2	questi	questo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	KID=35-1
+2	questi	questo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	5	nsubj	_	KID=35-1
 3	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=35-2
 4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=35-3
 5	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	0	root	_	KID=35-4
