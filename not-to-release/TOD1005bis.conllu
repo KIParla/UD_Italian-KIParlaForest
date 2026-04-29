@@ -6468,7 +6468,7 @@
 # text = di eh mh
 # jefferson_text = di=e:::h mh
 # speaker_id = TO017
-1	di	di	ADP	_	_	2	case	_	Begin=1566.062|KID=596-0
+1	di	di	ADP	_	_	2	case	_	Begin=1566.062|KID=596-0|SpaceAfter=No
 2	eh	eh	INTJ	_	_	0	root	_	KID=596-1|Prolonged=Yes|ProsodicLink=Yes
 3	mh	mh	INTJ	_	_	2	discourse	_	End=1567.293|KID=596-2
 
