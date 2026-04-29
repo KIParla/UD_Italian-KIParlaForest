@@ -118,6 +118,10 @@ You are encouraged to cite this paper if you use the KIParla Forest treebank in 
 }
 ```
 
+# Acknowledgment
+
+This work was supported by COST Action CA21167 —Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)).
+
 # Changelog
 
 * 2025-11-15 v2.17
