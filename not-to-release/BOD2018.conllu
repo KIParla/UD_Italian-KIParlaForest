@@ -717,7 +717,7 @@
 # conversation_id = BOD2018
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Begin=195.163|KID=49-0
 2	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	3	amod	_	KID=49-1
-3	stanza	stanza	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj:reform::BOD2018_48-12|KID=49-2
+3	stanza	stanza	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj:reform::BOD2018_48::12|KID=49-2
 4	preferita	preferito	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	amod	_	KID=49-3|Prolonged=Yes|ProsodicLink=Yes
 5	ah	ah	INTJ	_	_	12	discourse	_	KID=49-4|Prolonged=Yes
 6	in	in	ADP	_	_	7	case	_	KID=49-5
@@ -808,7 +808,7 @@
 # jefferson_text = [state insie:me:]
 # speaker_id = BO118
 # conversation_id = BOD2018
-1	state	stare	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=219.85|Coconstruct=conj::BOD2018_53_54a-17|KID=55-0|OverlappingGroup=7
+1	state	stare	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=219.85|Coconstruct=conj::BOD2018_53_54a::17|KID=55-0|OverlappingGroup=7
 2	insieme	insieme	ADV	_	_	1	advmod	_	End=221.44|KID=55-1|OverlappingGroup=7|Prolonged=Yes
 
 # sent_id = BOD2018_56_57
@@ -1651,7 +1651,7 @@
 # jefferson_text = [du:e],
 # speaker_id = BO140
 # conversation_id = BOD2018
-1	due	due	NUM	_	NumType=Card	0	root	_	Begin=425.89|Coconstruct=conj:reform::BOD2018_108-10|End=426.3|Intonation=WeaklyRising|KID=109-0|OverlappingGroup=18|Prolonged=Yes
+1	due	due	NUM	_	NumType=Card	0	root	_	Begin=425.89|Coconstruct=conj:reform::BOD2018_108::10|End=426.3|Intonation=WeaklyRising|KID=109-0|OverlappingGroup=18|Prolonged=Yes
 
 # sent_id = BOD2018_110
 # text = due okay
@@ -1684,7 +1684,7 @@
 4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	KID=112-3
 5	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	KID=112-4
 6	in	in	ADP	_	_	7	case	_	KID=112-5
-7	via	via	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj:reform::BOD2018_111-6|KID=112-6
+7	via	via	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj:reform::BOD2018_111::6|KID=112-6
 8	[PLACE_NAME]	@nomeluogo	PROPN	_	_	7	nmod	_	Anonymized=Yes|KID=112-7
 9	e	e	CCONJ	_	_	12	discourse	_	Begin=432.745|KID=114-0|Prolonged=Yes
 10	proprio	proprio	ADV	_	_	12	advmod	_	KID=114-1
@@ -1975,7 +1975,7 @@
 2	sì	sì	ADV	_	_	1	parataxis	_	KID=133-1
 3	in	in	ADP	_	_	5	case	_	KID=133-2
 4	quella	quello	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	KID=133-3
-5	zona	zona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj:reform::BOD2018_128_129_130_BOD2018_132-41|KID=133-4
+5	zona	zona	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj:reform::BOD2018_128_129_130_BOD2018_132::41|KID=133-4
 6	sì	sì	ADV	_	_	5	discourse	_	End=515.049|Intonation=Falling|KID=133-5
 
 # sent_id = BOD2018_134
@@ -3038,7 +3038,7 @@
 # conversation_id = BOD2018
 1	sì	sì	ADV	_	_	3	discourse	_	Begin=794.208|KID=195-0|OverlappingGroup=31
 2	di	di	ADP	_	_	3	mark	_	KID=195-1|OverlappingGroup=31
-3	stare	stare	VERB	_	VerbForm=Inf	0	root	_	Coconstruct=advcl::BOD2018_194-10|KID=195-2|OverlappingGroup=31
+3	stare	stare	VERB	_	VerbForm=Inf	0	root	_	Coconstruct=advcl::BOD2018_194::10|KID=195-2|OverlappingGroup=31
 4	da	da	ADP	_	_	5	case	_	KID=195-3|OverlappingGroup=31
 5	sola	solo	ADJ	_	Gender=Fem|Number=Sing	3	obl	_	KID=195-4|OverlappingGroup=31|Prolonged=Yes
 6	di	di	ADP	_	_	8	mark	_	KID=195-5|OverlappingGroup=31
@@ -3284,7 +3284,7 @@
 1	cioè	cioè	CCONJ	_	_	4	discourse	_	Begin=841.564|End=842.1|KID=212-0|OverlappingGroup=36
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Begin=842.754|KID=213-0|Prolonged=Yes
 3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=213-1
-4	parco	parco	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Coconstruct=conj:reform::BOD2018_211-3|KID=213-2
+4	parco	parco	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Coconstruct=conj:reform::BOD2018_211::3|KID=213-2
 5	melloni	Melloni	PROPN	_	_	4	nmod	_	Intonation=Falling|KID=213-3|Prolonged=Yes
 6	si	si	PRON	_	Person=3|PronType=Prs	7	expl	_	Clitic=Yes|KID=213-4
 7	trova	trovare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	KID=213-5|OverlappingGroup=37

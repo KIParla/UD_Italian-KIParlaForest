@@ -3966,7 +3966,7 @@
 # speaker_id = BO139
 # conversation_id = BOA3017
 1	non	non	ADV	_	PronType=Neg	2	advmod	_	Begin=775.948|KID=533-0|OverlappingGroup=93
-2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Coconstruct=BOA3017_532-19|KID=533::1|OverlappingGroup=93
+2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Coconstruct=repair::BOA3017_532::19|KID=533::1|OverlappingGroup=93
 3	che	che	SCONJ	_	_	2	ccomp	_	End=776.788|KID=533-2
 
 # sent_id = BOA3017_535
