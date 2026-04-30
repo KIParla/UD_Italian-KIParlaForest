@@ -307,13 +307,13 @@
 7-8	della	_	_	_	_	_	_	_	End=55.118|KID=31-6|Prolonged=Yes
 7	di	di	ADP	_	_	12	case	_	KID=31-6a
 8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	KID=31-6b
-9	quand'	quand'	NUM	_	NumType=Card	12	nummod	_	Begin=56.73|KID=32-0|SpaceAfter=No
+9	quand'	quando	ADV	_	_	12	advmod	_	Begin=56.73|KID=32-0|SpaceAfter=No
 10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	KID=32-1
 11	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	KID=32-2|Prolonged=Yes
 12	sessione	sessione	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	KID=32-3
 13	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	KID=32-4
 14	prima	primo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	15	amod	_	KID=32-5
-15	settimana	settimana	NOUN	_	Gender=Fem|Number=Sing	12	obl:tmod	_	KID=32-6
+15	settimana	settimana	NOUN	_	Gender=Fem|Number=Sing	12	parataxis	_	KID=32-6
 16	di	di	ADP	_	_	17	case	_	KID=32-7|OverlappingGroup=12
 17	luglio	luglio	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	End=59.471|Intonation=rising|KID=32-8|OverlappingGroup=12
 
@@ -402,7 +402,7 @@
 5	di	di	ADP	_	_	7	case	_	KID=42-4
 6	sì	sì	ADV	_	Polarity=Pos	7	advmod	_	KID=42-5|PauseAfter=Yes|Volume=low
 7	ultimazione	ultimazione	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	KID=42-7
-8	okay	okay	INTJ	_	_   2	discourse	_	KID=42-8|OverlappingGroup=16
+8	okay	okay	INTJ	_	_	2	discourse	_	KID=42-8|OverlappingGroup=16
 9	quindi	quindi	ADV	_	_	2	discourse	_	KID=42-9|OverlappingGroup=16
 10	quand~	quand~	X	_	_	12	reparandum	_	Interrupted=Yes|KID=42-10|OverlappingGroup=16
 11	prima	prima	ADV	_	_	12	reparandum	_	KID=42-11|OverlappingGroup=16
