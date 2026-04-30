@@ -723,7 +723,7 @@
 6	in	in	ADP	_	_	7	case	_	KID=49-5
 7	realtà	realtà	NOUN	_	Gender=Fem	12	discourse	_	KID=49-6|Prolonged=Yes
 8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=49-7
-9	volta	volta	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	KID=49-8
+9	volta	volta	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	KID=49-8|Relation=obl
 10	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	KID=49-9
 11	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=49-10
 12	bagno	bagno	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	End=200.44|Intonation=Falling|KID=49-11
@@ -2885,7 +2885,7 @@
 11	no~	no~	X	_	_	12	reparandum	_	Interrupted=Yes|KID=187-2
 12	non	non	ADV	_	PronType=Neg	13	advmod	_	KID=187-3
 13	avevano	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	KID=187-4
-14	un~	un~	DET	_	Definite=Ind|Number=Sing|	15	reparandum	_	Interrupted=Yes|KID=187-5
+14	un~	uno	DET	_	Definite=Ind|Number=Sing|PronType=Art	15	reparandum	_	Interrupted=Yes|KID=187-5
 15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	KID=187-6
 16	porta	porta	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	KID=187-7|Prolonged=Yes
 17	divisoria	divisorio	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	KID=187-8
