@@ -3472,15 +3472,15 @@
 
 # sent_id = TOD1005bis_342a
 # text = seicentodieci la prima
-# jefferson_text = seicentodieci la pri~ la rivelazione della prima sura la sur~ del gru~ del grumo di sangue al profeta mohamed. okay,
+# jefferson_text = seicentodieci la pri~
 # speaker_id = TO017
 1	seicentodieci	seicentodieci	NUM	_	Gender=Masc|Number=Plur	3	nummod	_	Begin=829.362|KID=342-0
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=342-1
-3	prima	primo	X	_	_	0	root	_	Interrupted=Yes|KID=342-2
+3	prima	primo	NUM	_	_	0	root	_	Interrupted=Yes|KID=342-2
 
 # sent_id = TOD1005bis_342b
 # text = la rivelazione di la prima sura la sura di il grumo di il grumo di sangue a il profeta mohamed okay
-# jefferson_text = seicentodieci la pri~ la rivelazione della prima sura la sur~ del gru~ del grumo di sangue al profeta mohamed. okay,
+# jefferson_text = la rivelazione della prima sura la sur~ del gru~ del grumo di sangue al profeta mohamed. okay,
 # speaker_id = TO017
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	KID=342-3
 2	rivelazione	rivelazione	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=342-4
@@ -10714,7 +10714,7 @@
 
 # sent_id = TOD1005bis_1011a
 # text = credo nel duemilaquindici addirittura questa potrebbe essere
-# jefferson_text = (credo) nel duemilaquindici addirittura questa potrebbe ess~ 
+# jefferson_text = (credo) nel duemilaquindici addirittura questa potrebbe ess~
 # speaker_id = TO017
 1	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=2592.661|KID=1011-0
 2-3	nel	_	_	_	_	_	_	_	KID=1011-1
@@ -11278,7 +11278,7 @@
 
 # sent_id = TOD1005bis_1070a
 # text = quindi questa potrebbe essere
-# jefferson_text = quindi questa potrebbe ess~ 
+# jefferson_text = quindi questa potrebbe ess~
 1	quindi	quindi	CCONJ	_	_	4	cc	_	Begin=2753.257|KID=1070-0
 2	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	KID=1070-1
 3	potrebbe	potere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=1070-2
