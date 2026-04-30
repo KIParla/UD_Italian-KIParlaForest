@@ -1962,20 +1962,21 @@
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_154_156::2|Begin=387.255|End=387.683|Intonation=falling|KID=155-0|OverlappingGroup=81
 
 # sent_id = 156
-# text = e volevo anche metter mi in contatto sia con il cnr che con l' istituto statale sordi che se non lo chiudono a breve perché purtroppo sono un po'
-# jefferson_text = [e: volevo anche mettermi in]con[tatto sia] co:n il ci enne erre che con l' istituto statale sordi che (.) se non lo chiudono a breve perché purtroppo sono un po',
+# text = e volevo anche mettermi in contatto sia con il ciennerre che con l'istituto statale sordi che se non lo chiudono a breve perché purtroppo sono un po'
+# jefferson_text = [e: volevo anche mettermi in]con[tatto sia] co:n il cienneerre che con l'istituto statale sordi che (.) se non lo chiudono a breve perché purtroppo sono un po',
 # speaker_id = BO037
 1	e	e	CCONJ	_	_	4	cc	_	Begin=388.111|KID=156-0|OverlappingGroup=82|Prolonged=Yes
 2	volevo	volere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	KID=156-1|OverlappingGroup=82
 3	anche	anche	ADV	_	_	4	advmod	_	KID=156-2|OverlappingGroup=82
-4	metter	mettere	VERB	_	Number=Plur	0	root	_	KID=156-3|OverlappingGroup=82
-5	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	expl	_	KID=156-3|OverlappingGroup=82
+4-5	mettermi	_	_	_	_	_	_	_	KID=156-3
+4	metter	mettere	VERB	_	Number=Plur	0	root	_	KID=156-3a|OverlappingGroup=82
+5	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	expl	_	KID=156-3b|OverlappingGroup=82
 6	in	in	ADP	_	Gender=Masc|Number=Sing	7	case	_	KID=156-4|OverlappingGroup=82,83
 7	contatto	contatto	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	KID=156-4|OverlappingGroup=82,83
 8	sia	sia	CCONJ	_	_	11	cc	_	KID=156-5|OverlappingGroup=83
 9	con	con	ADP	_	_	11	case	_	KID=156-6|Prolonged=Yes
 10	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=156-7
-11	cnr	CNR	NOUN	_	_	7	nmod	_	_
+11	ciennerre	CNR	NOUN	_	_	7	nmod	_	_
 12	che	che	CCONJ	_	_	15	cc	_	KID=156-11
 13	con	con	ADP	_	_	15	case	_	KID=156-12
 14	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	15	det	_	KID=156-13|SpaceAfter=No
@@ -1993,7 +1994,7 @@
 26	purtroppo	purtroppo	ADV	_	_	27	advmod	_	KID=156-26
 27	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	KID=156-27
 28	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	KID=156-28
-29	po'	poco	ADV	_	_	27	advmod	_	End=397.055|Intonation=weakly_rising|KID=156-29
+29	po'	po'	ADV	_	_	27	advmod	_	End=397.055|Intonation=weakly_rising|KID=156-29
 
 # sent_id = 158
 # text = così ehm
