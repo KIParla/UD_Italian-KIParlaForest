@@ -1783,7 +1783,7 @@
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=225-1
 3	sedia	sedia	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	KID=225-2
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=225-3
-5	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	3	conj:reform	_	KID=225-4|Relation=conj:reform
+5	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	KID=225-4|Relation=conj:reform
 6	come	come	ADV	_	_	8	advmod	_	KID=225-5
 7	si	si	PRON	_	Person=3|PronType=Prs	8	expl	_	Clitic=Yes|KID=225-6
 8	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=369.17|Intonation=Rising|KID=225-7
@@ -2324,7 +2324,7 @@
 8	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	End=456.959|KID=297-8
 9	eh	eh	INTJ	_	_	8	ccomp:reported	_	Begin=457.089|Intonation=Rising|KID=298-0
 10	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	KID=298-1
-11	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	conj:reform	_	End=458.44|KID=298-2|Relation=conj:reform
+11	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	conj	_	End=458.44|KID=298-2|Relation=conj:reform
 
 # sent_id = BOA3017_299
 # text = eh
