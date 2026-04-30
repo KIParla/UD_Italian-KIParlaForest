@@ -1962,7 +1962,7 @@
 1	sì	sì	ADV	B	_	0	root	_	Backchannel=BOA1009_154_156::2|Begin=387.255|End=387.683|Intonation=falling|KID=155-0|OverlappingGroup=81
 
 # sent_id = 156
-# text = e volevo anche metter mi in contatto sia con il cnr che con l' istituto statale sordi che {P} se non lo chiudono a breve perché purtroppo sono un po'
+# text = e volevo anche metter mi in contatto sia con il cnr che con l' istituto statale sordi che se non lo chiudono a breve perché purtroppo sono un po'
 # jefferson_text = [e: volevo anche mettermi in]con[tatto sia] co:n il ci enne erre che con l' istituto statale sordi che (.) se non lo chiudono a breve perché purtroppo sono un po',
 # speaker_id = BO037
 1	e	e	CCONJ	CC	_	4	cc	_	Begin=388.111|KID=156-0|OverlappingGroup=82|Prolonged=Yes
