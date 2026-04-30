@@ -1276,7 +1276,7 @@
 7	capitali	capitale	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	KID=130-10
 8	e	e	CCONJ	_	_	12	cc	_	KID=130-11
 9	di	di	ADP	_	_	12	case	_	KID=130-12
-10	cinque	cinque	DET	_	PronType=Ind	12	nummod	_	KID=130-13
+10	cinque	cinque	NUM	_	PronType=Ind	12	nummod	_	KID=130-13
 11	grosse	grosso	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	KID=130-14
 12	città	città	NOUN	_	Gender=Fem	7	conj	_	Intonation=falling|KID=130-15
 13	okay	okay	INTJ	_	_	2	discourse	_	Intonation=weakly_rising|KID=130-16
