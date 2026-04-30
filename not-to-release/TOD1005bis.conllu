@@ -5102,9 +5102,9 @@
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=470-15
 5	fortuna	fortuna	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	KID=470-16
 6	di	di	ADP	_	_	5	fixed	_	KID=470-17
-7-8	trovarli	trovarlo	VERB	_	Gender=Masc|Number=Plur	_	_	_	KID=470-18
-7	trovarli	trovare	VERB	_	_	6	xcomp	_	KID=470-18a
-8	_	_	_	_	_	9	dep	_	KID=470-18b
+7-8	trovarli	_	_	_	_	_	_	_	KID=470-18
+7	trovar	trovare	VERB	_	_	6	xcomp	_	KID=470-18a
+8	li	li	PRON	_	_	9	obj	_	KID=470-18b
 9	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=470-19
 10-11	dei	_	_	_	_	_	_	_	KID=470-20
 10	di	di	ADP	_	_	12	case	_	KID=470-20a
