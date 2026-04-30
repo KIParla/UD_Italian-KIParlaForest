@@ -3191,7 +3191,7 @@
 # speaker_id = BO140
 # conversation_id = BOD2018
 1	certo	certo	ADJ	_	_	0	root	_	Backchannel=BOD2018_205::4|Begin=818.89|End=819.654|KID=206-0|OverlappingGroup=34|Prolonged=Yes
-2	sì	sì	ADV	_	_	1	parataxis	_	Backchannel=BOD2018_205-16|Begin=821.49|KID=207-0|ProsodicLink=Yes
+2	sì	sì	ADV	_	_	1	parataxis	_	Backchannel=BOD2018_205::16|Begin=821.49|KID=207-0|ProsodicLink=Yes
 3	sì	sì	ADV	_	_	1	parataxis	_	KID=207-1|ProsodicLink=Yes
 4	sì	sì	ADV	_	_	1	parataxis	_	KID=207-2|ProsodicLink=Yes
 5	sì	sì	ADV	_	_	1	parataxis	_	KID=207-3
