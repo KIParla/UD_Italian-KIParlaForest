@@ -910,7 +910,7 @@
 6	associazione	associazione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	KID=74-5
 7	di	di	ADP	E	_	12	case	_	KID=74-6
 8	appunto	appunto	ADV	B	_	12	discourse	_	KID=74-7
-9	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	12	det	_	KID=74-8|Prolonged=Yes
+9	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	12	det	_	KID=74-8|Prolonged=Yes|SpaceAfter=No
 10	ex	ex	PART	A	_	12	amod	_	KID=74-9|ProsodicLink=Yes
 11	mh	mh	INTJ	S	Gender=Masc	12	discourse	_	End=171.414|KID=74-10|Prolonged=Yes
 12	brokers	brokers	NOUN	S	Gender=Masc	6	nmod	_	Begin=171.98|KID=75-0
@@ -1621,7 +1621,7 @@
 # jefferson_text = come data::=eh ipotizzata o come: data ulti[ma],
 # speaker_id = BO026
 1	come	come	ADP	E	_	2	case	_	Begin=320.018|KID=132-0
-2	data	dato	NOUN	S	Gender=Fem|Number=Sing	0	root	_	KID=132-1|Prolonged=Yes
+2	data	dato	NOUN	S	Gender=Fem|Number=Sing	0	root	_	KID=132-1|Prolonged=Yes|SpaceAfter=No
 3	eh	eh	INTJ	A	_	2	discourse	_	KID=132-2|ProsodicLink=Yes
 4	ipotizzata	ipotizzare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	amod	_	KID=132-3
 5	o	o	CCONJ	CC	_	7	cc	_	KID=132-4
