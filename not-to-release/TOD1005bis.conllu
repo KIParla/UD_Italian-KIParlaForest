@@ -3241,7 +3241,7 @@
 5	possiamo	potere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	KID=316-4
 6	pensare	pensare	VERB	_	VerbForm=Inf	0	root	_	End=758.613|KID=316-5
 7	a	a	ADP	_	_	9	case	_	Begin=758.692|KID=317-0
-8	tutto	tutto	ADJ	_	Gender=Masc|Number=Sing|PronType=Ind	9	det	_	KID=317-1
+8	tutto	tutto	ADJ	_	Gender=Masc|Number=Sing|PronType=Ind	9	amod	_	KID=317-1
 9	quanto	quanto	PRON	_	_	6	obl	_	KID=317-2
 10	però	però	CCONJ	_	_	6	cc	_	End=759.854|KID=317-3|Prolonged=Yes
 
