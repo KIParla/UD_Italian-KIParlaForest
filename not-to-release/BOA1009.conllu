@@ -142,7 +142,7 @@
 18	e	e	CCONJ	CC	_	21	cc	_	Begin=34.251|KID=11-0
 19	quindi	quindi	ADV	B	_	21	advmod	_	KID=11-1
 20	come	come	SCONJ	CS	_	21	mark	_	KID=11-2
-21	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=11-3
+21	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	KID=11-3
 22	da	da	ADP	E	_	23	case	_	KID=11-4
 23	interpreti	interpreta	NOUN	S	Gender=Masc|Number=Plur	21	obl	_	KID=11-5
 24	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	23	nmod	_	KID=11-6
