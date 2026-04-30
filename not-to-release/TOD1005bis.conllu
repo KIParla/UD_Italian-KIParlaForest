@@ -169,7 +169,7 @@
 # text = quali sono le caratteristiche dei dialetti
 # jefferson_text = quali sono le caratteristiche dei dialetti.
 # speaker_id = TO017
-1	quali	quale	PRON	_	Gender=Fem|Number=Plur|PronType=Int	2	advmod	_	KID=15-14
+1	quali	quale	ADV	_	Gender=Fem|Number=Plur|PronType=Int	2	advmod	_	KID=15-14
 2	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=15-15
 3	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	KID=15-16
 4	caratteristiche	caratteristica	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	KID=15-17
@@ -258,7 +258,7 @@
 # text = cosa vuol dire questa frase
 # jefferson_text = cosa vuol dire: questa frase?
 # speaker_id = TO017
-1	cosa	cosa	PRON	_	PronType=Int	3	advmod	_	Begin=57.314|KID=25-0
+1	cosa	cosa	ADV	_	PronType=Int	3	advmod	_	Begin=57.314|KID=25-0
 2	vuol	volere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	KID=25-1
 3	dire	dire	VERB	_	VerbForm=Inf	0	root	_	KID=25-2|Prolonged=Yes
 4	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	KID=25-3
@@ -459,7 +459,7 @@
 # jefferson_text = perché qual è il problema. che l' alfabeto (.) arabo, è perfetto per scrivere l' arabo standard,
 # speaker_id = TO017
 1	perché	perché	SCONJ	_	_	5	mark	_	Begin=107.468|KID=45-0
-2	qual	quale	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	advmod	_	KID=45-1
+2	qual	quale	ADV	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	advmod	_	KID=45-1
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=45-2
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=45-3
 5	problema	problema	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Intonation=falling|KID=45-4
