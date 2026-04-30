@@ -585,9 +585,9 @@
 22	momento	momento	NOUN	_	Gender=Masc|Number=Sing	30	obl	_	KID=56-1
 23	in	in	ADP	_	_	24	case	_	KID=56-2
 24	cui	cui	PRON	_	PronType=Rel	22	obl	_	KID=56-3
-25	uno	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	nsubj	_	KID=56-4|PaceSlow=Yes
+25	uno	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	KID=56-4|PaceSlow=Yes
 26	qualche	qualche	DET	_	PronType=Ind	27	det	_	KID=56-5|PaceSlow=Yes
-27	stato	stato	NOUN	_	Gender=Masc|Number=Sing	29	nsubj	_	KID=56-6|PaceSlow=Yes
+27	stato	stato	NOUN	_	Gender=Masc|Number=Sing	30	nsubj	_	KID=56-6|PaceSlow=Yes
 28	arabo	arabo	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	KID=56-7|PaceSlow=Yes
 29	volesse	volere	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	30	aux	_	KID=56-8|Prolonged=Yes
 30	ufficiliazzare	ufficiliazzare	VERB	_	VerbForm=Inf	0	root	_	KID=56-9
@@ -1082,9 +1082,9 @@
 2	comunque	comunque	CCONJ	_	_	3	cc	_	KID=105-2
 3	vedete	vedere	VERB	_	_	4	reparandum	_	Interrupted=Yes|KID=105-3
 4	vedete	vedere	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=105-4
-5	che	che	SCONJ	_	_	4	fixed	_	KID=105-5
+5	che	che	SCONJ	_	_	4	mark	_	KID=105-5
 6	a	a	ADP	_	_	7	case	_	KID=105-6
-7	livello	livello	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	KID=105-7
+7	livello	livello	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	KID=105-7
 8	di	di	ADP	_	_	9	case	_	KID=105-8
 9	lessico	lessico	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	KID=105-9
 10	di	di	ADP	_	_	11	case	_	KID=105-10
