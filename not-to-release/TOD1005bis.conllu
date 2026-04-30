@@ -225,8 +225,8 @@
 3	okay	okay	INTJ	_	_	0	root	_	End=48.154|KID=20-2|Volume=low
 
 # sent_id = TOD1005bis_21_22_23
-# text = quanto sono diversi | i dialetti | uno dall' altro
-# jefferson_text = quanto sono diversi? i dialetti? uno dall' altro?
+# text = quanto sono diversi i dialetti uno dall'altro
+# jefferson_text = quanto sono diversi? i dialetti? uno dall'altro?
 # speaker_id = TO017
 1	quanto	quanto	ADV	_	_	3	advmod	_	Begin=49.046|KID=21-0
 2	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=21-1
@@ -234,7 +234,7 @@
 4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Begin=50.454|KID=22-0
 5	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	End=51.278|Intonation=rising|KID=22-1
 6	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	5	nmod	_	Begin=51.419|KID=23-0
-7-8	dall'	_	_	_	_	_	_	_	KID=23-1|Truncated=Yes
+7-8	dall'	_	_	_	_	_	_	_	KID=23-1|SpaceAfter=No
 7	da	da	ADP	_	_	9	case	_	KID=23-1a
 8	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	KID=23-1b
 9	altro	altro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	6	nmod	_	End=52.581|Intonation=rising|KID=23-2
@@ -455,7 +455,7 @@
 23	mancano	mancare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	End=107.468|Intonation=falling|KID=44-23
 
 # sent_id = TOD1005bis_45_46
-# text = perché qual è il problema che l' alfabeto arabo | è perfetto per scrivere l' arabo standard
+# text = perché qual è il problema che l' alfabeto arabo è perfetto per scrivere l' arabo standard
 # jefferson_text = perché qual è il problema. che l' alfabeto (.) arabo, è perfetto per scrivere l' arabo standard,
 # speaker_id = TO017
 1	perché	perché	SCONJ	_	_	5	mark	_	Begin=107.468|KID=45-0
@@ -487,7 +487,7 @@
 6	apposta	apposta	ADV	_	_	5	advmod	_	End=115.037|Intonation=falling|KID=47-5|Volume=low
 
 # sent_id = TOD1005bis_48_49
-# text = ma | mancano un sacco di suoni che ci sono nei dialetti
+# text = ma mancano un sacco di suoni che ci sono nei dialetti
 # jefferson_text = ma. mancano un sacco di suoni che ci sono nei dialetti.
 # speaker_id = TO017
 1	ma	ma	CCONJ	_	_	2	cc	_	Begin=116.04|End=116.479|Intonation=falling|KID=48-0
@@ -1351,7 +1351,7 @@
 8	pronomi	pronome	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	End=297.0|Intonation=weakly_rising|KID=134-7
 
 # sent_id = TOD1005bis_135_136_137
-# text = la realizzazione dei pronomi in alcuni dialetti | marginali | tra virgolette
+# text = la realizzazione dei pronomi in alcuni dialetti marginali tra virgolette
 # jefferson_text = la >realizzazione< dei pronomi in alcuni dialetti, marginali tra virgolette
 # speaker_id = TO017
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Begin=297.1|KID=135-0
@@ -1497,7 +1497,7 @@
 19	uzbekistan	Uzbekistan	PROPN	_	_	16	nmod	_	End=327.634|Intonation=weakly_rising|KID=147-15
 
 # sent_id = TOD1005bis_148_149
-# text = e vedete che ne avete | di tutti i colori
+# text = e vedete che ne avete di tutti i colori
 # jefferson_text = e vedete che ne avete, di tutti i colori,
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	2	cc	_	Begin=330.657|KID=148-0
@@ -1675,7 +1675,7 @@
 10	femminile	femminile	NOUN	_	_	1	obl	_	End=361.055|Intonation=weakly_rising|KID=163-7
 
 # sent_id = TOD1005bis_164_165
-# text = in x avete x | per il maschile e x per il femminile
+# text = in x avete x per il maschile e x per il femminile
 # jefferson_text = in xxx avete xxx per il maschile e xxx, per il (.) femminile,
 # speaker_id = TO017
 1	in	in	ADP	_	_	2	case	_	Begin=361.561|KID=164-0
@@ -1947,7 +1947,7 @@
 7	avanti	avanti	ADV	_	_	5	advmod	_	End=433.056|Intonation=weakly_rising|KID=193-6|Prolonged=Yes
 
 # sent_id = TOD1005bis_194_195_196_197
-# text = rimane | una possibilità di classificazione | che è questa
+# text = rimane una possibilità di classificazione che è questa
 # jefferson_text = rimane, una possibilità. di classificazione. che è questa.
 # speaker_id = TO017
 1	rimane	rimanere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=433.895|End=434.628|Intonation=weakly_rising|KID=194-0
@@ -2624,7 +2624,7 @@
 2	esiste	esistere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=608.458|Intonation=weakly_rising|KID=255-1
 
 # sent_id = TOD1005bis_256_257_258
-# text = se trovo le altre slide | cominciamo a guardarlo | nel tempo che ci resta della lezione di oggi
+# text = se trovo le altre slide cominciamo a guardarlo nel tempo che ci resta della lezione di oggi
 # jefferson_text = (se) trovo le altre slide cominciamo (.) a guardarlo nel tempo che ci resta della lezione di oggi
 # speaker_id = TO017
 1	se	se	SCONJ	_	_	2	mark	_	Begin=609.525|KID=256-0
@@ -2746,7 +2746,7 @@
 2	nabatei	Nabateo	PROPN	_	Gender=Masc|Number=Plur	0	root	_	End=646.95|Intonation=rising|KID=271-1
 
 # sent_id = TOD1005bis_272_273
-# text = lui dice | i nabatei attenzione
+# text = lui dice i nabatei attenzione
 # jefferson_text = lui dice, i nabatei. attenzione.
 # speaker_id = TO017
 1	lui	egli	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Begin=647.966|KID=272-0
@@ -3321,7 +3321,7 @@
 12	arabo	arabo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	End=790.249|Intonation=falling|KID=323-10
 
 # sent_id = TOD1005bis_324_325
-# text = per comodità dividiamola in tre fasi per comodità che fanno comodo a me | per raccontarvela
+# text = per comodità dividiamola in tre fasi per comodità che fanno comodo a me per raccontarvela
 # jefferson_text = per comodità dividiamola in tre fasi (.) per comodità che fanno comodo a me per raccontarvela
 # speaker_id = TO017
 1	per	per	ADP	_	_	2	case	_	Begin=790.615|KID=324-0
@@ -3539,7 +3539,7 @@
 1	che	che	SCONJ	_	PronType=Exc	0	root	_	Begin=841.163|End=841.66|KID=345-0
 
 # sent_id = TOD1005bis_346_347
-# text = primo periodo i primi anni dell' islam okay che | succedono alcune cose importanti
+# text = primo periodo i primi anni dell' islam okay che succedono alcune cose importanti
 # jefferson_text = <primo> periodo i primi anni (.) dell' islam okay, che succedono alcune cose importanti
 # speaker_id = TO017
 1	primo	primo	NUM	_	Gender=Masc|Number=Sing|NumType=Ord	2	amod	_	Begin=843.333|KID=346-0|PaceSlow=Yes
@@ -3567,7 +3567,7 @@
 3	qua	qua	ADV	_	_	2	advmod	_	KID=348-2|PauseAfter=Yes
 
 # sent_id = TOD1005bis_348b_349
-# text = non so se esiste una | definizione precisa un termine preciso
+# text = non so se esiste una definizione precisa un termine preciso
 # jefferson_text = non so se esiste una, definizione precisa u:n termine preciso
 # speaker_id = TO017
 1	non	non	ADV	_	PronType=Neg	2	advmod	_	KID=348-4
@@ -4006,7 +4006,7 @@
 12	eccetera	eccetera	ADV	_	_	5	advmod	_	End=964.794|Intonation=weakly_rising|KID=390-20
 
 # sent_id = TOD1005bis_391_392
-# text = perché perché come faccio quando io voglio | descrivere una lingua
+# text = perché perché come faccio quando io voglio descrivere una lingua
 # jefferson_text = perché. perché come faccio. quando io voglio, descrivere una lingua,
 # speaker_id = TO017
 1	perché	perché	SCONJ	_	_	4	mark	_	Begin=966.459|Intonation=falling|KID=391-0
@@ -4120,7 +4120,7 @@
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=998.003|Intonation=rising|KID=397-25
 
 # sent_id = TOD1005bis_398_399
-# text = no nella nelle produzioni di parlato |  contesti formali e informali
+# text = no nella nelle produzioni di parlato contesti formali e informali
 # jefferson_text = no. nella:: (nelle) produzioni di parla:to:: in contesti: formali e informali,
 # speaker_id = TO017
 1	no	no	ADV	_	_	6	advmod	_	Begin=998.403|Intonation=falling|KID=398-0
@@ -5385,7 +5385,7 @@
 4	cammelli	cammello	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	End=1313.137|Intonation=weakly_rising|KID=496-3
 
 # sent_id = TOD1005bis_497_498
-# text = ed è stato sterminato dal | potentissimo x terzo
+# text = ed è stato sterminato dal potentissimo x terzo
 # jefferson_text = ed è stato st:erminato. dal potentissimo xxx terzo.
 # speaker_id = TO017
 1	ed	e	CCONJ	_	_	4	cc	_	Begin=1313.6|KID=497-0
@@ -7434,14 +7434,14 @@
 6	po'	po'	ADV	_	_	4	advmod	_	End=1804.228|KID=707-5
 
 # sent_id = TOD1005bis_708_709_710
-# text = ma non quanto | costava | all' epoca
+# text = ma non quanto costava all'epoca
 # jefferson_text = ma non quanto costava all' epoca.
 # speaker_id = TO017
 1	ma	ma	CCONJ	_	_	2	cc	_	Begin=1804.424|KID=708-0
 2	non	non	ADV	_	PronType=Neg	4	advmod	_	End=1805.257|KID=708-1
 3	quanto	quanto	PRON	_	Gender=Masc|Number=Sing|PronType=Int	4	advmod	_	Begin=1805.542|KID=709-0
 4	costava	costare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	End=1806.656|KID=709-1
-5-6	all'	_	_	_	_	_	_	_	Begin=1807.106|KID=710-0|Truncated=Yes
+5-6	all'	_	_	_	_	_	_	_	Begin=1807.106|KID=710-0|SpaceAfter=No
 5	a	a	ADP	_	_	7	case	_	KID=710-0a
 6	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	KID=710-0b
 7	epoca	epoca	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	End=1808.075|Intonation=falling|KID=710-1
@@ -8538,8 +8538,8 @@
 2	loro	loro	PRON	_	Poss=Yes|PronType=Prs	0	root	_	End=2060.024|KID=805-1
 
 # sent_id = TOD1005bis_806_807
-# text = questi | sudarabici si facevano i loro bagni nell' incenso
-# jefferson_text = questi: sudarabici si facevano i loro bagni nell' incenso
+# text = questi sudarabici si facevano i loro bagni nell'incenso
+# jefferson_text = questi: sudarabici si facevano i loro bagni nell'incenso
 # speaker_id = TO017
 1	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	Begin=2060.172|End=2060.884|KID=806-0|Prolonged=Yes
 2	sudarabici	sudarabico	NOUN	_	Gender=Fem	4	nsubj	_	Begin=2061.677|KID=807-0
@@ -8548,7 +8548,7 @@
 5	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=807-3
 6	loro	loro	DET	_	Poss=Yes|PronType=Prs	7	det:poss	_	KID=807-4
 7	bagni	bagno	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	KID=807-5
-8-9	nell'	_	_	_	_	_	_	_	KID=807-6|Truncated=Yes
+8-9	nell'	_	_	_	_	_	_	_	KID=807-6|SpaceAfter=No
 8	in	in	ADP	_	_	10	case	_	KID=807-6a
 9	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	KID=807-6b
 10	incenso	incenso	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	End=2064.648|KID=807-7
@@ -9793,7 +9793,7 @@
 3	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	End=2347.705|KID=915-2
 
 # sent_id = TOD1005bis_916_917_918
-# text = e quindi noi abbiamo un sacco | di |  iscrizioni da decifrare
+# text = e quindi noi abbiamo un sacco di iscrizioni da decifrare
 # jefferson_text = e quindi noi abbiamo un <s:acco>, di, iscrizioni da (decifrare)
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	4	cc	_	Begin=2348.419|KID=916-0
@@ -11705,7 +11705,7 @@
 1	mh	mh	INTJ	_	_	0	root	_	Begin=2852.787|End=2853.128|Intonation=weakly_rising|KID=1108-0|Prolonged=Yes
 
 # sent_id = TOD1005bis_1109_1110_1111
-# text = e che dal pochissimo materiale | che abbiamo sembra che parlassero una lingua | che era araba
+# text = e che dal pochissimo materiale che abbiamo sembra che parlassero una lingua che era araba
 # jefferson_text = e che dal pochissimo materiale che abbiamo semra che parlassero una lingua, che era araba
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	6	cc	_	Begin=2853.782|KID=1109-0
