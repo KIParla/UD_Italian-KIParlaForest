@@ -398,11 +398,11 @@
 9	da	da	ADP	E	_	10	mark	_	KID=31-7
 10	leggere	leggere	VERB	V	VerbForm=Inf	8	acl	_	KID=31-8
 11	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=31-9
-12	po'	poco	PRON	PI	Number=Sing|PronType=Ind	5	obj	_	KID=31-10
+12	po'	poco	PRON	PI	Number=Sing|PronType=Ind	8	conj	_	KID=31-10
 13	di	di	ADP	E	_	14	case	_	KID=31-11
 14	articoli	articolo	NOUN	S	Gender=Masc|Number=Plur	12	nmod	_	KID=31-12
 15	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	KID=31-13
-16	po'	poco	PRON	PI	Number=Sing|PronType=Ind	5	obj	_	KID=31-14
+16	po'	poco	PRON	PI	Number=Sing|PronType=Ind	8	conj	_	KID=31-14
 17	di	di	ADP	E	_	18	case	_	KID=31-15
 18	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	16	nmod	_	End=80.764|Intonation=weakly_rising|KID=31-16
 
@@ -903,11 +903,11 @@
 # jefferson_text = [pe]rò qualcosa c' è una associazione di appunto questi:=ex m:h brokers c[osì],
 # speaker_id = BO037
 1	però	però	ADV	B	_	4	discourse	_	Begin=167.24|KID=74-0|OverlappingGroup=38
-2	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	4	obj	_	KID=74-1
+2	qualcosa	qualcosa	PRON	PI	Number=Sing|PronType=Ind	4	nsubj	_	KID=74-1
 3	c'	ci	PRON	PC	PronType=Prs	4	expl	_	Clitic=Yes|KID=74-2|Truncated=Yes
 4	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=74-3
 5	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=74-4
-6	associazione	associazione	NOUN	S	Gender=Fem|Number=Sing	4	obj	_	KID=74-5
+6	associazione	associazione	NOUN	S	Gender=Fem|Number=Sing	2	appos	_	KID=74-5
 7	di	di	ADP	E	_	12	case	_	KID=74-6
 8	appunto	appunto	ADV	B	_	12	discourse	_	KID=74-7
 9	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	12	det	_	KID=74-8|Prolonged=Yes|SpaceAfter=No
@@ -1412,7 +1412,7 @@
 5	ex	ex	ADJ	A	_	6	amod	_	KID=114-4
 6	x	x	SYM	SYM	_	3	dep	_	KID=114-5|OverlappingGroup=59
 7	perché	perché	SCONJ	CS	_	11	mark	_	KID=114-6|OverlappingGroup=59
-8	loro	loro	DET	AP	Poss=Yes|PronType=Prs	11	obj	_	KID=114-7
+8	loro	loro	DET	AP	Poss=Yes|PronType=Prs	11	nsubj	_	KID=114-7
 9	mh	mh	NOUN	S	Gender=Masc	11	discourse	_	KID=114-8
 10	li	li	PRON	PC	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obj	_	Clitic=Yes|KID=114-9
 11	conoscono	conoscere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	End=277.305|Intonation=weakly_rising|KID=114-10|OverlappingGroup=60
