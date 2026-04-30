@@ -11,6 +11,7 @@ The treebank (release 2.17) contains the conversations:
 * BOA1003: office-hours conversation from the [KIP](https://github.com/KIParla/KIP) module. A student meets a professor to sort out the requirements for a course on Italian for academic purposes (L2). They agree on a substitute reading and the format of the oral exam.
 * BOA1008: office-hours conversation from the [KIP](https://github.com/KIParla/KIP) module. A student visits a professor’s office to confirm the professor is still available as co-supervisor for their thesis. They discuss the submission deadline around the July graduation session.
 * BOA1009: office-hours conversation from the [KIP](https://github.com/KIParla/KIP) module. A student visits a professor to ask her to become co-supervisor for a thesis on child language brokering, specifically focused on CODA children (hearing children of deaf adults) who act as interpreters between Italian and Italian Sign Language.
+* TOD1005bis: lecture from the [KIP](https://github.com/KIParla/KIP) module. A professor delivers a university lecture on Arabic dialectology. The lecture covers comparative features of Arabic dialects, the relationship between Arabic and the Semitic language family, and the writing systems used for dialects.
 
 # Structure of data
 
