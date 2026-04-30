@@ -263,7 +263,7 @@
 # text = no lo so la professoressa verdi mi ha detto che sarà in congedo malattia per cui ha detto che può seguirmi informalmente però
 # jefferson_text = [no: lo so la] [pr]ofessoressa verdi mi ha detto che sarà in congedo malattia per cui, ha detto che può seguirmi informalmente però,
 # speaker_id = BO037
-1	no	no	INTJ	BN	PronType=Neg	3	advmod	_	Begin=57.018|KID=21-0|OverlappingGroup=8|Prolonged=Yes
+1	no	no	INTJ	BN	PronType=Neg	3	discourse	_	Begin=57.018|KID=21-0|OverlappingGroup=8|Prolonged=Yes
 2	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Clitic=Yes|KID=21-1|OverlappingGroup=8
 3	so	sapere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=21-2|OverlappingGroup=8
 4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=21-3|OverlappingGroup=8
