@@ -2686,7 +2686,7 @@
 5	son	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl:relcl	_	KID=264-4
 6	più	più	ADV	_	_	5	advmod	_	KID=264-5
 7	o	o	CCONJ	_	_	7	cc	_	KID=264-6
-8	meno	meno	ADV	_	_	5	conj	_	KID=264-7
+8	meno	meno	ADV	_	_	6	conj	_	KID=264-7
 9	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=264-8
 10	stessa	stesso	ADJ	_	PronType=Dem	11	amod	_	KID=264-9
 11	domanda	domanda	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	End=633.769|Intonation=weakly_rising|KID=264-10
@@ -3270,7 +3270,7 @@
 5	okay	okay	INTJ	_	Gender=Masc	2	discourse	_	KID=319-4
 6-7	mandatemi	_	_	_	_	_	_	_	KID=319-5
 6	mandate	mandare	VERB	_	_	2	conj	_	KID=319-5a
-7	mi	mi	PRON	_	_	7	iobj	_	KID=319-5b
+7	mi	mi	PRON	_	_	6	iobj	_	KID=319-5b
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=319-6|PauseAfter=Yes|Prolonged=Yes
 9	periodo	periodo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	KID=319-8
 10	in	in	DET	_	_	12	case	_	Interrupted=Yes|KID=319-9
