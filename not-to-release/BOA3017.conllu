@@ -8172,7 +8172,7 @@
 # speaker_id = BO145
 # conversation_id = BOA3017
 1	mara	Mara	PROPN	_	_	0	root	_	Anonymized=Yes|Begin=1738.873|Coconstruct=conj:reform::BOA3017_1115::2|KID=1116-0|OverlappingGroup=196|Prolonged=Yes
-2	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	1	conj:reform	_	KID=1116-1|Relation=conj:reform
+2	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	KID=1116-1|Relation=conj:reform
 3	lì	lì	ADV	_	_	1	advmod	_	End=1740.031|KID=1116-2
 
 # sent_id = BOA3017_1115
