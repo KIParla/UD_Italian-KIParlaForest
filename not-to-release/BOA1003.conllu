@@ -14,7 +14,7 @@
 # text = eh sì allora io le posso mandare
 # jefferson_text = e:h sì. allora, io le posso mandare:
 # speaker_id = BO026
-1	eh	eh	INTJ	_	_	7	discourse:filledpause	_	Begin=2.025|KID=1-0|Prolonged=Yes
+1	eh	eh	INTJ	_	_	7	discourse	_	Begin=2.025|KID=1-0|Prolonged=Yes
 2	sì	sì	ADV	_	_	7	advmod	_	Intonation=falling|KID=1-1
 3	allora	allora	ADV	_	_	7	discourse	_	Intonation=weakly_rising|KID=1-2
 4	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	KID=1-3

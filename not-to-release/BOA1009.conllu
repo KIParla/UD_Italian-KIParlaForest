@@ -44,7 +44,7 @@
 # jefferson_text = =e::h mh
 # speaker_id = BO037
 1	eh	eh	INTJ	S	Gender=Masc	0	root	_	Begin=15.65|KID=3-0|Prolonged=Yes|ProsodicLink=Yes
-2	mh	mh	INTJ	S	Gender=Masc	1	discourse:filledpause	_	End=16.771|KID=3-1
+2	mh	mh	INTJ	S	Gender=Masc	1	discourse	_	End=16.771|KID=3-1
 
 # sent_id = 4
 # text = volevo farla sul child language brokering
@@ -330,7 +330,7 @@
 # text = mh sì
 # jefferson_text = [°mh°] [sì].
 # speaker_id = BO026
-1	mh	mh	INTJ	S	Gender=Masc	2	discourse:filledpause	_	Begin=65.529|End=65.75|KID=25-0|OverlappingGroup=10|Volume=low
+1	mh	mh	INTJ	S	Gender=Masc	2	discourse	_	Begin=65.529|End=65.75|KID=25-0|OverlappingGroup=10|Volume=low
 2	sì	sì	ADV	B	_	0	root	_	Backchannel=BOA1009_24_27::5|Begin=67.79|End=68.088|Intonation=falling|KID=26-0|OverlappingGroup=11
 
 # sent_id = 28
@@ -1382,7 +1382,7 @@
 # jefferson_text = [mh m]h.
 # speaker_id = BO037
 1	mh	mh	INTJ	S	Gender=Masc	0	root	_	Backchannel=BOA1009_109::5|Begin=266.775|KID=110-0|OverlappingGroup=57
-2	mh	mh	INTJ	S	Gender=Masc	1	discourse:filledpause	_	End=267.215|Intonation=falling|KID=110-1|OverlappingGroup=57
+2	mh	mh	INTJ	S	Gender=Masc	1	discourse	_	End=267.215|Intonation=falling|KID=110-1|OverlappingGroup=57
 
 # sent_id = 111_112
 # text = forse lì potrebbe chiedere informazioni nel caso
@@ -1426,7 +1426,7 @@
 # jefferson_text = =[mh mh]
 # speaker_id = BO037
 1	mh	mh	INTJ	S	Gender=Masc	0	root	_	Backchannel=BOA1009_114::2|Begin=274.72|KID=115-0|OverlappingGroup=59|ProsodicLink=Yes
-2	mh	mh	NOUN	S	Gender=Masc	1	discourse:filledpause	_	End=275.188|KID=115-1|OverlappingGroup=59
+2	mh	mh	NOUN	S	Gender=Masc	1	discourse	_	End=275.188|KID=115-1|OverlappingGroup=59
 
 # sent_id = 116
 # text = io poi avevo già contattato la mia insegnante di lingua dei segni qua che è un' interprete per cui comunque mi fa persone con cui parlare o intervistare così
@@ -1628,7 +1628,7 @@
 # speaker_id = BO026
 1	come	come	ADP	E	_	2	case	_	Begin=320.018|KID=132-0
 2	data	dato	NOUN	S	Gender=Fem|Number=Sing	0	root	_	KID=132-1|Prolonged=Yes
-3	eh	eh	INTJ	A	_	2	discourse:filledpause	_	KID=132-2|ProsodicLink=Yes
+3	eh	eh	INTJ	A	_	2	discourse	_	KID=132-2|ProsodicLink=Yes
 4	ipotizzata	ipotizzare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	amod	_	KID=132-3
 5	o	o	CCONJ	CC	_	7	cc	_	KID=132-4
 6	come	come	ADP	E	_	7	case	_	End=323.484|KID=132-5|Prolonged=Yes
@@ -1879,7 +1879,7 @@
 # jefferson_text = =[mh mh sì].
 # speaker_id = BO026
 1	mh	mh	INTJ	S	Gender=Masc	0	root	_	Backchannel=BOA1009_147_148::2|Begin=369.723|KID=149-0|OverlappingGroup=75|ProsodicLink=Yes
-2	mh	mh	INTJ	S	Gender=Masc	1	discourse:filledpause	_	KID=149-1|OverlappingGroup=75
+2	mh	mh	INTJ	S	Gender=Masc	1	discourse	_	KID=149-1|OverlappingGroup=75
 3	sì	sì	ADV	I	Polarity=Pos	1	advmod	_	End=370.831|Intonation=falling|KID=149-2|OverlappingGroup=75
 
 # sent_id = 150
@@ -2095,7 +2095,7 @@
 # jefferson_text = =[°mh mh°]
 # speaker_id = BO026
 1	mh	mh	INTJ	S	Gender=Masc	0	root	_	Backchannel=BOA1009_164::4|Begin=414.02|KID=166-0|OverlappingGroup=89|ProsodicLink=Yes|Volume=low
-2	mh	mh	INTJ	S	Gender=Masc	1	discourse:filledpause	_	End=414.581|KID=166-1|OverlappingGroup=89|Volume=low
+2	mh	mh	INTJ	S	Gender=Masc	1	discourse	_	End=414.581|KID=166-1|OverlappingGroup=89|Volume=low
 
 # sent_id = 167
 # text = scuole chiuse tutto per cui comunque
