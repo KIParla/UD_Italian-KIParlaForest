@@ -521,7 +521,7 @@
 16	di	di	ADP	E	_	18	case	_	KID=41-14a
 17	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	18	det	_	KID=41-14b
 18	italiano	italiano	NOUN	S	Gender=Masc|Number=Sing	15	nmod	_	KID=41-15
-19	L2	L2	NOUN	DD	Gender=Fem|Number=Plur|PronType=Dem	18	nmod	_	KID=41-16|OverlappingGroup=21
+19	L2	L2	NOUN	DD	Gender=Fem|Number=Sing	18	nmod	_	KID=41-16|OverlappingGroup=21
 
 # sent_id = 42
 # text = le lingue
@@ -581,7 +581,7 @@
 # speaker_id = BO037
 1	perché	perché	SCONJ	CS	_	26	discourse	_	Begin=109.891|KID=48-0|OverlappingGroup=23
 2	comunque	comunque	ADV	B	_	26	discourse	_	KID=48-1
-3	sia	sia	CCONJ	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cc	_	KID=48-2
+3	sia	sia	CCONJ	VA	_	5	cc	_	KID=48-2
 4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=48-3
 5	professoressa	professore	NOUN	S	Gender=Fem|Number=Sing	26	nsubj	_	KID=48-4
 6	rossi	Rossi	PROPN	A	Gender=Masc|Number=Plur	5	flat:name	_	KID=48-5
@@ -1219,7 +1219,7 @@
 22	coda	coda	NOUN	S	Gender=Fem|Number=Sing	13	obl	_	KID=97-19
 23	che	che	PRON	PR	PronType=Rel	28	nsubj	_	KID=97-20
 24	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	KID=97-21
-25	appunto	appunto	ADV	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	28	advmod	_	KID=97-22
+25	appunto	appunto	ADV	V	_	28	advmod	_	KID=97-22
 26	questi	questo	PRON	PD	Gender=Masc|Number=Plur|PronType=Dem	28	det	_	End=228.146|KID=97-23|Prolonged=Yes
 27	eh	eh	INTJ	I	_	28	discourse	_	Begin=228.786|KID=99-0
 28	bambini	bambine	NOUN	S	Gender=Masc|Number=Plur	22	acl:relcl	_	KID=99-1
@@ -1240,7 +1240,7 @@
 42	di	di	ADP	E	_	44	case	_	KID=99-15a
 43	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	KID=99-15b
 44	materiale	materiale	NOUN	S	Gender=Masc|Number=Sing	40	obl	_	KID=99-16|Prolonged=Yes
-45	sia	sia	CCONJ	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	cc	_	KID=99-17|OverlappingGroup=54
+45	sia	sia	CCONJ	VA	_	46	cc	_	KID=99-17|OverlappingGroup=54
 46	scritto	scrivere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	44	amod	_	KID=99-18
 47	che	che	CCONJ	CS	_	48	cc	_	KID=99-19|OverlappingGroup=55
 48	di	di	ADP	E	_	44	dep	_	End=235.273|Intonation=weakly_rising|KID=99-20|OverlappingGroup=55
@@ -1914,7 +1914,7 @@
 19	segni	segno	NOUN	S	Gender=Masc|Number=Plur	16	nmod	_	KID=152-16
 20	di	di	ADP	RD	Definite=Def|Number=Sing|PronType=Art	21	det	_	KID=152-17|Truncated=Yes
 21	insegnanti	insegnante	NOUN	S	Number=Plur	11	nmod	_	KID=152-18|Prolonged=Yes
-22	sia	sia	CCONJ	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cc	_	KID=152-19
+22	sia	sia	CCONJ	VA	_	23	cc	_	KID=152-19
 23	sordi	sordare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	amod	_	KID=152-20
 24	che	che	CCONJ	CS	_	25	cc	_	KID=152-21|OverlappingGroup=80
 25	udenti	udente	ADJ	A	Number=Plur	23	conj	_	End=382.226|Intonation=falling|KID=152-22|OverlappingGroup=80
@@ -1981,7 +1981,7 @@
 14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	KID=156-13|SpaceAfter=No
 15	istituto	istituto	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	KID=156-14
 16	statale	statale	ADJ	A	Number=Sing	15	amod	_	KID=156-15
-17	sordi	sordo	NOUN	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	nmod	_	KID=156-16
+17	sordi	sordo	NOUN	V	Gender=Masc|Number=Plur	15	nmod	_	KID=156-16
 18	che	che	SCONJ	CS	_	15	dep	_	KID=156-17|PauseAfter=Yes
 19	se	se	SCONJ	CS	_	22	mark	_	KID=156-19
 20	non	non	ADV	BN	PronType=Neg	22	advmod	_	KID=156-20
