@@ -1,4 +1,4 @@
-# sent_id = 0
+# sent_id = BOA1009_0
 # text = ha dimentica~ ah non l' ho neanche visto meno male
 # jefferson_text = ha dimentica~ ah non l' ho neanche visto meno male.
 # speaker_id = BO026
@@ -13,7 +13,7 @@
 9	meno	meno	ADV	_	_	8	advmod	_	KID=0-8
 10	male	male	ADV	_	_	8	advmod	_	End=6.498|Intonation=Falling|KID=0-9
 
-# sent_id = 1_2
+# sent_id = BOA1009_1_2
 # text = buonasera io sono qua per chiederle se voleva far mi da correlatrice io ho come relatrice la professoressa rossi
 # jefferson_text = buonasera. | io sono qua per chiederle se voleva farmi da correlatrice io ho come relatrice la professoressa rossi.
 # speaker_id = BO037
@@ -39,14 +39,14 @@
 19	professoressa	professore	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	KID=2-15
 20	rossi	Rossi	PROPN	_	Gender=Masc|Number=Plur	19	nmod	_	End=14.985|Intonation=Falling|KID=2-16
 
-# sent_id = 3
+# sent_id = BOA1009_3
 # text = eh mh
 # jefferson_text = =e::h mh
 # speaker_id = BO037
 1	eh	eh	INTJ	_	Gender=Masc	0	root	_	Begin=15.65|KID=3-0|Prolonged=Yes|ProsodicLink=Yes
 2	mh	mh	INTJ	_	Gender=Masc	1	discourse	_	End=16.771|KID=3-1
 
-# sent_id = 4
+# sent_id = BOA1009_4
 # text = volevo farla sul child language brokering
 # jefferson_text = volevo farla sul child language brokering,
 # speaker_id = BO037
@@ -61,7 +61,7 @@
 7	language	language	NOUN	_	Gender=Masc	8	nmod	_	KID=4-4
 8	brokering	brokering	NOUN	_	Gender=Masc	2	obl	_	End=19.895|Intonation=WeaklyRising|KID=4-5
 
-# sent_id = 5
+# sent_id = BOA1009_5
 # text = lei lei è della x
 # jefferson_text = [lei l]ei è: del[la: xx]
 # speaker_id = BO026
@@ -73,13 +73,13 @@
 5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Head=position|KID=5-3b
 6	x	x	X	_	_	3	obj	_	End=22.76|KID=5-4|OverlappingGroup=1|Promotion=dep
 
-# sent_id = 6
+# sent_id = BOA1009_6
 # text = però
 # jefferson_text = [però],
 # speaker_id = BO037
 1	però	però	ADV	_	_	0	root	_	Begin=20.22|End=20.805|Intonation=WeaklyRising|KID=6-0|OverlappingGroup=0
 
-# sent_id = 7
+# sent_id = BOA1009_7
 # text = italiano per stranieri
 # jefferson_text = [italiano p]er stranie[ri].
 # speaker_id = BO037
@@ -87,13 +87,13 @@
 2	per	per	ADP	_	_	3	case	_	KID=7-1|OverlappingGroup=1
 3	stranieri	straniere	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	End=23.616|Intonation=Falling|KID=7-2|OverlappingGroup=2
 
-# sent_id = 8
+# sent_id = BOA1009_8
 # text = ah
 # jefferson_text = [a]h.
 # speaker_id = BO026
 1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA1009_7::1|Begin=23.406|End=23.76|Intonation=Falling|KID=8-0|OverlappingGroup=2
 
-# sent_id = 9
+# sent_id = BOA1009_9
 # text = però avevo chiesto alla professoressa verdi che ho visto che si occupava di child language brokering
 # jefferson_text = però: avevo chiesto alla professoressa verdi che: ho visto che si occupava di child language brokering,
 # speaker_id = BO037
@@ -116,7 +116,7 @@
 16	language	language	NOUN	_	Foreign=Yes	17	nmod	_	KID=9-14
 17	brokering	brokering	NOUN	_	Foreign=Yes	13	obl	_	End=28.871|Intonation=WeaklyRising|KID=9-15
 
-# sent_id = 10_11
+# sent_id = BOA1009_10_11
 # text = il focus sarebbe eh però sui coda che sono i bambini udenti figli dei sordi e quindi come fanno da interpreti loro per la famiglia per gli amici
 # jefferson_text = il focus sarebbe e:h però sui coda che sono i bambini udenti figli dei sordi. | e quindi come fanno da interpreti loro per la famiglia, per gli amici,
 # speaker_id = BO037
@@ -153,7 +153,7 @@
 29	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	KID=11-11
 30	amici	amico	NOUN	_	Gender=Masc|Number=Plur	27	nmod	_	End=38.73|Intonation=WeaklyRising|KID=11-12
 
-# sent_id = 12
+# sent_id = BOA1009_12
 # text = come comunque diciamo tra la lingua italiana e la lingua dei segni
 # jefferson_text = come comunque diciamo tra la lingua italiana e la lingua dei segni.
 # speaker_id = BO037
@@ -172,7 +172,7 @@
 12	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	KID=12-10b
 13	segni	segno	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	End=41.785|Intonation=Falling|KID=12-11
 
-# sent_id = 13
+# sent_id = BOA1009_13
 # text = ho parlato con la professoressa rossi che ha accettato il mio progetto era molto entusiasta per cui
 # jefferson_text = ho parlato con la professoressa rossi che ha accettato il mio progetto era molto entusiasta per cui,
 # speaker_id = BO037
@@ -194,7 +194,7 @@
 16	per	per	ADP	_	_	17	case	_	KID=13-15
 17	cui	cui	PRON	_	PronType=Rel	15	discourse	_	End=47.141|Intonation=WeaklyRising|KID=13-16
 
-# sent_id = 14_16
+# sent_id = BOA1009_14_16
 # text = quindi il brokering da parte dei bambini udenti
 # jefferson_text = quindi il brokering da parte dei bambi[ni:] | [ude]nti,
 # speaker_id = BO026
@@ -209,7 +209,7 @@
 8	bambini	bambino	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	End=50.078|KID=14-6|OverlappingGroup=3|Prolonged=Yes
 9	udenti	udento	NOUN	_	Gender=Masc|Number=Plur	8	amod	_	Begin=50.598|End=51.377|Intonation=WeaklyRising|KID=16-0|OverlappingGroup=4
 
-# sent_id = 15
+# sent_id = BOA1009_15
 # text = dei bambini udenti
 # jefferson_text = [dei bam]bini ud[enti],
 # speaker_id = BO037
@@ -219,7 +219,7 @@
 3	bambini	bambino	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Coconstruct=conj:reform_BOA1009_14_16::8|KID=15-1|OverlappingGroup=3
 4	udenti	udente	ADJ	_	Number=Plur	3	amod	_	End=50.984|Intonation=WeaklyRising|KID=15-2|OverlappingGroup=4
 
-# sent_id = 17
+# sent_id = BOA1009_17
 # text = però bilingui italiano lingua dei segni
 # jefferson_text = però [bili]ngui: [ita]liano lingua dei segni.
 # speaker_id = BO037
@@ -232,14 +232,14 @@
 6	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=17-4b
 7	segni	segno	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	End=54.483|Intonation=Falling|KID=17-5
 
-# sent_id = 18_19
+# sent_id = BOA1009_18_19
 # text = per mh
 # jefferson_text = [pe:r], | [mh].
 # speaker_id = BO026
 1	per	per	ADP	_	_	0	root	_	Begin=51.92|End=52.366|Intonation=WeaklyRising|KID=18-0|OverlappingGroup=6|Prolonged=Yes
 2	mh	mh	INTJ	_	Gender=Masc	1	discourse	_	Begin=52.898|End=53.193|Intonation=Falling|KID=19-0|OverlappingGroup=7
 
-# sent_id = 20
+# sent_id = BOA1009_20
 # text = oddio ma io non sono una esperta della lingua dei segni
 # jefferson_text = oddio ma io non sono una esperta dell[a lingua dei segni].
 # speaker_id = BO026
@@ -259,7 +259,7 @@
 12	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	KID=20-9b
 13	segni	segno	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	End=58.031|Intonation=Falling|KID=20-10|OverlappingGroup=8
 
-# sent_id = 21_23
+# sent_id = BOA1009_21_23
 # text = no lo so la professoressa verdi mi ha detto che sarà in congedo malattia per cui ha detto che può seguirmi informalmente però
 # jefferson_text = [no: lo so la] [pr]ofessoressa verdi mi ha detto che sarà in congedo malattia per cui, | ha detto che può seguirmi informalmente però,
 # speaker_id = BO037
@@ -289,13 +289,13 @@
 23	informalmente	informalmente	ADV	_	_	21	advmod	_	KID=23-5
 24	però	però	ADV	_	_	21	advmod	_	End=64.715|Intonation=WeaklyRising|KID=23-6
 
-# sent_id = 22
+# sent_id = BOA1009_22
 # text = ah
 # jefferson_text = [ah].
 # speaker_id = BO026
 1	ah	ah	INTJ	_	_	0	root	_	Backchannel=BOA1009_21_23::2|Begin=58.066|End=58.271|Intonation=Falling|KID=22-0|OverlappingGroup=9
 
-# sent_id = 24_27
+# sent_id = BOA1009_24_27
 # text = ovviamente legalmente non può firmare non può farmi da correlatrice né niente per cui mi ha indirizzato sulla eh sulla professoressa rossi
 # jefferson_text = ovviamente legalm[ente] non può firmare non può farmi da correlatrice n[é ni]ente per cui mi ha indirizzato sulla: | e:h sulla profes[soressa] rossi.
 # speaker_id = BO037
@@ -326,14 +326,14 @@
 23	professoressa	professore	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	KID=27-2|OverlappingGroup=12
 24	rossi	Rossi	PROPN	_	Gender=Masc|Number=Plur	23	flat:name	_	End=72.498|Intonation=Falling|KID=27-3
 
-# sent_id = 25_26
+# sent_id = BOA1009_25_26
 # text = mh | sì
 # jefferson_text = [°mh°] [sì].
 # speaker_id = BO026
 1	mh	mh	INTJ	_	Gender=Masc	2	discourse	_	Begin=65.529|End=65.75|KID=25-0|OverlappingGroup=10|Volume=low
 2	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_24_27::5|Begin=67.79|End=68.088|Intonation=Falling|KID=26-0|OverlappingGroup=11
 
-# sent_id = 28
+# sent_id = BOA1009_28
 # text = sulla rossi
 # jefferson_text = [sulla rossi].
 # speaker_id = BO026
@@ -342,7 +342,7 @@
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=28-0b
 3	rossi	Rossi	PROPN	_	Gender=Masc|Number=Plur	0	root	_	End=71.725|Intonation=Falling|KID=28-1|OverlappingGroup=12
 
-# sent_id = 29
+# sent_id = BOA1009_29
 # text = che comunque lei ha già seguito tesi di questo tipo comunque sulla lingua dei segni
 # jefferson_text = che comunque lei ha già seguito tesi di questo tipo comunque sulla lingua dei [segni],
 # speaker_id = BO037
@@ -366,7 +366,7 @@
 16	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	KID=29-13b
 17	segni	segno	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	End=76.789|Intonation=WeaklyRising|KID=29-14|OverlappingGroup=13
 
-# sent_id = 30
+# sent_id = BOA1009_30
 # text = ma anche sulla lingua dei segni proprio
 # jefferson_text = [ma anche s]ulla lingua de[i segni proprio],
 # speaker_id = BO026
@@ -382,7 +382,7 @@
 8	segni	segno	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	KID=30-5|OverlappingGroup=14
 9	proprio	proprio	ADV	_	_	5	advmod	_	End=78.268|Intonation=WeaklyRising|KID=30-6|OverlappingGroup=14
 
-# sent_id = 31
+# sent_id = BOA1009_31
 # text = sì mi ha già dato del materiale da leggere un po' di articoli un po' di cose
 # jefferson_text = [sì mi ha già dato del m]ateriale: da leggere un po' di articoli un po' di cose,
 # speaker_id = BO037
@@ -406,7 +406,7 @@
 17	di	di	ADP	_	_	18	case	_	KID=31-15
 18	cose	cosa	NOUN	_	Gender=Fem|Number=Plur	16	nmod	_	End=80.764|Intonation=WeaklyRising|KID=31-16
 
-# sent_id = 32
+# sent_id = BOA1009_32
 # text = e lei quando pensava di
 # jefferson_text = [e lei quando pensava di]::
 # speaker_id = BO026
@@ -416,7 +416,7 @@
 4	pensava	pensare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=32-3|OverlappingGroup=15
 5	di	di	ADP	_	_	4	discourse	_	End=82.625|KID=32-4|OverlappingGroup=15|Prolonged=Yes
 
-# sent_id = 33
+# sent_id = BOA1009_33
 # text = io ho già del materiale
 # jefferson_text = [io ho già del materiale],
 # speaker_id = BO037
@@ -428,14 +428,14 @@
 5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=33-3b
 6	materiale	materiale	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	End=82.388|Intonation=WeaklyRising|KID=33-4|OverlappingGroup=15
 
-# sent_id = 34_35
+# sent_id = BOA1009_34_35
 # text = marzo duemiladiciotto
 # jefferson_text = marzo. [duemiladiciotto].
 # speaker_id = BO037
 1	marzo	marzo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=82.81|Coconstruct=conj:reform::BOA1009_32::3|End=83.226|Intonation=Falling|KID=34-0
 2	duemiladiciotto	duemiladiciotto	NUM	_	NumType=Card	1	nummod	_	Begin=84.226|End=85.206|Intonation=Falling|KID=35-0|OverlappingGroup=16
 
-# sent_id = 36
+# sent_id = BOA1009_36
 # text = ragazzi tutti a marzo
 # jefferson_text = [°ragazzi tutti] a mar[zo.°]
 # speaker_id = BO026
@@ -444,14 +444,14 @@
 3	a	a	ADP	_	_	4	case	_	KID=36-2|Volume=low
 4	marzo	marzo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	End=86.101|Intonation=Falling|KID=36-3|OverlappingGroup=17|Volume=low
 
-# sent_id = 37
+# sent_id = BOA1009_37
 # text = eh sì
 # jefferson_text = [eh s]ì.
 # speaker_id = BO037
 1	eh	eh	INTJ	_	_	2	discourse	_	Begin=85.943|KID=37-0|OverlappingGroup=17
 2	sì	sì	ADV	_	Polarity=Pos	0	root	_	Backchannel=BOA1009_35::2|End=86.41|Intonation=Falling|KID=37-1|OverlappingGroup=17
 
-# sent_id = 38
+# sent_id = BOA1009_38
 # text = io non credo di poterla aiutare
 # jefferson_text = io non credo di poterla aiutare:
 # speaker_id = BO026
@@ -464,7 +464,7 @@
 6	la	la	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obj	_	Clitic=Yes|KID=38-4b
 7	aiutare	aiutare	VERB	_	VerbForm=Inf	3	xcomp	_	End=90.101|KID=38-5|Prolonged=Yes
 
-# sent_id = 39
+# sent_id = BOA1009_39
 # text = in maniera specifica sul brokering e sulla mediazione lei lo sa mi sono mi occupo della
 # jefferson_text = in maniera [specifica] sul brokering e sulla mediazione lei lo sa mi sono: mi occupo d[ella],
 # speaker_id = BO026
@@ -491,13 +491,13 @@
 18	di	di	ADP	_	_	19	case	_	KID=39-15a
 19	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	nmod	_	KID=39-15b|Promotion=det|Scrap=yes
 
-# sent_id = 40
+# sent_id = BOA1009_40
 # text = certo
 # jefferson_text = [certo].
 # speaker_id = BO037
 1	certo	certo	ADV	_	_	0	root	_	Backchannel=BOA1009_39::17|Begin=91.3|End=91.848|Intonation=Falling|KID=40-0|OverlappingGroup=18
 
-# sent_id = 41
+# sent_id = BOA1009_41
 # text = sì sì infatti comunque un po' di materiale usato quello del corso di didattica dell' italiano L2
 # jefferson_text = [>sì sì< i]nfatti comunque un po' di m[ateriale usato] quello [del] corso di didattica dell' italiano [elle due],
 # speaker_id = BO037
@@ -523,14 +523,14 @@
 18	italiano	italiano	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	KID=41-15
 19	L2	L2	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	KID=41-16|OverlappingGroup=21
 
-# sent_id = 42
+# sent_id = BOA1009_42
 # text = le lingue
 # jefferson_text = [le lingue:]
 # speaker_id = BO026
 1	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	Begin=96.938|KID=42-0|OverlappingGroup=19
 2	lingue	lingua	NOUN	_	Gender=Fem|Number=Plur	0	root	_	Coconstruct=nmod::BOA1009_39::19|End=97.961|KID=42-1|OverlappingGroup=19|Prolonged=Yes
 
-# sent_id = 43_44
+# sent_id = BOA1009_43_44
 # text = mh | eh mh
 # jefferson_text = [mh]. =[e::]h mh
 # speaker_id = BO026
@@ -538,7 +538,7 @@
 2	eh	eh	INTJ	_	Gender=Masc	1	discourse	_	Begin=100.11|KID=44-0|OverlappingGroup=21|Prolonged=Yes|ProsodicLink=Yes
 3	mh	mh	INTJ	_	Gender=Masc	1	discourse	_	End=101.305|KID=44-1
 
-# sent_id = 45
+# sent_id = BOA1009_45
 # text = però non x non la sì
 # jefferson_text = però non x non la: sì.
 # speaker_id = BO026
@@ -549,7 +549,7 @@
 5	la	la	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=45-4|Prolonged=Yes
 6	sì	sì	ADV	_	Polarity=Pos	0	root	_	Backchannel=BOA1009_37::7|End=104.299|Intonation=Falling|KID=45-5
 
-# sent_id = 46
+# sent_id = BOA1009_46
 # text = diciamo che come materiali sulla lingua dei segni eccetera sono coperta
 # jefferson_text = diciamo che come materiali sulla lingua dei segni eccetera (.) sono coperta.
 # speaker_id = BO037
@@ -569,13 +569,13 @@
 12	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	KID=46-10
 13	coperta	coprire	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	End=109.643|Intonation=Falling|KID=46-11
 
-# sent_id = 47
+# sent_id = BOA1009_47
 # text = sì
 # jefferson_text = s[ì].
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_46::1|Begin=109.675|End=109.961|Intonation=Falling|KID=47-0|OverlappingGroup=23
 
-# sent_id = 48_50
+# sent_id = BOA1009_48_50
 # text = perché comunque sia la professoressa rossi che la professoressa verdi sia la mia scuola della lingua dei segni qua a bologna mi possono dare una mano quindi comunque materliali bibliografie cose
 # jefferson_text = [p]erché comunque sia la professoressa rossi che la professoressa verdi (.) sia la mia scuola della lingua dei segni qua a bologna mi possono dare una mano [quindi] comunque, | materliali bibliograf[ie cose],
 # speaker_id = BO037
@@ -615,13 +615,13 @@
 32	bibliografie	bibliografio	ADJ	_	Gender=Fem|Number=Plur	31	conj	_	KID=50-1|OverlappingGroup=25
 33	cose	cosa	NOUN	_	Gender=Fem|Number=Plur	31	conj	_	End=119.87|Intonation=WeaklyRising|KID=50-2|OverlappingGroup=25
 
-# sent_id = 49
+# sent_id = BOA1009_49
 # text = sì
 # jefferson_text = [sì].
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_48_50::25|Begin=116.825|End=117.23|Intonation=Falling|KID=49-0|OverlappingGroup=24
 
-# sent_id = 51_53
+# sent_id = BOA1009_51_53
 # text = lei è lei è ha imparato la lis
 # jefferson_text = [lei è: (.) l]ei [è:] | [ha imparato la lis],
 # speaker_id = BO026
@@ -634,7 +634,7 @@
 7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=53-2|OverlappingGroup=27
 8	lis	lis	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	End=122.59|Intonation=WeaklyRising|KID=53-3|OverlappingGroup=27
 
-# sent_id = 52
+# sent_id = BOA1009_52
 # text = ho fatto sì sì sì sì sì esatto ho fatto tre anni di corso e ho finito adesso
 # jefferson_text = [ho fa]tt[o: sì >sì sì sì< sì] esatto ho fatto tre anni di corso e ho finito adesso.
 # speaker_id = BO037
@@ -657,13 +657,13 @@
 17	finito	finire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	conj	_	KID=52-16
 18	adesso	adesso	ADV	_	_	17	advmod	_	End=125.063|Intonation=Falling|KID=52-17
 
-# sent_id = 54
+# sent_id = BOA1009_54
 # text = sì
 # jefferson_text = sì.
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_52::10|Begin=125.26|End=125.531|Intonation=Falling|KID=54-0
 
-# sent_id = 55_57
+# sent_id = BOA1009_55_57
 # text = e ho fatto il terzo livello per cui comunque un po' di bibliografia o anche solo fare delle interviste con persone sia sorde che udenti e così da quel punto di vista sono a posto
 # jefferson_text = e:: ho fatto il terzo livello per cui comunque un po' di bibliografia o anche solo fare delle interviste con persone s[ia so]rde che udenti e così, | da quel punto di vista sono a posto.
 # speaker_id = BO037
@@ -705,13 +705,13 @@
 35	a	a	ADP	_	_	36	case	_	KID=57-6
 36	posto	posto	NOUN	_	Gender=Masc|Number=Sing	34	obl	_	End=134.356|Intonation=Falling|KID=57-7
 
-# sent_id = 56
+# sent_id = BOA1009_56
 # text = sì
 # jefferson_text = [sì].
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_55_57::3|Begin=131.253|End=131.576|Intonation=Falling|KID=56-0|OverlappingGroup=28
 
-# sent_id = 58
+# sent_id = BOA1009_58
 # text = ci sono dei lavori sui bambini sulla mediazione dei bambini
 # jefferson_text = ci sono dei lavori sui bambini sulla mediazione dei bambini?
 # speaker_id = BO026
@@ -734,13 +734,13 @@
 13	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	KID=58-8b
 14	bambini	bambino	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	End=137.61|Intonation=Rising|KID=58-9
 
-# sent_id = 59
+# sent_id = BOA1009_59
 # text = eh
 # jefferson_text = [e:h]
 # speaker_id = BO037
 1	eh	eh	INTJ	_	_	0	root	_	Begin=137.686|End=138.229|KID=59-0|OverlappingGroup=29|Prolonged=Yes
 
-# sent_id = 60
+# sent_id = BOA1009_60
 # text = da parte dei bambini
 # jefferson_text = [da parte d]ei [bambini]?
 # speaker_id = BO026
@@ -751,7 +751,7 @@
 4	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=60-2b
 5	bambini	bambino	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	End=138.975|Intonation=Rising|KID=60-3|OverlappingGroup=30
 
-# sent_id = 61
+# sent_id = BOA1009_61
 # text = qualcosa c' è molto molto poco tendenzialmente tutti i lav~
 # jefferson_text = [qualcosa]:: c' è molto molto poco tend[enzialmente tutti i lav~]
 # speaker_id = BO037
@@ -766,7 +766,7 @@
 9	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	KID=61-8|OverlappingGroup=31
 10	lav~	lav~	PROPN	_	_	3	dep	_	End=142.668|Interrupted=Yes|KID=61-9|OverlappingGroup=31
 
-# sent_id = 62
+# sent_id = BOA1009_62
 # text = perché lo fanno per i genitori
 # jefferson_text = [perché lo fanno per i geni]tori,
 # speaker_id = BO026
@@ -777,7 +777,7 @@
 5	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	KID=62-4|OverlappingGroup=31
 6	genitori	genitore	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	End=143.038|Intonation=WeaklyRising|KID=62-5|OverlappingGroup=31
 
-# sent_id = 63
+# sent_id = BOA1009_63
 # text = eh mh no lo fanno comunque su persone che l' hanno fatto da da bambine ma intervistandoli da adulti
 # jefferson_text = e::h mh no lo fanno comunque su persone che l' hanno fatto da da bambine ma intervistandoli da adulti.
 # speaker_id = BO037
@@ -803,7 +803,7 @@
 19	da	da	ADP	_	_	20	case	_	KID=63-17
 20	adulti	adulto	ADJ	_	Gender=Masc|Number=Plur	17	obl	_	End=148.61|Intonation=Falling|KID=63-18
 
-# sent_id = 64
+# sent_id = BOA1009_64
 # text = sì esattamente come per il brokering delle lingue
 # jefferson_text = s[ì esattamen]te come per il brokeri:ng dell[e lingue:]
 # speaker_id = BO026
@@ -818,7 +818,7 @@
 8	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=64-6b
 9	lingue	lingua	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	End=153.061|KID=64-7|OverlappingGroup=34|Prolonged=Yes
 
-# sent_id = 65
+# sent_id = BOA1009_65
 # text = comunque con ricordi
 # jefferson_text = [comunque con ricordi],
 # speaker_id = BO037
@@ -826,28 +826,28 @@
 2	con	con	ADP	_	_	3	case	_	KID=65-1|OverlappingGroup=33
 3	ricordi	ricordo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	End=150.576|Intonation=WeaklyRising|KID=65-2|OverlappingGroup=33
 
-# sent_id = 66
+# sent_id = BOA1009_66
 # text = esatto esattamente
 # jefferson_text = [esatto (.) es]attamente.
 # speaker_id = BO037
 1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOA1009_64::6|Begin=152.071|KID=66-0|OverlappingGroup=34
 2	esattamente	esattamente	ADV	_	_	1	flat	_	End=153.707|Intonation=Falling|KID=66-2|OverlappingGroup=34
 
-# sent_id = 67
+# sent_id = BOA1009_67
 # text = gli ex-brokers
 # jefferson_text = gli ex broke[rs].
 # speaker_id = BO026
 1	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	Begin=153.8|KID=67-0
 2	ex-brokers	ex-brokers	NOUN	_	Gender=Masc	0	root	_	End=155.159|Intonation=Falling|KID=67-2|OverlappingGroup=35
 
-# sent_id = 68
+# sent_id = BOA1009_68
 # text = esatto esatto
 # jefferson_text = [esa]tto esatto.
 # speaker_id = BO037
 1	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOA1009_67::2|Begin=154.936|KID=68-0|OverlappingGroup=35
 2	esatto	esatto	ADJ	_	Gender=Masc|Number=Sing	1	flat	_	End=156.242|Intonation=Falling|KID=68-1
 
-# sent_id = 69_70_71
+# sent_id = BOA1009_69_70_71
 # text = tendezialmente sono lavori americani perché c' è l' università dei sordi la gallaudet per cui diciamo che il panorama americano è molto più attivo in italia c' è veramente molto poco
 # jefferson_text = tendezialmente sono lavori americani. | perché c' è l' università dei sordi la gallaudet per cui diciamo che, il | panorama americano è molto p[iù at]tivo in italia c' è veramente molto poco.
 # speaker_id = BO037
@@ -885,20 +885,20 @@
 31	molto	molto	ADV	_	_	29	advmod	_	KID=71-12
 32	poco	poco	ADV	_	_	29	advmod	_	End=166.866|Intonation=Falling|KID=71-13
 
-# sent_id = 72
+# sent_id = BOA1009_72
 # text = sì
 # jefferson_text = [sì].
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_69_70_71::2|Begin=164.683|End=165.078|Intonation=Falling|KID=72-0|OverlappingGroup=36
 
-# sent_id = 73
+# sent_id = BOA1009_73
 # text = molto poco
 # jefferson_text = molto po[co].
 # speaker_id = BO026
 1	molto	molto	ADV	_	_	2	advmod	_	Begin=166.826|KID=73-0
 2	poco	poco	ADV	_	_	0	root	_	End=167.465|Intonation=Falling|KID=73-1|OverlappingGroup=37
 
-# sent_id = 74_75
+# sent_id = BOA1009_74_75
 # text = però qualcosa c' è una associazione di appunto questiex mh brokers così
 # jefferson_text = [pe]rò qualcosa c' è una associazione di appunto questi:=ex m:h | brokers c[osì],
 # speaker_id = BO037
@@ -916,7 +916,7 @@
 12	brokers	brokers	NOUN	_	Gender=Masc	6	nmod	_	Begin=171.98|KID=75-0
 13	così	così	ADV	_	_	12	advmod	_	End=172.949|Intonation=WeaklyRising|KID=75-1|OverlappingGroup=39
 
-# sent_id = 76
+# sent_id = BOA1009_76
 # text = lei conosce lei co conosce questa scuola torine~ del piemonte dove hanno fatto un esperimento però è una cosa diversa sì
 # jefferson_text = [lei con]osce lei co conosce questa scuola torine~ del piemonte dove hanno fatto un esperimento p[erò è una cosa diversa sì]
 # speaker_id = BO026
@@ -944,7 +944,7 @@
 21	diversa	diverso	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	KID=76-19|OverlappingGroup=40
 22	sì	sì	ADV	_	Polarity=Pos	20	advmod	_	End=180.418|KID=76-20|OverlappingGroup=40
 
-# sent_id = 77
+# sent_id = BOA1009_77
 # text = ne avevo sentito parlare
 # jefferson_text = [ne avevo sentito parlare].
 # speaker_id = BO037
@@ -953,7 +953,7 @@
 3	sentito	sentire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=77-2|OverlappingGroup=40
 4	parlare	parlare	VERB	_	VerbForm=Inf	3	xcomp	_	End=180.426|Intonation=Falling|KID=77-3|OverlappingGroup=40
 
-# sent_id = 78
+# sent_id = BOA1009_78
 # text = ne ho sentito parlare sì
 # jefferson_text = ne ho sentit[o parlare sì].
 # speaker_id = BO037
@@ -963,7 +963,7 @@
 4	parlare	parlare	VERB	_	VerbForm=Inf	3	csubj	_	KID=78-3|OverlappingGroup=41
 5	sì	sì	ADV	_	_	3	advmod	_	Backchannel=BOA1009_46::5|End=181.942|Intonation=Falling|KID=78-4|OverlappingGroup=41
 
-# sent_id = 79
+# sent_id = BOA1009_79
 # text = cioè i bambini compagni dei bambini non udenti che hanno imparato e ora comunicano mh
 # jefferson_text = [cioè i bambini] compagni dei bam[bini non udenti che hanno impa]rato [e:: ora comunicano, mh].
 # speaker_id = BO026
@@ -985,7 +985,7 @@
 15	comunicano	comunicano	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Intonation=WeaklyRising|KID=79-13|OverlappingGroup=43
 16	mh	mh	INTJ	_	Gender=Masc	15	discourse	_	End=187.133|Intonation=Falling|KID=79-14|OverlappingGroup=43
 
-# sent_id = 80
+# sent_id = BOA1009_80
 # text = che hanno imparato sì
 # jefferson_text = [che hanno imparato, sì].
 # speaker_id = BO037
@@ -994,7 +994,7 @@
 3	imparato	imparato	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Coconstruct=conj:reform::BOA1009_79::12|Intonation=WeaklyRising|KID=80-2|OverlappingGroup=42
 4	sì	sì	ADV	_	_	3	advmod	_	End=184.707|Intonation=Falling|KID=80-3|OverlappingGroup=42
 
-# sent_id = 81
+# sent_id = BOA1009_81
 # text = sì sì avevo letto un articolo sì
 # jefferson_text = [sì sì avevo letto un articolo sì].
 # speaker_id = BO037
@@ -1006,7 +1006,7 @@
 6	articolo	articolo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	KID=81-5|OverlappingGroup=43
 7	sì	sì	ADV	_	_	4	advmod	_	End=187.108|Intonation=Falling|KID=81-6|OverlappingGroup=43
 
-# sent_id = 82_84
+# sent_id = BOA1009_82_84
 # text = una mosca bianca diciamo nel panorama però molto bella
 # jefferson_text = una mosca bianca d[iciamo nel panora]ma. | però molto bella.
 # speaker_id = BO037
@@ -1022,7 +1022,7 @@
 9	molto	molto	ADV	_	_	10	advmod	_	KID=84-1
 10	bella	bello	ADJ	_	Gender=Fem|Number=Sing	2	parataxis	_	End=191.375|Intonation=Falling|KID=84-2
 
-# sent_id = 83
+# sent_id = BOA1009_83
 # text = sì sì sì sì
 # jefferson_text = [sì sì sì sì].
 # speaker_id = BO026
@@ -1031,7 +1031,7 @@
 3	sì	sì	ADV	_	Polarity=Pos	1	flat	_	KID=83-2|OverlappingGroup=44
 4	sì	sì	ADV	_	Polarity=Pos	1	flat	_	End=190.008|Intonation=Falling|KID=83-3|OverlappingGroup=44
 
-# sent_id = 85
+# sent_id = BOA1009_85
 # text = e niente volevo chiederle se se
 # jefferson_text = e niente volevo chiederle se s[e:]
 # speaker_id = BO037
@@ -1044,7 +1044,7 @@
 6	se	se	SCONJ	_	_	7	reparandum	_	KID=85-4
 7	se	se	SCONJ	_	_	4	mark	_	End=193.968|KID=85-5|OverlappingGroup=45|Prolonged=Yes
 
-# sent_id = 86
+# sent_id = BOA1009_86
 # text = allora come correlatore eh sì posso seguirla però non posso dare un contributo effettivo
 # jefferson_text = [allora] come correlatore: eh sì posso segu[irla pe]rò non posso dare u[n contributo effettivo],
 # speaker_id = BO026
@@ -1065,13 +1065,13 @@
 14	contributo	contributo	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	KID=86-12|OverlappingGroup=46
 15	effettivo	effettivo	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	End=200.878|Intonation=WeaklyRising|KID=86-13|OverlappingGroup=46
 
-# sent_id = 87
+# sent_id = BOA1009_87
 # text = okay
 # jefferson_text = [okay].
 # speaker_id = BO037
 1	okay	okay	INTJ	_	_	0	root	_	Backchannel=BOA1009_86::7|Begin=197.106|End=197.5|Intonation=Falling|KID=87-0|OverlappingGroup=47
 
-# sent_id = 88
+# sent_id = BOA1009_88
 # text = per quello n~ non c' è problema perché sono
 # jefferson_text = [per quello n~ non c' è proble]ma pe[rché sono:]
 # speaker_id = BO037
@@ -1085,7 +1085,7 @@
 8	perché	poiperché	SCONJ	_	_	9	mark	_	KID=88-7|OverlappingGroup=48
 9	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	End=202.267|KID=88-8|OverlappingGroup=48|Prolonged=Yes
 
-# sent_id = 89_91
+# sent_id = BOA1009_89_91
 # text = su questo tema specifico sulla sul lavoro insieme io stessa potrò imparare
 # jefferson_text = [su questo tema] spe[cifico]. sulla, | sul lavoro insieme io stessa potrò: imparare.
 # speaker_id = BO026
@@ -1106,13 +1106,13 @@
 13	potrò	potere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	14	aux	_	KID=91-5|Prolonged=Yes
 14	imparare	imparare	VERB	_	VerbForm=Inf	0	root	_	End=207.579|Intonation=Falling|KID=91-6
 
-# sent_id = 90
+# sent_id = BOA1009_90
 # text = certo
 # jefferson_text = [certo].
 # speaker_id = BO037
 1	certo	certo	ADV	_	_	0	root	_	Backchannel=BOA1009_89_91::14|Begin=202.488|End=203.133|Intonation=Falling|KID=90-0|OverlappingGroup=49
 
-# sent_id = 92
+# sent_id = BOA1009_92
 # text = eh se lei dice che la rossi la può seguire
 # jefferson_text = e::h se lei dice che la rossi la può s[eguire:]
 # speaker_id = BO026
@@ -1127,7 +1127,7 @@
 9	può	potere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	KID=92-8
 10	seguire	seguire	VERB	_	VerbForm=Inf	4	ccomp	_	End=211.719|KID=92-9|OverlappingGroup=50|Prolonged=Yes
 
-# sent_id = 93
+# sent_id = BOA1009_93
 # text = sì sì sì sì ci siamo già messe d'accordo sono già andata ricevimento
 # jefferson_text = [sì. (.) sì sì] sì ci siamo già messe d'accordo sono già andat[a ricevimento],
 # speaker_id = BO037
@@ -1146,7 +1146,7 @@
 13	andata	andare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=93-13|OverlappingGroup=51
 14	ricevimento	ricevimento	NOUN	_	Gender=Masc|Number=Sing	13	xcomp	_	End=214.885|Intonation=WeaklyRising|KID=93-14|OverlappingGroup=51
 
-# sent_id = 94
+# sent_id = BOA1009_94
 # text = perché perché ha già fatto dei progett~ lei la seguirebbe in quanto della stessa scuola la x della scuola interpreti
 # jefferson_text = [perché perché ha già f]atto dei progett~ lei la seguirebbe in quanto della stessa scuola la [xxx] della scuola in[terpreti].
 # speaker_id = BO026
@@ -1177,7 +1177,7 @@
 22	scuola	scuola	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	KID=94-18
 23	interpreti	interprete	NOUN	_	Gender=Masc|Number=Plur	22	nmod	_	End=220.881|Intonation=Falling|KID=94-19|OverlappingGroup=52
 
-# sent_id = 95_96
+# sent_id = BOA1009_95_96
 # text = sì sì sì sì sì assolutamente sì
 # jefferson_text = [sì]. | [sì sì sì sì] assolutamente sì.
 # speaker_id = BO037
@@ -1189,7 +1189,7 @@
 6	assolutamente	assoluto	ADV	_	_	1	advmod	_	KID=96-4
 7	sì	sì	ADV	_	Polarity=Pos	6	advmod	_	End=221.84|Intonation=Falling|KID=96-5
 
-# sent_id = 97_99
+# sent_id = BOA1009_97_99
 # text = sì io ho già scritto una tesina per un esame che avevo fatto di lingua dei segni proprio sui coda che sono appunto questi eh bambini udenti figli di sordi che fanno da interpreti per cui comunque ho già del materiale sia scritto che di
 # jefferson_text = sì io ho già scritto una tesina per un esame che avevo fatto di lingua dei segni proprio sui coda che sono appunti questi: | eh bambini >udenti figli di sordi< che fanno da interpreti per cui comunque ho già del materiale: [sia] scritto [che di],
 # speaker_id = BO037
@@ -1245,14 +1245,14 @@
 47	che	che	CCONJ	_	_	48	cc	_	KID=99-19|OverlappingGroup=55
 48	di	di	ADP	_	_	44	dep	_	End=235.273|Intonation=WeaklyRising|KID=99-20|OverlappingGroup=55
 
-# sent_id = 98_100
+# sent_id = BOA1009_98_100
 # text = sì sì
 # jefferson_text = sì. | [°sì.°]
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_97_99::5|Begin=228.55|End=228.778|Intonation=Falling|KID=98-0
 2	sì	sì	ADV	_	_	1	flat	_	Begin=233.546|End=233.883|Intonation=Falling|KID=100-0|OverlappingGroup=54|Volume=low
 
-# sent_id = 101_104_105
+# sent_id = BOA1009_101_104_105
 # text = il servizio dis~ studenti disabili e la professoressa che adesso è in pensione più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato sul però è un po' diverso insomma sulla
 # jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, | più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla:: °sulla sordità,° sulla verifica delle competenze linguistiche per gl[i stu]denti con delle disabilità,
 # speaker_id = BO026
@@ -1301,7 +1301,7 @@
 40	su	su	ADP	_	_	41	case	_	KID=105-7a
 41	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	nmod	_	KID=105-7b|Promotion=det
 
-# sent_id = 106
+# sent_id = BOA1009_106
 # text = sulla sordità
 # jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla:: °sulla sordità,° sulla verifica delle competenze linguistiche per gl[i stu]denti con delle disabilità,
 # speaker_id = BO037
@@ -1310,7 +1310,7 @@
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=106-0b
 3	sordità	sordità	NOUN	_	Gender=Fem	0	root	_	Coconstruct=nmod_BOA1009_105::41|End=254.904|Intonation=WeaklyRising|KID=106-1|Volume=low
 
-# sent_id = 107
+# sent_id = BOA1009_107
 # text = su la verifica di le competenze linguistiche per gli studenti con di le disabilità
 # jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla:: °sulla sordità,° sulla verifica delle competenze linguistiche per gl[i stu]denti con delle disabilità,
 # speaker_id = BO026
@@ -1332,26 +1332,26 @@
 13	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	KID=107-9b
 14	disabilità	disabilità	NOUN	_	Gender=Fem	10	nmod	_	End=259.273|Intonation=WeaklyRising|KID=107-10
 
-# sent_id = 102
+# sent_id = BOA1009_102
 # text = mh
 # jefferson_text = mh
 # speaker_id = BO037
 1	mh	mh	INTJ	_	Gender=Masc	0	root	_	Begin=241.438|End=241.636|KID=102-0
 
-# sent_id = 103
+# sent_id = BOA1009_103
 # text = eh mh
 # jefferson_text = =e:h mh
 # speaker_id = BO026
 1	eh	eh	INTJ	_	Gender=Masc	0	root	_	Begin=241.931|KID=103-0|Prolonged=Yes|ProsodicLink=Yes
 2	mh	mh	INTJ	_	Gender=Masc	1	discourse	_	End=243.161|KID=103-1
 
-# sent_id = 108
+# sent_id = BOA1009_108
 # text = mh
 # jefferson_text = [mh]
 # speaker_id = BO037
 1	mh	mh	INTJ	_	Gender=Masc	0	root	_	Begin=257.475|End=257.755|KID=108-0|OverlappingGroup=56
 
-# sent_id = 109
+# sent_id = BOA1009_109
 # text = eh mh ma siamo stati a contatto abbastanza con il l' ufficio eh il servizio studenti disabili
 # jefferson_text = =e:h mh ma siamo stati a contatto abbastanza con il l' ufficio eh il servizio studenti disa[bili].
 # speaker_id = BO026
@@ -1373,14 +1373,14 @@
 16	studenti	studento	NOUN	_	Gender=Masc|Number=Plur	15	nmod	_	KID=109-15
 17	disabili	disabile	ADJ	_	Number=Plur	16	amod	_	End=267.155|Intonation=Falling|KID=109-16|OverlappingGroup=57
 
-# sent_id = 110
+# sent_id = BOA1009_110
 # text = mh mh
 # jefferson_text = [mh m]h.
 # speaker_id = BO037
 1	mh	mh	INTJ	_	Gender=Masc	0	root	_	Backchannel=BOA1009_109::5|Begin=266.775|KID=110-0|OverlappingGroup=57
 2	mh	mh	INTJ	_	Gender=Masc	1	discourse	_	End=267.215|Intonation=Falling|KID=110-1|OverlappingGroup=57
 
-# sent_id = 111_112
+# sent_id = BOA1009_111_112
 # text = forse lì potrebbe chiedere informazioni nel caso
 # jefferson_text = forse lì, | potrebbe chiedere informazioni ne[l caso],
 # speaker_id = BO026
@@ -1394,14 +1394,14 @@
 7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=112-3b
 8	caso	caso	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	End=271.355|Intonation=WeaklyRising|KID=112-4|OverlappingGroup=58
 
-# sent_id = 113
+# sent_id = BOA1009_113
 # text = magari sì
 # jefferson_text = [magari s]ì.
 # speaker_id = BO037
 1	magari	magari	ADV	_	_	2	advmod	_	Begin=270.796|KID=113-0|OverlappingGroup=58
 2	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_111_112::4|End=271.57|Intonation=Falling|KID=113-1|OverlappingGroup=58
 
-# sent_id = 114
+# sent_id = BOA1009_114
 # text = le interessa parlare con ex x perché loro mh li conoscono
 # jefferson_text = le interessa parlare con ex [xx perché] loro mh li conosc[ono],
 # speaker_id = BO026
@@ -1417,14 +1417,14 @@
 10	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	obj	_	Clitic=Yes|KID=114-9
 11	conoscono	conoscere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	End=277.305|Intonation=WeaklyRising|KID=114-10|OverlappingGroup=60
 
-# sent_id = 115
+# sent_id = BOA1009_115
 # text = mh mh
 # jefferson_text = =[mh mh]
 # speaker_id = BO037
 1	mh	mh	INTJ	_	Gender=Masc	0	root	_	Backchannel=BOA1009_114::2|Begin=274.72|KID=115-0|OverlappingGroup=59|ProsodicLink=Yes
 2	mh	mh	NOUN	_	Gender=Masc	1	discourse	_	End=275.188|KID=115-1|OverlappingGroup=59
 
-# sent_id = 116
+# sent_id = BOA1009_116
 # text = io poi avevo già contattato la mia insegnante di lingua dei segni qua che è un' interprete per cui comunque mi fa persone con cui parlare o intervistare così
 # jefferson_text = [io poi] avevo già contattato la mia insegnante di lingua dei segni qua che è un' interprete per cui comunque mi fa (.) persone con cui parlare o intervistare così,
 # speaker_id = BO037
@@ -1460,14 +1460,14 @@
 29	intervistare	intervistare	VERB	_	VerbForm=Inf	27	conj	_	KID=116-28
 30	così	così	ADV	_	_	29	discourse	_	End=286.1|Intonation=WeaklyRising|KID=116-29
 
-# sent_id = 117
+# sent_id = BOA1009_117
 # text = posso fare
 # jefferson_text = posso fare.
 # speaker_id = BO037
 1	posso	potere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	Begin=286.125|KID=117-0
 2	fare	fare	VERB	_	VerbForm=Inf	0	root	_	End=286.808|Intonation=Falling|KID=117-1
 
-# sent_id = 118
+# sent_id = BOA1009_118
 # text = ho un amico che ha i genitori sordi e lui è udente per cui posso comunque intervistare anche lui
 # jefferson_text = ho un amico che ha i genitori sordi e lui è udente per cui posso comunque intervistare anche lui,
 # speaker_id = BO037
@@ -1491,7 +1491,7 @@
 18	anche	anche	ADV	_	_	17	advmod	_	KID=118-17
 19	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	End=291.286|Intonation=WeaklyRising|KID=118-18
 
-# sent_id = 119
+# sent_id = BOA1009_119
 # text = d'accordo allor~ io le dico di sì a patto che sulla parte specialistica il docente relatore la possa seguire
 # jefferson_text = d'accordo allor~ io le dico di sì a patto ch[e sulla p]arte specialistic[a: il docente relatore la possa seg]uire.
 # speaker_id = BO026
@@ -1518,7 +1518,7 @@
 20	possa	potere	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	KID=119-18|OverlappingGroup=62
 21	seguire	seguire	VERB	_	VerbForm=Inf	6	advcl	_	End=298.898|Intonation=Falling|KID=119-19|OverlappingGroup=62
 
-# sent_id = 120
+# sent_id = BOA1009_120
 # text = sì sì no
 # jefferson_text = [sì sì no],
 # speaker_id = BO037
@@ -1526,7 +1526,7 @@
 2	sì	sì	ADV	_	_	1	flat	_	KID=120-1|OverlappingGroup=61
 3	no	no	ADV	_	PronType=Neg	1	flat	_	End=294.891|Intonation=WeaklyRising|KID=120-2|OverlappingGroup=61
 
-# sent_id = 121_122
+# sent_id = BOA1009_121_122
 # text = certo di da quel punto di vista sono sì sì sì sono coperta
 # jefferson_text = [certo di: da quel punto di vista sono::] | sì sì sì [sono coperta].
 # speaker_id = BO037
@@ -1544,7 +1544,7 @@
 12	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	KID=122-3|OverlappingGroup=63
 13	coperta	coprire	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=300.382|Intonation=Falling|KID=122-4|OverlappingGroup=63
 
-# sent_id = 123
+# sent_id = BOA1009_123
 # text = mi ripete il suo nome
 # jefferson_text = [mi ripete il suo nome]?
 # speaker_id = BO026
@@ -1554,21 +1554,21 @@
 4	suo	suo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	5	det:poss	_	KID=123-3|OverlappingGroup=63
 5	nome	nome	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	End=300.365|Intonation=Rising|KID=123-4|OverlappingGroup=63
 
-# sent_id = 124
+# sent_id = BOA1009_124
 # text = marina gialli
 # jefferson_text = marina gialli.
 # speaker_id = BO037
 1	marina	Marina	PROPN	_	Gender=Fem|Number=Sing	0	root	_	Begin=300.571|KID=124-0
 2	gialli	Gialli	PROPN	_	Number=Plur	1	flat:name	_	End=301.59|Intonation=Falling|KID=124-1
 
-# sent_id = 125
+# sent_id = BOA1009_125
 # text = aspetti marina
 # jefferson_text = aspetti (.) marina?
 # speaker_id = BO026
 1	aspetti	aspettere	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=303.363|KID=125-0|PauseAfter=Yes
 2	marina	Marina	PROPN	_	Gender=Fem|Number=Sing	1	obj	_	End=304.738|Intonation=Rising|KID=125-2
 
-# sent_id = 126
+# sent_id = BOA1009_126
 # text = gialli gi a elle elle i
 # jefferson_text = gialli gi a elle elle i
 # speaker_id = BO037
@@ -1579,7 +1579,7 @@
 5	elle	ella	NOUN	_	Gender=Fem|Number=Plur	1	flat	_	KID=126-4
 6	i	i	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	1	flat	_	End=307.185|KID=126-5
 
-# sent_id = 127
+# sent_id = BOA1009_127
 # text = gi a elle
 # jefferson_text = gi a [elle]
 # speaker_id = BO026
@@ -1587,20 +1587,20 @@
 2	a	a	ADP	_	_	1	flat	_	KID=127-1
 3	elle	ella	NOUN	_	Gender=Fem|Number=Plur	1	flat	_	End=309.031|KID=127-2|OverlappingGroup=64
 
-# sent_id = 128
+# sent_id = BOA1009_128
 # text = elle i
 # jefferson_text = [elle] i
 # speaker_id = BO037
 1	elle	ella	NOUN	_	Gender=Fem|Number=Plur	0	root	_	Begin=308.851|KID=128-0|OverlappingGroup=64
 2	i	i	ADJ	_	Number=Sing|NumType=Ord	1	flat	_	End=309.553|KID=128-1
 
-# sent_id = 129
+# sent_id = BOA1009_129
 # text = okay
 # jefferson_text = °okay.°
 # speaker_id = BO026
 1	okay	okay	INTJ	_	_	0	root	_	Backchannel=BOA1009_128::1|Begin=311.99|End=312.301|Intonation=Falling|KID=129-0|Volume=low
 
-# sent_id = 130
+# sent_id = BOA1009_130
 # text = eh correlazione per marzo duemiladiciotto
 # jefferson_text = eh correlazione per marzo duemiladiciotto,
 # speaker_id = BO026
@@ -1610,13 +1610,13 @@
 4	marzo	marzo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	KID=130-3
 5	duemiladiciotto	duemiladiciotto	NUM	_	Gender=Masc|Number=Sing	4	nummod	_	End=316.29|Intonation=WeaklyRising|KID=130-4
 
-# sent_id = 131
+# sent_id = BOA1009_131
 # text = sì
 # jefferson_text = sì.
 # speaker_id = BO037
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_130::2|Begin=316.29|End=316.578|Intonation=Falling|KID=131-0
 
-# sent_id = 132_133
+# sent_id = BOA1009_132_133
 # text = come dataeh ipotizzata o come data ultima
 # jefferson_text = come data::=eh ipotizzata o come: | data ulti[ma],
 # speaker_id = BO026
@@ -1629,7 +1629,7 @@
 7	data	dare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	Begin=323.998|KID=133-0
 8	ultima	ultima	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	End=324.936|Intonation=WeaklyRising|KID=133-1|OverlappingGroup=65
 
-# sent_id = 134_136
+# sent_id = BOA1009_134_136
 # text = no data unica anche perché è un lavoro a cui tengo personalmente molto per cui mi va di farlo bene di farlo insomma in maniera approfondita e tutto e poi è proprio il compimento di un percorso di tre anni
 # jefferson_text = [no da]ta unica anche perché è un lavoro a cui tengo personalm[ente mo]lto per cui mi va di farlo: | bene di farlo insomma in man[iera a]pprofondit[a e tutto e poi è proprio il c]ompimento di un per[corso di tre anni],
 # speaker_id = BO037
@@ -1678,13 +1678,13 @@
 41	tre	tre	NUM	_	NumType=Card	42	nummod	_	KID=136-19|OverlappingGroup=69
 42	anni	anno	NOUN	_	Gender=Masc|Number=Plur	39	nmod	_	End=336.789|Intonation=WeaklyRising|KID=136-20|OverlappingGroup=69
 
-# sent_id = 135
+# sent_id = BOA1009_135
 # text = okay
 # jefferson_text = [°okay.°]
 # speaker_id = BO026
 1	okay	okay	INTJ	_	_	0	root	_	Backchannel=BOA1009_134_136::33|Begin=327.843|End=328.213|Intonation=Falling|KID=135-0|OverlappingGroup=66|Volume=low
 
-# sent_id = 137_138
+# sent_id = BOA1009_137_138
 # text = sì no è interessante xx
 # jefferson_text = [sì]. | [no è interessante xx].
 # speaker_id = BO026
@@ -1694,7 +1694,7 @@
 4	interessante	interessante	ADJ	_	Number=Sing	0	root	_	KID=138-2|OverlappingGroup=68
 5	xx	x	X	_	_	4	dep	_	End=334.375|Intonation=Falling|KID=138-3|OverlappingGroup=68
 
-# sent_id = 139
+# sent_id = BOA1009_139
 # text = ci sono dei paralleli con l' altra esperienza soltanto per per l' età no
 # jefferson_text = [ci sono dei paralleli] con l' altra esperienza soltanto per per l' età (.) no,
 # speaker_id = BO026
@@ -1713,7 +1713,7 @@
 13	età	età	NOUN	_	Gender=Fem	2	obl	_	KID=139-12|PauseAfter=Yes
 14	no	no	ADV	_	PronType=Neg	13	advmod	_	End=341.367|Intonation=WeaklyRising|KID=139-14
 
-# sent_id = 140
+# sent_id = BOA1009_140
 # text = sì sì sì
 # jefferson_text = sì sì sì.
 # speaker_id = BO037
@@ -1721,7 +1721,7 @@
 2	sì	sì	ADV	_	Polarity=Pos	1	flat	_	KID=140-1
 3	sì	sì	ADV	_	Polarity=Pos	1	flat	_	End=342.048|Intonation=Falling|KID=140-2
 
-# sent_id = 141
+# sent_id = BOA1009_141
 # text = il bambino che lo fa per il genitore eccetera
 # jefferson_text = il bambino che lo fa per il ge[nitore eccetera].
 # speaker_id = BO026
@@ -1735,7 +1735,7 @@
 8	genitore	genitore	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	KID=141-7|OverlappingGroup=70
 9	eccetera	eccetera	ADV	_	_	8	advmod	_	End=344.925|Intonation=Falling|KID=141-8|OverlappingGroup=70
 
-# sent_id = 142
+# sent_id = BOA1009_142
 # text = sì la mia idea era di fare comunque diciamo un excursus
 # jefferson_text = [sì la mia idea era di fare] comunq[ue diciamo un excursus],
 # speaker_id = BO037
@@ -1751,7 +1751,7 @@
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=142-9|OverlappingGroup=71
 11	excursus	excursus	NOUN	_	Gender=Masc	7	obj	_	End=347.033|Intonation=WeaklyRising|KID=142-10|OverlappingGroup=71
 
-# sent_id = 143
+# sent_id = BOA1009_143
 # text = credo anche di esser mi imbattuta in alcuni articoli che pre~ pre~ presi erroneamente perché avevo visto brokering
 # jefferson_text = [credo anche di essermi imbattu]ta in alcuni articoli che=pre~=pre~ presi erroneamente perché avevo visto brokering,
 # speaker_id = BO026
@@ -1774,7 +1774,7 @@
 17	visto	vedere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	KID=143-15
 18	brokering	brokering	NOUN	_	Gender=Masc	17	obj	_	End=352.993|Intonation=WeaklyRising|KID=143-16
 
-# sent_id = 144
+# sent_id = BOA1009_144
 # text = sì sì sì qualcosa si si trova anche cercando per semplicemente su internet
 # jefferson_text = s[ì sì sì qualcosa si si trova] anche cercando per semplicemente su internet,
 # speaker_id = BO037
@@ -1792,7 +1792,7 @@
 12	su	su	ADP	_	_	13	case	_	KID=144-11
 13	internet	internet	NOUN	_	_	9	obl	_	End=357.989|Intonation=WeaklyRising|KID=144-12
 
-# sent_id = 145
+# sent_id = BOA1009_145
 # text = pensavo che fosse in language
 # jefferson_text = [pensavo che fosse in language].
 # speaker_id = BO026
@@ -1802,13 +1802,13 @@
 4	in	in	ADP	_	_	5	case	_	KID=145-3|OverlappingGroup=72
 5	language	languagia	NOUN	_	Gender=Fem|Number=Plur	1	ccomp	_	End=354.913|Intonation=Falling|KID=145-4|OverlappingGroup=72
 
-# sent_id = 146
+# sent_id = BOA1009_146
 # text = sì
 # jefferson_text = s[ì].
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_144::7|Begin=357.975|End=358.26|Intonation=Falling|KID=146-0
 
-# sent_id = 147_148
+# sent_id = BOA1009_147_148
 # text = qualcosa viene fuori ho visto che ci sono sono stati scritti dei libri proprio quasi romanzi dove si riporta l' esperienza di questi bambini della cioè tutto diciamo la particolarità è la cultura sorda a confronto con la cultura udente sono comunque cose che poi nella tesi sicuramente vanno spiegate
 # jefferson_text = [q]ualcosa viene fuori ho visto che ci sono sono stati scritti dei libri proprio quasi romanzi, | dove si riporta l' esperienza di questi bambini della: cioè tutto diciamo la particolarità è la cultura sorda [a confronto con la c]ultura udente sono com[un]que cose che poi nella tesi sicuramente vanno spiegate.
 # speaker_id = BO037
@@ -1867,7 +1867,7 @@
 51	vanno	andare	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	52	aux	_	KID=148-32
 52	spiegate	spiegare	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	42	acl	_	End=375.52|Intonation=Falling|KID=148-33
 
-# sent_id = 149
+# sent_id = BOA1009_149
 # text = mh mh sì
 # jefferson_text = =[mh mh sì].
 # speaker_id = BO026
@@ -1875,19 +1875,19 @@
 2	mh	mh	INTJ	_	Gender=Masc	1	discourse	_	KID=149-1|OverlappingGroup=75
 3	sì	sì	ADV	_	Polarity=Pos	1	advmod	_	End=370.831|Intonation=Falling|KID=149-2|OverlappingGroup=75
 
-# sent_id = 150
+# sent_id = BOA1009_150
 # text = sì
 # jefferson_text = [sì].
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_147_148::2|Begin=371.843|End=372.1|Intonation=Falling|KID=150-0|OverlappingGroup=76
 
-# sent_id = 151
+# sent_id = BOA1009_151
 # text = certo
 # jefferson_text = cert[o].
 # speaker_id = BO026
 1	certo	certo	ADV	_	_	0	root	_	Backchannel=BOA1009_147_148::2|Begin=375.495|End=375.961|Intonation=Falling|KID=151-0
 
-# sent_id = 152
+# sent_id = BOA1009_152
 # text = e da quel punto di vista comunque ho tutto il materiale della scuola di lingua dei segni di insegnanti sia sordi che udenti
 # jefferson_text = [e d]a quel [punto di vi]sta comunque ho tutto il materiale della scuola di lingua dei segni l' insegnanti: sia sordi c[he udenti].
 # speaker_id = BO037
@@ -1919,13 +1919,13 @@
 24	che	che	CCONJ	_	_	25	cc	_	KID=152-21|OverlappingGroup=80
 25	udenti	udente	ADJ	_	Number=Plur	23	conj	_	End=382.226|Intonation=Falling|KID=152-22|OverlappingGroup=80
 
-# sent_id = 153
+# sent_id = BOA1009_153
 # text = certo
 # jefferson_text = [certo].
 # speaker_id = BO026
 1	certo	certo	ADV	_	_	0	root	_	Backchannel=BOA1009_152::8|Begin=376.14|End=376.536|Intonation=Falling|KID=153-0|OverlappingGroup=79
 
-# sent_id = 154_157
+# sent_id = BOA1009_154_157
 # text = deve vedere se hanno fatto delle ricerche anche a roma gli esperti della lingua dei segni da x e la cnr
 # jefferson_text = [deve vedere se hanno f]atto:: delle ricerche anche a roma gli esperti della lingua dei s[egni] da x[xx e la:] [ci enne erre].
 # speaker_id = BO026
@@ -1955,13 +1955,13 @@
 22	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	End=389.531|KID=154-19|OverlappingGroup=82|Prolonged=Yes
 23	cnr	CNR	PROPN	_	_	12	conj	_	_
 
-# sent_id = 155
+# sent_id = BOA1009_155
 # text = sì
 # jefferson_text = [sì].
 # speaker_id = BO037
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_154_156::2|Begin=387.255|End=387.683|Intonation=Falling|KID=155-0|OverlappingGroup=81
 
-# sent_id = 156
+# sent_id = BOA1009_156
 # text = e volevo anche mettermi in contatto sia con il ciennerre che con l'istituto statale sordi che se non lo chiudono a breve perché purtroppo sono un po'
 # jefferson_text = [e: volevo anche mettermi in]con[tatto sia] co:n il cienneerre che con l'istituto statale sordi che (.) se non lo chiudono a breve perché purtroppo sono un po',
 # speaker_id = BO037
@@ -1996,14 +1996,14 @@
 28	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	KID=156-28
 29	po'	po'	ADV	_	_	27	advmod	_	End=397.055|Intonation=WeaklyRising|KID=156-29
 
-# sent_id = 158
+# sent_id = BOA1009_158
 # text = così ehm
 # jefferson_text = così e::hm
 # speaker_id = BO037
 1	così	così	ADV	_	_	0	root	_	Begin=397.235|KID=158-0
 2	ehm	ehm	INTJ	_	_	1	discourse	_	End=398.916|KID=158-1|Prolonged=Yes
 
-# sent_id = 159
+# sent_id = BOA1009_159
 # text = quindi il relatore è rossi della scuola interpreti
 # jefferson_text = quindi il relatore è rossi d[ella sc]uola interpreti.
 # speaker_id = BO026
@@ -2018,7 +2018,7 @@
 8	scuola	scuola	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	KID=159-6|OverlappingGroup=84
 9	interpreti	interpreto	ADJ	_	Gender=Masc|Number=Plur	8	appos	_	End=402.885|Intonation=Falling|KID=159-7
 
-# sent_id = 160_161
+# sent_id = BOA1009_160_161
 # text = sì sì sì rossi
 # jefferson_text = [sì]. | °sì sì rossi.°
 # speaker_id = BO037
@@ -2027,7 +2027,7 @@
 3	sì	sì	ADV	_	_	1	flat	_	KID=161-1|Volume=low
 4	rossi	Rossi	PROPN	_	Gender=Masc|Number=Plur	0	root	_	Coconstruct=conj:reform_159::5|End=403.896|Intonation=Falling|KID=161-2|Volume=low
 
-# sent_id = 162
+# sent_id = BOA1009_162
 # text = va bene mi aggiorna poi via via un po' del lavoro no
 # jefferson_text = va bene. mi aggiorna poi via via [un po' d]el lavor[o no],
 # speaker_id = BO026
@@ -2046,13 +2046,13 @@
 12	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	KID=162-10|OverlappingGroup=87
 13	no	no	ADV	_	PronType=Neg	1	advmod	_	End=409.877|Intonation=WeaklyRising|KID=162-11|OverlappingGroup=87
 
-# sent_id = 163
+# sent_id = BOA1009_163
 # text = sì
 # jefferson_text = [sì].
 # speaker_id = BO037
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_162::1|Begin=408.536|End=409.011|Intonation=Falling|KID=163-0|OverlappingGroup=86
 
-# sent_id = 164
+# sent_id = BOA1009_164
 # text = adesso comunque sto lavorando ho degli esami per cui si parte anche perché comunque l' estate è difficile
 # jefferson_text = [adesso co]munque [sto] lavorando ho degli esami per cui si parte anche perché comunque l' estate è diffi[cile],
 # speaker_id = BO037
@@ -2077,20 +2077,20 @@
 18	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	KID=164-16
 19	difficile	difficile	ADJ	_	Number=Sing	12	xcomp	_	End=414.591|Intonation=WeaklyRising|KID=164-17|OverlappingGroup=89
 
-# sent_id = 165
+# sent_id = BOA1009_165
 # text = sì
 # jefferson_text = [°sì.°]
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_164::4|Begin=410.025|End=410.203|Intonation=Falling|KID=165-0|OverlappingGroup=88|Volume=low
 
-# sent_id = 166
+# sent_id = BOA1009_166
 # text = mh mh
 # jefferson_text = =[°mh mh°]
 # speaker_id = BO026
 1	mh	mh	INTJ	_	Gender=Masc	0	root	_	Backchannel=BOA1009_164::4|Begin=414.02|KID=166-0|OverlappingGroup=89|ProsodicLink=Yes|Volume=low
 2	mh	mh	INTJ	_	Gender=Masc	1	discourse	_	End=414.581|KID=166-1|OverlappingGroup=89|Volume=low
 
-# sent_id = 167
+# sent_id = BOA1009_167
 # text = scuole chiuse tutto per cui comunque
 # jefferson_text = scuole chiuse tutto per cui comunque, cioè il lavoro grosso sarà da settembre in poi,
 # speaker_id = BO037
@@ -2101,7 +2101,7 @@
 5	cui	cui	PRON	_	PronType=Rel	2	obl	_	KID=167-4
 6	comunque	comunque	ADV	_	_	2	advmod	_	End=416.826|Intonation=WeaklyRising|KID=167-5
 
-# sent_id = 168
+# sent_id = BOA1009_168
 # text = cioè il lavoro grosso sarà da settembre in poi
 # jefferson_text = scuole chiuse tutto per cui comunque, cioè il lavoro grosso sarà da settembre in poi,
 # speaker_id = BO037
@@ -2115,14 +2115,14 @@
 8	in	in	ADP	_	_	9	case	_	KID=168-7
 9	poi	poi	ADV	_	_	7	advmod	_	End=419.45|Intonation=WeaklyRising|KID=168-8
 
-# sent_id = 169
+# sent_id = BOA1009_169
 # text = d'accordo
 # jefferson_text = °d'acc[ordo.°]
 # speaker_id = BO026
 1	d'	di	ADP	_	_	2	case	_	Begin=419.885|KID=169-0|SpaceAfter=No|Volume=low
 2	accordo	accordo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Backchannel=BOA1009_168::5|End=420.56|Intonation=Falling|KID=169-1|OverlappingGroup=90|Volume=low
 
-# sent_id = 170
+# sent_id = BOA1009_170
 # text = e nel frattempo magari inizio ad accumulare bibliografia leggere delle cose impostare bene
 # jefferson_text = [e:] nel frattempo magari inizio ad accumulare bibliografia l[eggere delle] co:se im[postare bene].
 # speaker_id = BO037
@@ -2142,13 +2142,13 @@
 13	impostare	impostare	VERB	_	VerbForm=Inf	10	conj	_	KID=170-11|OverlappingGroup=92
 14	bene	bene	ADV	_	_	13	advmod	_	End=426.01|Intonation=Falling|KID=170-12|OverlappingGroup=92
 
-# sent_id = 171
+# sent_id = BOA1009_171
 # text = sì
 # jefferson_text = [sì].
 # speaker_id = BO026
 1	sì	sì	ADV	_	_	0	root	_	Backchannel=BOA1009_170::6|Begin=423.251|End=423.84|Intonation=Falling|KID=171-0|OverlappingGroup=91
 
-# sent_id = 172
+# sent_id = BOA1009_172
 # text = se mi capita se come mi è successo tempo fa le qualche riferimento glielo inoltro glielo mando
 # jefferson_text = [se mi capita]:: se come mi è successo: tempo fa le (.) qualche riferimento glielo inoltro glie[lo mando].
 # speaker_id = BO026
@@ -2174,34 +2174,34 @@
 18	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	Clitic=Yes|KID=172-16b
 19	mando	mare	VERB	_	VerbForm=Ger	16	conj	_	End=433.755|Intonation=Falling|KID=172-17|OverlappingGroup=93
 
-# sent_id = 173
+# sent_id = BOA1009_173
 # text = grazie mille
 # jefferson_text = [grazie m]ille.
 # speaker_id = BO037
 1	grazie	grazie	NOUN	_	_	0	root	_	Begin=433.37|KID=173-0|OverlappingGroup=93
 2	mille	mille	NUM	_	NumType=Card	1	fixed	_	End=434.015|Intonation=Falling|KID=173-1|OverlappingGroup=93
 
-# sent_id = 174
+# sent_id = BOA1009_174
 # text = va bene
 # jefferson_text = v[a be]ne?
 # speaker_id = BO026
 1	va	andare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=434.038|KID=174-0|OverlappingGroup=94
 2	bene	bene	ADV	_	_	1	advmod	_	End=434.57|Intonation=Rising|KID=174-1|OverlappingGroup=94
 
-# sent_id = 175
+# sent_id = BOA1009_175
 # text = va bene
 # jefferson_text = [va bene].
 # speaker_id = BO037
 1	va	andare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=434.13|KID=175-0|OverlappingGroup=94
 2	bene	bene	ADV	_	_	1	advmod	_	End=434.463|Intonation=Falling|KID=175-1|OverlappingGroup=94
 
-# sent_id = 176
+# sent_id = BOA1009_176
 # text = arrivederci
 # jefferson_text = ar[rivederci].
 # speaker_id = BO026
 1	arrivederci	arrivederci	INTJ	_	_	0	root	_	KID=176-0a
 
-# sent_id = 177
+# sent_id = BOA1009_177
 # text = grazie mille molto gentile arrivederci
 # jefferson_text = [grazie mille mo]lto gentile arrivederci.
 # speaker_id = BO037
