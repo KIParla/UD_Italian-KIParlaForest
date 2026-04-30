@@ -1212,11 +1212,11 @@
 7	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	KID=123-9
 8	frase	frase	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	KID=123-10
 9	in	in	ADP	_	_	10	case	_	KID=123-11
-10	arabo	arabo	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	KID=123-12
+10	arabo	arabo	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	KID=123-12
 11	standard	standard	ADJ	_	_	10	amod	_	End=266.958|KID=123-13
 12	con	con	ADP	_	_	14	case	_	Begin=267.11|KID=124-0|PauseAfter=Yes|Prolonged=Yes
 13	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	KID=124-2
-14	frase	frase	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	KID=124-3
+14	frase	frase	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	KID=124-3
 15-16	nei	_	_	_	_	_	_	_	KID=124-4
 15	in	in	ADP	_	_	18	case	_	KID=124-4a
 16	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	KID=124-4b
@@ -1238,7 +1238,7 @@
 6-7	nel	_	_	_	_	_	_	_	Begin=271.593|KID=126-0|PauseAfter=Yes
 6	in	in	ADP	_	_	8	case	_	KID=126-0a
 7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=126-0b
-8	baghdadino	baghdadino	ADJ	_	Gender=Masc|Number=Sing	5	obl	_	End=272.771|Intonation=falling|KID=126-2
+8	baghdadino	baghdadino	ADJ	_	Gender=Masc|Number=Sing	2	obl	_	End=272.771|Intonation=falling|KID=126-2
 9	okay	okay	INTJ	_	_	5	discourse	_	Begin=273.609|End=274.1|Intonation=weakly_rising|KID=127-0
 
 # sent_id = TOD1005bis_128
@@ -1348,7 +1348,7 @@
 5	slide	slide	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	KID=134-4
 6	con	con	ADP	_	_	8	case	_	KID=134-5
 7	alcuni	alcuno	DET	_	PronType=Ind	8	det	_	KID=134-6
-8	pronomi	pronome	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	End=297.0|Intonation=weakly_rising|KID=134-7
+8	pronomi	pronome	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	End=297.0|Intonation=weakly_rising|KID=134-7
 
 # sent_id = TOD1005bis_135_136_137
 # text = la realizzazione dei pronomi in alcuni dialetti marginali tra virgolette
@@ -2115,7 +2115,7 @@
 4	tutte	tutto	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	3	nsubj	_	End=467.474|Intonation=weakly_rising|KID=208-3
 5	da	da	ADP	_	_	7	case	_	Begin=467.708|KID=209-0
 6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=209-1
-7	varietà	varietà	NOUN	_	Gender=Fem	4	obl	_	KID=209-2
+7	varietà	varietà	NOUN	_	Gender=Fem	3	obl	_	KID=209-2
 8	di	di	ADP	_	_	9	case	_	KID=209-3
 9	arabo	arabo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	End=469.367|Intonation=weakly_rising|KID=209-4
 
@@ -2265,7 +2265,7 @@
 6	ricostruzione	ricostruzione	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	End=512.731|Intonation=weakly_rising|KID=221-7
 7	di	di	ADP	_	_	9	case	_	Begin=512.918|KID=222-0
 8	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	KID=222-1
-9	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	KID=222-2|PaceSlow=Yes|PauseAfter=Yes
+9	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	KID=222-2|PaceSlow=Yes|PauseAfter=Yes
 10	ormai	ormai	ADV	_	_	11	advmod	_	KID=222-4
 11	estinta	estinto	ADJ	_	VerbForm=Part	9	amod	_	KID=222-5
 12	che	che	SCONJ	_	_	15	nsubj	_	KID=222-6
