@@ -305,7 +305,7 @@
 4	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	KID=24-3
 5	firmare	firmare	VERB	V	VerbForm=Inf	0	root	_	KID=24-4
 6	non	non	ADV	BN	PronType=Neg	8	advmod	_	KID=24-5
-7	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=24-6
+7	può	potere	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	KID=24-6
 8	farmi	farmio	NOUN	S	Gender=Masc|Number=Plur	5	conj	_	KID=24-7
 9	da	da	ADP	E	_	10	case	_	KID=24-8
 10	correlatrice	correlatore	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	KID=24-9
