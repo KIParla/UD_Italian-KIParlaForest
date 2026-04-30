@@ -1,70 +1,157 @@
 {
-  "conversations": [
-    {
-      "code": "BOD2018",
-      "type": "semistructured-interview",
-      "duration": 1688,
-      "participants": 2,
-      "participants codes": ["BO118", "BO140"],
-      "participants relationship": "symmetric",
-      "moderator": "yes",
+  "speaker_id": {
+    "BO026": {
+      "speaker_sex": "female",
+      "speaker_age_range": "56-60",
+      "speaker_occupation": "2-Professionals",
+      "speaker_region": "basilicata"
+    },
+    "BO032": {
+      "speaker_sex": "female",
+      "speaker_age_range": "21-25",
+      "speaker_occupation": "0-Students",
+      "speaker_region": "emilia-romagna"
+    },
+    "BO036": {
+      "speaker_sex": "male",
+      "speaker_age_range": "26-30",
+      "speaker_occupation": "0-Students",
+      "speaker_region": "calabria"
+    },
+    "BO037": {
+      "speaker_sex": "female",
+      "speaker_age_range": "21-25",
+      "speaker_occupation": "0-Students",
+      "speaker_region": "trentino-alto-adige"
+    },
+    "BO118": {
+      "speaker_sex": "female",
+      "speaker_age_range": "21-25",
+      "speaker_occupation": "0-Students",
+      "speaker_region": "marche"
+    },
+    "BO139": {
+      "speaker_sex": "male",
+      "speaker_age_range": "21-25",
+      "speaker_occupation": "0-Students",
+      "speaker_region": "emilia-romagna"
+    },
+    "BO140": {
+      "speaker_sex": "female",
+      "speaker_age_range": "26-30",
+      "speaker_occupation": "0-Students",
+      "speaker_region": "marche"
+    },
+    "BO145": {
+      "speaker_sex": "female",
+      "speaker_age_range": "21-25",
+      "speaker_occupation": "0-Students",
+      "speaker_region": "emilia-romagna"
+    },
+    "BO146": {
+      "speaker_sex": "male",
+      "speaker_age_range": "21-25",
+      "speaker_occupation": "0-Students",
+      "speaker_region": "marche"
+    },
+    "BO147": {
+      "speaker_sex": "male",
+      "speaker_age_range": "21-25",
+      "speaker_occupation": "0-Students",
+      "speaker_region": "marche"
+    },
+    "TO017": {
+      "speaker_sex": "male",
+      "speaker_age_range": "31-35",
+      "speaker_occupation": "2-Professionals",
+      "speaker_region": "piemonte"
+    }
+  },
+  "document_id": {
+    "BOA1003": {
+      "type": "office-hours",
+      "duration": "00:02:02",
+      "participants_number": 2,
+      "participants": [
+        "BO026",
+        "BO032"
+      ],
+      "participants_relationship": "asymmetric",
+      "moderator": false,
+      "topic": "free",
       "year": 2018,
-      "collection point": "BO"
+      "collection_point": "BO"
     },
-    {
-      "code": "BOA3017",
+    "BOA1008": {
+      "type": "office-hours",
+      "duration": "00:02:29",
+      "participants_number": 2,
+      "participants": [
+        "BO026",
+        "BO036"
+      ],
+      "participants_relationship": "asymmetric",
+      "moderator": false,
+      "topic": "free",
+      "year": 2018,
+      "collection_point": "BO"
+    },
+    "BOA1009": {
+      "type": "office-hours",
+      "duration": "00:07:19",
+      "participants_number": 2,
+      "participants": [
+        "BO026",
+        "BO037"
+      ],
+      "participants_relationship": "asymmetric",
+      "moderator": false,
+      "topic": "free",
+      "year": 2018,
+      "collection_point": "BO"
+    },
+    "BOA3017": {
       "type": "free-conversation",
-      "duration": 1820,
-      "participants": 4,
-      "participants codes": ["BO139","BO145","BO146","BO147"],
-      "participants relationship": "symmetric",
-      "moderator": "no",
+      "duration": "00:30:22",
+      "participants_number": 4,
+      "participants": [
+        "BO139",
+        "BO145",
+        "BO146",
+        "BO147"
+      ],
+      "participants_relationship": "symmetric",
+      "moderator": false,
+      "topic": "free",
       "year": 2019,
-      "collection point": "BO"
+      "collection_point": "BO"
+    },
+    "BOD2018": {
+      "type": "semistructured-interview",
+      "duration": "00:28:08",
+      "participants_number": 2,
+      "participants": [
+        "BO118",
+        "BO140"
+      ],
+      "participants_relationship": "symmetric",
+      "moderator": true,
+      "topic": "fixed",
+      "year": 2018,
+      "collection_point": "BO"
+    },
+    "TOD1005bis": {
+      "type": "lecture",
+      "duration": "00:50:44",
+      "participants_number": 1,
+      "participants": [
+        "TO017"
+      ],
+      "participants_relationship": "asymmetric",
+      "moderator": false,
+      "topic": "fixed",
+      "year": 2018,
+      "collection_point": "TO"
     }
-  ],
-  "participants": [
-    {
-      "code": "BO118",
-      "occupation": "0-Students",
-      "gender": "F",
-      "school-region": "marche",
-      "age-range": "21-25"
-    },
-    {
-      "code": "BO140",
-      "occupation": "0-Students",
-      "gender": "F",
-      "school-region": "marche",
-      "age-range": "26-30"
-    },
-    {
-      "code": "BO139",
-      "occupation": "0-Students",
-      "gender": "M",
-      "school-region": "emilia-romagna",
-      "age-range": "21-25"
-    },
-    {
-      "code": "BO145",
-      "occupation": "0-Students",
-      "gender": "F",
-      "school region": "emilia-romagna",
-      "age range": "21-25"
-    },
-    {
-      "code": "BO146",
-      "occupation": "0-Students",
-      "gender": "M",
-      "school region": "marche",
-      "age range": "21-25"
-    },
-    {
-      "code": "BO147",
-      "occupation": "0-Students",
-      "gender": "M",
-      "school region": "marche",
-      "age range": "21-25"
-    }
-  ]
+  }
 }
