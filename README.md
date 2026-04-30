@@ -127,6 +127,9 @@ This work was supported by COST Action CA21167 —Universality, diversity and id
 
 # Changelog
 
+* 2025-04-30 v2.18
+  * Add conversations BOA1003 and BOA1008
+  * Better handling of metadata and Coconstruct/Backchannels field in MISC
 * 2025-11-15 v2.17
   * Initial release in Universal Dependencies.
 
