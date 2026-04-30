@@ -57,9 +57,9 @@ Other attributes that can be found in MISC:
 
 ### Cross-sentence references (interactional relations)
 
-* `Backchannel` appears on tokens that function (along with their dependents) as backchannel. It assumes the value of a specific token id (`[sent_id]-[tok_id]`) which is the token that the backchannel is targeting.
+* `Backchannel` appears on tokens that function (along with their dependents) as backchannel. It assumes the value of a specific token id (`[sent_id]::[tok_id]`) which is the token that the backchannel is targeting.
 
-* `Coconstruct` appears on tokens that attach with a specific syntactic relations to other tokens in the treebank. The value is composed by the syntactic relation, followed by double colons (`::`), followed by the token identifier (again in `[sent_id]-[tok_id]` format) that should act as head for the current token.
+* `Coconstruct` appears on tokens that attach with a specific syntactic relations to other tokens in the treebank. The value is composed by the syntactic relation, followed by double colons (`::`), followed by the token identifier (again in `[sent_id]::[tok_id]` format) that should act as head for the current token.
 
 ## Metadata
 
