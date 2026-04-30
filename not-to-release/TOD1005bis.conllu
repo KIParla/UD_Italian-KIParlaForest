@@ -166,7 +166,7 @@
 21	guardare	guardare	VERB	_	VerbForm=Inf	19	xcomp	_	KID=15-13
 
 # sent_id = TOD1005bis_15b
-# text = quali sono le caratteristiche di i dialetti
+# text = quali sono le caratteristiche dei dialetti
 # jefferson_text = quali sono le caratteristiche dei dialetti.
 # speaker_id = TO017
 1	quali	quale	PRON	_	Gender=Fem|Number=Plur|PronType=Int	2	advmod	_	KID=15-14
@@ -727,12 +727,12 @@
 7	vengono	venire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	End=168.325|KID=66-6
 
 # sent_id = TOD1005bis_67_68
-# text = facciamo che | il cairo lo legge qualcuno un egiziano
+# text = facciamo che il cairo lo legge qualcuno un egiziano
 # jefferson_text = facciamo che il ca:iro lo legge qualcuno (.) un egiziano,
 # speaker_id = TO017
 1	facciamo	fare	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=168.605|KID=67-0
 2	che	che	SCONJ	_	_	6	mark	_	End=169.369|KID=67-1
-3	il	il	PROPN	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Begin=169.981|KID=68-0
+3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Begin=169.981|KID=68-0
 4	cairo	Cairo	PROPN	_	Gender=Masc|Number=Sing	6	dislocated	_	KID=68-1|Prolonged=Yes
 5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=68-2
 6	legge	leggere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	KID=68-3
@@ -2016,7 +2016,7 @@
 8	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=200-13
 
 # sent_id = TOD1005bis_200c
-# text = non riusciremo mai a metter ci ordine
+# text = non riusciremo mai a metterci ordine
 # jefferson_text = non riusciremo mai a metterci o:rdine,
 # speaker_id = TO017
 1	non	non	ADV	_	PronType=Neg	2	advmod	_	KID=200-14
@@ -3419,7 +3419,7 @@
 1	dieci	dieci	NUM	_	NumType=Card	0	root	_	Begin=816.974|End=817.459|Intonation=falling|KID=335-0
 
 # sent_id = TOD1005bis_336_337_338a
-# text = dopo cristo in il calendario gregoriano e in il calendario di l' e~ egira
+# text = dopo cristo nel calendario gregoriano e in il calendario dell'e~ egira
 # jefferson_text = dopo cristo nel caledario | gregoriano (e) nel calendario | dell' e~ egira
 # speaker_id = TO017
 1	dopo	dopo	ADV	_	_	2	advmod	_	Begin=817.79|KID=336-0
@@ -3434,7 +3434,7 @@
 8	in	in	ADP	_	_	10	case	_	KID=337-2a
 9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=337-2b
 10	calendario	calendario	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	End=821.495|KID=337-3
-11-12	dell'	_	_	_	_	_	_	_	Begin=821.811|KID=338-0|Truncated=Yes
+11-12	dell'	_	_	_	_	_	_	_	Begin=821.811|KID=338-0|SpaceAfter=No
 11	di	di	ADP	_	_	14	case	_	KID=338-0a
 12	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	KID=338-0b
 13	e~	X	X	_	_	14	reparandum	_	Interrupted=Yes|KID=338-1
@@ -3479,7 +3479,7 @@
 3	prima	primo	NUM	_	_	0	root	_	Interrupted=Yes|KID=342-2
 
 # sent_id = TOD1005bis_342b
-# text = la rivelazione di la prima sura la sura di il grumo di il grumo di sangue a il profeta mohamed okay
+# text = la rivelazione della prima sura la sura di il grumo di il grumo di sangue a il profeta mohamed okay
 # jefferson_text = la rivelazione della prima sura la sur~ del gru~ del grumo di sangue al profeta mohamed. okay,
 # speaker_id = TO017
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	KID=342-3
@@ -3974,7 +3974,7 @@
 7	descrizione	descrizione	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	End=958.968|Intonation=weakly_rising|KID=389-6
 
 # sent_id = TOD1005bis_390a
-# text = eh se noi vogliamo risalire a il nostro proto arabo
+# text = eh se noi vogliamo risalire al nostro proto arabo
 # jefferson_text = eh se noi vogliamo risalire al nostro proto arabo,
 1	eh	eh	INTJ	_	_	5	discourse	_	Begin=959.06|KID=390-0
 2	se	se	SCONJ	_	_	5	mark	_	KID=390-1
@@ -4097,7 +4097,7 @@
 17	dico	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	KID=397-16
 
 # sent_id = TOD1005bis_397b
-# text = ovvero su studio su la variazione in il lessico
+# text = ovvero su studio sulla variazione nel lessico
 # jefferson_text = su studio sulla variazione nel lessico
 # speaker_id = TO017
 1	ovvero	ovvero	CCONJ	_	_	3	cc	_	KID=397-17
@@ -4187,7 +4187,7 @@
 5	registratore	registratore	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Intonation=weakly_rising|KID=403-4
 
 # sent_id = TOD1005bis_403b
-# text = vado da il parlante e gli dico
+# text = vado dal parlante e gli dico
 # jefferson_text = vado dal parlante e gli dico
 # speaker_id = TO017
 1	vado	andare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=403-5
@@ -6838,7 +6838,7 @@
 1	che	che	SCONJ	_	PronType=Rel	0	root	_	Begin=1655.743|End=1656.081|KID=636-0
 
 # sent_id = TOD1005bis_637a
-# text = alcuni di i quali sono passati a la storia
+# text = alcuni dei quali sono passati alla storia
 # jefferson_text = alcuni dei quali sono pas:sati alla storia
 # speaker_id = TO017
 1	alcuni	alcuno	PRON	_	PronType=Ind	6	nsubj	_	Begin=1656.224|KID=637-0
@@ -7484,7 +7484,7 @@
 6	producevano	produrre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	KID=714-5
 
 # sent_id = TOD1005bis_714b
-# text = avevano il monopolio mondiale di l' incenso
+# text = avevano il monopolio mondiale dell' incenso
 # jefferson_text = avevano il monopolio mondiale dell' incenso
 # speaker_id = TO017
 1	avevano	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=714-6
