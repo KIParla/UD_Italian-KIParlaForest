@@ -86,7 +86,7 @@ For each **participant**, besides its code, we also provide:
 
 # How to contribute
 
-Data is developed in the `not-to-release` folder, where we keep a file for each conversation. These are then converted into the train/dev/test split through command line, e.g. `cat BOD2018.conllu BOA3017.conllu > ../test.conllu`
+Data is developed in the `not-to-release` folder, where we keep a file for each conversation. These are then converted into the train/dev/test split through command line, e.g. `cat BOD2018.conllu BOA3017.conllu > ../it_kiparlaforest-ud-test.conllu`
 
 You are welcome to contribute through issues or pull requests. In both cases, please do so by linking the files present in the `not-to-release` folder.
 
