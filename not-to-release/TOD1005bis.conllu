@@ -10569,7 +10569,7 @@
 # jefferson_text = credo (.) con xxx
 # speaker_id = TO017
 1	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=2549.793|KID=995-0|PauseAfter=Yes
-2	con	con	DET	_	_	3	case	_	KID=995-2
+2	con	con	ADP	_	_	3	case	_	KID=995-2
 3	x	x	X	_	_	1	obl	_	End=2551.828|KID=995-3|Unintelligible=Yes
 
 # sent_id = TOD1005bis_996
