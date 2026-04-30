@@ -584,7 +584,7 @@
 21	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	KID=56-0b
 22	momento	momento	NOUN	_	Gender=Masc|Number=Sing	30	obl	_	KID=56-1
 23	in	in	ADP	_	_	24	case	_	KID=56-2
-24	cui	cui	PRON	_	PronType=Rel	22	obl	_	KID=56-3
+24	cui	cui	PRON	_	PronType=Rel	22	nmod	_	KID=56-3
 25	uno	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	27	det	_	KID=56-4|PaceSlow=Yes
 26	qualche	qualche	DET	_	PronType=Ind	27	det	_	KID=56-5|PaceSlow=Yes
 27	stato	stato	NOUN	_	Gender=Masc|Number=Sing	30	nsubj	_	KID=56-6|PaceSlow=Yes
@@ -1221,7 +1221,7 @@
 15	in	in	ADP	_	_	18	case	_	KID=124-4a
 16	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	KID=124-4b
 17	vari	vario	ADJ	_	PronType=Ind	18	amod	_	KID=124-5
-18	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	14	obl	_	KID=124-6
+18	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	KID=124-6
 19	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	KID=124-7
 20	molto	molto	ADV	_	_	19	advmod	_	KID=124-8
 21	poca	poco	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	End=269.729|Intonation=falling|KID=124-9
@@ -1362,7 +1362,7 @@
 5	pronomi	pronome	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	KID=135-3
 6	in	in	ADP	_	_	8	case	_	KID=135-4
 7	alcuni	alcuno	DET	_	PronType=Ind	8	det	_	KID=135-5
-8	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	End=299.294|Intonation=weakly_rising|KID=135-6
+8	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	End=299.294|Intonation=weakly_rising|KID=135-6
 9	marginali	marginale	ADJ	_	Number=Plur	8	amod	_	Begin=301.811|End=302.747|KID=136-0
 10	tra	tra	ADP	_	_	11	case	_	Begin=302.893|KID=137-0
 11	virgolette	virgoletta	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	End=303.771|KID=137-1
@@ -2672,7 +2672,7 @@
 3	domanda	domanda	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	KID=263-1|PauseAfter=Yes
 4	a	a	ADP	_	_	6	case	_	KID=263-3
 5	questo	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	KID=263-4
-6	punto	punto	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	KID=263-5
+6	punto	punto	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	KID=263-5
 7	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=630.376|Intonation=weakly_rising|KID=263-6
 
 # sent_id = TOD1005bis_264
@@ -3273,7 +3273,7 @@
 7	mi	mi	PRON	_	PronType=Prs	6	iobj	_	KID=319-5b
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=319-6|PauseAfter=Yes|Prolonged=Yes
 9	periodo	periodo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	KID=319-8
-10	in	in	DET	_	_	12	case	_	Interrupted=Yes|KID=319-9
+10	in	in	ADP	_	_	11	reparandum	_	Interrupted=Yes|KID=319-9
 11	in	in	ADP	_	_	12	case	_	KID=319-10
 12	anni	anno	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	End=772.561|KID=319-11
 
@@ -4033,7 +4033,7 @@
 7-8	delle	_	_	_	_	_	_	_	Begin=974.94|KID=394-0
 7	di	di	ADP	_	_	9	case	_	KID=394-0a
 8	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=394-0b
-9	vallate	vallata	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	KID=394-1
+9	vallate	vallata	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	KID=394-1
 10-11	del	_	_	_	_	_	_	_	KID=394-2
 10	di	di	ADP	_	_	12	case	_	KID=394-2a
 11	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=394-2b
@@ -4071,7 +4071,7 @@
 2	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=396-3
 3	registratore	registratore	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	KID=396-4
 4	come	come	ADP	_	_	5	case	_	KID=396-5
-5	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	obl	_	KID=396-6
+5	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	nmod	_	KID=396-6
 6	qua	qua	ADV	_	_	5	advmod	_	End=990.754|KID=396-7
 
 # sent_id = TOD1005bis_397a
@@ -5394,7 +5394,7 @@
 4	sterminato	sterminare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Intonation=falling|KID=497-3|Prolonged=Yes
 5-6	dal	_	_	_	_	_	_	_	End=1315.485|KID=497-4
 5	da	da	ADP	_	_	6	case	_	KID=497-4a
-6	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	case	_	KID=497-4b
+6	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=497-4b
 7	potentissimo	potente	ADJ	_	Degree=Abs|Gender=Masc|Number=Sing	8	amod	_	Begin=1315.743|KID=498-0
 8	x	x	X	_	_	4	obl:agent	_	KID=498-1|Unintelligible=Yes
 9	terzo	terzo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	End=1317.587|Intonation=falling|KID=498-2
@@ -11256,7 +11256,7 @@
 # jefferson_text = e a qua~ ah scusate ho dimenticato la, xxx che però comunque | non si segnava, | in, | alfabeto greco,
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	7	cc	_	Begin=2745.029|KID=1065-0
-2	a	a	DET	_	_	3	case	_	KID=1065-1
+2	a	a	ADP	_	_	3	case	_	KID=1065-1
 3	qua~	X	ADV	_	_	7	obl	_	Interrupted=Yes|KID=1065-2
 4	ah	ah	INTJ	_	_	7	discourse	_	KID=1065-3
 5	scusate	scusare	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	parataxis	_	KID=1065-4
