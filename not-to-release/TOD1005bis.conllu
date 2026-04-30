@@ -6121,7 +6121,7 @@
 
 # sent_id = TOD1005bis_562_563
 # text = e a un certo punto arriva un tipo che gli porta
-# jefferson_text = e a un certo punto arriva un ti:po che gli porta
+# jefferson_text = e a un certo punto arriva un ti:po | che gli porta
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	6	cc	_	Begin=1486.018|KID=562-0
 2	a	a	ADP	_	_	5	case	_	KID=562-1
@@ -6148,7 +6148,7 @@
 
 # sent_id = TOD1005bis_565a
 # text = potrebbe essere che sì potrebbe essere che no
-# jefferson_text = potrebbe essere che sì potrebbe essere che no ma s:e ha ragione il tipo che ha (.) interpretato questa stele,
+# jefferson_text = potrebbe essere che sì potrebbe essere che no
 # speaker_id = TO017
 1	potrebbe	potere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	Begin=1491.968|KID=565-0
 2	essere	essere	VERB	_	VerbForm=Inf	0	root	_	KID=565-1
@@ -6161,7 +6161,7 @@
 
 # sent_id = TOD1005bis_565b
 # text = ma se ha ragione il tipo che ha interpretato questa stele
-# jefferson_text = potrebbe essere che sì potrebbe essere che no ma s:e ha ragione il tipo che ha (.) interpretato questa stele,
+# jefferson_text = ma s:e ha ragione il tipo che ha (.) interpretato questa stele,
 # speaker_id = TO017
 1	ma	ma	CCONJ	_	_	3	cc	_	KID=565-8
 2	se	se	SCONJ	_	_	3	mark	_	KID=565-9|Prolonged=Yes
@@ -6250,7 +6250,7 @@
 
 # sent_id = TOD1005bis_572_573_574_575
 # text = quest~ un tipo è andato da da da questo re e gli ha portato cammelle e giovani cammelli
-# jefferson_text = quest~ un tipo è andato da da (da) questo re e gli ha portato. <cammelle> e <gio:vani cammelli>
+# jefferson_text = quest~ un tipo è andato da da (da) questo re e gli ha portato. | <cammelle> | e | <gio:vani cammelli>
 # speaker_id = TO017
 1	quest~	X	X	_	_	5	conj:reform	_	Begin=1513.691|Interrupted=Yes|KID=572-0
 2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=572-1
@@ -6385,7 +6385,7 @@
 
 # sent_id = TOD1005bis_589_590
 # text = qui ci sono alcuni problemi di grafia ma si suppone che queste siano le prime attestazioni nella storia di una x
-# jefferson_text = qui ci sono alcuni proble:mi di grafia ma (.) si <suppone> che queste siano le prime attestazioni nella storia: (.) di una xxx.
+# jefferson_text = qui ci sono alcuni proble:mi di grafia ma (.) si <suppone> | che queste siano le prime attestazioni nella storia: (.) di una xxx.
 # speaker_id = TO017
 1	qui	qui	ADV	_	_	3	advmod	_	Begin=1539.929|KID=589-0
 2	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	KID=589-1
@@ -6454,7 +6454,7 @@
 
 # sent_id = TOD1005bis_594_595
 # text = già molto molto molto tempo prima
-# jefferson_text = già molto (.) molto (.) molto (.) tempo, prima,
+# jefferson_text = già | molto (.) molto (.) molto (.) tempo, prima,
 # speaker_id = TO017
 1	già	già	ADV	_	_	5	advmod	_	Begin=1561.895|End=1562.431|KID=594-0
 2	molto	molto	ADJ	_	_	5	amod	_	Begin=1562.887|KID=595-0|PauseAfter=Yes
@@ -6549,7 +6549,7 @@
 
 # sent_id = TOD1005bis_604_605
 # text = che sì possiamo interpretare ma comunque ci sono dei delle dispute
-# jefferson_text = che: sì (.) possiamo interpretare ma comunque ci sono dei:: delle dispute
+# jefferson_text = che: sì (.) possiamo interpretare ma comunque ci sono dei:: | delle dispute
 # speaker_id = TO017
 1	che	che	SCONJ	_	_	4	obj	_	Begin=1584.387|KID=604-0|Prolonged=Yes
 2	sì	sì	INTJ	_	_	4	discourse	_	KID=604-1|PauseAfter=Yes
@@ -6625,7 +6625,7 @@
 
 # sent_id = TOD1005bis_613_614_615
 # text = il che ci fa venire in mente
-# jefferson_text = il che ci fa (.) venire in mente
+# jefferson_text = il che | ci fa (.) | venire in mente
 # speaker_id = TO017
 1	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Begin=1606.118|KID=613-0
 2	che	che	SCONJ	_	PronType=Rel	5	mark	_	End=1606.631|KID=613-1
@@ -6680,7 +6680,7 @@
 
 # sent_id = TOD1005bis_619_620
 # text = penisola eh mesopotamia levante
-# jefferson_text = penisola::, e:::h mesopotamia levan:te
+# jefferson_text = penisola::, | e:::h mesopotamia levan:te
 # speaker_id = TO017
 1	penisola	penisola	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Begin=1619.062|End=1620.174|Intonation=weakly_rising|KID=619-0|Prolonged=Yes
 2	eh	eh	INTJ	_	_	3	discourse	_	Begin=1620.443|KID=620-0|Prolonged=Yes
@@ -6713,7 +6713,7 @@
 
 # sent_id = TOD1005bis_623_624_625
 # text = c'è un sacco di gente che scriveva contrariamente a quello che eh potreste pensare
-# jefferson_text = c'è un sacco di gente che scriveva contrariamente a quello che e::h potreste pensare.
+# jefferson_text = c'è un sacco di gente che scriveva contrariamente | a quello che | e::h potreste pensare.
 # speaker_id = TO017
 1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	Begin=1629.391|KID=623-0|SpaceAfter=No
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=623-1
@@ -6733,7 +6733,7 @@
 
 # sent_id = TOD1005bis_626_627
 # text = soprattutto nel sud dell'arabia
-# jefferson_text = soprattutto nel sud dell'arabia
+# jefferson_text = soprattutto | nel sud dell'arabia
 # speaker_id = TO017
 1	soprattutto	soprattutto	ADV	_	_	4	advmod	_	Begin=1636.05|End=1637.012|KID=626-0
 2-3	nel	_	_	_	_	_	_	_	Begin=1637.449|KID=627-0
@@ -6747,7 +6747,7 @@
 
 # sent_id = TOD1005bis_628a
 # text = dove oggi ci sono
-# jefferson_text = dove oggi ci sono questa è una
+# jefferson_text = dove oggi ci sono
 # speaker_id = TO017
 1	dove	dove	PRON	_	_	4	advmod	_	Begin=1638.768|KID=628-0
 2	oggi	oggi	ADV	_	_	4	advmod	_	KID=628-1
@@ -6756,7 +6756,7 @@
 
 # sent_id = TOD1005bis_628b
 # text = questa è una
-# jefferson_text = dove oggi ci sono questa è una
+# jefferson_text = questa è una
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	KID=628-4
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	KID=628-5
@@ -6806,7 +6806,7 @@
 
 # sent_id = TOD1005bis_634_635
 # text = eh nel sud della penisola araba c'erano dei regni che erano gli antichi regni sudarabici
-# jefferson_text = eh nel sud de:lla (.) penisola araba c'erano dei regni che (.) erano gli antichi regni:: sudarabici.
+# jefferson_text = eh nel sud de:lla (.) penisola araba c'erano dei regni | che (.) erano gli antichi regni:: sudarabici.
 # speaker_id = TO017
 1	eh	eh	INTJ	_	_	10	discourse	_	Begin=1649.049|KID=634-0
 2-3	nel	_	_	_	_	_	_	_	KID=634-1
@@ -6839,7 +6839,7 @@
 
 # sent_id = TOD1005bis_637a
 # text = alcuni di i quali sono passati a la storia
-# jefferson_text = alcuni dei quali sono pas:sati alla storia (avrete) sentito parlare di uno almeno il regno di saba.
+# jefferson_text = alcuni dei quali sono pas:sati alla storia
 # speaker_id = TO017
 1	alcuni	alcuno	PRON	_	PronType=Ind	6	nsubj	_	Begin=1656.224|KID=637-0
 2-3	dei	_	_	_	_	_	_	_	KID=637-1
@@ -6855,7 +6855,7 @@
 
 # sent_id = TOD1005bis_637b
 # text = avrete sentito parlare di uno almeno il regno di saba
-# jefferson_text = alcuni dei quali sono pas:sati alla storia (avrete) sentito parlare di uno almeno il regno di saba.
+# jefferson_text = (avrete) sentito parlare di uno almeno il regno di saba.
 # speaker_id = TO017
 1	avrete	avere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	2	aux	_	KID=637-7
 2	sentito	sentire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=637-8
@@ -6939,7 +6939,7 @@
 
 # sent_id = TOD1005bis_645_646_647_648_649
 # text = c'erano questi quattro regni molto potenti all'epoca molto ricchi che scrivevano
-# jefferson_text = c'erano questi quattro <regni molto potenti>, all'epoca molto ricchi che, scrivevano
+# jefferson_text = c'erano questi quattro <regni molto potenti>, | all'epoca | molto ricchi che, | scrivevano
 # speaker_id = TO017
 1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	Begin=1672.558|KID=645-0|SpaceAfter=No
 2	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=645-1
@@ -6996,7 +6996,7 @@
 
 # sent_id = TOD1005bis_655_656_657_658
 # text = di solito si usa l'acronimo asa
-# jefferson_text = di solito si usa l'acronimo asa
+# jefferson_text = di solito | si usa l'acronimo | asa
 # speaker_id = TO017
 1	di	di	ADP	_	_	2	case	_	Begin=1689.868|KID=655-0
 2	solito	solito	NOUN	_	Gender=Masc|Number=Sing	4	advmod	_	End=1690.204|KID=655-1
@@ -7008,7 +7008,7 @@
 
 # sent_id = TOD1005bis_659_660_661
 # text = ancient south arabian
-# jefferson_text = ancient south arabian
+# jefferson_text = ancient | south | arabian
 # speaker_id = TO017
 1	ancient	ancient	ADJ	_	_	3	amod	_	Begin=1692.749|End=1693.214|KID=659-0
 2	south	south	ADJ	_	_	3	amod	_	Begin=1693.442|End=1693.964|KID=660-0
@@ -7022,7 +7022,7 @@
 
 # sent_id = TOD1005bis_663_664_665
 # text = sud arabico antico
-# jefferson_text = (sud) arabico, antico,
+# jefferson_text = (sud) | arabico, | antico,
 # speaker_id = TO017
 1	sud	sud	ADJ	_	_	2	amod	_	Begin=1695.846|End=1696.105|KID=663-0
 2	arabico	arabico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Begin=1696.295|End=1696.872|Intonation=weakly_rising|KID=664-0
@@ -7038,7 +7038,7 @@
 
 # sent_id = TOD1005bis_667_668
 # text = e loro scrivevano nel loro alfabeto che era questo non so se si vede
-# jefferson_text = e loro scrivevano nel loro alfabeto che era questo. (.) non so se si vede
+# jefferson_text = e loro scrivevano | nel loro alfabeto che era questo. (.) non so se si vede
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	3	cc	_	Begin=1701.357|KID=667-0
 2	loro	loro	PRON	_	Number=Plur|Person=3|PronType=Prs	3	nsubj	_	KID=667-1
@@ -7125,7 +7125,7 @@
 
 # sent_id = TOD1005bis_675_676
 # text = e la scrivevano in questo alfabeto
-# jefferson_text = e la scrivevano in questo alfabeto.
+# jefferson_text = e la scrivevano | in questo alfabeto.
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	3	cc	_	Begin=1718.459|KID=675-0
 2	la	la	PRON	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	obj	_	KID=675-1
@@ -7169,7 +7169,7 @@
 
 # sent_id = TOD1005bis_682_683
 # text = e conquistano insomma beh non proprio tutta la penisola ma buona parte di quello che è eh il medio oriente
-# jefferson_text = e conquistano insomma beh non proprio tutta la penisola ma buona parte di quello che è e:h il medio oriente
+# jefferson_text = e conquistano insomma beh non proprio tutta la penisola ma buona parte di quello che | è e:h il medio oriente
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	2	cc	_	Begin=1732.671|KID=682-0
 2	conquistano	conquistare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=682-1
@@ -7260,7 +7260,7 @@
 
 # sent_id = TOD1005bis_690_691_692a
 # text = che vendevano a caro prezzo a a tutti quanti a tutto il mondo
-# jefferson_text = che <vendevano> a caro prezzo a::: a tutti quanti a tutto il <mondo> c' era una roba che tutto il mondo voleva che tutto il mondo comprava
+# jefferson_text = che <vendevano> a caro prezzo | a::: | a tutti quanti a tutto il <mondo>
 # speaker_id = TO017
 1	che	che	SCONJ	_	PronType=Rel	2	obj	_	Begin=1750.433|KID=690-0
 2	vendevano	vendere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=690-1|PaceSlow=Yes
@@ -7318,7 +7318,7 @@
 
 # sent_id = TOD1005bis_695_696
 # text = sono si sono arricchiti son diventati ricchi spacciando questo
-# jefferson_text = <sono si sono arricchiti> >son diventati ricchi< <spacciando>, questo.
+# jefferson_text = <sono si sono arricchiti> >son diventati ricchi< <spacciando>, | questo.
 # speaker_id = TO017
 1	sono	essere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	reparandum	_	Begin=1766.588|KID=695-0|PaceSlow=Yes
 2	si	si	PRON	_	Person=3|PronType=Prs	4	expl:impers	_	KID=695-1|PaceSlow=Yes
@@ -7397,7 +7397,7 @@
 
 # sent_id = TOD1005bis_704_705_706a
 # text = questa l' ho comprata in oman qualche mese fa
-# jefferson_text = questa l' ho comprata in oman, qualche mese fa (.) questa bustina sta a due euro e mezzo
+# jefferson_text = questa l' ho comprata | in oman, | qualche mese fa
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	dislocated	_	Begin=1795.066|KID=704-0
 2	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=704-1|Truncated=Yes
@@ -7434,7 +7434,7 @@
 6	po'	po'	ADV	_	_	4	advmod	_	End=1804.228|KID=707-5
 
 # sent_id = TOD1005bis_708_709_710
-# text = ma non quanto costava all' epoca
+# text = ma non quanto | costava | all' epoca
 # jefferson_text = ma non quanto costava all' epoca.
 # speaker_id = TO017
 1	ma	ma	CCONJ	_	_	2	cc	_	Begin=1804.424|KID=708-0
@@ -7474,7 +7474,7 @@
 
 # sent_id = TOD1005bis_714a
 # text = erano gli unici che lo producevano
-# jefferson_text = erano gli unici che lo producevano avevano il monopolio mondiale dell' incenso
+# jefferson_text = erano gli unici che lo producevano
 # speaker_id = TO017
 1	erano	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	Begin=1817.65|KID=714-0
 2	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	KID=714-1
@@ -7485,7 +7485,7 @@
 
 # sent_id = TOD1005bis_714b
 # text = avevano il monopolio mondiale di l' incenso
-# jefferson_text = erano gli unici che lo producevano avevano il monopolio mondiale dell' incenso
+# jefferson_text = avevano il monopolio mondiale dell' incenso
 # speaker_id = TO017
 1	avevano	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=714-6
 2	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=714-7
@@ -7649,7 +7649,7 @@
 
 # sent_id = TOD1005bis_729_730
 # text = per via delle montagne la catena montuosa dell' antilibano che è sempre bianca di neve okay quindi sarebbe paese bianco in qualche modo
-# jefferson_text = per via delle montagne la catena montuosa dell' antilibano che è sempre bianca di neve okay quindi sarebbe paese bia:nco. in qualche modo:
+# jefferson_text = per via delle montagne la catena montuosa dell' antilibano che è sempre bianca di neve okay quindi sarebbe | paese bia:nco. in qualche modo:
 # speaker_id = TO017
 1	per	per	ADP	_	_	2	case	_	Begin=1861.672|KID=729-0
 2	via	via	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	KID=729-1
@@ -7749,7 +7749,7 @@
 
 # sent_id = TOD1005bis_738_739
 # text = lo potete lo potete lo mettete in un piccolo braciere se ancora adesso se voi andate in oman in yemen
-# jefferson_text = lo potete lo pote~ lo mettete in un piccolo braciere se ancora adesso se voi andate in oman in yemen,
+# jefferson_text = lo potete | lo pote~ lo mettete in un piccolo braciere se ancora adesso se voi andate in oman in yemen,
 # speaker_id = TO017
 1	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	Begin=1880.295|KID=738-0
 2	potete	potere	AUX	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	reparandum	_	End=1880.968|KID=738-1
@@ -7774,7 +7774,7 @@
 
 # sent_id = TOD1005bis_740_741_742a
 # text = se arrivate a casa di qualcuno vi bruciano quest' incenso in un braciere che fa un fumo incredibile e molto aromatico
-# jefferson_text = se arrivate a casa di qualcuno vi bruciano quest' incenso in un braciere che fa un fu:mo incredibile e molto aromatico (non) lo potete sentire perché è resina.
+# jefferson_text = se arrivate a casa di qualcuno vi bruciano quest' incenso in un braciere che fa un fu:mo | incredibile e molto | aromatico
 # speaker_id = TO017
 1	se	se	SCONJ	_	_	2	mark	_	Begin=1885.261|KID=740-0
 2	arrivate	arrivare	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	KID=740-1
@@ -7800,7 +7800,7 @@
 
 # sent_id = TOD1005bis_742b
 # text = non lo potete sentire perché è resina
-# jefferson_text = aromatico (non) lo potete sentire perché è resina.
+# jefferson_text = (non) lo potete sentire perché è resina.
 # speaker_id = TO017
 1	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=742-1
 2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=742-2
@@ -7819,7 +7819,7 @@
 
 # sent_id = TOD1005bis_744_745
 # text = ma ne potete fare altre cose pare che abbia tutta una serie di proprietà antinfiammatoria e quindi dicono che vada bene per il raffreddore il mal di testa tutto quanto
-# jefferson_text = ma. ne potete fare altre cose pare che abbia tutta una serie di proprietà: antinfiammatoria e quindi dicono che vada bene per il raffreddo:re, il mal di testa tutto quanto.
+# jefferson_text = ma. ne potete fare altre cose pare che abbia tutta una serie di proprietà: | antinfiammatoria e quindi dicono che vada bene per il raffreddo:re, il mal di testa tutto quanto.
 # speaker_id = TO017
 1	ma	ma	CCONJ	_	_	4	cc	_	Begin=1895.296|Intonation=falling|KID=744-0
 2	ne	ne	PRON	_	PronType=Prs	4	expl	_	KID=744-1
@@ -7854,7 +7854,7 @@
 
 # sent_id = TOD1005bis_746a
 # text = lo potete sciogliere in acqua oppure lo potete masticare
-# jefferson_text = lo potete sciogliere in acqua oppue lo potete masticare se lo mettete in bocca lo potete mastica
+# jefferson_text = lo potete sciogliere in acqua oppue lo potete masticare
 # speaker_id = TO017
 1	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Begin=1905.329|KID=746-0
 2	potete	potere	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	KID=746-1
@@ -7868,7 +7868,7 @@
 
 # sent_id = TOD1005bis_746b
 # text = se lo mettete in bocca lo potete masticare
-# jefferson_text = lo potete sciogliere in acqua oppue lo potete masticare se lo mettete in bocca lo potete mastica
+# jefferson_text = se lo mettete in bocca lo potete mastica
 # speaker_id = TO017
 1	se	se	SCONJ	_	_	3	mark	_	KID=746-9
 2	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	KID=746-10
@@ -7921,7 +7921,7 @@
 
 # sent_id = TOD1005bis_751_752
 # text = all' inizio si attacca molto ai denti ma poi passa questa cosa
-# jefferson_text = all' inizio si attacca molto ai denti ma poi passa questa cosa
+# jefferson_text = all' inizio si attacca molto ai denti ma poi passa | questa cosa
 # speaker_id = TO017
 1-2	all'	_	_	_	_	_	_	_	Begin=1914.858|KID=751-0|Truncated=Yes
 1	a	a	ADP	_	_	3	case	_	KID=751-0a
@@ -7942,7 +7942,7 @@
 
 # sent_id = TOD1005bis_753a
 # text = e infatti luban tutto fuori dal mondo arabo
-# jefferson_text = e infatti luban (tutto) fuori dal mondo arabo luban è la parola per dire:. e:::h
+# jefferson_text = e infatti luban (tutto) fuori dal mondo arabo
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	3	cc	_	Begin=1919.256|KID=753-0
 2	infatti	infatti	ADV	_	_	3	advmod	_	KID=753-1
@@ -7957,7 +7957,7 @@
 
 # sent_id = TOD1005bis_753b_754
 # text = luban è la parola per dire eh chewing gum vero
-# jefferson_text = e infatti luban (tutto) fuori dal mondo arabo luban è la parola per dire:. e:::h >chewing gum. vero<?
+# jefferson_text = luban è la parola per dire:. e:::h | >chewing gum. vero<?
 # speaker_id = TO017
 1	luban	luban	NOUN	_	Gender=Masc	4	nsubj	_	KID=753-8
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=753-9
@@ -8169,7 +8169,7 @@
 
 # sent_id = TOD1005bis_774_775_776
 # text = mh le lingue sudarabiche sono morte da tanto tempo non sappiamo quanto ma sono morte da parecchio
-# jefferson_text = mh, le lingue sudarabiche sono morte da tanto tempo. non sappiamo quanto ma sono morte da parecchio.
+# jefferson_text = mh, le lingue sudarabiche | sono morte da tanto tempo. non sappiamo quanto ma sono | morte da parecchio.
 # speaker_id = TO017
 1	mh	mh	INTJ	_	_	3	discourse	_	Begin=1968.9|Intonation=weakly_rising|KID=774-0
 2	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	KID=774-1
@@ -8257,7 +8257,7 @@
 
 # sent_id = TOD1005bis_782a
 # text = sapete che lingua è questa o che alfabeto è
-# jefferson_text = sapete che lingua è questa, o che alfabeto è, in questo caso coincidono le due cose.
+# jefferson_text = sapete che lingua è questa, o che alfabeto è,
 # speaker_id = TO017
 1	sapete	sapere	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=1997.0|KID=782-0
 2	che	che	ADJ	_	_	5	mark	_	KID=782-1
@@ -8271,7 +8271,7 @@
 
 # sent_id = TOD1005bis_782b
 # text = in questo caso coincidono le due cose
-# jefferson_text = sapete che lingua è questa, o che alfabeto è, in questo caso coincidono le due cose.
+# jefferson_text = in questo caso coincidono le due cose.
 # speaker_id = TO017
 1	in	in	ADP	_	_	3	case	_	KID=782-9
 2	questo	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	KID=782-10
@@ -8307,7 +8307,7 @@
 
 # sent_id = TOD1005bis_786_787a
 # text = amarico che è la lingua
-# jefferson_text = amarico. che è la >lingua<~ anche il geez si scrive in un alfabeto::
+# jefferson_text = amarico. | che è la >lingua<~
 # speaker_id = TO017
 1	amarico	amarico	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Begin=2008.157|End=2008.902|Intonation=falling|KID=786-0
 2	che	che	SCONJ	_	_	3	nsubj	_	Begin=2009.592|KID=787-0
@@ -8317,7 +8317,7 @@
 
 # sent_id = TOD1005bis_787b
 # text = anche il geez si scrive in un alfabeto
-# jefferson_text = che è la >lingua<~ anche il geez si scrive in un alfabeto::
+# jefferson_text = anche il geez si scrive in un alfabeto::
 # speaker_id = TO017
 1	anche	anche	ADV	_	_	3	advmod	_	KID=787-4
 2	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=787-5
@@ -8342,8 +8342,7 @@
 
 # sent_id = TOD1005bis_790_791a
 # text = eh ovviamente ci sono sempre stati un sacco di legami commerciali fra lo yemen e il corno d' africa che è lì a due passi
-# jefferson_text = e:h ovviamente ci sono sempre stati un sacco di legami commerciali fra lo yemen e: (.) il corno d' africa che è lì a due passi. c' è uno stretto di mare piccolissimo se torniamo indietro sulla mappa,
-# speaker_id = TO017
+# jefferson_text = e:h ovviamente ci sono sempre stati un sacco di legami commerciali fra lo yemen | e: (.) il corno d' africa che è lì a due passi.
 1	eh	eh	INTJ	_	_	6	discourse	_	Begin=2014.822|KID=790-0|Prolonged=Yes
 2	ovviamente	ovviamente	ADV	_	_	6	advmod	_	KID=790-1
 3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	6	expl	_	KID=790-2
@@ -8372,7 +8371,7 @@
 
 # sent_id = TOD1005bis_791b
 # text = c' è uno stretto di mare piccolissimo se torniamo indietro su la mappa
-# jefferson_text = e:h ovviamente ci sono sempre stati un sacco di legami commerciali fra lo yemen e: (.) il corno d' africa che è lì a due passi. c' è uno stretto di mare piccolissimo se torniamo indietro sulla mappa,
+# jefferson_text = c' è uno stretto di mare piccolissimo se torniamo indietro sulla mappa,
 # speaker_id = TO017
 1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	KID=791-12|Truncated=Yes
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=791-13
@@ -8489,7 +8488,7 @@
 
 # sent_id = TOD1005bis_800_801
 # text = questo non è particolarmente rilevante per noi ma per dire che c' è un collegamento con il presente
-# jefferson_text = questo non è particolarmente rilevante per no:i ma per dire che c' è un collegamento con il presente
+# jefferson_text = questo non è particolarmente rilevante per no:i ma per dire che | c' è un collegamento con il presente
 # speaker_id = TO017
 1	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	5	nsubj	_	Begin=2046.393|KID=800-0
 2	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=800-1
@@ -8520,7 +8519,7 @@
 
 # sent_id = TOD1005bis_803_804
 # text = se torniamo un attimo alla slide
-# jefferson_text = se torniamo un attimo alla slide
+# jefferson_text = se torniamo un attimo | alla slide
 # speaker_id = TO017
 1	se	se	SCONJ	_	_	2	mark	_	Begin=2056.032|KID=803-0
 2	torniamo	tornare	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=803-1
@@ -8539,7 +8538,7 @@
 2	loro	loro	PRON	_	Poss=Yes|PronType=Prs	0	root	_	End=2060.024|KID=805-1
 
 # sent_id = TOD1005bis_806_807
-# text = questi sudarabici si facevano i loro bagni nell' incenso
+# text = questi | sudarabici si facevano i loro bagni nell' incenso
 # jefferson_text = questi: sudarabici si facevano i loro bagni nell' incenso
 # speaker_id = TO017
 1	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	Begin=2060.172|End=2060.884|KID=806-0|Prolonged=Yes
@@ -8590,7 +8589,7 @@
 
 # sent_id = TOD1005bis_811_812
 # text = che si stava intorno alle oasi anche lì dove c' era un po' d' acqua dove si poteva
-# jefferson_text = che si stava intorno alle oasi. anche lì dove c' era un po' d' acqua dove si poteva
+# jefferson_text = che si stava intorno alle oasi. anche lì dove c' era un po' | d' acqua dove si poteva
 # speaker_id = TO017
 1	che	che	SCONJ	_	PronType=Rel	3	mark	_	Begin=2071.898|KID=811-0
 2	si	si	PRON	_	Person=3|PronType=Prs	3	expl	_	KID=811-1
@@ -8677,7 +8676,7 @@
 
 # sent_id = TOD1005bis_819_820
 # text = nordarabico antico non vuol dire niente
-# jefferson_text = nordarabico antico non vuol dire <niente>
+# jefferson_text = nordarabico antico non vuol dire | <niente>
 # speaker_id = TO017
 1	nordarabico	nordarabico	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Begin=2093.214|KID=819-0
 2	antico	antico	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	KID=819-1
@@ -8688,7 +8687,7 @@
 
 # sent_id = TOD1005bis_821_822_823_824_825
 # text = è soltanto un' etichetta che noi abbiamo per una serie di lingue che venivano scritte in in nell' area enorme de~ di quella che più o meno oggi è l' arabia saudita
-# jefferson_text = è soltanto un' etichetta che noi abbiamo per una serie di lingue che venivano <scritte> in~ in~ nell' area enorme: de~ di quella che più o meno oggi è l' arabia saudita
+# jefferson_text = è soltanto un' etichetta che noi abbiamo | per una serie di lingue | che venivano <scritte> | in~ in~ nell' area enorme: | de~ di quella che più o meno oggi è l' arabia saudita
 # speaker_id = TO017
 1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Begin=2095.82|KID=821-0
 2	soltanto	soltanto	ADV	_	VerbForm=Ger	4	advmod	_	KID=821-1
@@ -8781,7 +8780,7 @@
 
 # sent_id = TOD1005bis_831_832
 # text = e per comodità gli archeologi hanno detto vabbé t~ tutto quello che sta a nord de~ de di di quelli che sono oggi sono lo yemen e l' oman lo chiamiamo nordarabico
-# jefferson_text = e per comodità gli archeologici hanno detto vabbé t~ tutto quello che sta a nord de~ de di di quelli che sono oggi sono le yemen e l' oman lo chiamiamo nordarabico.
+# jefferson_text = e per comodità gli archeologici hanno detto vabbé t~ tutto quello che sta a nord de~ de di | di quelli che sono oggi sono le yemen e l' oman lo chiamiamo nordarabico.
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	7	cc	_	Begin=2119.17|KID=831-0
 2	per	per	ADP	_	_	3	case	_	KID=831-1
@@ -8857,7 +8856,7 @@
 
 # sent_id = TOD1005bis_837_838
 # text = e quindi comunque c' erano dei centri urbani delle piccole città stato dove si parlavano queste lingue nordarabiche e sudarabiche
-# jefferson_text = e quindi comunque c' erano dei centri urbani delle piccole città stato dove si parlavano queste lingue: nordarabiche e sudarabiche
+# jefferson_text = e quindi comunque c' erano dei centri urbani delle piccole città stato dove si | parlavano queste lingue: nordarabiche e sudarabiche
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	5	cc	_	Begin=2133.643|KID=837-0
 2	quindi	quindi	CCONJ	_	_	5	cc	_	KID=837-1
@@ -8975,7 +8974,7 @@
 
 # sent_id = TOD1005bis_847_848_849
 # text = si scriveva nei centri urbani ovviamente dove c' erano le popolazioni sedentarie dove si faceva commercio dove c' era bisogno di tenere contabilità dove c' era una tradizione scritta
-# jefferson_text = si scriveva nei centri urbani. ovviamente. dove c' erano le popolazioni sedenta:rie dove si faceva comme:rcio dove c' era bisogno di tenere contabilità, dove c' era una tradizione scritta.
+# jefferson_text = si scriveva nei centri urbani. | ovviamente. dove c' erano le popolazioni sedenta:rie dove si faceva comme:rcio dove c' era bisogno di tenere | contabilità, dove c' era una tradizione scritta.
 # speaker_id = TO017
 1	si	si	PRON	_	Person=3|PronType=Prs	2	expl:impers	_	Begin=2160.716|KID=847-0
 2	scriveva	scrivere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=847-1
@@ -9021,7 +9020,7 @@
 
 # sent_id = TOD1005bis_851_852_853
 # text = scrivevano avevano preso a prestito delle varianti di quest' alfabeto sudarabico
-# jefferson_text = scrivevano avevano preso a prestito delle varianti di quest' alfabeto sudarabico,
+# jefferson_text = scrivevano avevano preso a prestito | delle varianti di quest' alfabeto sudarabico,
 # speaker_id = TO017
 1	scrivevano	scrivere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=2172.201|KID=851-0
 2	avevano	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	KID=851-1
@@ -9094,7 +9093,7 @@
 
 # sent_id = TOD1005bis_861a
 # text = cioè fondamentalmente loro anda~ stavano in giro tutto il giorno nella steppa nei deserti
-# jefferson_text = cioè fondamentalmente loro anda~ stavano in giro tutto il giorno nella steppa, nei deserti, portavano in giro,
+# jefferson_text = cioè fondamentalmente loro anda~ stavano in giro tutto il giorno nella steppa, nei deserti,
 # speaker_id = TO017
 1	cioè	cioè	CCONJ	_	_	2	cc	_	Begin=2191.329|KID=861-0
 2	fondamentalmente	fondamentalmente	ADV	_	_	5	advmod	_	KID=861-1
@@ -9117,7 +9116,7 @@
 
 # sent_id = TOD1005bis_861b_862
 # text = portavano in giro il bestiame
-# jefferson_text = cioè fondamentalmente loro anda~ stavano in giro tutto il giorno nella steppa, nei deserti, portavano in giro, il bestiame,
+# jefferson_text = portavano in giro, | il bestiame,
 # speaker_id = TO017
 1	portavano	portare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=861-14
 2	in	in	ADP	_	_	3	case	_	KID=861-15
@@ -9127,7 +9126,7 @@
 
 # sent_id = TOD1005bis_863_864
 # text = e ogni tanto siccome stavano lì seduti no magari a guardare le capre per delle ore scrivevano sui sassi
-# jefferson_text = e ogni tanto siccome stavano lì seduti no magari a guardare le capre per delle ore, scrivevano sui sassi.
+# jefferson_text = e ogni tanto siccome stavano lì seduti no magari a guardare le capre per delle ore, | scrivevano sui sassi.
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	7	cc	_	Begin=2198.477|KID=863-0
 2	ogni	ogni	DET	_	PronType=Ind	3	det	_	KID=863-1
@@ -9155,14 +9154,14 @@
 
 # sent_id = TOD1005bis_865a
 # text = cosa scrivevano
-# jefferson_text = cosa scrivevano? cose di, veramente poca importanza di solito scrivevano tizio caio,
+# jefferson_text = cosa scrivevano?
 # speaker_id = TO017
 1	cosa	cosa	PRON	_	PronType=Int	2	obj	_	Begin=2205.369|KID=865-0
 2	scrivevano	scrivere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Intonation=rising|KID=865-1
 
 # sent_id = TOD1005bis_865b_866a
 # text = cose di veramente poca importanza
-# jefferson_text = cosa scrivevano? cose di, veramente poca importanza di solito scrivevano tizio caio,
+# jefferson_text = cose di, | veramente poca importanza,
 # speaker_id = TO017
 1	cose	cosa	NOUN	_	Gender=Fem|Number=Plur	0	root	_	KID=865-2
 2	di	di	ADP	_	_	5	case	_	End=2207.064|Intonation=weakly_rising|KID=865-3
@@ -9172,7 +9171,7 @@
 
 # sent_id = TOD1005bis_866b_867_868_869
 # text = di solito scrivevano tizio caio è stato qui a pascolare le capre
-# jefferson_text = cosa scrivevano? cose di, veramente poca importanza di solito scrivevano tizio caio, è stato qui, a pascolare::::: le capre,
+# jefferson_text = di solito scrivevano tizio caio, | è stato qui, | a pascolare::::: | le capre,
 # speaker_id = TO017
 1	di	di	ADP	_	_	2	case	_	KID=866-3
 2	solito	solito	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	KID=866-4
@@ -9214,7 +9213,7 @@
 
 # sent_id = TOD1005bis_872_873
 # text = cioè più o meno erano queste le il di tenore delle iscrizioni
-# jefferson_text = (cioè) più o meno erano queste le:: il~ di tenore delle iscrizioni.
+# jefferson_text = (cioè) più o meno erano queste le:: il~ di | tenore delle iscrizioni.
 # speaker_id = TO017
 1	cioè	cioè	CCONJ	_	_	5	cc	_	Begin=2220.453|KID=872-0
 2	più	più	ADV	_	_	5	advmod	_	KID=872-1
@@ -9277,7 +9276,7 @@
 
 # sent_id = TOD1005bis_877_878
 # text = okay nel senso loro avevano imparato a scrivere dalle comunità sedentarie che stavano intorno
-# jefferson_text = okay nel senso loro avevano imparato a scrivere dalle (.) comunità sedentarie che stavano intorno,
+# jefferson_text = okay nel senso loro avevano | imparato a scrivere dalle (.) comunità sedentarie che stavano intorno,
 # speaker_id = TO017
 1	okay	okay	INTJ	_	_	7	discourse	_	Begin=2234.62|KID=877-0
 2-3	nel	_	_	_	_	_	_	_	KID=877-1
@@ -9300,7 +9299,7 @@
 
 # sent_id = TOD1005bis_879a
 # text = non gli serviva per nessun fine pratico magari lo facevano a fine scaramantico
-# jefferson_text = non gli serviva per nessun fine pratico magari lo facevano a fine <scaramantico> okay appunto c' era questa,
+# jefferson_text = non gli serviva per nessun fine pratico magari lo facevano a fine <scaramantico>
 # speaker_id = TO017
 1	non	non	ADV	_	PronType=Neg	3	advmod	_	Begin=2239.582|KID=879-0
 2	gli	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	KID=879-1
@@ -9318,7 +9317,7 @@
 
 # sent_id = TOD1005bis_879b_880
 # text = okay appunto c' era questa invocazione di un qualche dio
-# jefferson_text = non gli serviva per nessun fine pratico magari lo facevano a fine <scaramantico> okay appunto c' era questa, inovazione, di un qualche dio,
+# jefferson_text = okay appunto c' era questa, | invocazione, di un qualche dio,
 # speaker_id = TO017
 1	okay	okay	INTJ	_	_	4	discourse	_	KID=879-13
 2	appunto	appunto	ADV	_	_	1	advmod	_	KID=879-14
@@ -9355,7 +9354,7 @@
 
 # sent_id = TOD1005bis_882_883
 # text = aveva una funzione se ce l' aveva aveva una funzione magico religiosa e passatempo
-# jefferson_text = aveva una funzione se ce l' aveva aveva una funzione magico religiosa e, passatempo.
+# jefferson_text = aveva una funzione se ce l' aveva aveva una funzione magico religiosa e, | passatempo.
 # speaker_id = TO017
 1	aveva	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	Begin=2252.569|KID=882-0
 2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=882-1
@@ -9380,7 +9379,7 @@
 
 # sent_id = TOD1005bis_885_886a
 # text = ci sono anche altre iscrizioni in altri posti che hanno anche altri temi un po' più licenziosi come tipo
-# jefferson_text = ci sono anche <altre> iscrizioni in altri posti che hanno anche altri, temi un po' più licenziosi come tipo è stato qui e ha fatto delle cose con qualcun' altro.
+# jefferson_text = ci sono anche <altre> iscrizioni in altri posti che hanno anche altri, | temi un po' più licenziosi come tipo
 # speaker_id = TO017
 1	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	Begin=2259.118|KID=885-0
 2	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=885-1
@@ -9404,7 +9403,7 @@
 
 # sent_id = TOD1005bis_886b
 # text = è stato qui e ha fatto di le cose con qualcun' altro
-# jefferson_text = ci sono anche <altre> iscrizioni in altri posti che hanno anche altri, temi un po' più licenziosi come tipo è stato qui e ha fatto delle cose con qualcun' altro.
+# jefferson_text = ci sono anche <altre> iscrizioni in altri posti che hanno anche altri, temi un po' più licenziosi come tipo
 # speaker_id = TO017
 1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	KID=886-7
 2	stato	essere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=886-8
@@ -9439,7 +9438,7 @@
 
 # sent_id = TOD1005bis_889_890_891_892_893_894
 # text = comunque appunto non sembra che avesse eh una particolare rilevanza pratica per loro lo scrivere
-# jefferson_text = comunque appunto non sembra che (.) avesse e::::h una particolare rilevanza:: pratica. per loro. lo scrivere
+# jefferson_text = comunque appunto non sembra che (.) avesse | e::::h | una particolare rilevanza:: | pratica. per loro. | lo scrivere
 # speaker_id = TO017
 1	comunque	comunque	CCONJ	_	_	4	cc	_	Begin=2271.546|KID=889-0
 2	appunto	appunto	ADV	_	_	1	advmod	_	KID=889-1
@@ -9465,7 +9464,7 @@
 
 # sent_id = TOD1005bis_896_897_898_899
 # text = la buona notizia per noi è che tutta la penisola araba fino al nord della siria è disseminata
-# jefferson_text = la buona notizia per noi è che. <tutta> la penisola araba fino al nord della siria, è <disseminata>,
+# jefferson_text = la buona notizia per noi è che. | <tutta> la penisola araba | fino al nord della siria, | è <disseminata>,
 # speaker_id = TO017
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Begin=2282.915|KID=896-0
 2	buona	buono	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	KID=896-1
@@ -9573,7 +9572,7 @@
 
 # sent_id = TOD1005bis_905a
 # text = eh questa è una di le ragioni per cui la storia che vi sto raccontando io cambia contemporaneamente
-# jefferson_text = eh questa è una delle ragioni per cui la storia che vi sto raccontando io cambia contemporaneamente. questa è soltanto una delle versioni della storia che si può raccontare. molti non sarebbero d' accordo,
+# jefferson_text = eh questa è una delle ragioni per cui la storia che vi sto raccontando io cambia contemporaneamente.
 # speaker_id = TO017
 1	eh	eh	INTJ	_	_	4	discourse	_	Begin=2305.499|KID=905-0
 2	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	KID=905-1
@@ -9597,7 +9596,7 @@
 
 # sent_id = TOD1005bis_905b
 # text = questa è soltanto una di le versioni di la storia che si può raccontare molti non sarebbero d' accordo
-# jefferson_text = eh questa è una delle ragioni per cui la storia che vi sto raccontando io cambia contemporaneamente. questa è soltanto una delle versioni della storia che si può raccontare. molti non sarebbero d' accordo,
+# jefferson_text = questa è soltanto una delle versioni della storia che si può raccontare. molti non sarebbero d' accordo,
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	2	dislocated	_	KID=905-17
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=905-18
@@ -9697,7 +9696,7 @@
 
 # sent_id = TOD1005bis_911a
 # text = e comunque ogni due per tre qualcuno trova un sasso
-# jefferson_text = e comunque ogni due per tre qualcuno trova un sasso e dice guardate ho trovato questa cosa e questo rivoluziona completamente la storia di tutte le lingue semitiche così come noi la conosciamo.
+# jefferson_text = e comunque ogni due per tre qualcuno trova un sasso
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	8	cc	_	Begin=2331.198|KID=911-0
 2	comunque	comunque	CCONJ	_	_	4	cc	_	KID=911-1
@@ -9712,7 +9711,7 @@
 
 # sent_id = TOD1005bis_911b
 # text = e dice guardate ho trovato questa cosa
-# jefferson_text = e comunque ogni due per tre qualcuno trova un sasso e dice guardate ho trovato questa cosa e questo rivoluziona completamente la storia di tutte le lingue semitiche così come noi la conosciamo.
+# jefferson_text = dice guardate ho trovato questa cosa
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	2	cc	_	KID=911-10
 2	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=911-11
@@ -9724,7 +9723,7 @@
 
 # sent_id = TOD1005bis_911c
 # text = e questo rivoluziona completamente la storia di tutte le lingue semitiche così come noi la conosciamo
-# jefferson_text = e comunque ogni due per tre qualcuno trova un sasso e dice guardate ho trovato questa cosa e questo rivoluziona completamente la storia di tutte le lingue semitiche così come noi la conosciamo.
+# jefferson_text = e questo rivoluziona completamente la storia di tutte le lingue semitiche così come noi la conosciamo.
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	3	cc	_	KID=911-17
 2	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	KID=911-18
@@ -9794,7 +9793,7 @@
 3	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	End=2347.705|KID=915-2
 
 # sent_id = TOD1005bis_916_917_918
-# text = e quindi noi abbiamo un sacco di iscrizioni da decifrare
+# text = e quindi noi abbiamo un sacco | di |  iscrizioni da decifrare
 # jefferson_text = e quindi noi abbiamo un <s:acco>, di, iscrizioni da (decifrare)
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	4	cc	_	Begin=2348.419|KID=916-0
@@ -9898,7 +9897,7 @@
 
 # sent_id = TOD1005bis_926_927_928
 # text = nell' area che sta tra la giordania e la siria
-# jefferson_text = <nell' area> che sta tra la giordania, e la siria
+# jefferson_text = <nell' area> che sta | tra la giordania, | e la siria
 # speaker_id = TO017
 1-2	nell'	_	_	_	_	_	_	_	Begin=2380.27|KID=926-0|PaceSlow=Yes|Truncated=Yes
 1	in	in	ADP	_	_	3	case	_	KID=926-0a
@@ -9951,7 +9950,7 @@
 
 # sent_id = TOD1005bis_934_935
 # text = forse ovest dell'iraq
-# jefferson_text = <forse>, ovest dell'<iraq>,
+# jefferson_text = <forse>, | ovest dell'<iraq>,
 # speaker_id = TO017
 1	forse	forse	ADV	_	_	2	advmod	_	Begin=2390.958|End=2391.671|Intonation=weakly_rising|KID=934-0|PaceSlow=Yes
 2	ovest	ovest	NOUN	_	_	0	root	_	Begin=2391.84|KID=935-0
@@ -9978,7 +9977,7 @@
 
 # sent_id = TOD1005bis_937_938_939
 # text = si trovano un sacco di iscrizioni in due lingue
-# jefferson_text = si trovano un s:acco di, iscrizioni, in due lingue,
+# jefferson_text = si trovano un s:acco di, | iscrizioni, | in due lingue,
 # speaker_id = TO017
 1	si	si	PRON	_	Person=3|PronType=Prs	2	expl	_	Begin=2397.899|KID=937-0
 2	trovano	trovare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=937-1
@@ -10000,7 +9999,7 @@
 
 # sent_id = TOD1005bis_941_942
 # text = questi nomi non hanno nessun significato okay gli danno un nome soltanto perché le trovano
-# jefferson_text = questi nomi non hanno nessun significato okay, gli danno un nome soltanto perché, le trovano,
+# jefferson_text = questi nomi non hanno nessun significato okay, gli danno un nome soltanto perché, | le trovano,
 # speaker_id = TO017
 1	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	Begin=2404.899|KID=941-0
 2	nomi	nome	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	KID=941-1
@@ -10043,7 +10042,7 @@
 
 # sent_id = TOD1005bis_944_945
 # text = però c' è una lingua che hanno chiamato safa~ safaitico
-# jefferson_text = però c' è una lingua che hanno chiamato safa~ <safaritico>,
+# jefferson_text = però | c' è una lingua che hanno chiamato safa~ <safaritico>,
 # speaker_id = TO017
 1	però	però	CCONJ	_	_	3	cc	_	Begin=2415.62|End=2416.003|KID=944-0
 2	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	Begin=2417.555|KID=945-0|Truncated=Yes
@@ -10082,7 +10081,7 @@
 
 # sent_id = TOD1005bis_948_949
 # text = e un' altra che si chiama ismaico
-# jefferson_text = e un' altra che si chiama, ismaico,
+# jefferson_text = e un' altra che si chiama, | ismaico,
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	3	cc	_	Begin=2425.155|KID=948-0
 2	un'	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=948-1|Truncated=Yes
@@ -10094,7 +10093,7 @@
 
 # sent_id = TOD1005bis_950_951_952
 # text = e alcuni studiosi hanno detto queste lingue qua se voi le analizzate andate a studiare la struttura andate a studiare le caratteristiche di queste lingue
-# jefferson_text = e alcuni studiosi (.) hanno detto queste lingue qua se voi le analizzate, andate a studiare la struttura, andate a studiare:, le caratteristiche, di queste lingue,
+# jefferson_text = e alcuni studiosi (.) hanno detto queste lingue qua se voi le analizzate, andate a studiare la struttura, andate a studiare:, | le caratteristiche, | di queste lingue,
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	5	cc	_	Begin=2430.378|KID=950-0
 2	alcuni	alcuno	DET	_	PronType=Ind	3	det	_	KID=950-1
@@ -10252,7 +10251,7 @@
 
 # sent_id = TOD1005bis_963_964_965
 # text = in alcuni di queste iscrizioni ma molto poche ci sono dei riferimenti ai fatti politici dell' epoca
-# jefferson_text = <in> alcuni, <di queste iscrizioni ma molto poche>, ci sono dei riferimenti ai fatti politici dell' epoca
+# jefferson_text = <in> alcuni, | <di queste iscrizioni ma molto poche>, | ci sono dei riferimenti ai fatti politici dell' epoca
 # speaker_id = TO017
 1	in	in	ADP	_	_	2	case	_	Begin=2467.803|KID=963-0|PaceSlow=Yes
 2	alcuni	alcuno	PRON	_	PronType=Ind	10	obl	_	End=2468.881|Intonation=weakly_rising|KID=963-1
@@ -10280,7 +10279,7 @@
 
 # sent_id = TOD1005bis_966_967_968
 # text = magari del regno bizantino o dei romani okay
-# jefferson_text = magari, del regno bizantino:, o dei romani, okay,
+# jefferson_text = magari, | del regno bizantino:, | o dei romani, okay,
 # speaker_id = TO017
 1	magari	magari	ADV	_	_	4	advmod	_	Begin=2475.42|End=2476.144|Intonation=weakly_rising|KID=966-0
 2-3	del	_	_	_	_	_	_	_	Begin=2476.42|KID=967-0
@@ -10330,7 +10329,7 @@
 
 # sent_id = TOD1005bis_971_972
 # text = allora primo secolo avanti cristo
-# jefferson_text = (allora) primo secolo, avanti cristo,
+# jefferson_text = (allora) primo secolo, | avanti cristo,
 # speaker_id = TO017
 1	allora	allora	ADV	_	_	2	advmod	_	Begin=2488.937|KID=971-0
 2	primo	primo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	KID=971-1
@@ -10340,7 +10339,7 @@
 
 # sent_id = TOD1005bis_973_974
 # text = e le più recenti al primo secolo dopo cristo
-# jefferson_text = e (.) le più recenti al primo secolo, dopo cristo.
+# jefferson_text = e (.) le più recenti al primo secolo, | dopo cristo.
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	4	cc	_	Begin=2493.026|KID=973-0|PauseAfter=Yes
 2	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	KID=973-2
@@ -10387,7 +10386,7 @@
 
 # sent_id = TOD1005bis_977_978_979_980
 # text = quindi la datazione è eh è incerta
-# jefferson_text = quindi la datazione, è, e::::::h è incerta.
+# jefferson_text = quindi la datazione, | è, | e::::::h | è incerta.
 # speaker_id = TO017
 1	quindi	quindi	CCONJ	_	_	3	cc	_	Begin=2504.776|KID=977-0
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=977-1
@@ -10600,14 +10599,14 @@
 
 # sent_id = TOD1005bis_998_999a
 # text = che sembra
-# jefferson_text = che, s::embra <allora> questo è sicuramente in una di queste varietà di cui abbiamo detto,
+# jefferson_text = che, | s::embra
 # speaker_id = TO017
 1	che	che	SCONJ	_	PronType=Rel	2	nsubj	_	Begin=2558.108|End=2558.514|Intonation=weakly_rising|KID=998-0
 2	sembra	sembrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=2558.725|KID=999-0|Prolonged=Yes
 
 # sent_id = TOD1005bis_999b
 # text = allora questo è sicuramente in una di queste varietà di cui abbiamo detto
-# jefferson_text = che, s::embra <allora> questo è sicuramente in una di queste varietà di cui abbiamo detto,
+# jefferson_text = <allora> questo è sicuramente in una di queste varietà di cui abbiamo detto,
 # speaker_id = TO017
 1	allora	allora	ADV	_	_	3	advmod	_	KID=999-1|PaceSlow=Yes
 2	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	KID=999-2
@@ -10625,7 +10624,7 @@
 
 # sent_id = TOD1005bis_1000_1001_1002_1003
 # text = sembra che potrebbe essere datata addirittura tra il seicento e l' ottocento avanti cristo
-# jefferson_text = <sembra> che potrebbe essere datata <addiritt:ura>, °tra° °il seicento e l' ottocento,° avanti cristo.
+# jefferson_text = <sembra> che potrebbe essere datata <addiritt:ura>, | °tra° | °il seicento e l' ottocento,° | avanti cristo.
 # speaker_id = TO017
 1	sembra	sembrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=2564.15|KID=1000-0|PaceSlow=Yes
 2	che	che	SCONJ	_	_	5	mark	_	KID=1000-1
@@ -10681,7 +10680,7 @@
 
 # sent_id = TOD1005bis_1007_1008_1009
 # text = che esistevano all' epoca e quindi più o meno dovrebbe essere eh contemporanea
-# jefferson_text = che esistevano all' epoca e quindi più o meno dovrebbe essere, e:h °contemporanea°
+# jefferson_text = che esistevano all' epoca e quindi più o meno dovrebbe essere, | e:h | °contemporanea°
 # speaker_id = TO017
 1	che	che	SCONJ	_	PronType=Rel	2	nsubj	_	Begin=2582.531|KID=1007-0
 2	esistevano	esistere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1007-1
@@ -10715,7 +10714,7 @@
 
 # sent_id = TOD1005bis_1011a
 # text = credo nel duemilaquindici addirittura questa potrebbe essere
-# jefferson_text = (credo) nel duemilaquindici addirittura questa potrebbe ess~ questa iscrizione che è stata trovata a xxx potrebbe essere il primo esempio,
+# jefferson_text = (credo) nel duemilaquindici addirittura questa potrebbe ess~ 
 # speaker_id = TO017
 1	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=2592.661|KID=1011-0
 2-3	nel	_	_	_	_	_	_	_	KID=1011-1
@@ -10729,7 +10728,7 @@
 
 # sent_id = TOD1005bis_1011b_1012_1013_1014_1015
 # text = questa iscrizione che è stata trovata a x potrebbe essere il primo esempio in questa lingua safaidica che alcuni dicono non tutti ma alcuni dicono che sia il primo esempio di arabo che noi abbiamo nella storia
-# jefferson_text = (credo) nel duemilaquindici addirittura questa potrebbe ess~ questa iscrizione che è stata trovata a xxx potrebbe essere il primo esempio, in questa ingua safaidica che alcuni dicono non tutti ma alcuni dicono, che sia il primo esempio di arabo. che noi abbiamo. nella storia.
+# jefferson_text = questa iscrizione che è stata trovata a xxx potrebbe essere il primo esempio, in questa ingua safaidica che alcuni dicono non tutti ma alcuni dicono, che sia il primo esempio di arabo. che noi abbiamo. nella storia.
 # speaker_id = TO017
 1	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	KID=1011-7
 2	iscrizione	iscrizione	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	KID=1011-8
@@ -10852,7 +10851,7 @@
 
 # sent_id = TOD1005bis_1023_1024_1025
 # text = nel quinto secolo avanti cristo scrive che c' erano degli arabi lui dice degli arabi
-# jefferson_text = nel quinto secolo avanti cristo scrive, che c' erano <degli> arabi lui dice degli arabi,
+# jefferson_text = nel quinto secolo avanti cristo scrive, | che | c' erano <degli> arabi lui dice degli arabi,
 # speaker_id = TO017
 1-2	nel	_	_	_	_	_	_	_	Begin=2641.049|KID=1023-0
 1	in	in	ADP	_	_	4	case	_	KID=1023-0a
@@ -10934,7 +10933,7 @@
 
 # sent_id = TOD1005bis_1031a
 # text = che si chiamava
-# jefferson_text = che si chiamava, qualcuno legge il greco,
+# jefferson_text = che si chiamava,
 # speaker_id = TO017
 1	che	che	PRON	_	PronType=Rel	3	nsubj	_	Begin=2661.472|KID=1031-0
 2	si	si	PRON	_	Person=3|PronType=Prs	3	expl	_	KID=1031-1
@@ -10942,7 +10941,7 @@
 
 # sent_id = TOD1005bis_1031b
 # text = qualcuno legge il greco
-# jefferson_text = che si chiamava, qualcuno legge il greco,
+# jefferson_text = qualcuno legge il greco,
 # speaker_id = TO017
 1	qualcuno	qualcuno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	2	nsubj	_	KID=1031-3
 2	legge	leggere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=1031-4
@@ -10985,7 +10984,7 @@
 
 # sent_id = TOD1005bis_1036_1037_1038
 # text = sembrerebbe essere questo
-# jefferson_text = sembrerebbe, essere, questo,
+# jefferson_text = sembrerebbe, | essere, | questo,
 # speaker_id = TO017
 1	sembrerebbe	sembrare	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=2677.031|End=2678.331|Intonation=weakly_rising|KID=1036-0
 2	essere	essere	VERB	_	VerbForm=Inf	1	ccomp	_	Begin=2678.584|End=2679.354|Intonation=weakly_rising|KID=1037-0
@@ -11016,7 +11015,7 @@
 
 # sent_id = TOD1005bis_1042_1043
 # text = questa se è quello che pensiamo noi è la prima è la prima volta che troviamo l' articolo determinativo dell' arabo
-# jefferson_text = questa (.) se è quello che pensiamo noi è la pri~ è la prima volta che troviamo, l' articolo determinativo dell' arabo,
+# jefferson_text = questa (.) se è quello che pensiamo noi è la pri~ è la prima volta che troviamo, | l' articolo determinativo dell' arabo,
 # speaker_id = TO017
 1	questa	questo	PRON	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	nsubj	_	Begin=2690.151|KID=1042-0|PauseAfter=Yes
 2	se	se	SCONJ	_	_	3	mark	_	KID=1042-2
@@ -11093,7 +11092,7 @@
 
 # sent_id = TOD1005bis_1049a
 # text = non avevano l' articolo x
-# jefferson_text = non avevano l' articolo xxx questa sarebbe la prima attestazione dell' articolo arabo,
+# jefferson_text = non avevano l' articolo xxx
 # speaker_id = TO017
 1	non	non	ADV	_	PronType=Neg	2	advmod	_	Begin=2707.474|KID=1049-0
 2	avevano	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	advcl	_	KID=1049-1
@@ -11103,7 +11102,7 @@
 
 # sent_id = TOD1005bis_1049b
 # text = questa sarebbe la prima attestazione di l' articolo arabo
-# jefferson_text = non avevano l' articolo xxx questa sarebbe la prima attestazione dell' articolo arabo,
+# jefferson_text = questa sarebbe la prima attestazione dell' articolo arabo,
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	5	nsubj	_	KID=1049-5
 2	sarebbe	essere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=1049-6
@@ -11118,7 +11117,7 @@
 
 # sent_id = TOD1005bis_1050a
 # text = se questa interpretazione è corretta
-# jefferson_text = >se questa interpretazione è corretta< e questo che cos' è?
+# jefferson_text = >se questa interpretazione è corretta<
 # speaker_id = TO017
 1	se	se	SCONJ	_	_	5	mark	_	Begin=2711.99|KID=1050-0|PaceFast=Yes
 2	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	KID=1050-1|PaceFast=Yes
@@ -11128,7 +11127,7 @@
 
 # sent_id = TOD1005bis_1050b
 # text = e questo che cos' è
-# jefferson_text = >se questa interpretazione è corretta< e questo che cos' è?
+# jefferson_text = e questo che cos' è?
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	2	cc	_	KID=1050-5
 2	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	KID=1050-6
@@ -11233,7 +11232,7 @@
 
 # sent_id = TOD1005bis_1062_1063
 # text = e c' è la radice araba e semitica per dire dio divinità
-# jefferson_text = e c' è la radice, araba e semitica per dire dio divinità.
+# jefferson_text = e c' è la radice, | araba e semitica per dire dio divinità.
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	3	cc	_	Begin=2736.157|KID=1062-0
 2	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	KID=1062-1|Truncated=Yes
@@ -11256,7 +11255,7 @@
 
 # sent_id = TOD1005bis_1065_1066_1067_1068_1069
 # text = e a qua~ ah scusate ho dimenticato la x che però comunque non si segnava in alfabeto greco
-# jefferson_text = e a qua~ ah scusate ho dimenticato la, xxx che però comunque non si segnava, in, alfabeto greco,
+# jefferson_text = e a qua~ ah scusate ho dimenticato la, xxx che però comunque | non si segnava, | in, | alfabeto greco,
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	7	cc	_	Begin=2745.029|KID=1065-0
 2	a	a	DET	_	_	3	case	_	KID=1065-1
@@ -11279,8 +11278,7 @@
 
 # sent_id = TOD1005bis_1070a
 # text = quindi questa potrebbe essere
-# jefferson_text = quindi questa potrebbe ess~ quindi erodoto sembra confermare quest' idea che nella zona all' epoca eh ci fossero,
-# speaker_id = TO017
+# jefferson_text = quindi questa potrebbe ess~ 
 1	quindi	quindi	CCONJ	_	_	4	cc	_	Begin=2753.257|KID=1070-0
 2	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	KID=1070-1
 3	potrebbe	potere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=1070-2
@@ -11288,7 +11286,7 @@
 
 # sent_id = TOD1005bis_1070b_1071_1072
 # text = quindi erodoto sembra confermare quest' idea che nella zona all' epoca eh ci fossero eh mh arabi che poi parlavano arabo anche perché lo troviamo come abbiamo visto negli scritti assiri
-# jefferson_text = quindi questa potrebbe ess~ quindi erodoto sembra confermare quest' idea che nella zona all' epoca eh ci fossero, =e::::h mh arabi (.) che poi >parlavano< arabo anche perché lo troviamo come abbiao visto negli scritti ass:iri,
+# jefferson_text = quindi erodoto sembra confermare quest' idea che nella zona all' epoca eh ci fossero, | =e::::h mh | arabi (.) che poi >parlavano< arabo anche perché lo troviamo come abbiao visto negli scritti ass:iri,
 # speaker_id = TO017
 1	quindi	quindi	CCONJ	_	_	2	cc	_	KID=1070-4
 2	erodoto	Erodoto	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	KID=1070-5
@@ -11330,7 +11328,7 @@
 
 # sent_id = TOD1005bis_1073_1074
 # text = negli scritti greci e più tardi romani
-# jefferson_text = negli scritti, greci e più tardi romani
+# jefferson_text = negli scritti, | greci e più tardi romani
 # speaker_id = TO017
 1-2	negli	_	_	_	_	_	_	_	Begin=2771.044|KID=1073-0
 1	in	in	ADP	_	_	3	case	_	KID=1073-0a
@@ -11351,7 +11349,7 @@
 
 # sent_id = TOD1005bis_1076_1077
 # text = questa mappa è la mappa delle aree fertili dell' antichità
-# jefferson_text = questa mappa è la mappa delle aree fertili dell' antichità.
+# jefferson_text = questa mappa | è la mappa delle aree fertili dell' antichità.
 # speaker_id = TO017
 1	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	Begin=2777.021|KID=1076-0
 2	mappa	mappa	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	End=2778.004|KID=1076-1
@@ -11370,7 +11368,7 @@
 
 # sent_id = TOD1005bis_1078a
 # text = l' avete studiato alle elementari fino alla nausea credo
-# jefferson_text = l' avete studiato alle elementari fino alla nausea credo la mezzaluna fertile (.) okay,
+# jefferson_text = l' avete studiato alle elementari fino alla nausea credo
 # speaker_id = TO017
 1	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Begin=2781.025|KID=1078-0|Truncated=Yes
 2	avete	avere	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	KID=1078-1
@@ -11388,7 +11386,7 @@
 
 # sent_id = TOD1005bis_1078b
 # text = la mezzaluna fertile okay
-# jefferson_text = l' avete studiato alle elementari fino alla nausea credo la mezzaluna fertile (.) okay,
+# jefferson_text = la mezzaluna fertile (.) okay,
 # speaker_id = TO017
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	KID=1078-9
 2	mezzaluna	mezzaluna	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=1078-10
@@ -11446,7 +11444,7 @@
 
 # sent_id = TOD1005bis_1084_1085
 # text = dove non è verde era arido
-# jefferson_text = dove non è verde, era arido.
+# jefferson_text = dove non è verde, | era arido.
 # speaker_id = TO017
 1	dove	dove	ADV	_	_	4	advmod	_	Begin=2798.693|KID=1084-0
 2	non	non	ADV	_	PronType=Neg	4	advmod	_	KID=1084-1
@@ -11457,7 +11455,7 @@
 
 # sent_id = TOD1005bis_1086_1087
 # text = c' era poco se non nulla
-# jefferson_text = c' era, poco se non nulla,
+# jefferson_text = c' era, | poco se non nulla,
 # speaker_id = TO017
 1	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	2	expl	_	Begin=2801.477|KID=1086-0|Truncated=Yes
 2	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	End=2801.936|Intonation=weakly_rising|KID=1086-1
@@ -11468,7 +11466,7 @@
 
 # sent_id = TOD1005bis_1088a
 # text = e c' erano delle popolazioni di nomadi che si spostavano
-# jefferson_text = e c' erano delle popolazioni di nomadi che si spostavano e come abbiamo visto scrivevano sui sassi.
+# jefferson_text = e c' erano delle popolazioni di nomadi che si spostavano
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	3	cc	_	Begin=2803.911|KID=1088-0
 2	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	KID=1088-1|Truncated=Yes
@@ -11485,7 +11483,7 @@
 
 # sent_id = TOD1005bis_1088b
 # text = e come abbiamo visto scrivevano su i sassi
-# jefferson_text = e c' erano delle popolazioni di nomadi che si spostavano e come abbiamo visto scrivevano sui sassi.
+# jefferson_text = e come abbiamo visto scrivevano sui sassi.
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	4	cc	_	KID=1088-10
 2	come	come	ADV	_	_	4	mark	_	KID=1088-11
@@ -11499,7 +11497,7 @@
 
 # sent_id = TOD1005bis_1089_1090
 # text = allora dove abbiamo visto che le troviamo nel sud della siria
-# jefferson_text = >allora dove< abbiamo visto (.) che. le troviamo nel sud della siria
+# jefferson_text = >allora dove< abbiamo visto (.) che. | le troviamo nel sud della siria
 # speaker_id = TO017
 1	allora	allora	CCONJ	_	_	2	cc	_	Begin=2808.775|KID=1089-0|PaceFast=Yes
 2	dove	dove	ADV	_	_	4	advmod	_	KID=1089-1|PaceFast=Yes
@@ -11561,7 +11559,7 @@
 
 # sent_id = TOD1005bis_1096_1097
 # text = sul confine delle zone civi~ delle zone sedentarie delle zone urbanizzate dell' antichità
-# jefferson_text = sul confine delle zone civi~ delle zone, s:edentarie delle zone:, urbanizzate dell' antichità,
+# jefferson_text = sul confine delle zone civi~ delle zone, | s:edentarie delle zone:, urbanizzate dell' antichità,
 # speaker_id = TO017
 1-2	sul	_	_	_	_	_	_	_	Begin=2819.67|KID=1096-0
 1	su	su	ADP	_	_	3	case	_	KID=1096-0a
@@ -11626,7 +11624,7 @@
 
 # sent_id = TOD1005bis_1100_1101
 # text = e attenzione se loro non avessero chiamato loro stessi arabi non avremmo questa uniformità
-# jefferson_text = e attenzione se loro non avessero chiamato loro stessi arabi, non avremmo questa uniformità
+# jefferson_text = e attenzione se loro non avessero chiamato loro stessi arabi, | non avremmo questa uniformità
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	2	cc	_	Begin=2835.987|KID=1100-0
 2	attenzione	attenzione	NOUN	_	Gender=Fem|Number=Sing	7	conj	_	KID=1100-1
@@ -11673,7 +11671,7 @@
 
 # sent_id = TOD1005bis_1105a
 # text = gli assiri un' altra
-# jefferson_text = gli assiri un' altra invece se tutti li chiamano arabi,
+# jefferson_text = gli assiri un' altra
 # speaker_id = TO017
 1	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	Begin=2845.77|KID=1105-0
 2	assiri	assiro	NOUN	_	Gender=Masc|Number=Plur	0	root	_	KID=1105-1
@@ -11682,7 +11680,7 @@
 
 # sent_id = TOD1005bis_1105b_1106_1107
 # text = invece se tutti li chiamano arabi è probabile che questi si definissero arabi loro stessi
-# jefferson_text = gli assiri un' altra invece se tutti li chiamano arabi, è probabile che questi si definissero arabi, loro stessi
+# jefferson_text = invece se tutti li chiamano arabi, | è probabile che questi si definissero arabi, | loro stessi
 # speaker_id = TO017
 1	invece	invece	ADV	_	_	5	advmod	_	KID=1105-4
 2	se	se	SCONJ	_	_	5	mark	_	KID=1105-5
@@ -11707,7 +11705,7 @@
 1	mh	mh	INTJ	_	_	0	root	_	Begin=2852.787|End=2853.128|Intonation=weakly_rising|KID=1108-0|Prolonged=Yes
 
 # sent_id = TOD1005bis_1109_1110_1111
-# text = e che dal pochissimo materiale che abbiamo sembra che parlassero una lingua che era araba
+# text = e che dal pochissimo materiale | che abbiamo sembra che parlassero una lingua | che era araba
 # jefferson_text = e che dal pochissimo materiale che abbiamo semra che parlassero una lingua, che era araba
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	6	cc	_	Begin=2853.782|KID=1109-0
@@ -11757,7 +11755,7 @@
 
 # sent_id = TOD1005bis_1114a
 # text = insomma tutto questo per dire
-# jefferson_text = insomma tutto questo per dire tutt(a) questa storia mega noiosa per dire che a quanto pare,
+# jefferson_text = insomma tutto questo per dire
 # speaker_id = TO017
 1	insomma	insomma	ADV	_	_	3	advmod	_	Begin=2866.246|KID=1114-0
 2	tutto	tutto	DET	_	PronType=Ind	3	det	_	KID=1114-1
@@ -11767,7 +11765,7 @@
 
 # sent_id = TOD1005bis_1114b_1115_1116
 # text = tutta questa storia mega noiosa per dire che a quanto pare se noi ci basiamo su quello che troviamo sui sassi
-# jefferson_text = insomma tutto questo per dire tutt(a) questa storia mega noiosa per dire che a quanto pare, se noi ci basiamo su quello che (.) troviamo sui sass:i, sembra che questo sia il luogo di nascita della lingua araba
+# jefferson_text = tutt(a) questa storia mega noiosa per dire che a quanto pare, | se noi ci basiamo su | quello che (.) troviamo sui sass:i, sembra che questo sia il luogo di nascita della lingua araba
 # speaker_id = TO017
 1	tutta	tutto	DET	_	PronType=Ind	3	det:predet	_	KID=1114-5
 2	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	KID=1114-6
@@ -11795,7 +11793,7 @@
 
 # sent_id = TOD1005bis_1118_1119_1120
 # text = sembra che questo sia il luogo di nascita della lingua araba
-# jefferson_text = insomma tutto questo per dire tutt(a) questa storia mega noiosa per dire che a quanto pare, se noi ci basiamo su quello che (.) troviamo sui sass:i, sembra che questo sia il luogo di nascita della lingua araba
+# jefferson_text = sembra che questo | sia | il luogo di nascita della lingua araba
 # speaker_id = TO017
 1	sembra	sembrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=2876.928|KID=1118-0
 2	che	che	SCONJ	_	_	3	mark	_	KID=1118-1
@@ -11819,7 +11817,7 @@
 
 # sent_id = TOD1005bis_1121_1122
 # text = non la penisola del sud non il cuore della penisola
-# jefferson_text = <non> la penisola del sud non il cuore della penisola,
+# jefferson_text = <non> | la penisola del sud non il cuore della penisola,
 # speaker_id = TO017
 1	non	non	ADV	_	PronType=Neg	3	advmod	_	Begin=2882.628|End=2883.458|KID=1121-0|PaceSlow=Yes
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Begin=2884.07|KID=1122-0
@@ -11838,7 +11836,7 @@
 
 # sent_id = TOD1005bis_1123_1124_1125_1126
 # text = ma le zone di confine delle aree fertili della antichità
-# jefferson_text = ma le zone di confine, delle aree fertili, della, antichità.
+# jefferson_text = ma le zone di confine, | delle aree fertili, | della, | antichità.
 # speaker_id = TO017
 1	ma	ma	CCONJ	_	_	3	cc	_	Begin=2887.417|KID=1123-0
 2	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	KID=1123-1
@@ -11863,7 +11861,7 @@
 
 # sent_id = TOD1005bis_1128_1129_1130
 # text = quelle che oggi sono siria giordania sinai egiziano e nord della penisola araba
-# jefferson_text = quelle che oggi sono siria, giordania, <sinai> egiziano, e nord, della penisola araba.
+# jefferson_text = quelle che oggi sono siria, giordania, | <sinai> egiziano, e nord, | della penisola araba.
 # speaker_id = TO017
 1	quelle	quello	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	0	root	_	Begin=2896.534|KID=1128-0
 2	che	che	SCONJ	_	PronType=Rel	4	nsubj	_	KID=1128-1
@@ -11911,7 +11909,7 @@
 
 # sent_id = TOD1005bis_1133a
 # text = questo fino a il nuovo ordine
-# jefferson_text = questo fino al nuovo ordine. abbiamo finito il tempo?
+# jefferson_text = questo fino al nuovo ordine.
 # speaker_id = TO017
 1	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	nsubj	_	Begin=2913.14|KID=1133-0
 2	fino	fino	ADV	_	Gender=Masc|Number=Sing	6	case	_	KID=1133-1
@@ -11923,7 +11921,7 @@
 
 # sent_id = TOD1005bis_1133b
 # text = abbiamo finito il tempo
-# jefferson_text = questo fino al nuovo ordine. abbiamo finito il tempo?
+# jefferson_text = abbiamo finito il tempo?
 # speaker_id = TO017
 1	abbiamo	avere	AUX	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	KID=1133-5
 2	finito	finire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=1133-6
@@ -11971,7 +11969,7 @@
 
 # sent_id = TOD1005bis_1137_1138
 # text = ma se l' arabo nasce qui veramente se questo è il luogo di nascita dell' arabo
-# jefferson_text = ma se l' arabo (.) nasce qui veramente se questo è il luogo, di nascita dell' arabo
+# jefferson_text = ma se l' arabo (.) nasce qui veramente se questo è il luogo, | di nascita dell' arabo
 # speaker_id = TO017
 1	ma	ma	CCONJ	_	_	12	cc	_	Begin=2930.56|KID=1137-0
 2	se	se	SCONJ	_	_	5	mark	_	KID=1137-1
@@ -11994,7 +11992,7 @@
 
 # sent_id = TOD1005bis_1139_1140_1141_1142_1143_1144
 # text = perché nel sesto secolo nel settimo sesto settimo secolo questi li troviamo alla mecca in arabia e da lì comincia tutta la storia delle conquiste araboislamiche
-# jefferson_text = perché, nel sesto secolo, sel setti~ sesto settimo secolo questi li troviamo, alla mecca, in arabia, e da lì comincia tutta la storia, delle conquiste araboislamiche?
+# jefferson_text = perché, nel sesto secolo, | nel setti~ sesto settimo secolo questi li troviamo, | alla mecca, | in arabia, e da lì comincia tutta la storia, | delle conquiste araboislamiche?
 # speaker_id = TO017
 1	perché	perché	ADV	_	_	5	mark	_	Begin=2938.201|End=2938.87|Intonation=weakly_rising|KID=1139-0
 2-3	nel	_	_	_	_	_	_	_	Begin=2939.114|KID=1140-0
