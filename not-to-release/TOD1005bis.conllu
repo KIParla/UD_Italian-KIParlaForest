@@ -3600,7 +3600,7 @@
 11	primi	primo	NUM	_	Gender=Masc	13	amod	_	KID=351-3
 12	quattro	quattro	NUM	_	NumType=Card	13	nummod	_	KID=351-4
 13	califfi	califfo	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	End=859.853|KID=351-5
-14	okay	okay	INTJ	_	_	0	root	_	Begin=859.958|End=860.425|Intonation=WeaklyRising|KID=352-0
+14	okay	okay	INTJ	_	_	2	discourse	_	Begin=859.958|End=860.425|Intonation=WeaklyRising|KID=352-0
 
 # sent_id = TOD1005bis_353
 # text = i primi quattro califfi x
