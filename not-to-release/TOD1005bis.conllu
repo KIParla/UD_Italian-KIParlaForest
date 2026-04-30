@@ -2874,8 +2874,8 @@
 # text = poesia pre islamica
 # jefferson_text = poesia pre islamica,
 # speaker_id = TO017
-1	poesia	poesia	NOUN	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=671.229|KID=284-0
-2	pre	pre	ADJ	_	VerbForm=Inf	3	amod	_	KID=284-1
+1	poesia	poesia	NOUN	_	_	0	root	_	Begin=671.229|KID=284-0
+2	pre	pre	ADJ	_	_	3	amod	_	KID=284-1
 3	islamica	islamico	ADJ	_	_	1	amod	_	End=672.847|Intonation=weakly_rising|KID=284-2
 
 # sent_id = TOD1005bis_285
@@ -3227,7 +3227,7 @@
 21	fatto	fatto	NOUN	_	Gender=Masc|Number=Sing	16	advcl	_	KID=315-20
 22	che	che	SCONJ	_	_	23	mark	_	KID=315-21
 23	abbiamo	avere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	21	ccomp	_	KID=315-22
-24	trenta	trenta	NUM	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	25	nummod	_	KID=315-23
+24	trenta	trenta	NUM	_	_	25	nummod	_	KID=315-23
 25	ore	ora	NOUN	_	Gender=Fem|Number=Plur	23	obj	_	End=756.453|Intonation=weakly_rising|KID=315-24
 
 # sent_id = TOD1005bis_316_317
@@ -3396,7 +3396,7 @@
 # text = ~ntonovantadue
 # jefferson_text = ~ntonovantadue
 # speaker_id = ???
-1	~ntonovantadue	~ntonovantaduo	X	_	Gender=Fem|Number=Plur|Poss=Yes|PronType=Prs	0	root	_	Begin=812.187|End=813.329|Interrupted=Yes|KID=332-0
+1	~ntonovantadue	~ntonovantaduo	X	_	_	0	root	_	Begin=812.187|End=813.329|Interrupted=Yes|KID=332-0
 
 # sent_id = TOD1005bis_333
 # text = prima sura seicento
@@ -3438,7 +3438,7 @@
 11	di	di	ADP	_	_	14	case	_	KID=338-0a
 12	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	KID=338-0b
 13	e~	X	X	_	_	14	reparandum	_	Interrupted=Yes|KID=338-1
-14	egira	Egira	PROPN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	nmod	_	KID=338-2
+14	egira	Egira	PROPN	_	_	10	nmod	_	KID=338-2
 
 # sent_id = TOD1005bis_338b
 # text = non lo so
@@ -3487,7 +3487,7 @@
 3-4	della	_	_	_	_	_	_	_	KID=342-5
 3	di	di	ADP	_	_	6	case	_	KID=342-5a
 4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=342-5b
-5	prima	primo	DET	_	Gender=Fem|NumType=Ord	6	amod	_	KID=342-6
+5	prima	primo	DET	_	_	6	amod	_	KID=342-6
 6	sura	sura	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	KID=342-7
 7	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=342-8
 8	sura	sura	X	_	_	6	nmod	_	Interrupted=Yes|KID=342-9
@@ -3536,7 +3536,7 @@
 # text = che
 # jefferson_text = che
 # speaker_id = TO017
-1	che	che	SCONJ	_	PronType=Exc	0	root	_	Begin=841.163|End=841.66|KID=345-0
+1	che	che	SCONJ	_	_	0	root	_	Begin=841.163|End=841.66|KID=345-0
 
 # sent_id = TOD1005bis_346_347
 # text = primo periodo i primi anni dell' islam okay che succedono alcune cose importanti
@@ -3545,7 +3545,7 @@
 1	primo	primo	NUM	_	Gender=Masc|Number=Sing|NumType=Ord	2	amod	_	Begin=843.333|KID=346-0|PaceSlow=Yes
 2	periodo	periodo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=346-1
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=346-2
-4	primi	primo	DET	_	Gender=Masc|NumType=Ord	5	amod	_	KID=346-3
+4	primi	primo	DET	_	_	5	amod	_	KID=346-3
 5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	KID=346-4|PauseAfter=Yes|Relation=conj:reform
 6-7	dell'	_	_	_	_	_	_	_	KID=346-6|Truncated=Yes
 6	di	di	ADP	_	_	8	case	_	KID=346-6a
@@ -3695,7 +3695,7 @@
 # speaker_id = TO017
 1	eh	eh	INTJ	_	_	5	discourse	_	Begin=878.811|Intonation=weakly_rising|KID=360-0
 2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	KID=360-1
-3	soltanto	soltanto	ADV	_	VerbForm=Ger	5	advmod	_	KID=360-2
+3	soltanto	soltanto	ADV	_	_	5	advmod	_	KID=360-2
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=360-3
 5	definizione	definizione	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=360-4
 6	che	che	SCONJ	_	PronType=Rel	8	nsubj	_	KID=360-5
@@ -3775,7 +3775,7 @@
 5	pre	pre	ADJ	_	_	6	amod	_	KID=368-3|PauseAfter=Yes
 6	islamico	islamico	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	KID=368-5
 7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=368-6
-8	primo	primo	PRON	_	Gender=Masc|NumType=Ord|Number=Sing|PronType=Ord	1	conj	_	End=899.122|Intonation=falling|KID=368-7|Relation=conj:reform
+8	primo	primo	PRON	_	_	1	conj	_	End=899.122|Intonation=falling|KID=368-7|Relation=conj:reform
 
 # sent_id = TOD1005bis_369_370
 # text = quando quando è bi~ avevamo detto quando è o mi dite quando nasce la lingua araba o mi dite quand' é la prima attestazione
@@ -3803,7 +3803,7 @@
 20	quand'	quando	ADV	_	_	21	mark	_	Begin=904.785|KID=370-0|Truncated=Yes
 21	é	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	KID=370-1
 22	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	KID=370-2
-23	prima	primo	DET	_	Gender=Fem|NumType=Ord|Number=Sing|PronType=Ord	24	amod	_	KID=370-3
+23	prima	primo	DET	_	_	24	amod	_	KID=370-3
 24	attestazione	attestazione	NOUN	_	Gender=Fem|Number=Sing	21	nsubj	_	End=906.794|KID=370-4
 
 # sent_id = TOD1005bis_371
@@ -3918,7 +3918,7 @@
 # jefferson_text = la (.) prima (.) attestazione | che noi abbiamo. non di arabo | ma di qualcuno che parla:
 # speaker_id = TO017
 1	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	Begin=946.098|KID=384-0|PauseAfter=Yes
-2	prima	primo	DET	_	Gender=Fem|NumType=Ord|Number=Sing|PronType=Ord	3	amod	_	KID=384-2|PauseAfter=Yes
+2	prima	primo	DET	_	_	3	amod	_	KID=384-2|PauseAfter=Yes
 3	attestazione	attestazione	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=948.376|KID=384-4
 4	che	che	SCONJ	_	PronType=Rel	6	mark	_	Begin=948.476|KID=385-0
 5	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	6	nsubj	_	KID=385-1
@@ -4538,7 +4538,7 @@
 # text = corano
 # jefferson_text = corano,
 # speaker_id = TO017
-1	corano	Corano	PROPN	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=1095.199|Intonation=weakly_rising|KID=426-0
+1	corano	Corano	PROPN	_	_	0	root	_	Begin=1095.199|Intonation=weakly_rising|KID=426-0
 
 # sent_id = TOD1005bis_426b
 # text = okay abbiamo la poesia
@@ -4553,7 +4553,7 @@
 # text = corano testo coranico
 # jefferson_text = co:rano. testo coranico,
 # speaker_id = TO017
-1	corano	Corano	PROPN	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=1098.787|Intonation=falling|KID=427-0|Prolonged=Yes
+1	corano	Corano	PROPN	_	_	0	root	_	Begin=1098.787|Intonation=falling|KID=427-0|Prolonged=Yes
 2	testo	testo	NOUN	_	Gender=Masc|Number=Sing	1	parataxis	_	KID=427-1
 3	coranico	coranico	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	End=1100.437|Intonation=weakly_rising|KID=427-2
 
@@ -4747,8 +4747,8 @@
 # text = poesia corano e quindi x
 # jefferson_text = poesia corano e quindi xxx
 # speaker_id = TO017
-1	poesia	poesia	NOUN	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=440-5
-2	corano	Corano	PROPN	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	KID=440-6|Relation=conj:reform
+1	poesia	poesia	NOUN	_	_	0	root	_	KID=440-5
+2	corano	Corano	PROPN	_	_	1	conj	_	KID=440-6|Relation=conj:reform
 3	e	e	CCONJ	_	_	5	cc	_	KID=440-7
 4	quindi	quindi	CCONJ	_	_	5	cc	_	KID=440-8
 5	x	x	X	_	_	2	conj	_	End=1149.758|KID=440-9|Unintelligible=Yes
@@ -4807,7 +4807,7 @@
 1	di	di	ADP	_	_	2	case	_	Begin=1162.273|KID=445-0
 2	cui	cui	PRON	_	PronType=Rel	4	obl	_	KID=445-1
 3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=445-2
-4	primo	primo	DET	_	Gender=Masc|NumType=Ord|Number=Sing|PronType=Ord	0	root	_	KID=445-3
+4	primo	primo	DET	_	_	0	root	_	KID=445-3
 5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=445-4
 6	più	più	ADV	_	_	7	advmod	_	KID=445-5
 7	famoso	famoso	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	KID=445-6|Relation=conj:reform
@@ -5181,7 +5181,7 @@
 6	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	KID=476-5
 7	proprio	proprio	ADV	_	_	10	advmod	_	KID=476-6|PauseAfter=Yes
 8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=476-8
-9	prima	primo	DET	_	Gender=Fem|NumType=Ord|Number=Sing|PronType=Ord	10	amod	_	KID=476-9
+9	prima	primo	DET	_	_	10	amod	_	KID=476-9
 10	attestazione	attestazione	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=476-10
 11	che	che	SCONJ	_	PronType=Rel	13	obj	_	KID=476-11
 12	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	KID=476-12
@@ -5566,7 +5566,7 @@
 4	anche	anche	ADV	_	_	5	advmod	_	KID=512-3
 5	chiamare	chiamare	VERB	_	VerbForm=Inf	0	root	_	KID=512-4
 6	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	5	obj	_	KID=512-5
-7	simone	Simone	PROPN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	nmod	_	KID=512-6
+7	simone	Simone	PROPN	_	_	5	nmod	_	KID=512-6
 8	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=512-7
 9	napoletano	napoletano	ADJ	_	_	7	nmod	_	End=1355.818|KID=512-8|Prolonged=Yes
 
@@ -5934,7 +5934,7 @@
 1	di	di	ADP	_	_	5	case	_	Begin=1437.637|KID=543-0
 2	mille	mille	NUM	_	NumType=Card	5	nummod	_	KID=543-1
 3	e	e	CCONJ	_	_	4	cc	_	KID=543-2
-4	seicento	seicento	DET	_	NumType=Card|PronType=Ind	2	conj	_	KID=543-3
+4	seicento	seicento	DET	_	_	2	conj	_	KID=543-3
 5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	0	root	_	End=1439.007|Intonation=weakly_rising|KID=543-4
 6	prima	prima	ADV	_	_	5	advmod	_	Begin=1439.168|End=1439.763|KID=544-0
 7-8	della	_	_	_	_	_	_	_	Begin=1439.981|KID=545-0|PaceFast=Yes
@@ -5972,7 +5972,7 @@
 # text = sedici eh scusate milleseicento
 # jefferson_text = sedici. (.) eh scusate milleseicento
 # speaker_id = TO017
-1	sedici	sedici	NUM	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	nummod	_	Begin=1447.349|Intonation=falling|KID=550-0|PauseAfter=Yes
+1	sedici	sedici	NUM	_	_	3	nummod	_	Begin=1447.349|Intonation=falling|KID=550-0|PauseAfter=Yes
 2	eh	eh	INTJ	_	_	3	discourse	_	KID=550-2
 3	scusate	scusare	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=550-3
 4	milleseicento	milleseicento	NUM	_	Gender=Masc|Number=Sing	3	nummod	_	End=1449.498|KID=550-4
@@ -6021,7 +6021,7 @@
 5	citato	citare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=554-15
 6	voi	voi	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	KID=554-16
 7	come	come	ADP	_	_	9	case	_	KID=554-17
-8	prima	primo	DET	_	Gender=Fem|NumType=Ord|Number=Sing|PronType=Ord	9	amod	_	KID=554-18
+8	prima	primo	DET	_	_	9	amod	_	KID=554-18
 9	attestazione	attestazione	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	End=1460.037|Intonation=weakly_rising|KID=554-19
 10-11	della	_	_	_	_	_	_	_	Begin=1460.431|KID=555-0
 10	di	di	ADP	_	_	12	case	_	KID=555-0a
@@ -6228,15 +6228,15 @@
 # text = seconda metà dell' ottavo secolo avanti cristo quindi stiamo parlando sempre di un sacco di tempo fa
 # jefferson_text = seconda metà dell' ottavo secolo avanti cristo quindi stiamo parlando >sempre< di un <s:acco> di tempoa fa.
 # speaker_id = TO017
-1	seconda	secondo	DET	_	PronType=Ord	2	amod	_	Begin=1508.54|KID=571-0
+1	seconda	secondo	DET	_	_	2	amod	_	Begin=1508.54|KID=571-0
 2	metà	metà	NOUN	_	Gender=Fem	0	root	_	KID=571-1
 3-4	dell'	_	_	_	_	_	_	_	KID=571-2|Truncated=Yes
 3	di	di	ADP	_	_	6	case	_	KID=571-2a
 4	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	KID=571-2b
-5	ottavo	ottavo	DET	_	Gender=Masc|NumType=Ord|Number=Sing|PronType=Ord	6	amod	_	KID=571-3
+5	ottavo	ottavo	DET	_	_	6	amod	_	KID=571-3
 6	secolo	secolo	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	KID=571-4
 7	avanti	avanti	ADV	_	_	8	advmod	_	KID=571-5
-8	cristo	Cristo	PROPN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	nmod	_	KID=571-6
+8	cristo	Cristo	PROPN	_	_	6	nmod	_	KID=571-6
 9	quindi	quindi	CCONJ	_	_	11	cc	_	KID=571-7
 10	stiamo	essere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	_	KID=571-8
 11	parlando	parlare	VERB	_	VerbForm=Ger	2	conj	_	KID=571-9
@@ -6401,7 +6401,7 @@
 12	queste	questo	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	13	nsubj	_	KID=590-1
 13	siano	essere	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	KID=590-2
 14	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	KID=590-3
-15	prime	primo	DET	_	Gender=Fem|NumType=Ord|Number=Plur|PronType=Ord	16	amod	_	KID=590-4
+15	prime	primo	DET	_	_	16	amod	_	KID=590-4
 16	attestazioni	attestazione	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	KID=590-5
 17-18	nella	_	_	_	_	_	_	_	KID=590-6
 17	in	in	ADP	_	_	19	case	_	KID=590-6a
@@ -6701,12 +6701,12 @@
 1-2	nella	_	_	_	_	_	_	_	Begin=1626.099|KID=622-0|Prolonged=Yes
 1	in	in	ADP	_	_	4	case	_	KID=622-0a
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=622-0b
-3	prima	primo	DET	_	Gender=Fem|NumType=Ord|Number=Sing|PronType=Ord	4	amod	_	KID=622-1
+3	prima	primo	DET	_	_	4	amod	_	KID=622-1
 4	metà	metà	NOUN	_	Gender=Fem	0	root	_	KID=622-2
 5-6	del	_	_	_	_	_	_	_	KID=622-3
 5	di	di	ADP	_	_	8	case	_	KID=622-3a
 6	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=622-3b
-7	primo	primo	DET	_	Gender=Masc|NumType=Ord|Number=Sing|PronType=Ord	8	amod	_	KID=622-4
+7	primo	primo	DET	_	_	8	amod	_	KID=622-4
 8	millennio	millennio	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	KID=622-5
 9	avanti	avanti	ADV	_	_	10	advmod	_	KID=622-6
 10	cristo	Cristo	PROPN	_	_	8	nmod	_	End=1629.262|Intonation=weakly_rising|KID=622-7
@@ -7004,7 +7004,7 @@
 4	usa	usare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1690.809|KID=656-1
 5	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	Begin=1691.209|KID=657-0|SpaceAfter=No
 6	acronimo	acronimo	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	End=1691.962|KID=657-1
-7	asa	ASA	PROPN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	nmod	_	Begin=1692.123|End=1692.523|KID=658-0
+7	asa	ASA	PROPN	_	_	6	nmod	_	Begin=1692.123|End=1692.523|KID=658-0
 
 # sent_id = TOD1005bis_659_660_661
 # text = ancient south arabian
@@ -8690,7 +8690,7 @@
 # jefferson_text = è soltanto un' etichetta che noi abbiamo | per una serie di lingue | che venivano <scritte> | in~ in~ nell' area enorme: | de~ di quella che più o meno oggi è l' arabia saudita
 # speaker_id = TO017
 1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Begin=2095.82|KID=821-0
-2	soltanto	soltanto	ADV	_	VerbForm=Ger	4	advmod	_	KID=821-1
+2	soltanto	soltanto	ADV	_	_	4	advmod	_	KID=821-1
 3	un'	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=821-2|Truncated=Yes
 4	etichetta	etichetta	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=821-3
 5	che	che	SCONJ	_	_	7	obj	_	KID=821-4
@@ -9598,7 +9598,7 @@
 # speaker_id = TO017
 1	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	2	dislocated	_	KID=905-17
 2	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=905-18
-3	soltanto	soltanto	ADV	_	VerbForm=Ger	2	advmod	_	KID=905-19
+3	soltanto	soltanto	ADV	_	_	2	advmod	_	KID=905-19
 4	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	2	nsubj	_	KID=905-20
 5-6	delle	_	_	_	_	_	_	_	KID=905-21
 5	di	di	ADP	_	_	7	case	_	KID=905-21a
@@ -9944,7 +9944,7 @@
 # text = giordania
 # jefferson_text = giordania,
 # speaker_id = TO017
-1	giordania	Giordania	PROPN	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=2388.905|End=2389.716|Intonation=weakly_rising|KID=933-0
+1	giordania	Giordania	PROPN	_	_	0	root	_	Begin=2388.905|End=2389.716|Intonation=weakly_rising|KID=933-0
 
 # sent_id = TOD1005bis_934_935
 # text = forse ovest dell'iraq
@@ -10067,7 +10067,7 @@
 8	che	che	SCONJ	_	PronType=Rel	10	nsubj	_	KID=946-7|PaceFast=Yes
 9	si	si	PRON	_	Person=3|PronType=Prs	10	expl	_	KID=946-8|PaceFast=Yes
 10	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	KID=946-9|PaceFast=Yes
-11	safa	Safa	PROPN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	xcomp	_	End=2423.233|Intonation=weakly_rising|KID=946-10
+11	safa	Safa	PROPN	_	_	10	xcomp	_	End=2423.233|Intonation=weakly_rising|KID=946-10
 
 # sent_id = TOD1005bis_947
 # text = così a caso
@@ -10333,7 +10333,7 @@
 2	primo	primo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	KID=971-1
 3	secolo	secolo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	End=2490.39|Intonation=weakly_rising|KID=971-2
 4	avanti	avanti	ADV	_	_	3	obl	_	Begin=2490.736|KID=972-0
-5	cristo	Cristo	PROPN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	nmod	_	End=2491.995|Intonation=weakly_rising|KID=972-1
+5	cristo	Cristo	PROPN	_	_	4	nmod	_	End=2491.995|Intonation=weakly_rising|KID=972-1
 
 # sent_id = TOD1005bis_973_974
 # text = e le più recenti al primo secolo dopo cristo
@@ -10637,7 +10637,7 @@
 11	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	KID=1002-3|Truncated=Yes|Volume=low
 12	ottocento	ottocento	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	End=2572.77|Intonation=weakly_rising|KID=1002-4|Volume=low
 13	avanti	avanti	ADV	_	_	12	obl	_	Begin=2573.646|KID=1003-0
-14	cristo	Cristo	PROPN	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	nmod	_	End=2574.676|Intonation=falling|KID=1003-1
+14	cristo	Cristo	PROPN	_	_	13	nmod	_	End=2574.676|Intonation=falling|KID=1003-1
 
 # sent_id = TOD1005bis_1004
 # text = perché lo sappiamo perché nelle iscrizioni si parla di alcuni regni
@@ -10756,7 +10756,7 @@
 26	che	che	SCONJ	_	_	27	nsubj	_	Begin=2603.264|KID=1013-0
 27	sia	essere	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	KID=1013-1
 28	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	KID=1013-2
-29	primo	primo	DET	_	Gender=Masc|NumType=Ord|Number=Sing|PronType=Ord	30	amod	_	KID=1013-3
+29	primo	primo	DET	_	_	30	amod	_	KID=1013-3
 30	esempio	esempio	NOUN	_	Gender=Masc|Number=Sing	27	obj	_	KID=1013-4
 31	di	di	ADP	_	_	32	case	_	KID=1013-5
 32	arabo	arabo	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	End=2605.025|Intonation=falling|KID=1013-6
@@ -10854,7 +10854,7 @@
 1-2	nel	_	_	_	_	_	_	_	Begin=2641.049|KID=1023-0
 1	in	in	ADP	_	_	4	case	_	KID=1023-0a
 2	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	KID=1023-0b
-3	quinto	quinto	DET	_	Gender=Masc|Number=Sing|PronType=Ord	4	amod	_	KID=1023-1
+3	quinto	quinto	DET	_	_	4	amod	_	KID=1023-1
 4	secolo	secolo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	KID=1023-2
 5	avanti	avanti	ADV	_	_	4	obl	_	KID=1023-3
 6	cristo	Cristo	PROPN	_	_	5	nmod	_	KID=1023-4
@@ -11996,12 +11996,12 @@
 2-3	nel	_	_	_	_	_	_	_	Begin=2939.114|KID=1140-0
 2	in	in	ADP	_	_	5	case	_	KID=1140-0a
 3	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=1140-0b
-4	sesto	sesto	DET	_	Gender=Masc|Number=Sing|PronType=Ord	5	amod	_	KID=1140-1
+4	sesto	sesto	DET	_	_	5	amod	_	KID=1140-1
 5	secolo	secolo	NOUN	_	Gender=Masc|Number=Sing	13	advcl	_	End=2940.491|Intonation=weakly_rising|KID=1140-2
 6	nel	nel	DET	_	Gender=Masc|Number=Sing|PronType=Art	7	det	_	Begin=2940.669|KID=1141-0
-7	settimo	settimo	DET	_	PronType=Ord	10	reparandum	_	Interrupted=Yes|KID=1141-1
-8	sesto	sesto	DET	_	Gender=Masc|Number=Sing|PronType=Ord	10	reparandum	_	KID=1141-2
-9	settimo	settimo	DET	_	Gender=Masc|Number=Sing|PronType=Ord	10	amod	_	KID=1141-3
+7	settimo	settimo	DET	_	_	10	reparandum	_	Interrupted=Yes|KID=1141-1
+8	sesto	sesto	DET	_	_	10	reparandum	_	KID=1141-2
+9	settimo	settimo	DET	_	_	10	amod	_	KID=1141-3
 10	secolo	secolo	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	KID=1141-4
 11	questi	questo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	13	dislocated	_	KID=1141-5
 12	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	obj	_	KID=1141-6
