@@ -554,9 +554,9 @@
 # jefferson_text = diciamo che come materiali sulla lingua dei segni eccetera (.) sono coperta.
 # speaker_id = BO037
 1	diciamo	dire	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=105.683|KID=46-0
-2	che	che	SCONJ	CS	_	14	mark	_	KID=46-1
+2	che	che	SCONJ	CS	_	13	mark	_	KID=46-1
 3	come	come	ADP	E	_	4	case	_	KID=46-2
-4	materiali	materiale	NOUN	S	Gender=Masc|Number=Plur	14	obl	_	KID=46-3
+4	materiali	materiale	NOUN	S	Gender=Masc|Number=Plur	13	obl	_	KID=46-3
 5-6	sulla	_	_	_	_	_	_	_	KID=46-4
 5	su	su	ADP	E	_	7	case	_	KID=46-4a
 6	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=46-4b
@@ -565,10 +565,9 @@
 8	di	di	ADP	E	_	10	case	_	KID=46-6a
 9	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	KID=46-6b
 10	segni	segno	NOUN	S	Gender=Masc|Number=Plur	7	nmod	_	KID=46-7
-11	eccetera	eccetera	ADV	B	_	14	discourse	_	KID=46-8
-12	{P}	_	_	_	_	_	_	_	Type=shortpause
-13	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	KID=46-10
-14	coperta	coprire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	End=109.643|Intonation=falling|KID=46-11
+11	eccetera	eccetera	ADV	B	_	13	discourse	_	KID=46-8|PauseAfter=Yes
+12	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	KID=46-10
+13	coperta	coprire	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	ccomp	_	End=109.643|Intonation=falling|KID=46-11
 
 # sent_id = 47
 # text = sì
@@ -627,15 +626,14 @@
 # text = lei è lei è ha imparato la lis
 # jefferson_text = [lei è: (.) l]ei [è:] [ha imparato la lis],
 # speaker_id = BO026
-1	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	reparandum	_	Begin=118.878|KID=51-0|OverlappingGroup=25
-2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	_	KID=51-1|OverlappingGroup=25|Prolonged=Yes
-3	{P}	_	_	_	_	_	_	_	Type=shortpause
-4	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	KID=51-3|OverlappingGroup=25
-5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	reparandum	_	End=120.711|KID=51-4|OverlappingGroup=26|Prolonged=Yes
-6	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	Begin=120.971|KID=53-0|OverlappingGroup=27
-7	imparato	imparare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=53-1|OverlappingGroup=27
-8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=53-2|OverlappingGroup=27
-9	lis	lis	NOUN	S	Gender=Fem|Number=Sing	7	obj	_	End=122.59|Intonation=weakly_rising|KID=53-3|OverlappingGroup=27
+1	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	reparandum	_	Begin=118.878|KID=51-0|OverlappingGroup=25
+2	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	reparandum	_	KID=51-1|OverlappingGroup=25|PauseAfter=Yes|Prolonged=Yes
+3	lei	lei	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	KID=51-3|OverlappingGroup=25
+4	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	reparandum	_	End=120.711|KID=51-4|OverlappingGroup=26|Prolonged=Yes
+5	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	Begin=120.971|KID=53-0|OverlappingGroup=27
+6	imparato	imparare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=53-1|OverlappingGroup=27
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	KID=53-2|OverlappingGroup=27
+8	lis	lis	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	End=122.59|Intonation=weakly_rising|KID=53-3|OverlappingGroup=27
 
 # sent_id = 52
 # text = ho fatto sì sì sì sì sì esatto ho fatto tre anni di corso e ho finito adesso
@@ -1567,12 +1565,11 @@
 2	gialli	Gialli	PROPN	A	Number=Plur	1	flat:name	_	End=301.59|Intonation=falling|KID=124-1
 
 # sent_id = 125
-# text = aspetti {P} marina
+# text = aspetti marina
 # jefferson_text = aspetti (.) marina?
 # speaker_id = BO026
-1	aspetti	aspettere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=303.363|KID=125-0
-2	{P}	_	_	_	_	_	_	_	Type=shortpause
-3	marina	Marina	PROPN	S	Gender=Fem|Number=Sing	1	obj	_	End=304.738|Intonation=rising|KID=125-2
+1	aspetti	aspettere	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Begin=303.363|KID=125-0|PauseAfter=Yes
+2	marina	Marina	PROPN	S	Gender=Fem|Number=Sing	1	obj	_	End=304.738|Intonation=rising|KID=125-2
 
 # sent_id = 126
 # text = gialli gi a elle elle i
@@ -1701,7 +1698,7 @@
 5	xx	x	X	NO	Number=Sing|NumType=Ord	4	dep	_	End=334.375|Intonation=falling|KID=138-3|OverlappingGroup=68
 
 # sent_id = 139
-# text = ci sono dei paralleli con l' altra esperienza soltanto per per l' età {P} no
+# text = ci sono dei paralleli con l' altra esperienza soltanto per per l' età no
 # jefferson_text = [ci sono dei paralleli] con l' altra esperienza soltanto per per l' età (.) no,
 # speaker_id = BO026
 1	ci	ci	PRON	PC	PronType=Prs	2	expl	_	Begin=335.11|Clitic=Yes|KID=139-0|OverlappingGroup=69
@@ -1716,9 +1713,8 @@
 10	per	per	ADP	E	_	13	case	_	KID=139-9
 11	per	per	ADP	E	_	13	case	_	KID=139-10
 12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	KID=139-11|Truncated=Yes
-13	età	età	NOUN	S	Gender=Fem	4	obl	_	KID=139-12
-14	{P}	_	_	_	_	_	_	_	Type=shortpause
-15	no	no	ADV	BN	PronType=Neg	13	advmod	_	End=341.367|Intonation=weakly_rising|KID=139-14
+13	età	età	NOUN	S	Gender=Fem	4	obl	_	KID=139-12|PauseAfter=Yes
+14	no	no	ADV	BN	PronType=Neg	13	advmod	_	End=341.367|Intonation=weakly_rising|KID=139-14
 
 # sent_id = 140
 # text = sì sì sì
@@ -1985,23 +1981,22 @@
 11	cnr	CNR	NOUN	_	_	7	nmod	_	_
 12	che	che	CCONJ	CS	_	15	cc	_	KID=156-11
 13	con	con	ADP	E	_	15	case	_	KID=156-12
-14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	KID=156-13|Truncated=Yes
+14	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	15	det	_	KID=156-13|SpaceAfter=No
 15	istituto	istituto	NOUN	S	Gender=Masc|Number=Sing	11	conj	_	KID=156-14
 16	statale	statale	ADJ	A	Number=Sing	15	amod	_	KID=156-15
 17	sordi	sordo	NOUN	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	nmod	_	KID=156-16
-18	che	che	SCONJ	CS	_	15	dep	_	KID=156-17
-19	{P}	_	_	_	_	_	_	_	Type=shortpause
-20	se	se	SCONJ	CS	_	23	mark	_	KID=156-19
-21	non	non	ADV	BN	PronType=Neg	23	advmod	_	KID=156-20
-22	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	obj	_	Clitic=Yes|KID=156-21
-23	chiudono	chiudere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	KID=156-22
-24	a	a	ADP	E	_	25	case	_	KID=156-23
-25	breve	breve	ADJ	A	Number=Sing	23	obl	_	KID=156-24
-26	perché	perché	SCONJ	CS	_	28	mark	_	KID=156-25
-27	purtroppo	purtroppo	ADV	B	_	28	advmod	_	KID=156-26
-28	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	advcl	_	KID=156-27
-29	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	_	KID=156-28
-30	po'	poco	ADV	B	_	28	advmod	_	End=397.055|Intonation=weakly_rising|KID=156-29
+18	che	che	SCONJ	CS	_	15	dep	_	KID=156-17|PauseAfter=Yes
+19	se	se	SCONJ	CS	_	22	mark	_	KID=156-19
+20	non	non	ADV	BN	PronType=Neg	22	advmod	_	KID=156-20
+21	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obj	_	Clitic=Yes|KID=156-21
+22	chiudono	chiudere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	KID=156-22
+23	a	a	ADP	E	_	24	case	_	KID=156-23
+24	breve	breve	ADJ	A	Number=Sing	22	obl	_	KID=156-24
+25	perché	perché	SCONJ	CS	_	27	mark	_	KID=156-25
+26	purtroppo	purtroppo	ADV	B	_	27	advmod	_	KID=156-26
+27	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	KID=156-27
+28	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	KID=156-28
+29	po'	poco	ADV	B	_	27	advmod	_	End=397.055|Intonation=weakly_rising|KID=156-29
 
 # sent_id = 158
 # text = così ehm
@@ -2161,7 +2156,7 @@
 # speaker_id = BO026
 1	se	se	SCONJ	CS	_	3	mark	_	Begin=424.911|KID=172-0|OverlappingGroup=92
 2	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	3	iobj	_	Clitic=Yes|KID=172-1|OverlappingGroup=92
-3	capita	capitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	advcl	_	KID=172-2|OverlappingGroup=92|Prolonged=Yes
+3	capita	capitare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	KID=172-2|OverlappingGroup=92|Prolonged=Yes
 4	se	se	SCONJ	CS	_	8	mark	_	KID=172-3
 5	come	come	ADP	E	_	6	case	_	KID=172-4
 6	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	8	iobj	_	Clitic=Yes|KID=172-5
@@ -2169,18 +2164,17 @@
 8	successo	succedere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	advcl	_	KID=172-7|Prolonged=Yes
 9	tempo	tempo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	KID=172-8
 10	fa	fa	ADV	B	_	9	advmod	_	KID=172-9
-11	le	le	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	dep	_	KID=172-10
-12	{P}	_	_	_	_	_	_	_	Type=shortpause
-13	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	14	det	_	KID=172-12
-14	riferimento	riferimento	NOUN	S	Gender=Masc|Number=Sing	17	obj	_	KID=172-13
-15-16	glielo	_	_	_	_	_	_	_	KID=172-14
-15	glie	gli	PRON	PC	Person=3|PronType=Prs	17	expl	_	Clitic=Yes|KID=172-14a
-16	lo	il	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	Clitic=Yes|KID=172-14b
-17	inoltro	inoltro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	KID=172-15
-18-19	glielo	_	_	_	_	_	_	_	KID=172-16|OverlappingGroup=93
-18	glie	gli	PRON	PC	Person=3|PronType=Prs	20	expl	_	Clitic=Yes|KID=172-16a
-19	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	obj	_	Clitic=Yes|KID=172-16b
-20	mando	mare	VERB	V	VerbForm=Ger	17	conj	_	End=433.755|Intonation=falling|KID=172-17|OverlappingGroup=93
+11	le	le	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	dep	_	KID=172-10|PauseAfter=Yes
+12	qualche	qualche	DET	DI	Number=Sing|PronType=Ind	13	det	_	KID=172-12
+13	riferimento	riferimento	NOUN	S	Gender=Masc|Number=Sing	16	obj	_	KID=172-13
+14-15	glielo	_	_	_	_	_	_	_	KID=172-14
+14	glie	gli	PRON	PC	Person=3|PronType=Prs	16	expl	_	Clitic=Yes|KID=172-14a
+15	lo	il	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	Clitic=Yes|KID=172-14b
+16	inoltro	inoltro	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	KID=172-15
+17-18	glielo	_	_	_	_	_	_	_	KID=172-16|OverlappingGroup=93
+17	glie	gli	PRON	PC	Person=3|PronType=Prs	19	expl	_	Clitic=Yes|KID=172-16a
+18	lo	lo	PRON	PC	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	Clitic=Yes|KID=172-16b
+19	mando	mare	VERB	V	VerbForm=Ger	16	conj	_	End=433.755|Intonation=falling|KID=172-17|OverlappingGroup=93
 
 # sent_id = 173
 # text = grazie mille
