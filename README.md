@@ -7,8 +7,10 @@ The KIParla Forest treebank is a treebank of spoken Italian based on the [KIParl
 The treebank (release 2.17) contains the conversations:
 
 * BOD2018: semistructured interview from the [KIP](https://github.com/KIParla/KIP) module. Two speakers discuss their homes and living situations. They compare life in Bologna to life in the countryside and smaller towns, and discuss student life compared to a more adult lifestyle.
-* BOA3017: free conversation from the [KIP](https://github.com/KIParla/KIP) module.
-Four friends chat over food. A core thread is one member’s internship, for which he is recording and will have to transcribe the same conversation. Around that, they make casual plans, discuss Easter chocolate eggs, tomorrow’s schedule, and swap gossip.
+* BOA3017: free conversation from the [KIP](https://github.com/KIParla/KIP) module. Four friends chat over food. A core thread is one member’s internship, for which he is recording and will have to transcribe the same conversation. Around that, they make casual plans, discuss Easter chocolate eggs, tomorrow’s schedule, and swap gossip.
+* BOA1003: office-hours conversation from the [KIP](https://github.com/KIParla/KIP) module. A student meets a professor to sort out the requirements for a course on Italian for academic purposes (L2). They agree on a substitute reading and the format of the oral exam.
+* BOA1008: office-hours conversation from the [KIP](https://github.com/KIParla/KIP) module. A student visits a professor’s office to confirm the professor is still available as co-supervisor for their thesis. They discuss the submission deadline around the July graduation session.
+* BOA1009: office-hours conversation from the [KIP](https://github.com/KIParla/KIP) module. A student visits a professor to ask her to become co-supervisor for a thesis on child language brokering, specifically focused on CODA children (hearing children of deaf adults) who act as interpreters between Italian and Italian Sign Language.
 
 # Structure of data
 
