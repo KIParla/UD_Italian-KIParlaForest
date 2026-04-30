@@ -139,11 +139,11 @@
 8	comunque	comunque	CCONJ	_	_	7	cc	_	End=30.444|Intonation=weakly_rising|KID=12-7
 
 # sent_id = TOD1005bis_13_14_15a
-# text = ma suspence | i risultati li discuteremo | poi perché questo ci impiegherà tutto il resto del corso praticamente andare a guardare
+# text = ma suspence i risultati li discuteremo poi perché questo ci impiegherà tutto il resto del corso praticamente andare a guardare
 # jefferson_text = ma suspence. i risultati li discuteremo, po:i, perché questo ci impiegherà tutto il resto del corso praticamente. andare a guardare
 # speaker_id = TO017
 1	ma	ma	CCONJ	_	_	6	cc	_	Begin=31.484|End=31.795|KID=13-0
-2	suspence	suspence	NOUN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	vocative	_	Begin=32.128|Intonation=falling|KID=14-0
+2	suspence	suspence	NOUN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	discourse	_	Begin=32.128|Intonation=falling|KID=14-0
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=14-1
 4	risultati	risultato	NOUN	_	Gender=Masc|Number=Plur	6	dislocated	_	KID=14-2
 5	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	obj	_	KID=14-3
@@ -327,7 +327,7 @@
 2	mh	mh	INTJ	_	_	1	discourse	_	End=74.082|KID=34-1
 
 # sent_id = TOD1005bis_35_36_37_38
-# text = okay questi sono i dialetti di cinque | grosse | eh | capitali o città importanti del mondo arabo
+# text = okay questi sono i dialetti di cinque grosse eh capitali o città importanti del mondo arabo
 # jefferson_text = okay questi sono i dialetti (di) cinque <grosse> e:h ca:pita:li o città importanti del mondo arabo,
 # speaker_id = TO017
 1	okay	okay	INTJ	_	_	5	discourse	_	Begin=75.039|KID=35-0
