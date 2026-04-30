@@ -22,7 +22,7 @@
 6	di	di	ADP	_	_	7	case	_	KID=0-13
 7	tratti	tratto	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	KID=0-14
 8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=0-15
-9	serie	serie	NOUN	_	Gender=Fem	5	conj:reform	_	KID=0-16|Relation=conj:reform
+9	serie	serie	NOUN	_	Gender=Fem	5	conj	_	KID=0-16|Relation=conj:reform
 10	di	di	ADP	_	_	11	case	_	KID=0-17
 11	strutture	struttura	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	End=5.21|Intonation=weakly_rising|KID=0-18
 12	comuni	comune	ADJ	_	Number=Plur	11	amod	_	Begin=5.64|KID=1-0
@@ -594,7 +594,7 @@
 31	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	KID=56-10
 32	dialetto	dialetto	NOUN	_	Gender=Masc|Number=Sing	30	obj	_	End=140.387|Intonation=weakly_rising|KID=56-11
 33	dovrebbe	dovere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	Begin=140.438|KID=57-0
-34	pensare	pensare	VERB	_	VerbForm=Inf	30	conj:reform	_	KID=57-1|Relation=conj:reform
+34	pensare	pensare	VERB	_	VerbForm=Inf	30	conj	_	KID=57-1|Relation=conj:reform
 35	a	a	ADP	_	_	37	case	_	KID=57-2
 36	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	37	det	_	KID=57-3
 37	sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	34	iobj	_	KID=57-4
@@ -738,7 +738,7 @@
 6	legge	leggere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	KID=68-3
 7	qualcuno	qualcuno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	6	nsubj	_	KID=68-4|PauseAfter=Yes
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=68-6
-9	egiziano	egiziano	ADJ	_	Gender=Masc|Number=Sing	7	conj:reform	_	End=172.644|Intonation=weakly_rising|KID=68-7|Relation=conj:reform
+9	egiziano	egiziano	ADJ	_	Gender=Masc|Number=Sing	7	conj	_	End=172.644|Intonation=weakly_rising|KID=68-7|Relation=conj:reform
 
 # sent_id = TOD1005bis_69
 # text = un egiziano
@@ -1490,7 +1490,7 @@
 13	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	KID=147-10b
 14	uzbekistan	Uzbekistan	PROPN	_	_	11	nmod	_	Interrupted=Yes|KID=147-11
 15	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	KID=147-12
-16	dialetto	dialetto	NOUN	_	Gender=Masc|Number=Sing	11	conj:reform	_	KID=147-13|Relation=conj:reform
+16	dialetto	dialetto	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	KID=147-13|Relation=conj:reform
 17-18	dell'	_	_	_	_	_	_	_	KID=147-14|Truncated=Yes
 17	di	di	ADP	_	_	19	case	_	KID=147-14a
 18	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	19	det	_	KID=147-14b
@@ -2232,7 +2232,7 @@
 6	origine	origine	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	KID=219-5
 7	comune	comune	ADJ	_	Number=Sing	6	amod	_	KID=219-6|PauseAfter=Yes
 8	hanno	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	KID=219-8
-9	passato	passare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj:reform	_	KID=219-9|Relation=conj:reform
+9	passato	passare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	KID=219-9|Relation=conj:reform
 10	duecento	duecento	NUM	_	Gender=Masc|Number=Sing	11	nummod	_	KID=219-10|PaceSlow=Yes
 11	anni	anno	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	KID=219-11
 12	a	a	ADP	_	_	13	mark	_	KID=219-12
@@ -2274,7 +2274,7 @@
 15	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing	9	acl:relcl	_	KID=222-9
 16	nonno	nonno	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	KID=222-10
 17	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	KID=222-11
-18	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing	16	conj:reform	_	KID=222-12|Relation=conj:reform
+18	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	KID=222-12|Relation=conj:reform
 19	bisnonno	bisnonno	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	End=518.241|Intonation=weakly_rising|KID=222-13|PaceSlow=Yes|Prolonged=Yes
 
 # sent_id = TOD1005bis_223_224_225_226
@@ -2341,7 +2341,7 @@
 7	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	10	nsubj	_	KID=232-4
 8	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=232-5
 9	possiamo	potere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	aux	_	KID=232-6
-10	sapere	sapere	VERB	_	VerbForm=Inf	2	conj:reform	_	KID=232-7|Relation=conj:reform
+10	sapere	sapere	VERB	_	VerbForm=Inf	2	conj	_	KID=232-7|Relation=conj:reform
 11	se	se	SCONJ	_	_	12	mark	_	KID=232-8
 12	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	advcl	_	KID=232-9
 13	sicuramente	sicuramente	ADV	_	_	12	advmod	_	KID=232-10
@@ -2519,7 +2519,7 @@
 9	che	che	SCONJ	_	_	10	mark	_	KID=245-8
 10	esiste	esistere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	KID=245-9
 11	abbiamo	avere	AUX	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	KID=245-10
-12	risolto	risolvere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	conj:reform	_	KID=245-11|Relation=conj:reform
+12	risolto	risolvere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	conj	_	KID=245-11|Relation=conj:reform
 13	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	KID=245-12
 14	nostro	nostro	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	KID=245-13
 15	problema	problema	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	End=581.55|Intonation=falling|KID=245-14
@@ -2948,7 +2948,7 @@
 1	da	da	ADP	_	_	3	case	_	KID=289-0a
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=289-0b
 3	giordania	Giordania	PROPN	_	Gender=Fem|Number=Sing	0	root	_	KID=289-1|PaceSlow=Yes
-4	parte	parte	NOUN	_	Gender=Fem|Number=Sing	3	conj:reform	_	KID=289-2|PaceSlow=Yes|Relation=conj:reform
+4	parte	parte	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	KID=289-2|PaceSlow=Yes|Relation=conj:reform
 5-6	del	_	_	_	_	_	_	_	KID=289-3|PaceSlow=Yes
 5	di	di	ADP	_	_	7	case	_	KID=289-3a
 6	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=289-3b
@@ -2957,13 +2957,13 @@
 8	di	di	ADP	_	_	10	case	_	KID=289-5a
 9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=289-5b
 10	sinai	Sinai	PROPN	_	Gender=Masc|Number=Plur	7	nmod	_	KID=289-6|PaceSlow=Yes
-11	israele	Israele	PROPN	_	Number=Sing	3	conj:reform	_	KID=289-7|PaceSlow=Yes|Relation=conj:reform
+11	israele	Israele	PROPN	_	Number=Sing	3	conj	_	KID=289-7|PaceSlow=Yes|Relation=conj:reform
 12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	KID=289-8|PaceSlow=Yes
 13	po'	poco	ADV	_	_	16	advmod	_	KID=289-9|PaceSlow=Yes
 14-15	del	_	_	_	_	_	_	_	KID=289-10|PaceSlow=Yes
 14	di	di	ADP	_	_	16	case	_	KID=289-10a
 15	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	KID=289-10b
-16	x	x	X	_	_	3	conj:reform	_	KID=289-11|PaceSlow=Yes|Unintelligible=Yes|Relation=conj:reform
+16	x	x	X	_	_	3	conj	_	KID=289-11|PaceSlow=Yes|Unintelligible=Yes|Relation=conj:reform
 17	in	in	ADP	_	_	18	case	_	KID=289-12
 18	arabia	Arabia	PROPN	_	Gender=Fem|Number=Sing	16	obl	_	KID=289-13
 19	saudita	Saudita	PROPN	_	Gender=Fem|Number=Sing	18	amod	_	End=692.816|Intonation=weakly_rising|KID=289-14
@@ -3132,7 +3132,7 @@
 10	distinta	distinto	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	KID=308-1
 11	naturalmente	naturalmente	ADV	_	_	13	advmod	_	KID=308-2
 12	si	si	PRON	_	Person=3|PronType=Prs	13	expl:impers	_	KID=308-3
-13	pone	porre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj:reform	_	KID=308-4|Relation=conj:reform
+13	pone	porre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	KID=308-4|Relation=conj:reform
 14	sempre	sempre	ADV	_	_	13	advmod	_	KID=308-5
 15	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	KID=308-6
 16	problema	problema	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	KID=308-7
@@ -3333,7 +3333,7 @@
 6	tre	tre	DET	_	NumType=Card	7	nummod	_	KID=324-4
 7	fasi	fase	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	KID=324-5|PauseAfter=Yes
 8	per	per	ADP	_	_	9	case	_	KID=324-7
-9	comodità	comodità	NOUN	_	Gender=Fem	3	conj:reform	_	KID=324-8|Relation=conj:reform
+9	comodità	comodità	NOUN	_	Gender=Fem	3	conj	_	KID=324-8|Relation=conj:reform
 10	che	che	SCONJ	_	PronType=Rel	11	nsubj	_	KID=324-9
 11	fanno	fare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	KID=324-10
 12	comodo	comodo	ADJ	_	Gender=Masc|Number=Sing	11	obj	_	KID=324-11
@@ -3546,7 +3546,7 @@
 2	periodo	periodo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=346-1
 3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	KID=346-2
 4	primi	primo	DET	_	Gender=Masc|Number=Plur|NumType=Ord	5	amod	_	KID=346-3
-5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	2	conj:reform	_	KID=346-4|PauseAfter=Yes|Relation=conj:reform
+5	anni	anno	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	KID=346-4|PauseAfter=Yes|Relation=conj:reform
 6-7	dell'	_	_	_	_	_	_	_	KID=346-6|Truncated=Yes
 6	di	di	ADP	_	_	8	case	_	KID=346-6a
 7	l'	il	DET	_	_	8	det	_	KID=346-6b
@@ -3578,7 +3578,7 @@
 6	definizione	definizione	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	Begin=851.483|KID=349-0
 7	precisa	preciso	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	KID=349-1
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=349-2|Prolonged=Yes
-9	termine	termine	NOUN	_	Gender=Masc|Number=Sing	6	conj:reform	_	KID=349-3|Relation=conj:reform
+9	termine	termine	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	KID=349-3|Relation=conj:reform
 10	preciso	preciso	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	End=854.826|KID=349-4
 
 # sent_id = TOD1005bis_350_351_352
@@ -3681,7 +3681,7 @@
 10	professor	professore	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	KID=359-9
 11	marroni	Marroni	PROPN	_	_	10	nmod	_	KID=359-10
 12	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	KID=359-11
-13	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj:reform	_	KID=359-12|Relation=conj:reform
+13	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	KID=359-12|Relation=conj:reform
 14	che	che	SCONJ	_	_	16	mark	_	KID=359-13
 15	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	KID=359-14
 16	periodo	periodo	NOUN	_	Gender=Masc|Number=Sing	13	ccomp	_	KID=359-15
@@ -3775,7 +3775,7 @@
 5	pre	pre	ADJ	_	_	6	amod	_	KID=368-3|PauseAfter=Yes
 6	islamico	islamico	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	KID=368-5
 7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=368-6
-8	primo	primo	PRON	_	Gender=Masc|Number=Sing|NumType=Ord	1	conj:reform	_	End=899.122|Intonation=falling|KID=368-7|Relation=conj:reform
+8	primo	primo	PRON	_	Gender=Masc|Number=Sing|NumType=Ord	1	conj	_	End=899.122|Intonation=falling|KID=368-7|Relation=conj:reform
 
 # sent_id = TOD1005bis_369_370
 # text = quando quando è bi~ avevamo detto quando è o mi dite quando nasce la lingua araba o mi dite quand' é la prima attestazione
@@ -3833,7 +3833,7 @@
 8	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=374-2b
 9	trecentoventotto	trecentoventotto	NUM	_	Gender=Masc|Number=Sing	6	obl	_	End=916.28|Intonation=falling|KID=374-3|Prolonged=Yes
 10	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	iobj	_	Begin=916.335|KID=375-0
-11	sembra	sembrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj:reform	_	End=917.202|Intonation=falling|KID=375-1|Prolonged=Yes|Relation=conj:reform
+11	sembra	sembrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	End=917.202|Intonation=falling|KID=375-1|Prolonged=Yes|Relation=conj:reform
 12	avanti	avanti	ADV	_	_	15	case	_	Begin=917.365|KID=376-0|Volume=low
 13	e	e	CCONJ	_	_	15	cc	_	KID=376-1
 14	dopo	dopo	ADV	_	_	15	case	_	KID=376-2
@@ -4001,7 +4001,7 @@
 7	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	KID=390-15
 8	che	che	ADJ	_	PronType=Rel	9	det	_	KID=390-16
 9	cosa	cosa	NOUN	_	PronType=Int	10	mark	_	KID=390-17
-10	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj:reform	_	KID=390-18|Relation=conj:reform
+10	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	KID=390-18|Relation=conj:reform
 11	eccetera	eccetera	ADV	_	_	12	advmod	_	KID=390-19
 12	eccetera	eccetera	ADV	_	_	5	advmod	_	End=964.794|Intonation=weakly_rising|KID=390-20
 
@@ -4241,7 +4241,7 @@
 6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=404-5
 7	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	obj	_	KID=404-6
 8	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	iobj	_	KID=404-7
-9	basta	bastare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj:reform	_	KID=404-8|Relation=conj:reform
+9	basta	bastare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	KID=404-8|Relation=conj:reform
 10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=404-9
 11	registrazione	registrazione	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	KID=404-10
 12	di	di	ADP	_	_	13	case	_	KID=404-11
@@ -4326,7 +4326,7 @@
 1	allora	allora	ADV	_	_	3	advmod	_	Begin=1040.06|Intonation=falling|KID=411-0
 2	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	KID=411-1
 3	iscrizioni	iscrizione	NOUN	_	Gender=Fem|Number=Plur	0	root	_	KID=411-2|PauseAfter=Yes
-4	materiale	materiale	NOUN	_	Gender=Masc|Number=Sing	3	conj:reform	_	End=1042.34|Intonation=weakly_rising|KID=411-4|Relation=conj:reform
+4	materiale	materiale	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	End=1042.34|Intonation=weakly_rising|KID=411-4|Relation=conj:reform
 5	epigrafico	epigrafico	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	Begin=1047.098|Intonation=weakly_rising|KID=412-0
 6	okay	okay	INTJ	_	_	3	discourse	_	End=1048.697|Intonation=weakly_rising|KID=412-1
 
@@ -4398,15 +4398,15 @@
 # speaker_id = TO017
 1	mh	mh	INTJ	_	_	2	discourse	_	Begin=1063.355|Intonation=weakly_rising|KID=416-0
 2	gattini	gattini	NOUN	_	_	0	root	_	KID=416-1
-3	miau	miau	INTJ	_	_	2	conj:reform	_	KID=416-2|PaceFast=Yes|Relation=conj:reform
-4	miau	miau	INTJ	_	_	2	conj:reform	_	KID=416-3|PaceFast=Yes|Relation=conj:reform
-5	miau	miau	INTJ	_	_	2	conj:reform	_	KID=416-4|PaceFast=Yes|Relation=conj:reform
-6	t	t	NOUN	_	_	2	conj:reform	_	KID=416-5|PaceFast=Yes|Relation=conj:reform
-7	v	v	NOUN	_	_	2	conj:reform	_	KID=416-6|PaceFast=Yes|Relation=conj:reform
-8	b	b	NOUN	_	_	2	conj:reform	_	KID=416-7|PaceFast=Yes|Relation=conj:reform
-9	ics	ics	NOUN	_	_	2	conj:reform	_	KID=416-8|PaceFast=Yes|Relation=conj:reform
-10	ics	ics	NOUN	_	_	2	conj:reform	_	KID=416-9|PaceFast=Yes|Relation=conj:reform
-11	ics	ics	NOUN	_	_	2	conj:reform	_	End=1066.324|KID=416-10|PaceFast=Yes|Relation=conj:reform
+3	miau	miau	INTJ	_	_	2	conj	_	KID=416-2|PaceFast=Yes|Relation=conj:reform
+4	miau	miau	INTJ	_	_	2	conj	_	KID=416-3|PaceFast=Yes|Relation=conj:reform
+5	miau	miau	INTJ	_	_	2	conj	_	KID=416-4|PaceFast=Yes|Relation=conj:reform
+6	t	t	NOUN	_	_	2	conj	_	KID=416-5|PaceFast=Yes|Relation=conj:reform
+7	v	v	NOUN	_	_	2	conj	_	KID=416-6|PaceFast=Yes|Relation=conj:reform
+8	b	b	NOUN	_	_	2	conj	_	KID=416-7|PaceFast=Yes|Relation=conj:reform
+9	ics	ics	NOUN	_	_	2	conj	_	KID=416-8|PaceFast=Yes|Relation=conj:reform
+10	ics	ics	NOUN	_	_	2	conj	_	KID=416-9|PaceFast=Yes|Relation=conj:reform
+11	ics	ics	NOUN	_	_	2	conj	_	End=1066.324|KID=416-10|PaceFast=Yes|Relation=conj:reform
 
 # sent_id = TOD1005bis_417
 # text = cose di questo tipo
@@ -4428,7 +4428,7 @@
 # jefferson_text = qualunque cosa. (.) ci va bene tutto
 # speaker_id = TO017
 1	qualunque	qualunque	DET	_	PronType=Ind	2	det	_	Begin=1068.974|KID=419-0
-2	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	4	conj:reform	_	Intonation=falling|KID=419-1|PauseAfter=Yes|Relation=conj:reform
+2	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	Intonation=falling|KID=419-1|PauseAfter=Yes|Relation=conj:reform
 3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	expl	_	KID=419-3
 4	va	andare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=419-4
 5	bene	bene	ADV	_	_	4	advmod	_	KID=419-5
@@ -4477,7 +4477,7 @@
 4	poi	poi	ADV	_	_	7	advmod	_	KID=420-6
 5	che	che	ADJ	_	_	6	det	_	KID=420-7
 6	cosa	cosa	PRON	_	PronType=Int	7	obj	_	KID=420-8
-7	abbiamo	avere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj:reform	_	End=1078.188|Intonation=rising|KID=420-9|Relation=conj:reform
+7	abbiamo	avere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	End=1078.188|Intonation=rising|KID=420-9|Relation=conj:reform
 
 # sent_id = TOD1005bis_421
 # text = come documenti della lingua araba del passato
@@ -4511,7 +4511,7 @@
 4	poesia	poesia	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=423-3
 5	okay	okay	INTJ	_	_	4	discourse	_	Intonation=falling|KID=423-4
 6	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=423-5
-7	poesia	poesia	NOUN	_	Gender=Fem|Number=Sing	4	conj:reform	_	End=1087.673|KID=423-6|Prolonged=Yes|Relation=conj:reform
+7	poesia	poesia	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	End=1087.673|KID=423-6|Prolonged=Yes|Relation=conj:reform
 
 # sent_id = TOD1005bis_424_425
 # text = e l' altro testo direi piuttosto importante del passato della lingua araba
@@ -4623,7 +4623,7 @@
 2	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	KID=431-1|Truncated=Yes
 3	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Intonation=falling|KID=431-2
 4	poca	poco	DET	_	PronType=Ind	5	det	_	KID=431-3
-5	roba	roba	NOUN	_	Gender=Fem|Number=Sing	3	conj:reform	_	End=1115.947|KID=431-4|Relation=conj:reform
+5	roba	roba	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	End=1115.947|KID=431-4|Relation=conj:reform
 
 # sent_id = TOD1005bis_432
 # text = poi se abbiamo proprio fortuna ma non non insomma non le ho citate
@@ -4691,7 +4691,7 @@
 7	se	se	SCONJ	_	_	8	mark	_	KID=436-5
 8	dici	dire	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	KID=436-6
 9	albicocche	albicocca	NOUN	_	_	8	obj	_	KID=436-7
-10	dico	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	conj:reform	_	KID=436-8|Relation=conj:reform
+10	dico	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	8	conj	_	KID=436-8|Relation=conj:reform
 11	no~	X	X	_	_	2	dep	_	Interrupted=Yes|KID=436-9
 12	albicocche	albicocca	ADV	_	_	8	obj	_	KID=436-10
 13	no	no	ADV	_	_	12	advmod	_	End=1133.071|KID=436-11
@@ -4748,7 +4748,7 @@
 # jefferson_text = poesia corano e quindi xxx
 # speaker_id = TO017
 1	poesia	poesia	NOUN	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=440-5
-2	corano	Corano	PROPN	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	conj:reform	_	KID=440-6|Relation=conj:reform
+2	corano	Corano	PROPN	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	KID=440-6|Relation=conj:reform
 3	e	e	CCONJ	_	_	5	cc	_	KID=440-7
 4	quindi	quindi	CCONJ	_	_	5	cc	_	KID=440-8
 5	x	x	X	_	_	2	conj	_	End=1149.758|KID=440-9|Unintelligible=Yes
@@ -4795,7 +4795,7 @@
 3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=444-2
 4	scrivo	scrivere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=444-3
 5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=444-4
-6	scrivete	scrivere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj:reform	_	KID=444-5|Relation=conj:reform
+6	scrivete	scrivere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	KID=444-5|Relation=conj:reform
 7	voi	voi	PRON	_	Number=Plur|Person=2|PronType=Prs	6	nsubj	_	KID=444-6
 8	testi	testo	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	KID=444-7
 9	grammatici	grammatico	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	End=1161.009|Intonation=weakly_rising|KID=444-8
@@ -4810,10 +4810,10 @@
 4	primo	primo	DET	_	Gender=Masc|Number=Sing|NumType=Ord	0	root	_	KID=445-3
 5	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	KID=445-4
 6	più	più	ADV	_	_	7	advmod	_	KID=445-5
-7	famoso	famoso	ADJ	_	Gender=Masc|Number=Sing	4	conj:reform	_	KID=445-6|Relation=conj:reform
+7	famoso	famoso	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	KID=445-6|Relation=conj:reform
 8	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=445-7
 9	più	più	ADV	_	_	10	advmod	_	KID=445-8
-10	grande	grande	ADJ	_	Number=Plur	4	conj:reform	_	KID=445-9|Relation=conj:reform
+10	grande	grande	ADJ	_	Number=Plur	4	conj	_	KID=445-9|Relation=conj:reform
 11	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	4	nmod	_	KID=445-10
 12	che	che	SCONJ	_	PronType=Rel	14	nsubj	_	End=1165.405|KID=445-11
 13	eh	eh	INTJ	_	_	14	discourse	_	Begin=1165.711|KID=446-0|Prolonged=Yes
@@ -4920,7 +4920,7 @@
 14	non	non	ADV	_	PronType=Neg	15	advmod	_	KID=455-13
 15	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	End=1198.143|KID=455-14
 16	arabo	arabo	ADJ	_	Gender=Masc|Number=Sing	15	nsubj	_	Begin=1198.447|KID=456-0
-17	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	conj:reform	_	KID=456-1|PauseAfter=Yes|Relation=conj:reform
+17	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	conj	_	KID=456-1|PauseAfter=Yes|Relation=conj:reform
 18	eh	eh	INTJ	_	_	17	discourse	_	End=1199.961|Intonation=weakly_rising|KID=456-3
 19	x	x	X	_	_	17	nsubj	_	Begin=1200.905|End=1201.686|KID=457-0|Unintelligible=Yes
 
@@ -4956,11 +4956,11 @@
 5	a	a	ADP	_	_	7	case	_	KID=461-3a
 6	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=461-3b
 7	perfezione	perfezione	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	Intonation=weakly_rising|KID=461-4
-8	scrisse	scrivere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj:reform	_	KID=461-5|Relation=conj:reform
+8	scrisse	scrivere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	KID=461-5|Relation=conj:reform
 9	poi	poi	ADV	_	_	8	advmod	_	KID=461-6
 10	ce	ce	PRON	_	Number=Plur|Person=1|PronType=Prs	11	expl	_	KID=461-7
 11	ne	ne	PRON	_	PronType=Prs	12	expl	_	KID=461-8
-12	furono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj:reform	_	KID=461-9|Relation=conj:reform
+12	furono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	KID=461-9|Relation=conj:reform
 13	altri	altro	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	12	nsubj	_	Intonation=falling|KID=461-10|Prolonged=Yes
 14	che	che	SCONJ	_	PronType=Rel	15	nsubj	_	KID=461-11
 15	scrissero	scrivere	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	KID=461-12
@@ -5049,7 +5049,7 @@
 5	decostruzioni	decostruzione	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	KID=467-3
 6	diacroniche	diacronico	ADJ	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	amod	_	KID=467-4|PauseAfter=Yes
 7	okay	okay	INTJ	_	_	6	discourse	_	Intonation=weakly_rising|KID=467-7
-8	studiare	studiare	VERB	_	VerbForm=Inf	2	conj:reform	_	End=1232.165|Intonation=weakly_rising|KID=467-8|Relation=conj:reform
+8	studiare	studiare	VERB	_	VerbForm=Inf	2	conj	_	End=1232.165|Intonation=weakly_rising|KID=467-8|Relation=conj:reform
 
 # sent_id = TOD1005bis_468_469
 # text = a~ dalla comparazione dei dialetti moderni possiamo provare a ricostruire delle fonti antiche
@@ -5087,7 +5087,7 @@
 6	possiamo	potere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	KID=470-5
 7	usare	usare	VERB	_	VerbForm=Inf	0	root	_	KID=470-6
 8	ne	ne	PRON	_	PronType=Prs	9	expl	_	KID=470-7
-9	vediamo	vedere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	conj:reform	_	KID=470-8|Relation=conj:reform
+9	vediamo	vedere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	conj	_	KID=470-8|Relation=conj:reform
 10	subito	subito	ADV	_	_	9	advmod	_	KID=470-9
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=470-10
 12	esempio	esempio	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	KID=470-11
@@ -5161,7 +5161,7 @@
 5	a	a	ADP	_	_	6	case	_	KID=474-4
 6	noi	noi	PRON	_	Number=Plur|Person=1|PronType=Prs	8	iobj	_	KID=474-5
 7	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	8	expl	_	KID=474-6
-8	interessa	interessare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj:reform	_	End=1257.711|KID=474-7|Relation=conj:reform
+8	interessa	interessare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	End=1257.711|KID=474-7|Relation=conj:reform
 
 # sent_id = TOD1005bis_475
 # text = okay
@@ -5428,7 +5428,7 @@
 9	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=500-9|PauseAfter=Yes
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	KID=500-11
 11	po'	po'	ADJ	_	_	12	advmod	_	KID=500-12
-12	problematica	problematico	ADJ	_	Gender=Fem|Number=Sing	4	conj:reform	_	End=1326.055|Intonation=falling|KID=500-13|Relation=conj:reform
+12	problematica	problematico	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	End=1326.055|Intonation=falling|KID=500-13|Relation=conj:reform
 
 # sent_id = TOD1005bis_501_502
 # text = comunque questo monolito è stato mh trovato eh eh a kurk nel sud della turchia a x per questo si chiama monolito di kurk
@@ -5458,7 +5458,7 @@
 20	per	per	ADP	_	_	21	case	_	KID=502-16
 21	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	23	obl	_	KID=502-17
 22	si	si	PRON	_	Person=3|PronType=Prs	23	expl	_	KID=502-18
-23	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj:reform	_	KID=502-19|Relation=conj:reform
+23	chiama	chiamare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	KID=502-19|Relation=conj:reform
 24	monolito	monolito	NOUN	_	Gender=Masc|Number=Sing	23	nsubj	_	KID=502-20
 25	di	di	ADP	_	_	26	case	_	KID=502-21
 26	kurk	Kurk	PROPN	_	_	24	nmod	_	End=1333.794|KID=502-22
@@ -5728,7 +5728,7 @@
 8-9	delle	_	_	_	_	_	_	_	KID=526-3
 8	di	di	ADP	_	_	10	case	_	KID=526-3a
 9	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	KID=526-3b
-10	fonti	fonte	NOUN	_	Gender=Fem|Number=Plur	3	conj:reform	_	KID=526-4|Relation=conj:reform
+10	fonti	fonte	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	KID=526-4|Relation=conj:reform
 11	su	su	ADP	_	_	12	case	_	KID=526-5
 12	pietra	pietra	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	KID=526-6
 13	che	che	SCONJ	_	PronType=Rel	14	nsubj	_	KID=526-7
@@ -5773,7 +5773,7 @@
 19	ne	ne	PRON	_	_	18	expl	_	KID=528-16b
 20	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	KID=528-17
 21	pezzettino	pezzo	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	End=1400.233|Intonation=weakly_rising|KID=528-18
-22	fare	fare	VERB	_	VerbForm=Inf	18	conj:reform	_	Begin=1400.399|KID=529-0|Relation=conj:reform
+22	fare	fare	VERB	_	VerbForm=Inf	18	conj	_	Begin=1400.399|KID=529-0|Relation=conj:reform
 23	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	KID=529-1
 24	test	test	NOUN	_	Gender=Masc	22	obj	_	KID=529-2
 25-26	del	_	_	_	_	_	_	_	KID=529-3
@@ -5829,7 +5829,7 @@
 10	non	non	ADV	_	PronType=Neg	13	advmod	_	KID=531-9
 11	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obj	_	KID=531-10
 12	potete	potere	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	aux	_	KID=531-11
-13	fare	fare	VERB	_	VerbForm=Inf	4	conj:reform	_	End=1411.564|Intonation=falling|KID=531-12|Relation=conj:reform
+13	fare	fare	VERB	_	VerbForm=Inf	4	conj	_	End=1411.564|Intonation=falling|KID=531-12|Relation=conj:reform
 
 # sent_id = TOD1005bis_532
 # text = perché la materia non vivente non può essere datata col carbonio quattordici
@@ -5996,7 +5996,7 @@
 1	eh	eh	INTJ	_	_	6	discourse	_	Begin=1453.343|End=1453.825|KID=552-0|Prolonged=Yes
 2-3	della	_	_	_	_	_	_	_	Begin=1454.187|End=1454.843|KID=553-0
 2	di	di	ADP	_	_	3	case	_	KID=553-0a
-3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	conj:reform	_	KID=553-0b|Relation=conj:reform
+3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	conj	_	KID=553-0b|Relation=conj:reform
 4	un	un	DET	_	_	6	reparandum	_	Begin=1455.006|Interrupted=Yes|KID=554-0
 5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	KID=554-1
 6	migliaio	migliaio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=554-2
@@ -6081,8 +6081,8 @@
 7	canta	cantare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=559-6
 8	se	se	PRON	_	_	10	expl:impers	_	KID=559-7
 9	la	il	PRON	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	obj	_	KID=559-8
-10	suona	suonare	VERB	_	Gender=Fem|Number=Sing	7	conj:reform	_	KID=559-9|Relation=conj:reform
-11	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj:reform	_	KID=559-10|Relation=conj:reform
+10	suona	suonare	VERB	_	Gender=Fem|Number=Sing	7	conj	_	KID=559-9|Relation=conj:reform
+11	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	KID=559-10|Relation=conj:reform
 12	come	come	ADV	_	_	13	mark	_	KID=559-11
 13	sono	essere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	11	advcl	_	KID=559-12
 14	bravo	bravo	ADJ	_	Gender=Masc|Number=Sing	13	obj	_	End=1478.205|KID=559-13
@@ -6155,7 +6155,7 @@
 3	che	che	SCONJ	_	PronType=Rel	2	fixed	_	KID=565-2
 4	sì	sì	ADV	_	_	3	advmod	_	KID=565-3
 5	potrebbe	potere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	KID=565-4
-6	essere	essere	VERB	_	VerbForm=Inf	2	conj:reform	_	KID=565-5|Relation=conj:reform
+6	essere	essere	VERB	_	VerbForm=Inf	2	conj	_	KID=565-5|Relation=conj:reform
 7	che	che	SCONJ	_	PronType=Rel	6	fixed	_	KID=565-6
 8	no	no	ADV	_	_	7	advmod	_	KID=565-7
 
@@ -6252,7 +6252,7 @@
 # text = quest~ un tipo è andato da da da questo re e gli ha portato cammelle e giovani cammelli
 # jefferson_text = quest~ un tipo è andato da da (da) questo re e gli ha portato. | <cammelle> | e | <gio:vani cammelli>
 # speaker_id = TO017
-1	quest~	X	X	_	_	5	conj:reform	_	Begin=1513.691|Interrupted=Yes|KID=572-0|Relation=conj:reform
+1	quest~	X	X	_	_	5	conj	_	Begin=1513.691|Interrupted=Yes|KID=572-0|Relation=conj:reform
 2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	KID=572-1
 3	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	KID=572-2
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	KID=572-3
@@ -6343,7 +6343,7 @@
 2	di	di	ADP	_	_	3	case	_	KID=585-1
 3	cammello	cammello	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	KID=585-2
 4	giovane	giovane	ADJ	_	Number=Sing	5	amod	_	KID=585-3
-5	cammello	cammello	NOUN	_	Gender=Masc|Number=Sing	1	conj:reform	_	End=1532.949|Intonation=falling|KID=585-4|Relation=conj:reform
+5	cammello	cammello	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	End=1532.949|Intonation=falling|KID=585-4|Relation=conj:reform
 
 # sent_id = TOD1005bis_586
 # text = okay
@@ -6864,7 +6864,7 @@
 5	uno	uno	PRON	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	obl	_	KID=637-11
 6	almeno	almeno	ADV	_	Gender=Masc|Number=Sing	3	advmod	_	KID=637-12
 7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	KID=637-13
-8	regno	regno	NOUN	_	Gender=Masc|Number=Sing	3	conj:reform	_	KID=637-14|Relation=conj:reform
+8	regno	regno	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	KID=637-14|Relation=conj:reform
 9	di	di	ADP	_	_	10	case	_	KID=637-15
 10	saba	Saba	PROPN	_	Gender=Fem|Number=Sing	8	nmod	_	End=1660.35|Intonation=falling|KID=637-16
 
@@ -7052,7 +7052,7 @@
 9	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	KID=668-4
 10	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	9	obj	_	Intonation=falling|KID=668-5|PauseAfter=Yes
 11	non	non	ADV	_	PronType=Neg	12	advmod	_	KID=668-7
-12	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj:reform	_	KID=668-8|Relation=conj:reform
+12	so	sapere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	KID=668-8|Relation=conj:reform
 13	se	se	SCONJ	_	_	15	mark	_	KID=668-9
 14	si	si	PRON	_	Person=3|PronType=Prs	15	expl:impers	_	KID=668-10
 15	vede	vedere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	End=1705.27|KID=668-11
@@ -7104,7 +7104,7 @@
 10	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	11	expl	_	KID=673-9|SpaceAfter=No
 11	entrava	entrare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	KID=673-10
 12	nie~	niente	NOUN	_	_	11	obj	_	Interrupted=Yes|KID=673-11
-13	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj:reform	_	KID=673-12|Relation=conj:reform
+13	era	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	KID=673-12|Relation=conj:reform
 14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	KID=673-13
 15	lingua	lingua	NOUN	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	13	nsubj	_	KID=673-14
 16	semitica	semitico	ADJ	_	Gender=Fem	15	amod	_	KID=673-15|PauseAfter=Yes
@@ -7238,7 +7238,7 @@
 1	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	Begin=1746.989|KID=688-0|PaceFast=Yes
 2	stanno	stare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=688-1|PaceFast=Yes
 3	bene	bene	ADV	_	_	2	advmod	_	KID=688-2|PaceFast=Yes
-4	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj:reform	_	KID=688-3|PaceFast=Yes|Relation=conj:reform
+4	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	KID=688-3|PaceFast=Yes|Relation=conj:reform
 5	ricchi	ricco	ADJ	_	Gender=Masc|Number=Plur	4	obj	_	Intonation=falling|KID=688-4|PaceFast=Yes
 6	perché	perché	ADV	_	_	7	mark	_	KID=688-5
 7	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	KID=688-6
@@ -7325,7 +7325,7 @@
 3	sono	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=695-2|PaceSlow=Yes
 4	arricchiti	arricchire	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=695-3|PaceSlow=Yes
 5	son	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	aux	_	KID=695-4|PaceFast=Yes
-6	diventati	diventare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj:reform	_	KID=695-5|PaceFast=Yes|Relation=conj:reform
+6	diventati	diventare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	KID=695-5|PaceFast=Yes|Relation=conj:reform
 7	ricchi	ricco	ADJ	_	Gender=Masc|Number=Plur|PronType=Ind	6	xcomp	_	KID=695-6|PaceFast=Yes
 8	spacciando	spacciare	VERB	_	VerbForm=Ger	6	advcl	_	End=1770.661|Intonation=weakly_rising|KID=695-7|PaceSlow=Yes
 9	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	8	obj	_	Begin=1774.129|End=1774.559|Intonation=falling|KID=696-0
@@ -7505,7 +7505,7 @@
 3	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	KID=715-2
 4	volevano	volere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=715-3
 5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=715-4
-6	fate	fare	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj:reform	_	KID=715-5|Relation=conj:reform
+6	fate	fare	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	KID=715-5|Relation=conj:reform
 7	passare	passare	VERB	_	VerbForm=Inf	6	xcomp	_	KID=715-6
 8	così	così	ADV	_	_	9	advmod	_	KID=715-7
 9	prendete	prendere	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	KID=715-8
@@ -7582,7 +7582,7 @@
 4	serie	serie	NOUN	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	nsubj	_	KID=722-3
 5	di	di	ADP	_	_	6	case	_	KID=722-4
 6	parole	parola	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	Intonation=weakly_rising|KID=722-5
-7	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj:reform	_	KID=722-6|Relation=conj:reform
+7	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	KID=722-6|Relation=conj:reform
 8	una	una	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	7	nsubj	_	KID=722-7
 9-10	delle	_	_	_	_	_	_	_	KID=722-8
 9	di	di	ADP	_	_	11	case	_	KID=722-8a
@@ -7756,7 +7756,7 @@
 3	lo	il	DET	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	det	_	Begin=1881.356|KID=739-0
 4	potete	potere	VERB	_	_	0	root	_	Interrupted=Yes|KID=739-1
 5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=739-2
-6	mettete	mettere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj:reform	_	KID=739-3|Relation=conj:reform
+6	mettete	mettere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	KID=739-3|Relation=conj:reform
 7	in	in	ADP	_	_	10	case	_	KID=739-4
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=739-5
 9	piccolo	piccolo	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	KID=739-6
@@ -7896,10 +7896,10 @@
 4	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	KID=748-2
 5	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	KID=748-3|Truncated=Yes
 6	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	KID=748-4
-7	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj:reform	_	KID=748-5|Relation=conj:reform
+7	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	KID=748-5|Relation=conj:reform
 8	non	non	ADV	_	PronType=Neg	10	advmod	_	KID=748-6
 9	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	KID=748-7
-10	velenoso	velenoso	ADJ	_	Gender=Masc|Number=Sing	2	conj:reform	_	End=1911.684|Intonation=weakly_rising|KID=748-8|Relation=conj:reform
+10	velenoso	velenoso	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	End=1911.684|Intonation=weakly_rising|KID=748-8|Relation=conj:reform
 
 # sent_id = TOD1005bis_749
 # text = lo potete masticare come un chewing gum
@@ -8035,13 +8035,13 @@
 7-8	glielo	_	_	_	_	_	_	_	KID=761-5|PaceFast=Yes
 7	glie	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	KID=761-5a
 8	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	KID=761-5b
-9	compravano	comprare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj:reform	_	KID=761-6|Relation=conj:reform
+9	compravano	comprare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	KID=761-6|Relation=conj:reform
 10	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	KID=761-7
 11	egizi	egizio	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	KID=761-8
 12-13	glielo	_	_	_	_	_	_	_	KID=761-9|PaceFast=Yes
 12	glie	gli	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl	_	KID=761-9a
 13	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	KID=761-9b
-14	compravano	comprare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj:reform	_	KID=761-10|Relation=conj:reform
+14	compravano	comprare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	KID=761-10|Relation=conj:reform
 15	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	KID=761-11
 16	romani	romano	NOUN	_	Gender=Masc|Number=Plur	14	nsubj	_	Intonation=falling|KID=761-12
 17	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	14	nsubj	_	End=1940.109|KID=761-13
@@ -8056,7 +8056,7 @@
 4	copti	copto	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	Intonation=falling|KID=762-3
 5	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	7	nsubj	_	KID=762-4
 6	gli	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	KID=762-5
-7	compravano	comprare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	conj:reform	_	KID=762-6|Relation=conj:reform
+7	compravano	comprare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	KID=762-6|Relation=conj:reform
 8	st'	questo	DET	_	PronType=Dem	9	det	_	KID=762-7|Truncated=Yes
 9	incenso	incenso	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	End=1942.669|KID=762-8
 
@@ -8107,7 +8107,7 @@
 14	sudarabico	sudarabico	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	KID=766-13
 15	antico	antico	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	KID=766-14
 16	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	17	obj	_	KID=766-15
-17	torniamo	tornare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	conj:reform	_	End=1957.681|Intonation=falling|KID=766-16|Relation=conj:reform
+17	torniamo	tornare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	End=1957.681|Intonation=falling|KID=766-16|Relation=conj:reform
 
 # sent_id = TOD1005bis_767
 # text = perché poi ci interessa anche dopo ma per ora
@@ -8181,7 +8181,7 @@
 8	tanto	tanto	DET	_	PronType=Ind	9	det	_	KID=775-3
 9	tempo	tempo	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	Intonation=falling|KID=775-4
 10	non	non	ADV	_	PronType=Neg	11	advmod	_	KID=775-5
-11	sappiamo	sapere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	conj:reform	_	KID=775-6|Relation=conj:reform
+11	sappiamo	sapere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	KID=775-6|Relation=conj:reform
 12	quanto	quanto	PRON	_	_	11	obj	_	KID=775-7
 13	ma	ma	CCONJ	_	_	14	cc	_	KID=775-8
 14	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	aux	_	End=1973.41|KID=775-9
@@ -8465,8 +8465,8 @@
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=797-6
 9	discendente	discendente	NOUN	_	Gender=Masc|Number=Sing	6	acl:relcl	_	KID=797-7
 10	antico	antico	ADJ	_	_	9	amod	_	Interrupted=Yes|KID=797-8
-11	discendente	discendente	NOUN	_	_	6	conj:reform	_	Interrupted=Yes|KID=797-9|Relation=conj:reform
-12	discendente	discendente	NOUN	_	Gender=Masc|Number=Sing	6	conj:reform	_	KID=797-10|Relation=conj:reform
+11	discendente	discendente	NOUN	_	_	6	conj	_	Interrupted=Yes|KID=797-9|Relation=conj:reform
+12	discendente	discendente	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	KID=797-10|Relation=conj:reform
 13	di	di	ADP	_	_	17	case	_	Interrupted=Yes|KID=797-11
 14	di	di	ADP	_	_	17	case	_	Interrupted=Yes|KID=797-12
 15	di	di	ADP	_	_	17	case	_	KID=797-13
@@ -8665,7 +8665,7 @@
 1	ancient	ancient	ADJ	_	_	0	root	_	Begin=2089.967|KID=817-0|PauseAfter=Yes
 2	north	north	ADJ	_	_	1	amod	_	KID=817-2|PauseAfter=Yes
 3	arabian	arabian	NOUN	_	_	1	amod	_	Intonation=falling|KID=817-4
-4	nordarabico	nordarabico	NOUN	_	Gender=Masc|Number=Sing	1	conj:reform	_	KID=817-5|Relation=conj:reform
+4	nordarabico	nordarabico	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	KID=817-5|Relation=conj:reform
 5	antico	antico	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	End=2092.672|Intonation=falling|KID=817-6
 
 # sent_id = TOD1005bis_818
@@ -8772,7 +8772,7 @@
 4	nessuno	nessuno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	7	nsubj	_	KID=830-3
 5	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	KID=830-4
 6	ancora	ancora	ADV	_	_	7	advmod	_	KID=830-5
-7	capito	capire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj:reform	_	KID=830-6|Relation=conj:reform
+7	capito	capire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	KID=830-6|Relation=conj:reform
 8	cosa	cosa	PRON	_	PronType=Int	7	obj	_	KID=830-7
 9	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	11	expl	_	KID=830-8|Truncated=Yes
 10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	KID=830-9
@@ -8812,7 +8812,7 @@
 28	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	29	det	_	KID=832-10|Truncated=Yes
 29	oman	Oman	PROPN	_	Gender=Masc	20	conj	_	KID=832-11
 30	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	obj	_	KID=832-12
-31	chiamiamo	chiamare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	conj:reform	_	KID=832-13|Relation=conj:reform
+31	chiamiamo	chiamare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	conj	_	KID=832-13|Relation=conj:reform
 32	nordarabico	nordarabico	ADJ	_	Gender=Masc|Number=Sing	31	xcomp	_	End=2126.45|Intonation=falling|KID=832-14
 
 # sent_id = TOD1005bis_833
@@ -8834,7 +8834,7 @@
 7	di	di	ADP	_	_	8	case	_	KID=834-6
 8	parentela	parentela	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	KID=834-7
 9	linguistica	linguistico	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	KID=834-8
-10	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj:reform	_	KID=834-9|Relation=conj:reform
+10	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	KID=834-9|Relation=conj:reform
 11	semplicemente	semplicemente	ADV	_	_	10	advmod	_	End=2130.487|KID=834-10
 
 # sent_id = TOD1005bis_835
@@ -9024,7 +9024,7 @@
 # speaker_id = TO017
 1	scrivevano	scrivere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Begin=2172.201|KID=851-0
 2	avevano	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	KID=851-1
-3	preso	prendere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj:reform	_	KID=851-2|Relation=conj:reform
+3	preso	prendere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	KID=851-2|Relation=conj:reform
 4	a	a	ADP	_	_	5	case	_	KID=851-3
 5	prestito	prestito	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	End=2174.051|KID=851-4
 6-7	delle	_	_	_	_	_	_	_	Begin=2175.021|End=2175.361|KID=852-0
@@ -9179,7 +9179,7 @@
 4	tizio	tizio	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	KID=866-6
 5	caio	caio	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	End=2210.723|Intonation=weakly_rising|KID=866-7
 6	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	Begin=2210.935|KID=867-0
-7	stato	essere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj:reform	_	KID=867-1|Relation=conj:reform
+7	stato	essere	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	KID=867-1|Relation=conj:reform
 8	qui	qui	ADV	_	_	7	advmod	_	End=2211.811|Intonation=weakly_rising|KID=867-2
 9	a	a	ADP	_	_	10	mark	_	Begin=2212.813|KID=868-0
 10	pascolare	pascolare	VERB	_	VerbForm=Inf	7	xcomp	_	End=2214.662|KID=868-1|Prolonged=Yes
@@ -9196,7 +9196,7 @@
 4	non	non	ADV	_	PronType=Neg	7	advmod	_	KID=870-3
 5	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	KID=870-4|Truncated=Yes
 6	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	KID=870-5
-7	trovata	trovare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	conj:reform	_	End=2217.839|KID=870-6|Relation=conj:reform
+7	trovata	trovare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	End=2217.839|KID=870-6|Relation=conj:reform
 
 # sent_id = TOD1005bis_871
 # text = e speriamo che dio ce la mandi buona
@@ -9224,7 +9224,7 @@
 7	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	reparandum	_	KID=872-6|Prolonged=Yes
 8	il	il	DET	_	_	10	det	_	Interrupted=Yes|KID=872-7
 9	di	di	X	_	_	10	case	_	End=2222.482|KID=872-8
-10	tenore	tenore	NOUN	_	Gender=Masc|Number=Sing	5	conj:reform	_	Begin=2222.534|KID=873-0|Relation=conj:reform
+10	tenore	tenore	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	Begin=2222.534|KID=873-0|Relation=conj:reform
 11-12	delle	_	_	_	_	_	_	_	KID=873-1
 11	di	di	ADP	_	_	13	case	_	KID=873-1a
 12	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	KID=873-1b
@@ -9270,7 +9270,7 @@
 7	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	KID=876-6
 8	forse	forse	ADV	_	_	10	advmod	_	KID=876-7
 9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=876-8
-10	specie	specie	NOUN	_	Gender=Fem	3	conj:reform	_	KID=876-9|Relation=conj:reform
+10	specie	specie	NOUN	_	Gender=Fem	3	conj	_	KID=876-9|Relation=conj:reform
 11	di	di	ADP	_	_	12	case	_	KID=876-10
 12	rituale	rituale	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	End=2234.487|Intonation=weakly_rising|KID=876-11
 
@@ -9310,7 +9310,7 @@
 7	pratico	pratico	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	KID=879-6
 8	magari	magari	ADV	_	_	10	advmod	_	KID=879-7
 9	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	KID=879-8
-10	facevano	fare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	conj:reform	_	KID=879-9|Relation=conj:reform
+10	facevano	fare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	KID=879-9|Relation=conj:reform
 11	a	a	ADP	_	_	12	case	_	KID=879-10
 12	fine	fine	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	KID=879-11
 13	scaramantico	scaramantico	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	KID=879-12|PaceSlow=Yes
@@ -9363,7 +9363,7 @@
 5	ce	ce	PRON	_	Number=Plur|Person=1|PronType=Prs	7	expl	_	KID=882-4
 6	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obj	_	KID=882-5|Truncated=Yes
 7	aveva	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	KID=882-6
-8	aveva	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj:reform	_	KID=882-7|Relation=conj:reform
+8	aveva	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	KID=882-7|Relation=conj:reform
 9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=882-8
 10	funzione	funzione	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	KID=882-9
 11	magico	magico	ADJ	_	Number=Sing	10	amod	_	KID=882-10
@@ -9614,7 +9614,7 @@
 14	raccontare	raccontare	VERB	_	VerbForm=Inf	10	acl:relcl	_	Intonation=falling|KID=905-28
 15	molti	molto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	17	nsubj	_	KID=905-29
 16	non	non	ADV	_	PronType=Neg	17	advmod	_	KID=905-30
-17	sarebbero	essere	AUX	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj:reform	_	KID=905-31|Relation=conj:reform
+17	sarebbero	essere	AUX	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	KID=905-31|Relation=conj:reform
 18	d'	di	ADP	_	_	19	case	_	KID=905-32|Truncated=Yes
 19	accordo	accordo	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	End=2314.255|Intonation=weakly_rising|KID=905-33
 
@@ -9715,7 +9715,7 @@
 2	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=911-11
 3	guardate	guardare	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	KID=911-12
 4	ho	avere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	KID=911-13
-5	trovato	trovare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj:reform	_	KID=911-14|Relation=conj:reform
+5	trovato	trovare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	KID=911-14|Relation=conj:reform
 6	questa	questo	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	KID=911-15
 7	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	KID=911-16
 
@@ -9776,7 +9776,7 @@
 6	andavano	andare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	KID=914-5
 7	in	in	ADP	_	_	8	case	_	KID=914-6
 8	giro	giro	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	KID=914-7
-9	scrivevano	scrivere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	conj:reform	_	KID=914-8|Relation=conj:reform
+9	scrivevano	scrivere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	conj	_	KID=914-8|Relation=conj:reform
 10-11	sui	_	_	_	_	_	_	_	KID=914-9
 10	su	su	ADP	_	_	12	case	_	KID=914-9a
 11	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	KID=914-9b
@@ -9847,14 +9847,14 @@
 4	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	KID=921-2b
 5	collezioni	collezione	NOUN	_	_	2	obj	_	Interrupted=Yes|KID=921-3
 6	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	7	expl	_	KID=921-4
-7	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj:reform	_	KID=921-5|Relation=conj:reform
+7	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	KID=921-5|Relation=conj:reform
 8-9	delle	_	_	_	_	_	_	_	KID=921-6
 8	di	di	ADP	_	_	10	case	_	KID=921-6a
 9	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	KID=921-6b
 10	collezioni	collezione	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	KID=921-7
-11	abbiamo	avere	VERB	_	_	2	conj:reform	_	Interrupted=Yes|KID=921-8|Relation=conj:reform
+11	abbiamo	avere	VERB	_	_	2	conj	_	Interrupted=Yes|KID=921-8|Relation=conj:reform
 12	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	13	expl	_	KID=921-9
-13	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj:reform	_	KID=921-10|Relation=conj:reform
+13	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	KID=921-10|Relation=conj:reform
 14	talmente	talmente	ADV	_	_	13	advmod	_	KID=921-11
 15	tante	tanto	ADJ	_	PronType=Ind	13	nsubj	_	KID=921-12
 16	che	che	SCONJ	_	PronType=Rel	22	nsubj	_	KID=921-13
@@ -10007,7 +10007,7 @@
 6	significato	significato	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	KID=941-5
 7	okay	okay	INTJ	_	_	6	discourse	_	Intonation=weakly_rising|KID=941-6
 8	gli	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	KID=941-7
-9	danno	dare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj:reform	_	KID=941-8|Relation=conj:reform
+9	danno	dare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	KID=941-8|Relation=conj:reform
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=941-9
 11	nome	nome	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	KID=941-10
 12	soltanto	soltanto	ADV	_	_	15	advmod	_	KID=941-11
@@ -10028,14 +10028,14 @@
 7	queste	questo	DET	_	Gender=Fem|Number=Plur|PronType=Dem	8	det	_	KID=943-6
 8	lingue	lingua	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	KID=943-7
 9	naturalmente	naturalmente	ADV	_	_	4	advmod	_	KID=943-8
-10	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj:reform	_	KID=943-9|Relation=conj:reform
+10	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	KID=943-9|Relation=conj:reform
 11	iscrizioni	iscrizione	ADJ	_	Gender=Fem|Number=Plur	10	nsubj	_	KID=943-10
 12	molto	molto	ADV	_	_	13	advmod	_	KID=943-11
 13	povere	povero	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	KID=943-12
 14	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	KID=943-13
 15	materiale	materiale	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	KID=943-14
 16	linguistico	linguistico	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	KID=943-15
-17	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj:reform	_	KID=943-16|Relation=conj:reform
+17	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	KID=943-16|Relation=conj:reform
 18	poco	poco	ADV	_	_	17	advmod	_	End=2415.35|KID=943-17
 
 # sent_id = TOD1005bis_944_945
@@ -10323,7 +10323,7 @@
 4	datate	datare	VERB	_	Gender=Fem|Number=Plur	0	root	_	KID=970-3|PauseAfter=Yes
 5	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	KID=970-5
 6	più	più	ADV	_	_	7	advmod	_	KID=970-6
-7	vecchie	vecchio	ADJ	_	Gender=Fem|Number=Plur	4	conj:reform	_	End=2486.551|Intonation=weakly_rising|KID=970-7|Relation=conj:reform
+7	vecchie	vecchio	ADJ	_	Gender=Fem|Number=Plur	4	conj	_	End=2486.551|Intonation=weakly_rising|KID=970-7|Relation=conj:reform
 
 # sent_id = TOD1005bis_971_972
 # text = allora primo secolo avanti cristo
@@ -10364,13 +10364,13 @@
 7	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obj	_	KID=975-6
 8	sappiamo	sapere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	ccomp	_	KID=975-7
 9	potrebbero	potere	AUX	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	KID=975-8
-10	essercene	essere	VERB	_	_	8	conj:reform	_	KID=975-9|Relation=conj:reform
+10	essercene	essere	VERB	_	_	8	conj	_	KID=975-9|Relation=conj:reform
 11	alcune	alcuno	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	10	nsubj	_	KID=975-10
 12	molto	molto	ADV	_	_	14	advmod	_	KID=975-11
 13	più	più	ADV	_	_	14	advmod	_	KID=975-12
 14	vecchie	vecchio	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	KID=975-13
 15	potrebbero	potere	AUX	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	KID=975-14
-16	essercene	essere	VERB	_	_	8	conj:reform	_	KID=975-15|Relation=conj:reform
+16	essercene	essere	VERB	_	_	8	conj	_	KID=975-15|Relation=conj:reform
 17	alcune	alcuno	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	16	nsubj	_	KID=975-16
 18	molto	molto	ADV	_	_	19	advmod	_	KID=975-17
 19	più	più	ADV	_	_	20	advmod	_	KID=975-18
@@ -10519,7 +10519,7 @@
 5	quell'	quello	DET	_	PronType=Dem	6	det	_	KID=992-4|Truncated=Yes
 6	alfabeto	alfabeto	NOUN	_	_	3	iobj	_	Interrupted=Yes|KID=992-5
 7	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=992-6
-8	diversa	diverso	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	conj:reform	_	Intonation=falling|KID=992-7|Relation=conj:reform
+8	diversa	diverso	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	conj	_	Intonation=falling|KID=992-7|Relation=conj:reform
 9	ma	ma	CCONJ	_	_	10	cc	_	KID=992-8
 10	assomiglia	assomigliare	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	conj	_	KID=992-9
 11	a	a	ADP	_	_	13	case	_	KID=992-10
@@ -10530,7 +10530,7 @@
 16	visto	vedere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	KID=992-15
 17	prima	prima	ADV	_	_	16	advmod	_	KID=992-16|PauseAfter=Yes
 18	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	19	det	_	KID=992-18|Truncated=Yes
-19	alfabeto	alfabeto	NOUN	_	Gender=Masc|Number=Sing	16	conj:reform	_	KID=992-19|Relation=conj:reform
+19	alfabeto	alfabeto	NOUN	_	Gender=Masc|Number=Sing	16	conj	_	KID=992-19|Relation=conj:reform
 20	sudarabico	sudarabico	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	End=2537.183|Intonation=weakly_rising|KID=992-20
 
 # sent_id = TOD1005bis_993
@@ -10722,7 +10722,7 @@
 5	addirittura	addirittura	ADV	_	_	1	advmod	_	KID=1011-3
 6	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	8	nsubj	_	KID=1011-4
 7	potrebbe	potere	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	KID=1011-5
-8	essere	essere	VERB	_	_	1	conj:reform	_	Interrupted=Yes|KID=1011-6|Relation=conj:reform
+8	essere	essere	VERB	_	_	1	conj	_	Interrupted=Yes|KID=1011-6|Relation=conj:reform
 
 # sent_id = TOD1005bis_1011b_1012_1013_1014_1015
 # text = questa iscrizione che è stata trovata a x potrebbe essere il primo esempio in questa lingua safaidica che alcuni dicono non tutti ma alcuni dicono che sia il primo esempio di arabo che noi abbiamo nella storia
@@ -10749,7 +10749,7 @@
 19	alcuni	alcuno	PRON	_	PronType=Ind	20	nsubj	_	KID=1012-5
 20	dicono	dire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	KID=1012-6
 21	non	non	ADV	_	PronType=Neg	22	advmod	_	KID=1012-7
-22	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	20	conj:reform	_	KID=1012-8|Relation=conj:reform
+22	tutti	tutto	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	20	conj	_	KID=1012-8|Relation=conj:reform
 23	ma	ma	CCONJ	_	_	24	cc	_	KID=1012-9
 24	alcuni	alcuno	PRON	_	PronType=Ind	25	nsubj	_	KID=1012-10
 25	dicono	dire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	End=2602.983|Intonation=weakly_rising|KID=1012-11
@@ -10867,7 +10867,7 @@
 12	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	KID=1025-2b
 13	arabi	arabo	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	KID=1025-3
 14	lui	egli	PRON	_	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	KID=1025-4
-15	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj:reform	_	KID=1025-5|Relation=conj:reform
+15	dice	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	KID=1025-5|Relation=conj:reform
 16-17	degli	_	_	_	_	_	_	_	KID=1025-6
 16	di	di	ADP	_	_	18	case	_	KID=1025-6a
 17	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	KID=1025-6b
@@ -11075,9 +11075,9 @@
 2	lingue	lingua	NOUN	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	nsubj	_	KID=1047-1
 3	qua	qua	ADV	_	_	2	advmod	_	KID=1047-2
 4	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	KID=1047-3
-5	safaitico	safaitico	NOUN	_	Gender=Masc|Number=Sing	2	conj:reform	_	KID=1047-4|Relation=conj:reform
+5	safaitico	safaitico	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	KID=1047-4|Relation=conj:reform
 6	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	KID=1047-5
-7	ismaico	ismaico	NOUN	_	Gender=Masc|Number=Sing	2	conj:reform	_	KID=1047-6|Relation=conj:reform
+7	ismaico	ismaico	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	KID=1047-6|Relation=conj:reform
 8	avevano	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=1047-7
 9	aq	aq	NOUN	_	_	8	obj	_	End=2706.109|KID=1047-8
 
@@ -11220,7 +11220,7 @@
 5	bell'	bello	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	KID=1061-4|Truncated=Yes
 6	articolo	articolo	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	KID=1061-5
 7	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	8	expl	_	KID=1061-6|Truncated=Yes
-8	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj:reform	_	KID=1061-7|Relation=conj:reform
+8	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	KID=1061-7|Relation=conj:reform
 9	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=1061-8
 10	ti	ti	NOUN	_	Number=Sing|Person=2|PronType=Prs	8	nsubj	_	KID=1061-9
 11	che	che	SCONJ	_	PronType=Rel	12	nsubj	_	KID=1061-10
@@ -11422,7 +11422,7 @@
 # speaker_id = TO017
 1	tutto	tutto	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	3	obj	_	Begin=2794.135|KID=1082-0
 2	dove	dove	PRON	_	_	3	advmod	_	KID=1082-1
-3	vedete	vedere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	conj:reform	_	KID=1082-2|Relation=conj:reform
+3	vedete	vedere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	7	conj	_	KID=1082-2|Relation=conj:reform
 4	in	in	ADP	_	_	5	case	_	KID=1082-3
 5	verde	verde	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	KID=1082-4
 6	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	7	expl	_	KID=1082-5|Truncated=Yes
@@ -11449,7 +11449,7 @@
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=1084-2
 4	verde	verde	ADJ	_	Number=Sing	0	root	_	End=2799.863|Intonation=weakly_rising|KID=1084-3
 5	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	Begin=2800.004|KID=1085-0
-6	arido	arido	ADJ	_	Gender=Masc|Number=Sing	4	conj:reform	_	End=2800.957|Intonation=falling|KID=1085-1|Relation=conj:reform
+6	arido	arido	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	End=2800.957|Intonation=falling|KID=1085-1|Relation=conj:reform
 
 # sent_id = TOD1005bis_1086_1087
 # text = c' era poco se non nulla
@@ -11612,12 +11612,12 @@
 6	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	KID=1099-5
 7	greci	greco	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	KID=1099-6
 8	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obj	_	KID=1099-7
-9	chiamavano	chiamare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj:reform	_	KID=1099-8|Relation=conj:reform
+9	chiamavano	chiamare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	KID=1099-8|Relation=conj:reform
 10	arabi	arabo	NOUN	_	Gender=Masc|Number=Plur|PronType=Ind	9	xcomp	_	Intonation=weakly_rising|KID=1099-9
 11	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	KID=1099-10
 12	romani	romano	NOUN	_	Gender=Masc|Number=Plur	14	nsubj	_	KID=1099-11
 13	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	obj	_	KID=1099-12
-14	chiamavano	chiamare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj:reform	_	KID=1099-13|Relation=conj:reform
+14	chiamavano	chiamare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	conj	_	KID=1099-13|Relation=conj:reform
 15	arabi	arabo	NOUN	_	Gender=Masc|Number=Plur|PronType=Ind	14	xcomp	_	End=2835.334|Intonation=weakly_rising|KID=1099-14
 
 # sent_id = TOD1005bis_1100_1101
@@ -11739,7 +11739,7 @@
 3	testimonianza	testimonianza	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	KID=1113-2
 4	di	di	ADP	_	_	5	case	_	KID=1113-3
 5	erodoto	Erodoto	PROPN	_	Gender=Masc|Number=Sing	3	nmod	_	Intonation=weakly_rising|KID=1113-4
-6	abbiamo	avere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj:reform	_	KID=1113-5|Relation=conj:reform
+6	abbiamo	avere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	KID=1113-5|Relation=conj:reform
 7	tutta	tutto	DET	_	PronType=Ind	9	det:predet	_	KID=1113-6
 8	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	KID=1113-7
 9	scritture	scrittura	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	KID=1113-8
@@ -11826,7 +11826,7 @@
 6	sud	sud	NOUN	_	Gender=Masc	3	nmod	_	KID=1122-3
 7	non	non	ADV	_	PronType=Neg	9	advmod	_	KID=1122-4
 8	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	KID=1122-5
-9	cuore	cuore	NOUN	_	Gender=Masc|Number=Sing	3	conj:reform	_	KID=1122-6|Relation=conj:reform
+9	cuore	cuore	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	KID=1122-6|Relation=conj:reform
 10-11	della	_	_	_	_	_	_	_	KID=1122-7
 10	di	di	ADP	_	_	12	case	_	KID=1122-7a
 11	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	KID=1122-7b
