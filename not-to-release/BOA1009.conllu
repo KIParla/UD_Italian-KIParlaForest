@@ -28,7 +28,7 @@
 8	se	se	SCONJ	CS	_	10	mark	_	KID=2-5
 9	voleva	volere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	KID=2-6
 10	far	fare	VERB	S	Gender=Fem|Number=Plur	3	advcl	_	KID=2-7
-11	mi	mi	PRON	S	Gender=Fem|Number=Plur	10	iobj	_	KID=2-7
+11	mi	mi	PRON	S	Gender=Fem|Number=Plur|PronType=Prs	10	iobj	_	KID=2-7
 12	da	da	ADP	E	_	13	case	_	KID=2-8
 13	correlatrice	correlatore	NOUN	S	Gender=Fem|Number=Sing	10	nmod	_	KID=2-9
 14	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	15	nsubj	_	KID=2-10
@@ -1759,7 +1759,7 @@
 2	anche	anche	ADV	B	_	6	advmod	_	KID=143-1|OverlappingGroup=71
 3	di	di	ADP	E	_	6	case	_	KID=143-2|OverlappingGroup=71
 4	esser	essere	VERB	S	Gender=Fem|Number=Plur	6	aux	_	KID=143-3|OverlappingGroup=71
-5	mi	mi	PRON	S	Gender=Fem|Number=Plur	4	expl	_	KID=143-3|OverlappingGroup=71
+5	mi	mi	PRON	S	Gender=Fem|Number=Plur|PronType=Prs	4	expl	_	KID=143-3|OverlappingGroup=71
 6	imbattuta	imbattere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	xcomp	_	KID=143-4|OverlappingGroup=71
 7	in	in	ADP	E	_	9	case	_	KID=143-5
 8	alcuni	alcuno	DET	DI	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	KID=143-6
@@ -1969,7 +1969,7 @@
 2	volevo	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	4	aux	_	KID=156-1|OverlappingGroup=82
 3	anche	anche	ADV	B	_	4	advmod	_	KID=156-2|OverlappingGroup=82
 4	metter	mettere	VERB	A	Number=Plur	0	root	_	KID=156-3|OverlappingGroup=82
-5	mi	mi	PRON	A	Number=Plur	4	expl	_	KID=156-3|OverlappingGroup=82
+5	mi	mi	PRON	A	Number=Sing|Person=1|PronType=Prs	4	expl	_	KID=156-3|OverlappingGroup=82
 6	in	in	ADP	S	Gender=Masc|Number=Sing	7	case	_	KID=156-4|OverlappingGroup=82,83
 7	contatto	contatto	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	KID=156-4|OverlappingGroup=82,83
 8	sia	sia	CCONJ	CC	_	11	cc	_	KID=156-5|OverlappingGroup=83
