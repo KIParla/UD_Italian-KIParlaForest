@@ -576,45 +576,44 @@
 1	sì	sì	ADV	B	_	0	root	_	Backchannel=BOA1009_46::1|Begin=109.675|End=109.961|Intonation=falling|KID=47-0|OverlappingGroup=23
 
 # sent_id = 48_50
-# text = perché comunque sia la professoressa rossi che la professoressa verdi {P} sia la mia scuola della lingua dei segni qua a bologna mi possono dare una mano quindi comunque materliali bibliografie cose
+# text = perché comunque sia la professoressa rossi che la professoressa verdi sia la mia scuola della lingua dei segni qua a bologna mi possono dare una mano quindi comunque materliali bibliografie cose
 # jefferson_text = [p]erché comunque sia la professoressa rossi che la professoressa verdi (.) sia la mia scuola della lingua dei segni qua a bologna mi possono dare una mano [quindi] comunque, materliali bibliograf[ie cose],
 # speaker_id = BO037
-1	perché	perché	SCONJ	CS	_	27	discourse	_	Begin=109.891|KID=48-0|OverlappingGroup=23
-2	comunque	comunque	ADV	B	_	27	discourse	_	KID=48-1
+1	perché	perché	SCONJ	CS	_	26	discourse	_	Begin=109.891|KID=48-0|OverlappingGroup=23
+2	comunque	comunque	ADV	B	_	26	discourse	_	KID=48-1
 3	sia	sia	CCONJ	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cc	_	KID=48-2
 4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	KID=48-3
-5	professoressa	professore	NOUN	S	Gender=Fem|Number=Sing	27	nsubj	_	KID=48-4
+5	professoressa	professore	NOUN	S	Gender=Fem|Number=Sing	26	nsubj	_	KID=48-4
 6	rossi	Rossi	PROPN	A	Gender=Masc|Number=Plur	5	flat:name	_	KID=48-5
 7	che	che	CCONJ	PR	PronType=Rel	9	cc	_	KID=48-6
 8	la	la	PRON	PC	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	iobj	_	Clitic=Yes|KID=48-7
 9	professoressa	professoressare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	KID=48-8
-10	verdi	Verdi	PROPN	S	Gender=Masc|Number=Plur	9	flat:name	_	KID=48-9
-11	{P}	_	_	_	_	_	_	_	Type=shortpause
-12	sia	essere	CCONJ	CC	_	15	cc	_	KID=48-11
-13	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	KID=48-12
-14	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	15	det:poss	_	KID=48-13
-15	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	KID=48-14
-16-17	della	_	_	_	_	_	_	_	KID=48-15
-16	di	di	ADP	E	_	18	case	_	KID=48-15a
-17	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	KID=48-15b
-18	lingua	lingua	NOUN	S	Gender=Fem|Number=Sing	15	nmod	_	KID=48-16
-19-20	dei	_	_	_	_	_	_	_	KID=48-17
-19	di	di	ADP	E	_	21	case	_	KID=48-17a
-20	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	KID=48-17b
-21	segni	segno	NOUN	S	Gender=Masc|Number=Plur	18	nmod	_	KID=48-18
-22	qua	qua	ADV	B	_	24	advmod	_	KID=48-19
-23	a	a	ADP	E	_	24	case	_	KID=48-20
-24	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	21	obl	_	KID=48-21
-25	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	27	iobj	_	Clitic=Yes|KID=48-22
-26	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	KID=48-23
-27	dare	dare	VERB	V	VerbForm=Inf	0	root	_	KID=48-24
-28	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	29	det	_	KID=48-25
-29	mano	mano	NOUN	S	Gender=Fem|Number=Sing	27	obj	_	KID=48-26
-30	quindi	quindi	ADV	B	_	27	advmod	_	KID=48-27|OverlappingGroup=24
-31	comunque	comunque	ADV	B	_	27	advmod	_	End=117.735|Intonation=weakly_rising|KID=48-28
-32	materliali	materliale	NOUN	S	Gender=Fem|Number=Plur	27	obl	_	Begin=117.848|KID=50-0
-33	bibliografie	bibliografio	ADJ	A	Gender=Fem|Number=Plur	32	conj	_	KID=50-1|OverlappingGroup=25
-34	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	32	conj	_	End=119.87|Intonation=weakly_rising|KID=50-2|OverlappingGroup=25
+10	verdi	Verdi	PROPN	S	Gender=Masc|Number=Plur	9	flat:name	_	KID=48-9|PauseAfter=Yes
+11	sia	essere	CCONJ	CC	_	14	cc	_	KID=48-11
+12	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	KID=48-12
+13	mia	mio	DET	AP	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	14	det:poss	_	KID=48-13
+14	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	5	conj	_	KID=48-14
+15-16	della	_	_	_	_	_	_	_	KID=48-15
+15	di	di	ADP	E	_	17	case	_	KID=48-15a
+16	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	KID=48-15b
+17	lingua	lingua	NOUN	S	Gender=Fem|Number=Sing	14	nmod	_	KID=48-16
+18-19	dei	_	_	_	_	_	_	_	KID=48-17
+18	di	di	ADP	E	_	20	case	_	KID=48-17a
+19	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	KID=48-17b
+20	segni	segno	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	KID=48-18
+21	qua	qua	ADV	B	_	23	advmod	_	KID=48-19
+22	a	a	ADP	E	_	23	case	_	KID=48-20
+23	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	20	obl	_	KID=48-21
+24	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	26	iobj	_	Clitic=Yes|KID=48-22
+25	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	KID=48-23
+26	dare	dare	VERB	V	VerbForm=Inf	0	root	_	KID=48-24
+27	una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	KID=48-25
+28	mano	mano	NOUN	S	Gender=Fem|Number=Sing	26	obj	_	KID=48-26
+29	quindi	quindi	ADV	B	_	26	advmod	_	KID=48-27|OverlappingGroup=24
+30	comunque	comunque	ADV	B	_	26	advmod	_	End=117.735|Intonation=weakly_rising|KID=48-28
+31	materliali	materliale	NOUN	S	Gender=Fem|Number=Plur	26	obl	_	Begin=117.848|KID=50-0
+32	bibliografie	bibliografio	ADJ	A	Gender=Fem|Number=Plur	31	conj	_	KID=50-1|OverlappingGroup=25
+33	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	31	conj	_	End=119.87|Intonation=weakly_rising|KID=50-2|OverlappingGroup=25
 
 # sent_id = 49
 # text = sì
@@ -1129,24 +1128,23 @@
 10	seguire	seguire	VERB	V	VerbForm=Inf	4	ccomp	_	End=211.719|KID=92-9|OverlappingGroup=50|Prolonged=Yes
 
 # sent_id = 93
-# text = sì {P} sì sì sì ci siamo già messe d'accordo sono già andata ricevimento
+# text = sì sì sì sì ci siamo già messe d'accordo sono già andata ricevimento
 # jefferson_text = [sì. (.) sì sì] sì ci siamo già messe d'accordo sono già andat[a ricevimento],
 # speaker_id = BO037
-1	sì	sì	ADV	B	_	14	advmod	_	Backchannel=BOA1009_92::4|Begin=210.775|Intonation=falling|KID=93-0|OverlappingGroup=50
-2	{P}	_	_	_	_	_	_	_	Type=shortpause
-3	sì	sì	ADV	I	Polarity=Pos	1	flat	_	KID=93-2|OverlappingGroup=50
-4	sì	sì	ADV	I	Polarity=Pos	1	flat	_	KID=93-3|OverlappingGroup=50
-5	sì	sì	ADV	I	Polarity=Pos	1	flat	_	KID=93-4
-6	ci	ci	PRON	PC	PronType=Prs	14	expl	_	Clitic=Yes|KID=93-5
-7	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	14	aux	_	KID=93-6
-8	già	già	ADV	B	_	14	advmod	_	KID=93-7
-9	messe	mettere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	14	acl	_	KID=93-8
-10	d'	d'	ADP	E	_	11	case	_	KID=93-9|SpaceAfter=No
-11	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	9	obl	_	KID=93-10
-12	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	KID=93-11
-13	già	già	ADV	B	_	14	advmod	_	KID=93-12
-14	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=93-13|OverlappingGroup=51
-15	ricevimento	ricevimento	NOUN	S	Gender=Masc|Number=Sing	14	xcomp	_	End=214.885|Intonation=weakly_rising|KID=93-14|OverlappingGroup=51
+1	sì	sì	ADV	B	_	13	advmod	_	Backchannel=BOA1009_92::4|Begin=210.775|Intonation=falling|KID=93-0|OverlappingGroup=50|PauseAfter=Yes
+2	sì	sì	ADV	I	Polarity=Pos	1	flat	_	KID=93-2|OverlappingGroup=50
+3	sì	sì	ADV	I	Polarity=Pos	1	flat	_	KID=93-3|OverlappingGroup=50
+4	sì	sì	ADV	I	Polarity=Pos	1	flat	_	KID=93-4
+5	ci	ci	PRON	PC	PronType=Prs	13	expl	_	Clitic=Yes|KID=93-5
+6	siamo	essere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	KID=93-6
+7	già	già	ADV	B	_	13	advmod	_	KID=93-7
+8	messe	mettere	VERB	V	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	13	acl	_	KID=93-8
+9	d'	d'	ADP	E	_	10	case	_	KID=93-9|SpaceAfter=No
+10	accordo	accordo	NOUN	S	Gender=Masc|Number=Sing	8	obl	_	KID=93-10
+11	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	KID=93-11
+12	già	già	ADV	B	_	13	advmod	_	KID=93-12
+13	andata	andare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=93-13|OverlappingGroup=51
+14	ricevimento	ricevimento	NOUN	S	Gender=Masc|Number=Sing	13	xcomp	_	End=214.885|Intonation=weakly_rising|KID=93-14|OverlappingGroup=51
 
 # sent_id = 94
 # text = perché perché ha già fatto dei progett~ lei la seguirebbe in quanto della stessa scuola la x della scuola interpreti
@@ -1453,15 +1451,14 @@
 20	cui	cui	PRON	PR	PronType=Rel	23	obl	_	KID=116-18
 21	comunque	comunque	ADV	B	_	23	advmod	_	KID=116-19
 22	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	23	iobj	_	Clitic=Yes|KID=116-20
-23	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	KID=116-21
-24	{P}	_	_	_	_	_	_	_	Type=shortpause
-25	persone	persona	NOUN	S	Gender=Fem|Number=Plur	23	obj	_	KID=116-23
-26	con	con	ADP	E	_	27	case	_	KID=116-24
-27	cui	cui	PRON	PR	PronType=Rel	28	obl	_	KID=116-25
-28	parlare	parlare	VERB	V	VerbForm=Inf	25	acl:relcl	_	KID=116-26
-29	o	o	CCONJ	CC	_	30	cc	_	KID=116-27
-30	intervistare	intervistare	VERB	V	VerbForm=Inf	28	conj	_	KID=116-28
-31	così	così	ADV	B	_	30	discourse	_	End=286.1|Intonation=weakly_rising|KID=116-29
+23	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	KID=116-21|PauseAfter=Yes
+24	persone	persona	NOUN	S	Gender=Fem|Number=Plur	23	obj	_	KID=116-23
+25	con	con	ADP	E	_	26	case	_	KID=116-24
+26	cui	cui	PRON	PR	PronType=Rel	27	obl	_	KID=116-25
+27	parlare	parlare	VERB	V	VerbForm=Inf	24	acl:relcl	_	KID=116-26
+28	o	o	CCONJ	CC	_	29	cc	_	KID=116-27
+29	intervistare	intervistare	VERB	V	VerbForm=Inf	27	conj	_	KID=116-28
+30	così	così	ADV	B	_	29	discourse	_	End=286.1|Intonation=weakly_rising|KID=116-29
 
 # sent_id = 117
 # text = posso fare
