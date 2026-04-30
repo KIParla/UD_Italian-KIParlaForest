@@ -7,8 +7,11 @@ The KIParla Forest treebank is a treebank of spoken Italian based on the [KIParl
 The treebank (release 2.17) contains the conversations:
 
 * BOD2018: semistructured interview from the [KIP](https://github.com/KIParla/KIP) module. Two speakers discuss their homes and living situations. They compare life in Bologna to life in the countryside and smaller towns, and discuss student life compared to a more adult lifestyle.
-* BOA3017: free conversation from the [KIP](https://github.com/KIParla/KIP) module.
-Four friends chat over food. A core thread is one member’s internship, for which he is recording and will have to transcribe the same conversation. Around that, they make casual plans, discuss Easter chocolate eggs, tomorrow’s schedule, and swap gossip.
+* BOA3017: free conversation from the [KIP](https://github.com/KIParla/KIP) module. Four friends chat over food. A core thread is one member’s internship, for which he is recording and will have to transcribe the same conversation. Around that, they make casual plans, discuss Easter chocolate eggs, tomorrow’s schedule, and swap gossip.
+* BOA1003: office-hours conversation from the [KIP](https://github.com/KIParla/KIP) module. A student meets a professor to sort out the requirements for a course on Italian for academic purposes (L2). They agree on a substitute reading and the format of the oral exam.
+* BOA1008: office-hours conversation from the [KIP](https://github.com/KIParla/KIP) module. A student visits a professor’s office to confirm the professor is still available as co-supervisor for their thesis. They discuss the submission deadline around the July graduation session.
+* BOA1009: office-hours conversation from the [KIP](https://github.com/KIParla/KIP) module. A student visits a professor to ask her to become co-supervisor for a thesis on child language brokering, specifically focused on CODA children (hearing children of deaf adults) who act as interpreters between Italian and Italian Sign Language.
+* TOD1005bis: lecture from the [KIP](https://github.com/KIParla/KIP) module. A professor delivers a university lecture on Arabic dialectology. The lecture covers comparative features of Arabic dialects, the relationship between Arabic and the Semitic language family, and the writing systems used for dialects.
 
 # Structure of data
 
@@ -54,9 +57,9 @@ Other attributes that can be found in MISC:
 
 ### Cross-sentence references (interactional relations)
 
-* `Backchannel` appears on tokens that function (along with their dependents) as backchannel. It assumes the value of a specific token id (`[sent_id]-[tok_id]`) which is the token that the backchannel is targeting.
+* `Backchannel` appears on tokens that function (along with their dependents) as backchannel. It assumes the value of a specific token id (`[sent_id]::[tok_id]`) which is the token that the backchannel is targeting.
 
-* `Coconstruct` appears on tokens that attach with a specific syntactic relations to other tokens in the treebank. The value is composed by the syntactic relation, followed by double colons (`::`), followed by the token identifier (again in `[sent_id]-[tok_id]` format) that should act as head for the current token.
+* `Coconstruct` appears on tokens that attach with a specific syntactic relations to other tokens in the treebank. The value is composed by the syntactic relation, followed by double colons (`::`), followed by the token identifier (again in `[sent_id]::[tok_id]` format) that should act as head for the current token.
 
 ## Metadata
 
@@ -83,7 +86,7 @@ For each **participant**, besides its code, we also provide:
 
 # How to contribute
 
-Data is developed in the `not-to-release` folder, where we keep a file for each conversation. These are then converted into the train/dev/test split through command line, e.g. `cat BOD2018.conllu BOA3017.conllu > ../test.conllu`
+Data is developed in the `not-to-release` folder, where we keep a file for each conversation. These are then converted into the train/dev/test split through command line, e.g. `cat BOD2018.conllu BOA3017.conllu > ../it_kiparlaforest-ud-test.conllu`
 
 You are welcome to contribute through issues or pull requests. In both cases, please do so by linking the files present in the `not-to-release` folder.
 
@@ -117,6 +120,10 @@ You are encouraged to cite this paper if you use the KIParla Forest treebank in 
     abstract = "The present project endeavors to enrich the linguistic resources available for Italian by introducing KIParla Forest, a treebank for the KIParla corpus - an existing and well-known resource for spoken Italian. This article contextualizes the project, describes the treebank creation process and design choices, and highlights future plans for next improvements."
 }
 ```
+
+# Acknowledgment
+
+This work was supported by COST Action CA21167 —Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)).
 
 # Changelog
 
