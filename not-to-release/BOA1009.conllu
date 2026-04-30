@@ -603,7 +603,7 @@
 20	segni	segno	NOUN	S	Gender=Masc|Number=Plur	17	nmod	_	KID=48-18
 21	qua	qua	ADV	B	_	23	advmod	_	KID=48-19
 22	a	a	ADP	E	_	23	case	_	KID=48-20
-23	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	20	obl	_	KID=48-21
+23	bologna	Bologna	PROPN	S	Gender=Fem|Number=Sing	20	nmod	_	KID=48-21
 24	mi	mi	PRON	PC	Number=Sing|Person=1|PronType=Prs	26	iobj	_	Clitic=Yes|KID=48-22
 25	possono	potere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	KID=48-23
 26	dare	dare	VERB	V	VerbForm=Inf	0	root	_	KID=48-24
@@ -724,7 +724,7 @@
 6-7	sui	_	_	_	_	_	_	_	KID=58-4
 6	su	su	ADP	E	_	8	case	_	KID=58-4a
 7	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	KID=58-4b
-8	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	5	obl	_	KID=58-5
+8	bambini	bambino	NOUN	S	Gender=Masc|Number=Plur	5	nmod	_	KID=58-5
 9-10	sulla	_	_	_	_	_	_	_	KID=58-6
 9	su	su	ADP	E	_	11	case	_	KID=58-6a
 10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=58-6b
@@ -1202,7 +1202,7 @@
 7	tesina	tesina	NOUN	S	Gender=Fem|Number=Sing	5	obj	_	KID=97-6
 8	per	per	ADP	E	_	10	case	_	KID=97-7
 9	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	KID=97-8
-10	esame	esame	NOUN	S	Gender=Masc|Number=Sing	7	obl	_	KID=97-9
+10	esame	esame	NOUN	S	Gender=Masc|Number=Sing	5	obl	_	KID=97-9
 11	che	che	PRON	PR	PronType=Rel	13	obj	_	KID=97-10
 12	avevo	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	13	aux	_	KID=97-11
 13	fatto	fare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	acl:relcl	_	KID=97-12
@@ -1701,16 +1701,16 @@
 1	ci	ci	PRON	PC	PronType=Prs	2	expl	_	Begin=335.11|Clitic=Yes|KID=139-0|OverlappingGroup=69
 2	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=139-1|OverlappingGroup=69
 3	dei	del	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	KID=139-2b
-4	paralleli	parallelo	NOUN	S	Gender=Masc|Number=Plur	2	obj	_	KID=139-3|OverlappingGroup=69
+4	paralleli	parallelo	NOUN	S	Gender=Masc|Number=Plur	2	nsubj	_	KID=139-3|OverlappingGroup=69
 5	con	con	ADP	E	_	8	case	_	KID=139-4
 6	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	8	det	_	KID=139-5|Truncated=Yes
 7	altra	altro	ADJ	A	Gender=Fem|Number=Sing	8	amod	_	KID=139-6
-8	esperienza	esperienza	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	KID=139-7
+8	esperienza	esperienza	NOUN	S	Gender=Fem|Number=Sing	2	obl	_	KID=139-7
 9	soltanto	soltanto	ADV	B	_	13	advmod	_	KID=139-8
 10	per	per	ADP	E	_	13	case	_	KID=139-9
 11	per	per	ADP	E	_	13	case	_	KID=139-10
 12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	KID=139-11|Truncated=Yes
-13	età	età	NOUN	S	Gender=Fem	4	obl	_	KID=139-12|PauseAfter=Yes
+13	età	età	NOUN	S	Gender=Fem	2	obl	_	KID=139-12|PauseAfter=Yes
 14	no	no	ADV	BN	PronType=Neg	13	advmod	_	End=341.367|Intonation=weakly_rising|KID=139-14
 
 # sent_id = 140
