@@ -1988,8 +1988,8 @@
 1	voi	voi	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	KID=199-6
 2	potete	potere	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=199-7
 3	dire	dire	VERB	_	VerbForm=Inf	2	xcomp	_	KID=199-8
-4	va	andare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	fixed	_	KID=199-9|PaceFast=Yes
-5	bene	bene	ADV	_	_	3	advmod	_	End=445.952|Intonation=falling|KID=199-10|PaceFast=Yes
+4	va	andare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp:reported	_	KID=199-9|PaceFast=Yes
+5	bene	bene	ADV	_	_	4	xcomp	_	End=445.952|Intonation=falling|KID=199-10|PaceFast=Yes
 
 # sent_id = TOD1005bis_200a
 # text = allora tutti questi dialetti sono diversissimi
