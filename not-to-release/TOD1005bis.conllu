@@ -3607,7 +3607,7 @@
 # jefferson_text = i primi quattro califfi, xxx,
 # speaker_id = TO017
 1	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	Begin=860.673|KID=353-0
-2	primi	primo	NUM	_	Gender=Masc|NumType=Ord|Number=Plur	4	nummod	_	KID=353-1
+2	primi	primo	NUM	_	Gender=Masc|Number=Plur|NumType=Ord	4	nummod	_	KID=353-1
 3	quattro	quattro	NUM	_	NumType=Card	4	nummod	_	KID=353-2
 4	califfi	califfo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Intonation=WeaklyRising|KID=353-3
 5	x	x	X	_	_	4	dep	_	End=862.41|Intonation=WeaklyRising|KID=353-4
@@ -3646,7 +3646,7 @@
 6-7	dei	_	_	_	_	_	_	_	KID=357-5
 6	di	di	ADP	_	_	10	case	_	KID=357-5a
 7	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	KID=357-5b
-8	primi	primo	NUM	_	Gender=Masc|NumType=Ord|Number=Plur	10	nummod	_	KID=357-6
+8	primi	primo	NUM	_	Gender=Masc|Number=Plur|NumType=Ord	10	nummod	_	KID=357-6
 9	quattro	quattro	NUM	_	NumType=Card	10	nummod	_	KID=357-7
 10	califfi	califfo	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	End=871.601|Intonation=WeaklyRising|KID=357-8|PaceFast=Yes
 
