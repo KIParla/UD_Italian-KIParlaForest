@@ -3593,7 +3593,7 @@
 6-7	del	_	_	_	_	_	_	_	Begin=858.172|KID=351-0
 6	di	di	ADP	_	_	13	case	_	KID=351-0a
 7	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	KID=351-0b
-8	x	x	X	_	_	_	_	_	KID=351-1|Unintelligible=Yes
+8	x	x	X	_	_	2	dep	_	KID=351-1|Unintelligible=Yes
 9-10	dei	_	_	_	_	_	_	_	KID=351-2
 9	di	di	ADP	_	_	13	case	_	KID=351-2a
 10	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	KID=351-2b
@@ -4715,7 +4715,7 @@
 6	sì	sì	INTJ	_	_	4	discourse	_	KID=438-5
 7	perché	perché	SCONJ	_	_	14	mark	_	KID=438-6
 8	anche	anche	ADV	_	_	9	advmod	_	KID=438-7
-9	quelli	quello	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	_	_	_	KID=438-8
+9	quelli	quello	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	2	dep	_	KID=438-8
 10	comunque	comunque	CCONJ	_	_	9	cc	_	Intonation=weakly_rising|KID=438-9
 11	adesso	adesso	ADV	_	_	14	advmod	_	KID=438-10
 12	non	non	ADV	_	PronType=Neg	14	advmod	_	KID=438-11
@@ -5055,7 +5055,7 @@
 # text = a~ dalla comparazione dei dialetti moderni possiamo provare a ricostruire delle fonti antiche
 # jefferson_text = a~ dalla comparazione dei dialetti moderni possiamo provare a ricostruire delle fonti, | antiche
 # speaker_id = TO017
-1	a~	X	X	_	_	_	_	_	Begin=1233.392|Interrupted=Yes|KID=468-0
+1	a~	X	X	_	_	10	dep	_	Begin=1233.392|Interrupted=Yes|KID=468-0
 2-3	dalla	_	_	_	_	_	_	_	KID=468-1
 2	da	da	ADP	_	_	4	case	_	KID=468-1a
 3	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=468-1b
@@ -5104,7 +5104,7 @@
 6	di	di	ADP	_	_	5	fixed	_	KID=470-17
 7-8	trovarli	trovarlo	VERB	_	Gender=Masc|Number=Plur	_	_	_	KID=470-18
 7	trovarli	trovare	VERB	_	_	6	xcomp	_	KID=470-18a
-8	_	_	_	_	_	_	_	_	KID=470-18b
+8	_	_	_	_	_	9	dep	_	KID=470-18b
 9	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=470-19
 10-11	dei	_	_	_	_	_	_	_	KID=470-20
 10	di	di	ADP	_	_	12	case	_	KID=470-20a
@@ -7162,7 +7162,7 @@
 # jefferson_text = settecento~ se~ ottocento anni dopo:
 # speaker_id = TO017
 1	settecento	settecento	NUM	_	_	4	nummod	_	Begin=1730.127|Interrupted=Yes|KID=681-0
-2	se~	X	X	_	_	_	_	_	Interrupted=Yes|KID=681-1
+2	se~	X	X	_	_	4	dep	_	Interrupted=Yes|KID=681-1
 3	ottocento	ottocento	NUM	_	Gender=Masc|Number=Sing	4	nummod	_	KID=681-2
 4	anni	anno	NOUN	_	Gender=Masc|Number=Plur	0	root	_	KID=681-3
 5	dopo	dopo	ADV	_	_	4	advmod	_	End=1732.527|KID=681-4|Prolonged=Yes
@@ -8558,7 +8558,7 @@
 # jefferson_text = e scrive~ parlavano le loro lingue sudarabiche
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	3	cc	_	Begin=2064.958|KID=808-0
-2	scrive~	X	X	_	_	_	_	_	Interrupted=Yes|KID=808-1
+2	scrive~	X	X	_	_	3	dep	_	Interrupted=Yes|KID=808-1
 3	parlavano	parlare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=808-2
 4	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	KID=808-3
 5	loro	loro	DET	_	Poss=Yes|PronType=Prs	6	det:poss	_	KID=808-4
@@ -8790,15 +8790,15 @@
 6	hanno	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	KID=831-5
 7	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=831-6
 8	vabbé	vabbé	INTJ	_	_	7	discourse	_	KID=831-7
-9	t~	X	X	_	_	_	_	_	Interrupted=Yes|KID=831-8
+9	t~	X	X	_	_	7	dep	_	Interrupted=Yes|KID=831-8
 10	tutto	tutto	ADJ	_	PronType=Ind	11	det	_	KID=831-9
 11	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	KID=831-10
 12	che	che	SCONJ	_	PronType=Rel	13	nsubj	_	KID=831-11
 13	sta	stare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	KID=831-12
 14	a	a	ADP	_	_	15	case	_	KID=831-13
 15	nord	nord	NOUN	_	_	13	obl	_	KID=831-14
-16	de~	X	X	_	_	_	_	_	Interrupted=Yes|KID=831-15
-17	de	X	X	_	_	_	_	_	End=2123.441|KID=831-16
+16	de~	X	X	_	_	7	dep	_	Interrupted=Yes|KID=831-15
+17	de	X	X	_	_	7	dep	_	End=2123.441|KID=831-16
 18	di	di	ADP	_	_	20	case	_	Begin=2123.61|KID=832-0
 19	di	di	ADP	_	_	20	case	_	KID=832-1
 20	quelli	quello	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	15	nmod	_	KID=832-2
@@ -8964,7 +8964,7 @@
 # speaker_id = TO017
 1	questi	questo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	2	nsubj	_	Begin=2159.716|KID=845-0
 2	andavano	andare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=845-1
-3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	_	_	_	End=2160.296|KID=845-2
+3	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	dep	_	End=2160.296|KID=845-2
 
 # sent_id = TOD1005bis_846
 # text = cioè
@@ -9098,7 +9098,7 @@
 1	cioè	cioè	CCONJ	_	_	2	cc	_	Begin=2191.329|KID=861-0
 2	fondamentalmente	fondamentalmente	ADV	_	_	5	advmod	_	KID=861-1
 3	loro	essi	PRON	_	Number=Plur|Person=3|PronType=Prs	5	nsubj	_	KID=861-2
-4	anda~	X	X	_	_	_	_	_	Interrupted=Yes|KID=861-3
+4	anda~	X	X	_	_	5	dep	_	Interrupted=Yes|KID=861-3
 5	stavano	stare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=861-4
 6	in	in	ADP	_	_	7	case	_	KID=861-5
 7	giro	giro	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	KID=861-6
@@ -9338,7 +9338,7 @@
 2	di	di	ADP	_	_	3	case	_	KID=881-1
 3	sicuro	sicuro	ADJ	_	Gender=Masc|Number=Sing	8	obl	_	KID=881-2
 4	non	non	ADV	_	_	8	reparandum	_	Interrupted=Yes|KID=881-3
-5	ne~	X	X	_	_	_	_	_	Interrupted=Yes|KID=881-4
+5	ne~	X	X	_	_	8	dep	_	Interrupted=Yes|KID=881-4
 6	non	non	ADV	_	PronType=Neg	8	advmod	_	KID=881-5
 7	era	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	KID=881-6
 8	usato	usare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=881-7
@@ -10421,7 +10421,7 @@
 # text = il~ e questa è la datazione media
 # jefferson_text = il~ (e) questa è la datazione media.
 # speaker_id = TO017
-1	il~	X	X	_	_	_	_	_	Begin=2514.384|Interrupted=Yes|KID=983-0
+1	il~	X	X	_	_	6	dep	_	Begin=2514.384|Interrupted=Yes|KID=983-0
 2	e	e	CCONJ	_	_	3	cc	_	KID=983-1
 3	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	6	nsubj	_	KID=983-2
 4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	KID=983-3
@@ -10668,7 +10668,7 @@
 5	regno	regno	NOUN	_	Gender=Masc|Number=Sing	2	parataxis	_	KID=1005-5
 6	di	di	ADP	_	_	7	case	_	KID=1005-6
 7	x	x	X	_	_	5	nmod	_	KID=1005-7
-8	X	X	X	_	_	_	_	_	End=2580.951|Intonation=falling|KID=1005-8|Unintelligible=Yes
+8	X	X	X	_	_	2	dep	_	End=2580.951|Intonation=falling|KID=1005-8|Unintelligible=Yes
 
 # sent_id = TOD1005bis_1006
 # text = eh
