@@ -327,7 +327,7 @@
 24	rossi	Rossi	PROPN	_	Gender=Masc|Number=Plur	23	flat:name	_	End=72.498|Intonation=Falling|KID=27-3
 
 # sent_id = BOA1009_25_26
-# text = mh | sì
+# text = mh sì
 # jefferson_text = [°mh°] [sì].
 # speaker_id = BO026
 1	mh	mh	INTJ	_	Gender=Masc	2	discourse	_	Begin=65.529|End=65.75|KID=25-0|OverlappingGroup=10|Volume=low
@@ -531,7 +531,7 @@
 2	lingue	lingua	NOUN	_	Gender=Fem|Number=Plur	0	root	_	Coconstruct=nmod::BOA1009_39::19|End=97.961|KID=42-1|OverlappingGroup=19|Prolonged=Yes
 
 # sent_id = BOA1009_43_44
-# text = mh | eh mh
+# text = mh eh mh
 # jefferson_text = [mh]. =[e::]h mh
 # speaker_id = BO026
 1	mh	mh	INTJ	_	Gender=Masc	0	root	_	Begin=98.198|End=98.413|Intonation=Falling|KID=43-0|OverlappingGroup=20
@@ -677,9 +677,9 @@
 8	cui	cui	PRON	_	PronType=Rel	13	discourse	_	KID=55-7
 9	comunque	comunque	ADV	_	_	11	advmod	_	KID=55-8
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=55-9
-11	po'	poco	PRON	_	Number=Sing|PronType=Ind	_	_	_	KID=55-10
+11	po'	poco	NOUN	_	Number=Sing|PronType=Ind	3	parataxis	_	KID=55-10
 12	di	di	ADP	_	_	13	case	_	KID=55-11
-13	bibliografia	bibliografia	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	KID=55-12
+13	bibliografia	bibliografia	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	KID=55-12
 14	o	o	CCONJ	_	_	17	cc	_	KID=55-13
 15	anche	anche	ADV	_	_	17	advmod	_	KID=55-14
 16	solo	solo	ADV	_	_	17	advmod	_	KID=55-15
@@ -690,8 +690,8 @@
 20	interviste	intervista	NOUN	_	Gender=Fem|Number=Plur	17	obj	_	KID=55-18
 21	con	con	ADP	_	_	22	case	_	KID=55-19
 22	persone	persona	NOUN	_	Gender=Fem|Number=Plur	17	obl	_	KID=55-20
-23	sia	sia	CCONJ	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cc	_	KID=55-21|OverlappingGroup=28
-24	sorde	sordo	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	amod	_	KID=55-22|OverlappingGroup=28
+23	sia	sia	CCONJ	_	_	24	cc	_	KID=55-21|OverlappingGroup=28
+24	sorde	sordo	ADJ	_	_	22	amod	_	KID=55-22|OverlappingGroup=28
 25	che	che	CCONJ	_	_	26	cc	_	KID=55-23
 26	udenti	udente	ADJ	_	Gender=Masc|Number=Plur	24	conj	_	KID=55-24
 27	e	e	CCONJ	_	_	28	cc	_	KID=55-25
@@ -728,7 +728,7 @@
 9-10	sulla	_	_	_	_	_	_	_	KID=58-6
 9	su	su	ADP	_	_	11	case	_	KID=58-6a
 10	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=58-6b
-11	mediazione	mediazione	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	KID=58-7
+11	mediazione	mediazione	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	KID=58-7
 12-13	dei	_	_	_	_	_	_	_	KID=58-8
 12	di	di	ADP	_	_	14	case	_	KID=58-8a
 13	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	KID=58-8b
@@ -1254,10 +1254,10 @@
 
 # sent_id = BOA1009_101_104_105
 # text = il servizio dis~ studenti disabili e la professoressa che adesso è in pensione più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato sul però è un po' diverso insomma sulla
-# jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, | più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla:: °sulla sordità,° sulla verifica delle competenze linguistiche per gl[i stu]denti con delle disabilità,
+# jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, | più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla::
 # speaker_id = BO026
 1	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Begin=234.616|KID=101-0|OverlappingGroup=55|Prolonged=Yes
-2	servizio	servizio	NOUN	_	Gender=Masc|Number=Sing	20	nsubj	_	KID=101-1|OverlappingGroup=55
+2	servizio	servizio	NOUN	_	Gender=Masc|Number=Sing	31	nsubj	_	KID=101-1|OverlappingGroup=55
 3	dis~	dis~	X	_	_	2	dep	_	Interrupted=Yes|KID=101-2
 4	studenti	studento	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	KID=101-3
 5	disabili	disabile	ADJ	_	Number=Plur	4	amod	_	KID=101-4
@@ -1274,8 +1274,8 @@
 16	gruppo	gruppo	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	KID=104-2
 17	di	di	ADP	_	_	18	case	_	KID=104-3
 18	assegnisti	assegnista	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	KID=104-4
-19	av~	av~	PROPN	_	_	20	dep	_	Interrupted=Yes|KID=104-5
-20	avevano	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	31	aux	_	KID=104-6
+19	av~	av~	X	_	_	31	dep	_	Interrupted=Yes|KID=104-5
+20	avevano	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	31	aux	_	KID=104-6
 21	inizialmente	inizialmente	ADV	_	_	23	advmod	_	KID=104-7
 22	c'	ci	PRON	_	PronType=Prs	23	expl	_	Clitic=Yes|KID=104-8|Truncated=Yes
 23	ero	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	31	parataxis	_	KID=104-9
@@ -1290,8 +1290,8 @@
 31	lavorato	lavorato	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=250.301|Intonation=WeaklyRising|KID=104-16
 32-33	sul	_	_	_	_	_	_	_	Begin=250.715|KID=105-0|Prolonged=Yes
 32	su	su	ADP	_	_	33	case	_	KID=105-0a
-33	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	dep	_	KID=105-0b
-34	però	però	ADV	_	_	35	advmod	_	KID=105-1
+33	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	reparandum	_	KID=105-0b
+34	però	però	ADV	_	_	38	advmod	_	KID=105-1
 35	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	cop	_	KID=105-2
 36	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	37	det	_	KID=105-3
 37	po'	poco	ADV	_	_	38	advmod	_	KID=105-4
@@ -1303,16 +1303,16 @@
 
 # sent_id = BOA1009_106
 # text = sulla sordità
-# jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla:: °sulla sordità,° sulla verifica delle competenze linguistiche per gl[i stu]denti con delle disabilità,
+# jefferson_text = °sulla sordità,°
 # speaker_id = BO037
 1-2	sulla	_	_	_	_	_	_	_	Begin=254.131|KID=106-0|Volume=low
 1	su	su	ADP	_	_	3	case	_	KID=106-0a
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=106-0b
-3	sordità	sordità	NOUN	_	Gender=Fem	0	root	_	Coconstruct=nmod_BOA1009_105::41|End=254.904|Intonation=WeaklyRising|KID=106-1|Volume=low
+3	sordità	sordità	NOUN	_	Gender=Fem	0	root	_	Coconstruct=nmod::BOA1009_105::41|End=254.904|Intonation=WeaklyRising|KID=106-1|Volume=low
 
 # sent_id = BOA1009_107
-# text = su la verifica di le competenze linguistiche per gli studenti con di le disabilità
-# jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla:: °sulla sordità,° sulla verifica delle competenze linguistiche per gl[i stu]denti con delle disabilità,
+# text = sulla verifica delle competenze linguistiche per gli studenti con delle disabilità
+# jefferson_text = sulla verifica delle competenze linguistiche per gl[i stu]denti con delle disabilità,
 # speaker_id = BO026
 1-2	sulla	_	_	_	_	_	_	_	Begin=254.913|KID=107-0
 1	su	su	ADP	_	_	3	case	_	KID=107-0a
@@ -1752,14 +1752,15 @@
 11	excursus	excursus	NOUN	_	Gender=Masc	7	obj	_	End=347.033|Intonation=WeaklyRising|KID=142-10|OverlappingGroup=71
 
 # sent_id = BOA1009_143
-# text = credo anche di esser mi imbattuta in alcuni articoli che pre~ pre~ presi erroneamente perché avevo visto brokering
+# text = credo anche di essermi imbattuta in alcuni articoli che pre~ pre~ presi erroneamente perché avevo visto brokering
 # jefferson_text = [credo anche di essermi imbattu]ta in alcuni articoli che=pre~=pre~ presi erroneamente perché avevo visto brokering,
 # speaker_id = BO026
 1	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=345.248|KID=143-0|OverlappingGroup=71
 2	anche	anche	ADV	_	_	6	advmod	_	KID=143-1|OverlappingGroup=71
 3	di	di	ADP	_	_	6	case	_	KID=143-2|OverlappingGroup=71
-4	esser	essere	VERB	_	Gender=Fem|Number=Plur	6	aux	_	KID=143-3|OverlappingGroup=71
-5	mi	mi	PRON	_	Gender=Fem|Number=Plur|PronType=Prs	4	expl	_	KID=143-3|OverlappingGroup=71
+4-5	essermi	_	_	_	_	_	_	_	KID=143-3
+4	esser	essere	AUX	_	Gender=Fem|Number=Plur	6	aux	_	KID=143-3a|OverlappingGroup=71
+5	mi	mi	PRON	_	Gender=Fem|Number=Plur|PronType=Prs	6	expl	_	KID=143-3b|OverlappingGroup=71
 6	imbattuta	imbattere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	xcomp	_	KID=143-4|OverlappingGroup=71
 7	in	in	ADP	_	_	9	case	_	KID=143-5
 8	alcuni	alcuno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	KID=143-6
@@ -1832,16 +1833,16 @@
 18	si	si	PRON	_	Person=3|PronType=Prs	19	expl	_	Clitic=Yes|KID=148-1
 19	riporta	riportare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	KID=148-2
 20	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	21	det	_	KID=148-3|Truncated=Yes
-21	esperienza	esperienza	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	KID=148-4
+21	esperienza	esperienza	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	KID=148-4
 22	di	di	ADP	_	_	24	case	_	KID=148-5
 23	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	24	det	_	KID=148-6
 24	bambini	bambino	NOUN	_	Gender=Masc|Number=Plur	21	nmod	_	KID=148-7
 25-26	della	_	_	_	_	_	_	_	KID=148-8|Prolonged=Yes
 25	di	di	ADP	_	_	28	dep	_	KID=148-8a
 26	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	dep	_	KID=148-8b
-27	cioè	cioè	ADV	_	_	28	dep	_	KID=148-9
-28	tutto	tutto	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	19	obj	_	KID=148-10
-29	diciamo	dicare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	31	discourse	_	KID=148-11
+27	cioè	cioè	CCONJ	_	_	28	cc	_	KID=148-9
+28	tutto	tutto	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	21	conj	_	KID=148-10
+29	diciamo	dire	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	31	discourse	_	KID=148-11
 30	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	KID=148-12
 31	particolarità	particolarità	NOUN	_	Gender=Fem	2	parataxis	_	KID=148-13
 32	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	KID=148-14
@@ -1849,7 +1850,7 @@
 34	cultura	cultura	NOUN	_	Gender=Fem|Number=Sing	31	obj	_	KID=148-16
 35	sorda	sordo	ADJ	_	Gender=Fem|Number=Sing	34	amod	_	KID=148-17
 36	a	a	ADP	_	_	37	case	_	KID=148-18|OverlappingGroup=75
-37	confronto	confronto	NOUN	_	Gender=Masc|Number=Sing	34	obl	_	KID=148-19|OverlappingGroup=75
+37	confronto	confronto	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	KID=148-19|OverlappingGroup=75
 38	con	con	ADP	_	_	40	case	_	KID=148-20|OverlappingGroup=75
 39	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	KID=148-21|OverlappingGroup=75
 40	cultura	cultura	NOUN	_	Gender=Fem|Number=Sing	37	nmod	_	KID=148-22|OverlappingGroup=75
@@ -1889,7 +1890,7 @@
 
 # sent_id = BOA1009_152
 # text = e da quel punto di vista comunque ho tutto il materiale della scuola di lingua dei segni di insegnanti sia sordi che udenti
-# jefferson_text = [e d]a quel [punto di vi]sta comunque ho tutto il materiale della scuola di lingua dei segni l' insegnanti: sia sordi c[he udenti].
+# jefferson_text = [e d]a quel [punto di vi]sta comunque ho tutto il materiale della scuola di lingua dei segni di insegnanti: sia sordi c[he udenti].
 # speaker_id = BO037
 1	e	e	CCONJ	_	_	8	cc	_	Begin=375.778|KID=152-0|OverlappingGroup=78
 2	da	da	ADP	_	_	4	case	_	KID=152-1|OverlappingGroup=78
@@ -1912,7 +1913,7 @@
 17	di	di	ADP	_	_	19	case	_	KID=152-15a
 18	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	KID=152-15b
 19	segni	segno	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	KID=152-16
-20	di	di	ADP	_	_	21	det	_	KID=152-17|Truncated=Yes
+20	di	di	ADP	_	_	21	case	_	KID=152-17
 21	insegnanti	insegnante	NOUN	_	Number=Plur	11	nmod	_	KID=152-18|Prolonged=Yes
 22	sia	sia	CCONJ	_	_	23	cc	_	KID=152-19
 23	sordi	sordare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	amod	_	KID=152-20
@@ -1938,7 +1939,7 @@
 7	ricerche	ricerca	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	KID=154-6
 8	anche	anche	ADV	_	_	10	advmod	_	KID=154-7
 9	a	a	ADP	_	_	10	case	_	KID=154-8
-10	roma	Roma	PROPN	_	Gender=Fem|Number=Sing	7	obl	_	KID=154-9
+10	roma	Roma	PROPN	_	Gender=Fem|Number=Sing	5	obl	_	KID=154-9
 11	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	KID=154-10
 12	esperti	esperto	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	KID=154-11
 13-14	della	_	_	_	_	_	_	_	KID=154-12
@@ -2164,7 +2165,7 @@
 10	fa	fa	ADV	_	_	9	advmod	_	KID=172-9
 11	le	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	dep	_	KID=172-10|PauseAfter=Yes
 12	qualche	qualche	DET	_	Number=Sing|PronType=Ind	13	det	_	KID=172-12
-13	riferimento	riferimento	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	KID=172-13
+13	riferimento	riferimento	NOUN	_	Gender=Masc|Number=Sing	16	dislocated	_	KID=172-13
 14-15	glielo	_	_	_	_	_	_	_	KID=172-14
 14	glie	gli	PRON	_	Person=3|PronType=Prs	16	expl	_	Clitic=Yes|KID=172-14a
 15	lo	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	Clitic=Yes|KID=172-14b
