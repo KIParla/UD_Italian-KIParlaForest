@@ -4000,7 +4000,7 @@
 6	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	7	det	_	KID=390-14
 7	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	KID=390-15
 8	che	che	DET	_	PronType=Rel	9	det	_	KID=390-16
-9	cosa	cosa	PRON	_	PronType=Int	10	mark	_	KID=390-17
+9	cosa	cosa	ADV	_	PronType=Int	10	advmod	_	KID=390-17
 10	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	KID=390-18|Relation=conj:reform
 11	eccetera	eccetera	ADV	_	_	12	advmod	_	KID=390-19
 12	eccetera	eccetera	ADV	_	_	5	advmod	_	End=964.794|Intonation=WeaklyRising|KID=390-20
@@ -10998,7 +10998,7 @@
 # text = che cos' è
 # jefferson_text = che cos' è,
 # speaker_id = TO017
-1	che	che	ADJ	_	_	2	mark	_	Begin=2685.567|KID=1040-0
+1	che	che	DET	_	_	2	det	_	Begin=2685.567|KID=1040-0
 2	cos'	cosa	PRON	_	PronType=Int	0	root	_	KID=1040-1|Truncated=Yes
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	End=2686.132|Intonation=WeaklyRising|KID=1040-2
 
