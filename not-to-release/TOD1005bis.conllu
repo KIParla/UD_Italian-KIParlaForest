@@ -8360,7 +8360,7 @@
 15	e	e	CCONJ	_	_	17	cc	_	Begin=2019.472|KID=791-0|PauseAfter=Yes|Prolonged=Yes
 16	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	KID=791-2
 17	corno	Corno	PROPN	_	Gender=Masc|Number=Sing	14	conj	_	KID=791-3
-18	d'	di	PROPN	_	_	19	case	_	KID=791-4|Truncated=Yes
+18	d'	di	ADP	_	_	19	case	_	KID=791-4|Truncated=Yes
 19	africa	Africa	PROPN	_	Gender=Fem|Number=Sing	17	nmod	_	KID=791-5
 20	che	che	SCONJ	_	PronType=Rel	21	nsubj	_	KID=791-6
 21	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	KID=791-7
