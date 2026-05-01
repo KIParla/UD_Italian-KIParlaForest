@@ -3999,7 +3999,7 @@
 5	vengono	venire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=390-13
 6	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	7	det	_	KID=390-14
 7	dialetti	dialetto	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	KID=390-15
-8	che	che	ADJ	_	PronType=Rel	9	det	_	KID=390-16
+8	che	che	DET	_	PronType=Rel	9	det	_	KID=390-16
 9	cosa	cosa	NOUN	_	PronType=Int	10	mark	_	KID=390-17
 10	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	KID=390-18|Relation=conj:reform
 11	eccetera	eccetera	ADV	_	_	12	advmod	_	KID=390-19
@@ -4475,7 +4475,7 @@
 2	materiale	materiale	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	KID=420-4
 3	epigrafico	epigrafico	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	Intonation=Falling|KID=420-5
 4	poi	poi	ADV	_	_	7	advmod	_	KID=420-6
-5	che	che	ADJ	_	_	6	det	_	KID=420-7
+5	che	che	DET	_	_	6	det	_	KID=420-7
 6	cosa	cosa	PRON	_	PronType=Int	7	obj	_	KID=420-8
 7	abbiamo	avere	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	End=1078.188|Intonation=Rising|KID=420-9|Relation=conj:reform
 
@@ -4700,7 +4700,7 @@
 # text = che cosa
 # jefferson_text = che cosa?
 # speaker_id = TO017
-1	che	che	ADJ	_	PronType=Int	2	det	_	Begin=1133.726|KID=437-0
+1	che	che	DET	_	PronType=Int	2	det	_	Begin=1133.726|KID=437-0
 2	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=1134.151|Intonation=Rising|KID=437-1
 
 # sent_id = TOD1005bis_438
