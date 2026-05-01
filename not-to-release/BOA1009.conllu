@@ -327,7 +327,7 @@
 24	rossi	Rossi	PROPN	_	Gender=Masc|Number=Plur	23	flat:name	_	End=72.498|Intonation=Falling|KID=27-3
 
 # sent_id = BOA1009_25_26
-# text = mh | sì
+# text = mh sì
 # jefferson_text = [°mh°] [sì].
 # speaker_id = BO026
 1	mh	mh	INTJ	_	Gender=Masc	2	discourse	_	Begin=65.529|End=65.75|KID=25-0|OverlappingGroup=10|Volume=low
@@ -531,7 +531,7 @@
 2	lingue	lingua	NOUN	_	Gender=Fem|Number=Plur	0	root	_	Coconstruct=nmod::BOA1009_39::19|End=97.961|KID=42-1|OverlappingGroup=19|Prolonged=Yes
 
 # sent_id = BOA1009_43_44
-# text = mh | eh mh
+# text = mh eh mh
 # jefferson_text = [mh]. =[e::]h mh
 # speaker_id = BO026
 1	mh	mh	INTJ	_	Gender=Masc	0	root	_	Begin=98.198|End=98.413|Intonation=Falling|KID=43-0|OverlappingGroup=20
@@ -1254,7 +1254,7 @@
 
 # sent_id = BOA1009_101_104_105
 # text = il servizio dis~ studenti disabili e la professoressa che adesso è in pensione più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato sul però è un po' diverso insomma sulla
-# jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, | più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla:: °sulla sordità,° sulla verifica delle competenze linguistiche per gl[i stu]denti con delle disabilità,
+# jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, | più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla::
 # speaker_id = BO026
 1	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Begin=234.616|KID=101-0|OverlappingGroup=55|Prolonged=Yes
 2	servizio	servizio	NOUN	_	Gender=Masc|Number=Sing	20	nsubj	_	KID=101-1|OverlappingGroup=55
@@ -1303,16 +1303,16 @@
 
 # sent_id = BOA1009_106
 # text = sulla sordità
-# jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla:: °sulla sordità,° sulla verifica delle competenze linguistiche per gl[i stu]denti con delle disabilità,
+# jefferson_text = °sulla sordità,°
 # speaker_id = BO037
 1-2	sulla	_	_	_	_	_	_	_	Begin=254.131|KID=106-0|Volume=low
 1	su	su	ADP	_	_	3	case	_	KID=106-0a
 2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=106-0b
-3	sordità	sordità	NOUN	_	Gender=Fem	0	root	_	Coconstruct=nmod_BOA1009_105::41|End=254.904|Intonation=WeaklyRising|KID=106-1|Volume=low
+3	sordità	sordità	NOUN	_	Gender=Fem	0	root	_	Coconstruct=nmod::BOA1009_105::41|End=254.904|Intonation=WeaklyRising|KID=106-1|Volume=low
 
 # sent_id = BOA1009_107
-# text = su la verifica di le competenze linguistiche per gli studenti con di le disabilità
-# jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla:: °sulla sordità,° sulla verifica delle competenze linguistiche per gl[i stu]denti con delle disabilità,
+# text = sulla verifica delle competenze linguistiche per gli studenti con delle disabilità
+# jefferson_text = sulla verifica delle competenze linguistiche per gl[i stu]denti con delle disabilità,
 # speaker_id = BO026
 1-2	sulla	_	_	_	_	_	_	_	Begin=254.913|KID=107-0
 1	su	su	ADP	_	_	3	case	_	KID=107-0a
@@ -2164,7 +2164,7 @@
 10	fa	fa	ADV	_	_	9	advmod	_	KID=172-9
 11	le	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	dep	_	KID=172-10|PauseAfter=Yes
 12	qualche	qualche	DET	_	Number=Sing|PronType=Ind	13	det	_	KID=172-12
-13	riferimento	riferimento	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	KID=172-13
+13	riferimento	riferimento	NOUN	_	Gender=Masc|Number=Sing	16	dislocated	_	KID=172-13
 14-15	glielo	_	_	_	_	_	_	_	KID=172-14
 14	glie	gli	PRON	_	Person=3|PronType=Prs	16	expl	_	Clitic=Yes|KID=172-14a
 15	lo	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	obj	_	Clitic=Yes|KID=172-14b
