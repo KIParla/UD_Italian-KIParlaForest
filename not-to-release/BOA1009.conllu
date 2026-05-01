@@ -677,9 +677,9 @@
 8	cui	cui	PRON	_	PronType=Rel	13	discourse	_	KID=55-7
 9	comunque	comunque	ADV	_	_	11	advmod	_	KID=55-8
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=55-9
-11	po'	poco	PRON	_	Number=Sing|PronType=Ind	_	_	_	KID=55-10
+11	po'	poco	NOUN	_	Number=Sing|PronType=Ind	3	parataxis	_	KID=55-10
 12	di	di	ADP	_	_	13	case	_	KID=55-11
-13	bibliografia	bibliografia	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	KID=55-12
+13	bibliografia	bibliografia	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	KID=55-12
 14	o	o	CCONJ	_	_	17	cc	_	KID=55-13
 15	anche	anche	ADV	_	_	17	advmod	_	KID=55-14
 16	solo	solo	ADV	_	_	17	advmod	_	KID=55-15
