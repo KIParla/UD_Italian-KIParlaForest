@@ -7478,7 +7478,7 @@
 # speaker_id = TO017
 1	erano	essere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	Begin=1817.65|KID=714-0
 2	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	KID=714-1
-3	unici	unico	NOUN	_	Gender=Masc|Number=Plur	0	nsubj	_	KID=714-2
+3	unici	unico	NOUN	_	Gender=Masc|Number=Plur	0	root	_	KID=714-2
 4	che	che	SCONJ	_	PronType=Rel	6	nsubj	_	KID=714-3
 5	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	KID=714-4
 6	producevano	produrre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	KID=714-5
@@ -9575,7 +9575,7 @@
 1	eh	eh	INTJ	_	_	4	discourse	_	Begin=2305.499|KID=905-0
 2	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	4	nsubj	_	KID=905-1
 3	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=905-2
-4	una	uno	PRON	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	0	obl	_	KID=905-3
+4	una	uno	PRON	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	0	root	_	KID=905-3
 5-6	delle	_	_	_	_	_	_	_	KID=905-4
 5	di	di	ADP	_	_	7	case	_	KID=905-4a
 6	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	KID=905-4b
@@ -11093,7 +11093,7 @@
 # jefferson_text = non avevano l' articolo xxx
 # speaker_id = TO017
 1	non	non	ADV	_	PronType=Neg	2	advmod	_	Begin=2707.474|KID=1049-0
-2	avevano	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	advcl	_	KID=1049-1
+2	avevano	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=1049-1
 3	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	4	det	_	KID=1049-2|Truncated=Yes
 4	articolo	articolo	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	KID=1049-3
 5	x	x	X	_	_	4	nmod	_	KID=1049-4|Unintelligible=Yes
@@ -11468,7 +11468,7 @@
 # speaker_id = TO017
 1	e	e	CCONJ	_	_	3	cc	_	Begin=2803.911|KID=1088-0
 2	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	KID=1088-1|Truncated=Yes
-3	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	conj	_	KID=1088-2
+3	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=1088-2
 4-5	delle	_	_	_	_	_	_	_	KID=1088-3
 4	di	di	ADP	_	_	6	case	_	KID=1088-3a
 5	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	KID=1088-3b
@@ -11909,7 +11909,7 @@
 # text = questo fino al nuovo ordine
 # jefferson_text = questo fino al nuovo ordine.
 # speaker_id = TO017
-1	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	nsubj	_	Begin=2913.14|KID=1133-0
+1	questo	questo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	Begin=2913.14|KID=1133-0
 2	fino	fino	ADV	_	Gender=Masc|Number=Sing	6	case	_	KID=1133-1
 3-4	al	_	_	_	_	_	_	_	KID=1133-2
 3	a	a	ADP	_	_	2	fixed	_	KID=1133-2a
