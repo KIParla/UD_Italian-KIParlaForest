@@ -1257,7 +1257,7 @@
 # jefferson_text = [i:l servi]zio dis~ studenti disabili e:: la: professoressa che adesso è in pensione blu, | più un gruppo di assegnisti av~ avevano inizialmente c' ero anche io nella gruppo di ricerca lavorato, su:l però è un po' diverso insomma sulla::
 # speaker_id = BO026
 1	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Begin=234.616|KID=101-0|OverlappingGroup=55|Prolonged=Yes
-2	servizio	servizio	NOUN	_	Gender=Masc|Number=Sing	20	nsubj	_	KID=101-1|OverlappingGroup=55
+2	servizio	servizio	NOUN	_	Gender=Masc|Number=Sing	31	nsubj	_	KID=101-1|OverlappingGroup=55
 3	dis~	dis~	X	_	_	2	dep	_	Interrupted=Yes|KID=101-2
 4	studenti	studento	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	KID=101-3
 5	disabili	disabile	ADJ	_	Number=Plur	4	amod	_	KID=101-4
@@ -1274,7 +1274,7 @@
 16	gruppo	gruppo	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	KID=104-2
 17	di	di	ADP	_	_	18	case	_	KID=104-3
 18	assegnisti	assegnista	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	KID=104-4
-19	av~	av~	PROPN	_	_	20	dep	_	Interrupted=Yes|KID=104-5
+19	av~	av~	X	_	_	31	dep	_	Interrupted=Yes|KID=104-5
 20	avevano	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	31	aux	_	KID=104-6
 21	inizialmente	inizialmente	ADV	_	_	23	advmod	_	KID=104-7
 22	c'	ci	PRON	_	PronType=Prs	23	expl	_	Clitic=Yes|KID=104-8|Truncated=Yes
@@ -1290,8 +1290,8 @@
 31	lavorato	lavorato	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=250.301|Intonation=WeaklyRising|KID=104-16
 32-33	sul	_	_	_	_	_	_	_	Begin=250.715|KID=105-0|Prolonged=Yes
 32	su	su	ADP	_	_	33	case	_	KID=105-0a
-33	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	dep	_	KID=105-0b
-34	però	però	ADV	_	_	35	advmod	_	KID=105-1
+33	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	reparandum	_	KID=105-0b
+34	però	però	ADV	_	_	38	advmod	_	KID=105-1
 35	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	cop	_	KID=105-2
 36	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	37	det	_	KID=105-3
 37	po'	poco	ADV	_	_	38	advmod	_	KID=105-4
@@ -1752,14 +1752,15 @@
 11	excursus	excursus	NOUN	_	Gender=Masc	7	obj	_	End=347.033|Intonation=WeaklyRising|KID=142-10|OverlappingGroup=71
 
 # sent_id = BOA1009_143
-# text = credo anche di esser mi imbattuta in alcuni articoli che pre~ pre~ presi erroneamente perché avevo visto brokering
+# text = credo anche di essermi imbattuta in alcuni articoli che pre~ pre~ presi erroneamente perché avevo visto brokering
 # jefferson_text = [credo anche di essermi imbattu]ta in alcuni articoli che=pre~=pre~ presi erroneamente perché avevo visto brokering,
 # speaker_id = BO026
 1	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Begin=345.248|KID=143-0|OverlappingGroup=71
 2	anche	anche	ADV	_	_	6	advmod	_	KID=143-1|OverlappingGroup=71
 3	di	di	ADP	_	_	6	case	_	KID=143-2|OverlappingGroup=71
-4	esser	essere	VERB	_	Gender=Fem|Number=Plur	6	aux	_	KID=143-3|OverlappingGroup=71
-5	mi	mi	PRON	_	Gender=Fem|Number=Plur|PronType=Prs	4	expl	_	KID=143-3|OverlappingGroup=71
+4-5	essermi	_	_	_	_	_	_	_	KID=143-3
+4	esser	essere	AUX	_	Gender=Fem|Number=Plur	6	aux	_	KID=143-3a|OverlappingGroup=71
+5	mi	mi	PRON	_	Gender=Fem|Number=Plur|PronType=Prs	6	expl	_	KID=143-3b|OverlappingGroup=71
 6	imbattuta	imbattere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	xcomp	_	KID=143-4|OverlappingGroup=71
 7	in	in	ADP	_	_	9	case	_	KID=143-5
 8	alcuni	alcuno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	9	det	_	KID=143-6
@@ -1832,16 +1833,16 @@
 18	si	si	PRON	_	Person=3|PronType=Prs	19	expl	_	Clitic=Yes|KID=148-1
 19	riporta	riportare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	KID=148-2
 20	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	21	det	_	KID=148-3|Truncated=Yes
-21	esperienza	esperienza	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	KID=148-4
+21	esperienza	esperienza	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	KID=148-4
 22	di	di	ADP	_	_	24	case	_	KID=148-5
 23	questi	questo	DET	_	Gender=Masc|Number=Plur|PronType=Dem	24	det	_	KID=148-6
 24	bambini	bambino	NOUN	_	Gender=Masc|Number=Plur	21	nmod	_	KID=148-7
 25-26	della	_	_	_	_	_	_	_	KID=148-8|Prolonged=Yes
 25	di	di	ADP	_	_	28	dep	_	KID=148-8a
 26	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	dep	_	KID=148-8b
-27	cioè	cioè	ADV	_	_	28	dep	_	KID=148-9
-28	tutto	tutto	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	19	obj	_	KID=148-10
-29	diciamo	dicare	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	31	discourse	_	KID=148-11
+27	cioè	cioè	CCONJ	_	_	28	cc	_	KID=148-9
+28	tutto	tutto	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	21	conj	_	KID=148-10
+29	diciamo	dire	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	31	discourse	_	KID=148-11
 30	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	KID=148-12
 31	particolarità	particolarità	NOUN	_	Gender=Fem	2	parataxis	_	KID=148-13
 32	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	KID=148-14
