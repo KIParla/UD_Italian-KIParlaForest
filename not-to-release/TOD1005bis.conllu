@@ -11380,7 +11380,7 @@
 8	a	a	ADP	_	_	7	fixed	_	KID=1078-6a
 9	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	KID=1078-6b
 10	nausea	nausea	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	KID=1078-7
-11	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj:insert	_	KID=1078-8
+11	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	KID=1078-8|Relation=conj:insert
 
 # sent_id = TOD1005bis_1078b
 # text = la mezzaluna fertile okay
