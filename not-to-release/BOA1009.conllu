@@ -1912,7 +1912,7 @@
 17	di	di	ADP	_	_	19	case	_	KID=152-15a
 18	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	KID=152-15b
 19	segni	segno	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	KID=152-16
-20	di	di	ADP	_	_	21	det	_	KID=152-17|Truncated=Yes
+20	di	di	ADP	_	_	21	case	_	KID=152-17|Truncated=Yes
 21	insegnanti	insegnante	NOUN	_	Number=Plur	11	nmod	_	KID=152-18|Prolonged=Yes
 22	sia	sia	CCONJ	_	_	23	cc	_	KID=152-19
 23	sordi	sordare	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	amod	_	KID=152-20
