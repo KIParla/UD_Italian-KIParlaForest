@@ -690,8 +690,8 @@
 20	interviste	intervista	NOUN	_	Gender=Fem|Number=Plur	17	obj	_	KID=55-18
 21	con	con	ADP	_	_	22	case	_	KID=55-19
 22	persone	persona	NOUN	_	Gender=Fem|Number=Plur	17	obl	_	KID=55-20
-23	sia	sia	CCONJ	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cc	_	KID=55-21|OverlappingGroup=28
-24	sorde	sordo	ADJ	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	amod	_	KID=55-22|OverlappingGroup=28
+23	sia	sia	CCONJ	_	_	24	cc	_	KID=55-21|OverlappingGroup=28
+24	sorde	sordo	ADJ	_	_	22	amod	_	KID=55-22|OverlappingGroup=28
 25	che	che	CCONJ	_	_	26	cc	_	KID=55-23
 26	udenti	udente	ADJ	_	Gender=Masc|Number=Plur	24	conj	_	KID=55-24
 27	e	e	CCONJ	_	_	28	cc	_	KID=55-25
