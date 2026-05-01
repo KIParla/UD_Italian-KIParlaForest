@@ -7150,8 +7150,8 @@
 4	qua	qua	ADV	_	_	5	advmod	_	KID=679-3
 5	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	End=1724.87|Intonation=WeaklyRising|KID=679-4
 6	così	così	ADV	_	_	7	advmod	_	Begin=1725.64|KID=680-0
-7	ricchi	ricco	ADJ	_	_	5	obj	_	KID=680-1
-8	benestanti	benestante	ADJ	_	_	5	obj	_	KID=680-2|Prolonged=Yes
+7	ricchi	ricco	ADJ	_	_	5	xcomp	_	KID=680-1
+8	benestanti	benestante	ADJ	_	_	7	conj	_	KID=680-2|Prolonged=Yes
 9	quando	quando	SCONJ	_	_	12	mark	_	KID=680-3
 10	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	KID=680-4
 11	romani	romano	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	KID=680-5
@@ -7182,7 +7182,7 @@
 9	penisola	penisola	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	KID=682-8
 10	ma	ma	CCONJ	_	_	12	cc	_	KID=682-9
 11	buona	buono	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	KID=682-10
-12	parte	parte	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	KID=682-11
+12	parte	parte	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	KID=682-11
 13	di	di	ADP	_	_	14	case	_	KID=682-12
 14	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	12	nmod	_	KID=682-13
 15	che	che	SCONJ	_	PronType=Rel	16	nsubj	_	End=1736.664|KID=682-14
@@ -10050,7 +10050,7 @@
 6	che	che	SCONJ	_	PronType=Rel	8	nsubj	_	KID=945-4
 7	hanno	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	KID=945-5
 8	chiamato	chiamare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	KID=945-6
-9	safa~	safa~	X	_	_	8	obj	_	Interrupted=Yes|KID=945-7
+9	safa~	safa~	X	_	_	10	reparandum	_	Interrupted=Yes|KID=945-7
 10	safaitico	safaitico	NOUN	_	_	8	obj	_	End=2421.017|Intonation=WeaklyRising|KID=945-8|PaceSlow=Yes
 
 # sent_id = TOD1005bis_946
@@ -11747,7 +11747,7 @@
 11	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	reparandum	_	KID=1113-10
 12	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	reparandum	_	KID=1113-11
 13	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	14	det	_	KID=1113-12|Truncated=Yes
-14	epigrafia	epigrafia	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	KID=1113-13
+14	epigrafia	epigrafia	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	KID=1113-13
 15	safaitica	safaitico	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	Intonation=WeaklyRising|KID=1113-14
 16	ismaica	ismaico	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	End=2865.812|Intonation=WeaklyRising|KID=1113-15
 
@@ -11866,8 +11866,8 @@
 3	oggi	oggi	ADV	_	_	4	advmod	_	KID=1128-2
 4	sono	essere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	KID=1128-3
 5	siria	Siria	PROPN	_	Gender=Fem|Number=Sing	4	obj	_	Intonation=WeaklyRising|KID=1128-4
-6	giordania	Giordania	PROPN	_	Gender=Fem|Number=Sing	4	obj	_	End=2899.07|Intonation=WeaklyRising|KID=1128-5
-7	sinai	Sinai	PROPN	_	_	4	obj	_	Begin=2899.817|KID=1129-0|PaceSlow=Yes
+6	giordania	Giordania	PROPN	_	Gender=Fem|Number=Sing	5	conj	_	End=2899.07|Intonation=WeaklyRising|KID=1128-5
+7	sinai	Sinai	PROPN	_	_	5	conj	_	Begin=2899.817|KID=1129-0|PaceSlow=Yes
 8	egiziano	egiziano	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	Intonation=WeaklyRising|KID=1129-1
 9	e	e	CCONJ	_	_	10	cc	_	KID=1129-2
 10	nord	nord	NOUN	_	_	8	conj	_	End=2902.612|Intonation=WeaklyRising|KID=1129-3
