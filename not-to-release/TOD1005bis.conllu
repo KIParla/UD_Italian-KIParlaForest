@@ -5014,7 +5014,7 @@
 8	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	End=1219.703|Intonation=WeaklyRising|KID=464-7
 
 # sent_id = TOD1005bis_465
-# text = possiamo fare quello che hanno fatto gli gli indoeuropeisti
+# text = possiamo fare quello che hanno fatto gl~ gli indoeuropeisti
 # jefferson_text = (possiamo) fare quello che hanno fatto gl~ gli: indoeuropei:sti
 # speaker_id = TO017
 1	possiamo	potere	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	Begin=1220.806|KID=465-0
@@ -5023,7 +5023,7 @@
 4	che	che	SCONJ	_	PronType=Rel	6	obj	_	KID=465-3
 5	hanno	avere	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	KID=465-4
 6	fatto	fare	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl:relcl	_	KID=465-5
-7	gli	gli	X	_	_	9	det	_	Interrupted=Yes|KID=465-6
+7	gl~	il	DET	_	_	8	reparandum	_	Interrupted=Yes|KID=465-6
 8	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	KID=465-7|Prolonged=Yes
 9	indoeuropeisti	indoeuropeista	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	End=1223.55|KID=465-8|Prolonged=Yes
 
@@ -7254,7 +7254,7 @@
 # jefferson_text = questi che cosa avevano,
 # speaker_id = TO017
 1	questi	questo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	4	nsubj	_	Begin=1750.188|KID=689-0
-2	che	che	ADJ	_	_	3	det	_	KID=689-1
+2	che	che	DET	_	_	3	det	_	KID=689-1
 3	cosa	cosa	PRON	_	PronType=Int	4	obj	_	KID=689-2
 4	avevano	avere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	End=1750.189|Intonation=WeaklyRising|KID=689-3
 
@@ -7269,7 +7269,7 @@
 5	prezzo	prezzo	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	End=1752.492|KID=690-4
 6	a	a	ADP	_	_	7	case	_	Begin=1752.699|End=1753.252|KID=691-0|Prolonged=Yes
 7	a	a	ADP	_	_	8	case	_	Begin=1753.713|KID=692-0
-8	tutti	tutto	ADJ	_	_	9	det	_	KID=692-1
+8	tutti	tutto	DET	_	_	9	det	_	KID=692-1
 9	quanti	quanto	PRON	_	PronType=Tot	2	obl	_	KID=692-2
 10	a	a	ADP	_	_	13	case	_	KID=692-3
 11	tutto	tutto	DET	_	PronType=Ind	13	det:predet	_	KID=692-4
@@ -7509,8 +7509,8 @@
 7	passare	passare	VERB	_	VerbForm=Inf	6	xcomp	_	KID=715-6
 8	così	così	ADV	_	_	9	advmod	_	KID=715-7
 9	prendete	prendere	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	KID=715-8
-10	tutti	tutto	ADJ	_	Gender=Masc|Number=Plur	9	nsubj	_	KID=715-9
-11	quanti	quanti	PRON	_	PronType=Tot	9	det	_	KID=715-10
+10	tutti	tutto	DET	_	Gender=Masc|Number=Plur	11	det	_	KID=715-9
+11	quanti	quanti	PRON	_	PronType=Tot	9	nsubj	_	KID=715-10
 12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	KID=715-11
 13	granino	grano	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	KID=715-12
 14	di	di	ADP	_	_	15	case	_	KID=715-13
@@ -8009,9 +8009,9 @@
 1	quindi	quindi	CCONJ	_	_	3	cc	_	Begin=1932.342|KID=760-0
 2	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	3	expl	_	KID=760-1|Truncated=Yes
 3	erano	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	KID=760-2
-4	questi	questo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	KID=760-3
-5	qua	qua	ADV	_	_	6	det:poss	_	KID=760-4
-6	ricconi	ricco	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	KID=760-5|Prolonged=Yes
+4	questi	questo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	3	nsubj	_	KID=760-3
+5	qua	qua	ADV	_	_	4	advmod	_	KID=760-4
+6	ricconi	riccone	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	KID=760-5|Prolonged=Yes
 7	con	con	ADP	_	_	11	case	_	KID=760-6
 8	tutto	tutto	DET	_	PronType=Ind	11	det:predet	_	KID=760-7
 9	il	il	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=760-8
@@ -8791,7 +8791,7 @@
 7	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=831-6
 8	vabbé	vabbé	INTJ	_	_	7	discourse	_	KID=831-7
 9	t~	t~	X	_	_	7	dep	_	Interrupted=Yes|KID=831-8
-10	tutto	tutto	ADJ	_	_	11	det	_	KID=831-9
+10	tutto	tutto	DET	_	_	11	det	_	KID=831-9
 11	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	7	obj	_	KID=831-10
 12	che	che	SCONJ	_	PronType=Rel	13	nsubj	_	KID=831-11
 13	sta	stare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	KID=831-12
