@@ -728,7 +728,7 @@
 9-10	sulla	_	_	_	_	_	_	_	KID=58-6
 9	su	su	ADP	_	_	11	case	_	KID=58-6a
 10	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	KID=58-6b
-11	mediazione	mediazione	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	KID=58-7
+11	mediazione	mediazione	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	KID=58-7
 12-13	dei	_	_	_	_	_	_	_	KID=58-8
 12	di	di	ADP	_	_	14	case	_	KID=58-8a
 13	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	KID=58-8b
@@ -1849,7 +1849,7 @@
 34	cultura	cultura	NOUN	_	Gender=Fem|Number=Sing	31	obj	_	KID=148-16
 35	sorda	sordo	ADJ	_	Gender=Fem|Number=Sing	34	amod	_	KID=148-17
 36	a	a	ADP	_	_	37	case	_	KID=148-18|OverlappingGroup=75
-37	confronto	confronto	NOUN	_	Gender=Masc|Number=Sing	34	obl	_	KID=148-19|OverlappingGroup=75
+37	confronto	confronto	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	KID=148-19|OverlappingGroup=75
 38	con	con	ADP	_	_	40	case	_	KID=148-20|OverlappingGroup=75
 39	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	KID=148-21|OverlappingGroup=75
 40	cultura	cultura	NOUN	_	Gender=Fem|Number=Sing	37	nmod	_	KID=148-22|OverlappingGroup=75
@@ -1938,7 +1938,7 @@
 7	ricerche	ricerca	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	KID=154-6
 8	anche	anche	ADV	_	_	10	advmod	_	KID=154-7
 9	a	a	ADP	_	_	10	case	_	KID=154-8
-10	roma	Roma	PROPN	_	Gender=Fem|Number=Sing	7	obl	_	KID=154-9
+10	roma	Roma	PROPN	_	Gender=Fem|Number=Sing	5	obl	_	KID=154-9
 11	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	KID=154-10
 12	esperti	esperto	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	KID=154-11
 13-14	della	_	_	_	_	_	_	_	KID=154-12
