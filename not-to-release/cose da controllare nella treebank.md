@@ -15,7 +15,7 @@ pause piene: deprel discourse:filledpause; POS= INTJ
 onomatopee: INTJ non ci sembra adatto, Ludovica suggerisce NOUN
 
 __Repetition, false starts ecc__
-Le ripetizioni e le false partenze (che non includono le parole interrotti, vedi sotto) sono conj:reform
+Le ripetizioni e le false partenze (che non includono le parole interrotte, vedi sotto) sono conj:reform
 Reparandum lo usiamo solamente quando c'è una parola interrotta.
 
 __casi di _sì sì no_ ecc__
